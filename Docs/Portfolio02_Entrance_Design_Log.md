@@ -209,3 +209,26 @@ START
 | Max Walk Speed | | |
 | Walkable Floor Angle | | |
 | Max Step Height | | |
+
+### 7-4. Unreal MCP 환경 (2026-08-24 구축)
+
+- 플러그인: `kks3800/Unreal_MCP` → `Plugins/UnrealMCP/` (별도 git repo, `.gitignore` 처리)
+- 서버: `Plugins/UnrealMCP/Server/.venv` (Python 3.12.10, uv)
+- 설정: `P02Dungeon/.mcp.json`, `DYNAMIC_MODE=1` → 19 core + 3 meta + 452 dynamic
+- 통신: TCP `127.0.0.1:55557`
+- 프로젝트가 C++ 프로젝트로 전환됨 (`Source/`, 엔진 TP_Blank 템플릿 기반, 빈 모듈)
+
+**검증된 기능** — Actor CRUD / Transform / BP 읽기·생성·컴파일 / Material introspection / 뷰포트 카메라 / PIE 시작·정지
+
+**알려진 제약**
+1. `add_component_to_blueprint` — 짧은 이름(`StaticMeshComponent`) 실패. **풀 경로(`/Script/Engine.StaticMeshComponent`) 필수.** UE5.1+에서 `FindObject` 단축명 검색이 없어진 것을 플러그인이 반영 못 함
+2. `take_editor_screenshot` — `viewport has zero size` 로 실패. 숨겨진 뷰포트 클라이언트를 먼저 잡는 구현 문제. **탑뷰 캡처 자동화는 현재 불가 → High Resolution Screenshot 수동 사용**
+3. asset 삭제 명령 없음 — 테스트 에셋은 수동 정리
+4. `mcp` 파이썬 패키지는 `<2` 고정 필요 (repo가 상위 버전 파괴 미반영)
+5. 머티리얼 C++ 코드에 deprecation 경고 다수 — 다음 엔진 버전에서 컴파일 실패 예상
+
+### 7-5. Git 버전 관리
+
+- `16bb86f` 템플릿 순정 상태 (C++ 전환 전)
+- `0229bdd` C++ 전환 + MCP 연동
+- 추적: `Content/` 포함. 제외: `Binaries/`, `Intermediate/`, `Saved/`, `DerivedDataCache/`, `*.sln`, `Plugins/UnrealMCP/`
