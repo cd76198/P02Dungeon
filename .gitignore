@@ -1,0 +1,14 @@
+# UE 생성물
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+
+# MCP 플러그인 (별도 git repo — 클론으로 관리)
+Plugins/UnrealMCP/
