@@ -12,3 +12,6 @@ Saved/
 
 # MCP 플러그인 (별도 git repo — 클론으로 관리)
 Plugins/UnrealMCP/
+
+# MCP 서버 로그
+unreal_mcp.log

@@ -1,0 +1,10 @@
+[mcp_servers."unreal-mcp"]
+command = "C:/Users/user/Desktop/P02Dungeon/Plugins/UnrealMCP/Server/.venv-codex/Scripts/python.exe"
+args = ["C:/Users/user/Desktop/P02Dungeon/Plugins/UnrealMCP/Server/unreal_mcp_server.py"]
+cwd = "C:/Users/user/Desktop/P02Dungeon/Plugins/UnrealMCP/Server"
+enabled = true
+startup_timeout_sec = 30
+tool_timeout_sec = 60
+
+[mcp_servers."unreal-mcp".env]
+DYNAMIC_MODE = "1"
