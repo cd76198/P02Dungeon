@@ -1,0 +1,96 @@
+﻿이름	설명	타입	값	단위	산출방식	비고
+[카메라]						
+Camera_Projection	카메라 투영 방식	string	Perspective	-	확정값	변경 금지 항목
+Camera_Pitch	카메라 상하 각도	float	-50	도	확정값	변경 금지 항목
+Camera_Yaw	카메라 좌우 각도	float	0	도	확정값	화면 오른쪽 = +Y
+Camera_Distance	카메라 거리	float	2000	uu	확정값	스프링암 길이
+Camera_FOV	시야각	float	45	도	확정값	수평 기준
+Camera_View_HalfWidth	초점거리에서 수평 가시 반폭	float	828	uu	Distance x tan(FOV/2)	오브젝트 배치 가시성 판정 기준
+[플레이어]						
+Player_MaxHealth	플레이어 체력	float	100	-	확정값	
+Player_Attack_Damage	플레이어 공격력	float	34	-	확정값	반경 내 다중 타격
+Player_Attack_Range	공격 전방 오프셋	float	140	uu	확정값	
+Player_Attack_Radius	공격 판정 반경	float	170	uu	확정값	
+Player_Attack_Cooldown	공격 쿨다운	float	0.35	초	확정값	
+Player_Dash_Distance	대시 이동 거리	float	450	uu	확정값	다리 간극 700uu 를 못 넘는 근거
+Player_Dash_Speed	대시 속도	float	1600	uu/s	확정값	
+Player_Dash_Cooldown	대시 쿨다운	float	0.8	초	확정값	
+Player_KillZ	낙하 사망 높이	float	-1750	uu	최저 바닥 하단(-1660)보다 아래	높이만으로 판정, XY 판정 없음
+[다리 / 중간보스 문]						
+Bridge_Monster_Speed	다리 몬스터 이동속도	float	410	uu/s	(거리 1860 - 공격사거리 150) / 목표 도착 4초	실측 250 에서 6.62초 나온 값으로 역산해 확정
+Bridge_Door_dist	스폰 지점 → 문 거리	float	1860	uu	스폰박스 서쪽면 X4440 → 문 X6300	2D 직선거리
+Monster_Moving_Sec	몬스터 도착 시간	float	4.17	초	(1860 - 150) / 410	설계 목표는 4초. 실제 계산값 4.17초
+Monster_FirstHit_Sec	스폰→첫 피격 실측	float	2.78	초	PIE 실측	플레이어가 문 앞 정지가 아니라 이동 중이던 값. 참고용
+Interection_Sec	문 상호작용 시간	float	5	초	역산	몬스터 이동속도와 거리를 통해 역산. 도착 4.17초 < 홀드 5초
+Bridge_Monster_respawn	다리 몬스터 리스폰 시간	float	0.1	초	확정값	사망 했을 시에만 리스폰
+Bridge_Monster_Count	동시 등장 몬스터 수	int	1	마리	확정값	1마리씩 연속 리스폰
+Bridge_Monster_HP	다리 몬스터 체력	float	34	-	확정값	플레이어 공격 1회로 처치
+Bridge_Monster_Damage	다리 몬스터 공격력	float	10	-	확정값	
+Bridge_Monster_AttackDelay	몬스터 공격 간격	float	1.5	초	확정값	전 몬스터 공통
+Bridge_Monster_AttackRange	몬스터 공격 사거리	float	150	uu	확정값	
+Bridge_ArmLine_X	추격 발동 X 좌표	float	4760	uu	스폰박스 동쪽면	플레이어가 이 X 를 넘으면 스폰 시작
+Bridge_Des_Attack	다리 파괴시 피격 횟수	int	8	회	확정값	HP 없음. 타격 횟수만 카운트
+Bridge_Break_Side	파괴 가능 방향	string	동쪽만	-	확정값	발밑에서 무너뜨려 고립되는 것 방지
+Bridge_Break_Gap	파괴 후 간극	float	700	uu	약한 구간 X4900~5600	대시 450uu 로 도약 불가
+Bridge_Drop_Distance	파괴 낙하 거리	float	1400	uu	확정값	연출용
+Bridge_Drop_Duration	파괴 낙하 시간	float	0.6	초	확정값	
+Bridge_Restore_Sec	다리 복구 시간	float	0	초	확정값	레버 E 입력 시 즉시 복구
+Door_Interact_Radius	문 상호작용 반경	float	250	uu	확정값	
+Door_Open_Distance	문 하강 거리	float	620	uu	확정값	
+Door_Open_Duration	문 개방 시간	float	1.0	초	확정값	하강 + 페이드 동시
+[중간보스 / 계단]						
+MidBoss_HP	중간보스 체력	float	100	-	실효값 (선언값 34)	SpawnActor 후 MaxHealth 를 대입해 BeginPlay 가 이미 100 을 복사함. 선언 34 는 클램프 상한으로만 작동
+MidBoss_Speed	중간보스 이동속도	float	120	uu/s	확정값	
+MidBoss_Damage	중간보스 공격력	float	0	-	확정값	전투 난이도 배제 목적
+MidBoss_HitsToKill	처치 필요 타격 수	int	2	회	PIE 실측	1타에서 클램프가 100을 34로 내리고 2타에 사망. 의도된 값이 아니라 스폰 순서 문제의 결과
+Stair_Auto_Delay	처치 후 계단 자동 작동 지연	float	2.0	초	확정값	레버 조작 불필요
+Stair_Transition_Sec	계단 변화 시간	float	1.25	초	확정값	차단판 페이드 아웃
+Stair_Rise_Per_Step	계단 한 칸 상승	float	40	uu	확정값	Max Step Height 45 제약
+Stair_Run_Per_Step	계단 한 칸 진행	float	109	uu	확정값	
+Stair_Slope	계단 경사	float	20.2	도	atan(40/109)	전 계단 공통
+StairA_Steps	상부 계단 칸수	int	11	칸	확정값	총 400uu 하강
+StairB_Steps	메인 하강 계단 칸수	int	19	칸	확정값	총 720uu 하강. 180도 꺾임 폐기 후 직선
+StairD_Steps	Candidate2 하강 계단 칸수	int	15	칸	확정값	총 560uu 하강
+[힌트 / 최종보스 퍼즐]						
+Hint_Color_Count	힌트 색 개수	int	3	개	확정값	현재값. 5개 이상 필요 (아래 참조)
+Hint_Answer	정답 순서	string	Blue-Red-Green	-	확정값	
+Puzzle_Input_Steps	입력 단계 수	int	3	단계	확정값	
+Pad_Radius	입력 패드 인식 반경	float	220	uu	확정값	
+Pad_To_Door_dist	입력장치 → 보스문 거리	float	475	uu	패드 X5375 → 문 X5850	
+Wrong_Enemy_Count	오답 시 등장 몬스터 수	int	3	마리	확정값	스폰 지점당 1마리
+Wrong_Enemy_Speed	오답 몬스터 이동속도	float	410	uu/s	확정값	다리 몬스터와 통일
+Wrong_Enemy_HP	오답 몬스터 체력	float	34	-	확정값	
+Wrong_Enemy_Damage	오답 몬스터 공격력	float	10	-	확정값	
+Wrong_Spawn_dist_Min	입력장치 → 최근접 스폰 거리	float	2401	uu	좌표 계산	(3000, 500)
+Wrong_Spawn_dist_Max	입력장치 → 최원거리 스폰 거리	float	2892	uu	좌표 계산	(3000, -1500)
+Wrong_Arrival_Sec_Min	최근접 몬스터 도착 시간	float	5.9	초	2401 / 410	
+Wrong_Arrival_Sec_Max	최원거리 몬스터 도착 시간	float	7.1	초	2892 / 410	
+Wrong_FirstContact_Sec	오답 → 첫 피격	float	3.95	초	PIE 실측	플레이어가 몬스터 쪽으로 이동한 값
+Wrong_Retry_Sec	오답 → 재입력 가능 (오답 기믹 처벌)	float	5.32	초	PIE 실측	오답 1회로 발생하는 순수 처벌. 색 개수 산정은 이 값 기준
+Wrong_Hardlock_Limit	오답 전투 강제 해제 시간	float	60	초	확정값	도달 불가 몬스터로 인한 하드락 방지
+FinalDoor_Open_Duration	최종보스 문 개방 시간	float	1.0	초	확정값	
+[전체 플레이 - PIE 실측]						
+Run_A_Time	A 정답 경로 총 시간	float	44.52	초	PIE 실측	힌트 확인 후 1회 정답
+Run_A_Dist	A 정답 경로 총 이동거리	float	18333	uu	PIE 실측	
+Run_B_Time	B 오답 복구 경로 총 시간	float	57.04	초	PIE 실측	오답 1회 발생
+Run_B_Dist	B 오답 복구 경로 총 이동거리	float	21579	uu	PIE 실측	
+Run_C_Time	C 레버 복구 경로 총 시간	float	64.08	초	PIE 실측	다리 복구 후 힌트 재확인
+Run_C_Dist	C 레버 복구 경로 총 이동거리	float	29894	uu	PIE 실측	
+Run_B_Extra_Time	B 경로 전체 추가 비용	float	12.52	초	B - A	오답 처벌만이 아님. 전투 6.01 + 정보 미인지로 헤맨 이동 5.76 + 재입력 0.47 의 합
+Run_C_Extra_Time	C 경로 전체 추가 비용	float	19.56	초	C - A	레버 왕복 이동 비용. 오답 처벌과 직접 비교하지 말 것
+Run_C_Extra_Dist	레버 복구 추가 이동거리	float	11561	uu	C - A	공간 거리를 실패 비용으로 사용한 사례
+Wrong_Search_Sec	정보 미인지로 헤맨 이동 시간	float	5.76	초	B 이동 15.56 - A 이동 9.80	오답 기믹과 무관. 정보를 모른다는 사실 자체의 비용. A 이동값이 역산이라 불확실
+Lower_Travel_A	A 계단 → 첫 입력 이동	float	9.80	초	A 하층 13.84 - 입력구간 4.04	역산값. 첫 입력 마일스톤 없음
+Lower_Travel_B	B 계단 → 첫 입력 이동	float	15.56	초	PIE 실측	WRONG ANSWER #1 마일스톤 = 첫 패드 입력
+Lower_Section_A	A 하층 구간 시간	float	16.79	초	PIE 실측	계단 하강 → END
+Lower_Section_B	B 하층 구간 시간	float	29.26	초	PIE 실측	
+Lower_Section_C	C 하층 구간 시간	float	37.56	초	PIE 실측	
+[공간 치수]						
+Space_Cand1_Size	최종보스 구역 크기	string	3000 x 2525	uu	좌표 계산	거리를 실패 비용으로 쓰는 공간
+Space_Cand2_Size	힌트 구역 크기	string	1350 x 1330	uu	좌표 계산	
+Space_Corridor_Width	하층 통로 폭	float	690	uu	좌표 계산	두 방 사이 순 간격
+Space_Bridge_Width	다리 폭	float	800	uu	좌표 계산	
+Space_MidBossDoor_Front	중간보스 문 앞 공간	string	700 x 600	uu	좌표 계산	홀드 중 회피 여유가 거의 없는 크기
+Height_Bridge_to_Lower	다리 상판 → 하층 통로 높이차	float	1200	uu	Z 240 → -960	
+Height_Bridge_to_Cand2	다리 상판 → 힌트 구역 높이차	float	1800	uu	Z 240 → -1560	하층에서 색 블럭이 시야에 안 들어오는 근거
+Height_Lower_to_Cand2	하층 통로 → 힌트 구역 높이차	float	600	uu	Z -960 → -1560	
