@@ -18,3 +18,9 @@ unreal_mcp.log
 
 # 로컬 MCP 연결 설정
 .mcp.json
+
+# 공개 저장소에 포함하지 않는 로컬 인증·첨부·폰트
+.env
+.env.*
+.codex-remote-attachments/
+Content/Portfolio02/UI/ONE_Mobile_POP*
