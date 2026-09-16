@@ -139,6 +139,16 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "P02|Enemy")
 	float AttackCooldown = 1.5f;
 
+	/** Box fill colour. sRGB hex fixed by the deck: normal monsters #C97A7A, Mid Boss #A84F4F.
+	 *  Set in the constructor rather than inline so UHT does not have to parse the conversion. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "P02|Enemy")
+	FLinearColor BodyColor;
+
+	/** Repaints the box straight away. A spawn site cannot just assign BodyColor: SpawnActor
+	 *  runs BeginPlay before it returns, so the property would be set after the paint. */
+	UFUNCTION(BlueprintCallable, Category = "P02|Enemy")
+	void SetBodyColor(const FLinearColor& InColor);
+
 private:
 	UPROPERTY(VisibleAnywhere, Category = "P02|Enemy")
 	TObjectPtr<UStaticMeshComponent> EnemyMesh;

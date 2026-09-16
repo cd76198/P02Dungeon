@@ -1,6 +1,8 @@
+﻿#include "P02FieldTelemetry.h"
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "P02PlaytestSystem.h"
+#include "P02FieldTelemetry.h"
 
 #include "Camera/CameraComponent.h"
 #include "Components/BoxComponent.h"
@@ -226,6 +228,8 @@ void AP02PlaytestHUD::DrawHUD()
 			Item.bCentreY = true;
 			Item.EnableShadow(FLinearColor::Black);
 			Canvas->DrawItem(Item);
+            if(Entry.Text.Contains(TEXT("틈새 살펴보기")) && Screen.X>=0 && Screen.X<Canvas->ClipX && Screen.Y>=0 && Screen.Y<Canvas->ClipY)
+                if(auto* Log=GetWorld()->GetSubsystem<UP02FieldTelemetry>()) Log->PromptDrawn();
 		}
 		else if (GEngine && GEngine->GetLargeFont())
 		{
@@ -236,6 +240,8 @@ void AP02PlaytestHUD::DrawHUD()
 			Item.bCentreY = true;
 			Item.EnableShadow(FLinearColor::Black);
 			Canvas->DrawItem(Item);
+            if(Entry.Text.Contains(TEXT("틈새 살펴보기")) && Screen.X>=0 && Screen.X<Canvas->ClipX && Screen.Y>=0 && Screen.Y<Canvas->ClipY)
+                if(auto* Log=GetWorld()->GetSubsystem<UP02FieldTelemetry>()) Log->PromptDrawn();
 		}
 	}
 	Prompts.Reset();
@@ -506,12 +512,37 @@ AP02PlaytestEnemy::AP02PlaytestEnemy()
 	}
 	EnemyMesh->SetRelativeScale3D(FVector(0.8f, 0.8f, 1.6f));
 	SetActorEnableCollision(true);
+	BodyColor = FLinearColor::FromSRGBColor(FColor(0xC9, 0x7A, 0x7A));
 }
 
 void AP02PlaytestEnemy::BeginPlay()
 {
 	Super::BeginPlay();
 	CurrentHealth = FMath::Max(1.0f, MaxHealth);
+	SetBodyColor(BodyColor);
+}
+
+void AP02PlaytestEnemy::SetBodyColor(const FLinearColor& InColor)
+{
+	BodyColor = InColor;
+	if (!EnemyMesh)
+	{
+		return;
+	}
+	// The engine cube ships with the grey basic-shape material, which made the test enemies read
+	// as level geometry. M_PrototypeGrid is what the rest of the graybox uses, so a dynamic
+	// instance of it keeps the grid lines and repaints only the fill.
+	UMaterialInterface* Grid = LoadObject<UMaterialInterface>(
+		nullptr, TEXT("/Game/LevelPrototyping/Materials/M_PrototypeGrid"));
+	if (!Grid)
+	{
+		return;
+	}
+	if (UMaterialInstanceDynamic* Dynamic = EnemyMesh->CreateDynamicMaterialInstance(0, Grid))
+	{
+		Dynamic->SetVectorParameterValue(TEXT("SurfaceColor"), BodyColor);
+		Dynamic->SetVectorParameterValue(TEXT("TopGridColor"), BodyColor);
+	}
 }
 
 void AP02PlaytestEnemy::Tick(float DeltaSeconds)
@@ -1843,6 +1874,7 @@ void UP02PlaytestSubsystem::Tick(float DeltaSeconds)
 		const float KillZ = P02PlaytestCVars::PlayerKillZ.GetValueOnGameThread();
 		if (PlayerPawn->GetActorLocation().Z < KillZ)
 		{
+ if(auto* Log=GetWorld()->GetSubsystem<UP02FieldTelemetry>()) Log->Event(TEXT("fall_below_kill_z"));
 			UE_LOG(LogP02Playtest, Warning, TEXT("Player fell out of the level at Z=%.0f (kill below %.0f)"),
 				PlayerPawn->GetActorLocation().Z, KillZ);
 			ApplyPlayerDamage(P02PlaytestCVars::PlayerMaxHealth.GetValueOnGameThread() * 10.0f);
@@ -1942,9 +1974,18 @@ void UP02PlaytestSubsystem::TryInitializePlayer()
 		SpawnTransientTestCourse();
 	}
 
-	if (GetWorld()->GetMapName().Contains(TEXT("L_Interior_FinalBossCandidates_TEST")))
+	// This used to be gated on GetMapName().Contains("L_Interior_FinalBossCandidates_TEST"),
+	// which silently switched the whole interaction layer off the moment the map was renamed -
+	// no bridge breaker, no door gate, no color lock, no enemies, and no stair device. The flow
+	// already finds every level actor it needs by name, so gate it on one of those instead and
+	// the map can be called anything.
+	for (TActorIterator<AActor> It(GetWorld()); It; ++It)
 	{
-		SpawnFinalBossCandidateTestFlow();
+		if (It->GetName() == TEXT("P02_ColorPad_Red"))
+		{
+			SpawnFinalBossCandidateTestFlow();
+			break;
+		}
 	}
 
 	UE_LOG(LogP02Playtest, Display, TEXT("Player initialized: %s"), *Pawn->GetName());
@@ -1971,6 +2012,7 @@ void UP02PlaytestSubsystem::SpawnFinalBossCandidateTestFlow()
 		Enemy->MaxHealth = 34.0f;
 		Enemy->MoveSpeed = 120.0f;
 		Enemy->AttackDamage = 0.0f;
+		Enemy->SetBodyColor(FLinearColor::FromSRGBColor(FColor(0xA8, 0x4F, 0x4F)));
 	}
 
 	SpawnParams.Name = TEXT("MCP_TEST_BridgeBreaker");
@@ -2022,10 +2064,8 @@ void UP02PlaytestSubsystem::TickDash(float DeltaSeconds)
 		}
 	}
 
-	const bool bDashPressed =
-		PlayerController->WasInputKeyJustPressed(EKeys::SpaceBar) ||
-		PlayerController->WasInputKeyJustPressed(EKeys::LeftShift) ||
-		PlayerController->WasInputKeyJustPressed(EKeys::Gamepad_FaceButton_Right);
+	// External field tests use ordinary movement; dash shortcuts are unbound.
+	const bool bDashPressed = false;
 	if (!bDashPressed || bIsDashing || bRunComplete || Now < NextDashTime)
 	{
 		return;
@@ -2225,6 +2265,7 @@ float UP02PlaytestSubsystem::GetElapsedTime() const
 
 void UP02PlaytestSubsystem::ResetPlayerAfterDefeat()
 {
+ if(auto* Log=GetWorld()->GetSubsystem<UP02FieldTelemetry>()) Log->Event(TEXT("respawn"),TEXT("existing_defeat_reset;cause_not_assumed_fall"));
 	PlayerHealth = P02PlaytestCVars::PlayerMaxHealth.GetValueOnGameThread();
 	if (PlayerPawn.IsValid())
 	{
@@ -2246,8 +2287,7 @@ void UP02PlaytestSubsystem::DrawPlaytestHUD() const
 		return;
 	}
 
-	const float Now = GetWorld()->GetTimeSeconds();
-	const FString DashState = Now >= NextDashTime ? TEXT("READY") : FString::Printf(TEXT("%.1fs"), NextDashTime - Now);
+	const FString DashState = TEXT("DISABLED");
 	FString EncounterState = TEXT("IDLE");
 	if (bEncounterCleared)
 	{
@@ -2260,7 +2300,7 @@ void UP02PlaytestSubsystem::DrawPlaytestHUD() const
 
 	const FString HUDText = FString::Printf(
 		TEXT("P02 PLAYTEST | HP %.0f/%.0f | Time %.1fs | Distance %.0fuu | Cam %.0f/%.0f%s | Dash %s | Encounter %s\n")
-		TEXT("Move: WASD/Stick  Dash: Space/Shift/B  Attack: LMB/A  Jump: Disabled"),
+		TEXT("Move: WASD/Stick  Dash: Disabled  Attack: LMB/A  Jump: Disabled"),
 		PlayerHealth,
 		P02PlaytestCVars::PlayerMaxHealth.GetValueOnGameThread(),
 		GetElapsedTime(),
@@ -2366,3 +2406,4 @@ void UP02PlaytestSubsystem::SpawnTransientTestCourse()
 
 	UE_LOG(LogP02Playtest, Display, TEXT("Transient MCP_TEST course spawned; no map assets were modified"));
 }
+
