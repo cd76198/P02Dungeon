@@ -1,0 +1,57 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+    "action": {
+      "type": "snapshot",
+      "name": "end-after-W",
+      "names": [
+        "P02_EndTrigger"
+      ],
+      "started": 370058.39,
+      "origin": [
+        6200.936871124144,
+        148.27296515205694,
+        -867.849997277417
+      ]
+    },
+    "queued": 4,
+    "seconds": 626.16,
+    "position": [
+      6200.936871124144,
+      148.27296515205694,
+      -867.849997277417
+    ],
+    "velocity": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_ignored": true,
+    "end": true
+  },
+  "actors": [
+    {
+      "name": "P02_EndTrigger",
+      "class": "TriggerBox",
+      "location": [
+        6350.0,
+        150.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          6350.0,
+          150.0,
+          -860.0
+        ],
+        [
+          150.0,
+          500.0,
+          150.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    }
+  ]
+}

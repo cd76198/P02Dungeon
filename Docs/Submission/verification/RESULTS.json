@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-27",
+  "engine": "5.7.4",
+  "method": "PIE continuous CharacterMovement input, native PlayerController key events; no pawn teleport, direct damage, forced solve or forced END. Harness adds only input/status functions outside submission project. Known-path engineering test, not participant playtest or timing benchmark.",
+  "field_entries": [
+    {
+      "route": "right",
+      "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+      "pawn_location_uu": [
+        0.0,
+        -1200.0,
+        252.15000200271606
+      ]
+    },
+    {
+      "route": "left",
+      "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+      "pawn_location_uu": [
+        0.0,
+        -1200.0,
+        252.15000200271606
+      ]
+    }
+  ],
+  "same_dungeon_start": true,
+  "final_door_parts": [
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        150.0,
+        -1330.0
+      ],
+      "bounds": [
+        [
+          5850.0,
+          150.0,
+          -1330.0
+        ],
+        [
+          75.0,
+          550.0,
+          250.0
+        ]
+      ],
+      "collision": false,
+      "hidden": true
+    },
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor_Arch",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        150.0,
+        -1080.0
+      ],
+      "bounds": [
+        [
+          5775.0,
+          150.0,
+          -1080.0
+        ],
+        [
+          75.0,
+          400.0,
+          400.00000000000006
+        ]
+      ],
+      "collision": false,
+      "hidden": true
+    }
+  ],
+  "end_input_tests": {
+    "W": {
+      "end": true,
+      "move_ignored": true,
+      "distance_after_2s_uu": 0.0,
+      "velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "D": {
+      "end": true,
+      "move_ignored": true,
+      "distance_after_2s_uu": 0.0,
+      "velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "add-movement": {
+      "end": true,
+      "move_ignored": true,
+      "distance_after_2s_uu": 0.0,
+      "velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "runtime_evidence_lines": [
+    "[2026.09.27-11.28.58:705][294]LogP02Playtest: Display: Bridge broken after 8 hits, approach cut",
+    "[2026.09.27-11.29.05:335][ 80]LogP02Playtest: Display: Mid Boss door opened after 5.0s hold, 3 chasers spawned",
+    "[2026.09.27-11.29.38:892][ 78]LogP02Playtest: Display: Candidate interaction enabled after Mid Boss death, stairs lower in 2.00s",
+    "[2026.09.27-11.29.40:897][316]LogP02Playtest: Display: Candidate interaction used: lowering stairs",
+    "[2026.09.27-11.29.55:708][ 77]LogP02Playtest: Display: Bridge restored by the Mid Boss lever, damage reset",
+    "[2026.09.27-11.31.35:000][857]LogP02Playtest: Display: Color lock: Blue accepted (1/3)",
+    "[2026.09.27-11.31.37:066][102]LogP02Playtest: Display: Color lock: Red accepted (2/3)",
+    "[2026.09.27-11.31.38:399][260]LogP02Playtest: Display: Color lock: correct, opening Final Boss Door",
+    "[2026.09.27-11.31.39:394][378]LogP02Playtest: Display: Final Boss door (2 parts) faded out over 1.00s and hidden",
+    "[2026.09.27-11.31.44:355][964]LogP02Playtest: Display: Color lock: END reached",
+    "[2026.09.27-11.31.44:355][964]LogP02Playtest: Display: Run complete: time=209.85s distance=26201.8uu"
+  ],
+  "gameplay_source_matches_submission": true,
+  "packaged_build_tested": false,
+  "standalone_startup": "GameDefaultMap loaded with no explicit map URL. NullRHI process stopped during derived-data preparation; full traversal verified separately in PIE.",
+  "limitations": [
+    "Known-path route guidance was adjusted at obstacles; these are not participant discovery or traversal-time results.",
+    "All alternative/wrong-answer/failure routes and visual END HUD review were not tested in this run.",
+    "Packaged executable/cook not performed. MapsToCook explicitly includes both selected maps."
+  ]
+}

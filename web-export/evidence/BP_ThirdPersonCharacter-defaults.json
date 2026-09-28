@@ -1,0 +1,38 @@
+{
+  "properties": {
+    "default_pawn_class": {
+      "unavailable": "Character: Failed to find property 'default_pawn_class' for attribute 'default_pawn_class' on 'BP_ThirdPersonCharacter_C'"
+    },
+    "player_controller_class": {
+      "unavailable": "Character: Failed to find property 'player_controller_class' for attribute 'player_controller_class' on 'BP_ThirdPersonCharacter_C'"
+    },
+    "hud_class": {
+      "unavailable": "Character: Failed to find property 'hud_class' for attribute 'hud_class' on 'BP_ThirdPersonCharacter_C'"
+    },
+    "target_level": {
+      "unavailable": "Character: Failed to find property 'target_level' for attribute 'target_level' on 'BP_ThirdPersonCharacter_C'"
+    },
+    "level_name": {
+      "unavailable": "Character: Failed to find property 'level_name' for attribute 'level_name' on 'BP_ThirdPersonCharacter_C'"
+    }
+  },
+  "movement": {
+    "max_walk_speed": 600.0,
+    "max_step_height": 45.0,
+    "walkable_floor_angle": 44.76508331298828,
+    "walkable_floor_z": 0.7099999785423279,
+    "max_acceleration": 1500.0,
+    "gravity_scale": 1.0,
+    "jump_z_velocity": 500.0,
+    "orient_rotation_to_movement": true,
+    "rotation_rate": {
+      "pitch": 0.0,
+      "yaw": 500.0,
+      "roll": 0.0
+    }
+  },
+  "capsule": {
+    "capsule_half_height": 90.0,
+    "capsule_radius": 35.0
+  }
+}

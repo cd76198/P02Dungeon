@@ -1,0 +1,1646 @@
+{
+  "source": "dungeon-bake-recovered.glb",
+  "nodes": [
+    {
+      "node_index": 0,
+      "name": "Brush_0",
+      "label": "Brush0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.Brush_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 1,
+      "name": "DirectionalLight_0",
+      "label": "MCP_TEST_Interior_DirectionalLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.DirectionalLight_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 2,
+      "name": "SkyLight_0",
+      "label": "MCP_TEST_Interior_SkyLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.SkyLight_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 3,
+      "name": "PlayerStart_0",
+      "label": "MCP_TEST_Interior_PlayerStart",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.PlayerStart_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 4,
+      "name": "StaticMeshActor_0",
+      "label": "MCP_TEST_Interior_EntranceFloor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_0",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 5,
+      "name": "StaticMeshActor_1",
+      "label": "MCP_TEST_Interior_DescentStep_01",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_1",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 6,
+      "name": "StaticMeshActor_2",
+      "label": "MCP_TEST_Interior_DescentStep_02",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_2",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 7,
+      "name": "StaticMeshActor_3",
+      "label": "MCP_TEST_Interior_DescentStep_03",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_3",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 8,
+      "name": "StaticMeshActor_4",
+      "label": "MCP_TEST_Interior_DescentStep_04",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_4",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 9,
+      "name": "StaticMeshActor_5",
+      "label": "MCP_TEST_Interior_MidBossFloor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_5",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 10,
+      "name": "StaticMeshActor_6",
+      "label": "MCP_TEST_Interior_MidBossWall_South",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_6",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 11,
+      "name": "StaticMeshActor_7",
+      "label": "MCP_TEST_Interior_MidBossWall_North_West",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_7",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 12,
+      "name": "StaticMeshActor_8",
+      "label": "MCP_TEST_Interior_MidBossWall_North_East",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_8",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 13,
+      "name": "StaticMeshActor_9",
+      "label": "MCP_TEST_Interior_MidBossWall_East",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_9",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 14,
+      "name": "StaticMeshActor_10",
+      "label": "MCP_TEST_Interior_MidBossExitPillar_L",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_10",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 15,
+      "name": "StaticMeshActor_11",
+      "label": "MCP_TEST_Interior_MidBossExitPillar_R",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_11",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 16,
+      "name": "StaticMeshActor_12",
+      "label": "MCP_TEST_Interior_MidBossExitLintel",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_12",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 17,
+      "name": "StaticMeshActor_13",
+      "label": "MCP_TEST_Interior_TransitionStep_01",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_13",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 18,
+      "name": "StaticMeshActor_14",
+      "label": "MCP_TEST_Interior_TransitionStep_02",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_14",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 19,
+      "name": "StaticMeshActor_15",
+      "label": "MCP_TEST_Interior_TransitionStep_03",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_15",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 20,
+      "name": "StaticMeshActor_16",
+      "label": "MCP_TEST_Interior_TransitionStep_04",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_16",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 21,
+      "name": "StaticMeshActor_17",
+      "label": "MCP_TEST_Interior_TransitionStep_05",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_17",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 22,
+      "name": "StaticMeshActor_18",
+      "label": "MCP_TEST_Interior_TransitionStep_06",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_18",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 23,
+      "name": "StaticMeshActor_19",
+      "label": "MCP_TEST_Interior_TransitionTurn",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_19",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 24,
+      "name": "StaticMeshActor_20",
+      "label": "MCP_TEST_Interior_TransitionHighPath",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_20",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 25,
+      "name": "StaticMeshActor_21",
+      "label": "MCP_TEST_Interior_TransitionLowRail",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_21",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 26,
+      "name": "StaticMeshActor_22",
+      "label": "MCP_TEST_Interior_TransitionOuterWall",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_22",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 27,
+      "name": "StaticMeshActor_23",
+      "label": "MCP_TEST_Interior_FinalCompressionFloor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_23",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 28,
+      "name": "StaticMeshActor_24",
+      "label": "MCP_TEST_Interior_FinalCompressionWall_South",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_24",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 29,
+      "name": "StaticMeshActor_25",
+      "label": "MCP_TEST_Interior_FinalCompressionWall_North",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_25",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 30,
+      "name": "StaticMeshActor_27",
+      "label": "MCP_TEST_Interior_FinalBossWall_South",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_27",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 31,
+      "name": "StaticMeshActor_28",
+      "label": "MCP_TEST_Interior_FinalBossWall_North",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_28",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 32,
+      "name": "StaticMeshActor_29",
+      "label": "MCP_TEST_Interior_FinalBossWall_East",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_29",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 33,
+      "name": "StaticMeshActor_31",
+      "label": "MCP_TEST_Interior_END_Pad",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_31",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 34,
+      "name": "TargetPoint_0",
+      "label": "MCP_TEST_Interior_END",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.TargetPoint_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 35,
+      "name": "MCP_TEST_Interior_TransitionLeftRail_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Interior_TransitionLeftRail_02",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 36,
+      "name": "MCP_TEST_Interior_TransitionLeftRail_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Interior_TransitionLeftRail_03",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 37,
+      "name": "MCP_TEST_Interior_TransitionLeftRail_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Interior_TransitionLeftRail_04",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 38,
+      "name": "MCP_TEST_Interior_TransitionLeftRail_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Interior_TransitionLeftRail_05",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 39,
+      "name": "MCP_TEST_Interior_TransitionLeftRail_06",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Interior_TransitionLeftRail_06",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 40,
+      "name": "StaticMeshActor_32",
+      "label": "MCP_TEST_Interior_TransitionBridgeRail_South_260uu_TEST",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_32",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 41,
+      "name": "MCP_TEST_MidBossFloor_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossFloor_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 42,
+      "name": "MCP_TEST_MidBossFloor_East",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossFloor_East",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 43,
+      "name": "MCP_TEST_MidBossFloor_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossFloor_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 44,
+      "name": "MCP_TEST_MidBossFloor_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossFloor_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 45,
+      "name": "MCP_TEST_TransformStair_Blocker",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Blocker",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 46,
+      "name": "MCP_TEST_TransformStair_Step_01",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_01",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 47,
+      "name": "MCP_TEST_TransformStair_Step_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_02",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 48,
+      "name": "MCP_TEST_TransformStair_Step_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_03",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 49,
+      "name": "MCP_TEST_TransformStair_Step_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_04",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 50,
+      "name": "MCP_TEST_TransformStair_Step_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_05",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 51,
+      "name": "MCP_TEST_TransformStair_Step_06",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_06",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 52,
+      "name": "MCP_TEST_LowerRoute_Junction",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_LowerRoute_Junction",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 53,
+      "name": "MCP_TEST_LowerRoute_Candidate1",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_LowerRoute_Candidate1",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 54,
+      "name": "MCP_TEST_LowerRoute_Candidate2",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_LowerRoute_Candidate2",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 55,
+      "name": "MCP_TEST_Candidate1_Wall_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_Wall_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 56,
+      "name": "MCP_TEST_Candidate1_Floor",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_Floor",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 57,
+      "name": "MCP_TEST_Candidate1_Wall_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_Wall_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 58,
+      "name": "MCP_TEST_Candidate1_Wall_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_Wall_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 59,
+      "name": "MCP_TEST_Candidate1_Wall_EastSouth",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_Wall_EastSouth",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 60,
+      "name": "MCP_TEST_Candidate1_BigDoor",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_BigDoor",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 61,
+      "name": "MCP_TEST_Candidate2_Floor",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate2_Floor",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 62,
+      "name": "MCP_TEST_Candidate2_Wall_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate2_Wall_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 63,
+      "name": "MCP_TEST_Candidate2_Wall_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate2_Wall_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 64,
+      "name": "MCP_TEST_Candidate2_Wall_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate2_Wall_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 65,
+      "name": "MCP_TEST_TransformStair_Step_07",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_07",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 66,
+      "name": "MCP_TEST_TransformStair_Step_08",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_08",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 67,
+      "name": "MCP_TEST_TransformStair_Step_09",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_09",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 68,
+      "name": "MCP_TEST_TransformStair_Step_10",
+      "label": "StaticMeshActor10",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_10",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 69,
+      "name": "MCP_TEST_TransformStair_Step_11",
+      "label": "StaticMeshActor11",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_TransformStair_Step_11",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 70,
+      "name": "MCP_TEST_LowerRoute_WorkLight_TEST",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_LowerRoute_WorkLight_TEST",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 71,
+      "name": "MCP_TEST_Candidate1_WorkLight_TEST",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_WorkLight_TEST",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 72,
+      "name": "StaticMeshActor_26",
+      "label": "MCP_TEST_Interior_MidBossWall_East2",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_26",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 73,
+      "name": "StaticMeshActor_30",
+      "label": "MCP_TEST_Interior_MidBossWall_East3",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.StaticMeshActor_30",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 74,
+      "name": "P02_LowerLight_Cand1_W",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Cand1_W",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 75,
+      "name": "P02_LowerLight_Cand1_E",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Cand1_E",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 76,
+      "name": "P02_LowerLight_Cand2_W",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Cand2_W",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 77,
+      "name": "P02_LowerLight_Cand2_E",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Cand2_E",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 78,
+      "name": "P02_LowerLight_Route_S",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Route_S",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 79,
+      "name": "P02_LowerLight_Route_N",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Route_N",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 80,
+      "name": "P02_LowerLight_Route_Mid",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_Route_Mid",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 81,
+      "name": "P02_LowerLight_StairFoot",
+      "label": "PointLight",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerLight_StairFoot",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 82,
+      "name": "P02_WallFade_LowerRoute",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_WallFade_LowerRoute",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 83,
+      "name": "P02_LowerRail_Main_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_Main_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 84,
+      "name": "P02_LowerRail_Main_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_Main_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 85,
+      "name": "P02_LowerRail_Main_East",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_Main_East",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 86,
+      "name": "P02_LowerRail_SpurS_East",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_SpurS_East",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 87,
+      "name": "P02_LowerRail_SpurN_East",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_SpurN_East",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 88,
+      "name": "P02_LowerRail_SpurS_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_SpurS_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 89,
+      "name": "P02_LowerRail_SpurN_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerRail_SpurN_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 90,
+      "name": "P02_UpperRail_MidBossWest_S",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_UpperRail_MidBossWest_S",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 91,
+      "name": "P02_UpperRail_MidBossWest_N",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_UpperRail_MidBossWest_N",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 92,
+      "name": "P02_Rail_Start_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Start_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 93,
+      "name": "P02_Rail_Start_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Start_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 94,
+      "name": "P02_Rail_Start_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Start_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 95,
+      "name": "P02_Rail_Start_EastS",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Start_EastS",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 96,
+      "name": "P02_Rail_Start_EastN",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Start_EastN",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 97,
+      "name": "P02_Rail_Descent_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Descent_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 98,
+      "name": "P02_Rail_Descent_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Descent_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 99,
+      "name": "P02_Rail_Landing_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Landing_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 100,
+      "name": "P02_Rail_Landing_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Landing_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 101,
+      "name": "P02_Rail_Landing_SouthE",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Landing_SouthE",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 102,
+      "name": "P02_Rail_RiseRight_01",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_RiseRight_01",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 103,
+      "name": "P02_Rail_RiseRight_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_RiseRight_02",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 104,
+      "name": "P02_Rail_RiseRight_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_RiseRight_03",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 105,
+      "name": "P02_Rail_RiseRight_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_RiseRight_04",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 106,
+      "name": "P02_Rail_RiseRight_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_RiseRight_05",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 107,
+      "name": "P02_Shaft_Wall_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Shaft_Wall_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 108,
+      "name": "P02_Shaft_Wall_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Shaft_Wall_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 109,
+      "name": "P02_FadeTarget_MidBoss_S",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_FadeTarget_MidBoss_S",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 110,
+      "name": "P02_FadeTarget_MidBoss_N",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_FadeTarget_MidBoss_N",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 111,
+      "name": "P02_FadeTarget_MidBoss_E",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_FadeTarget_MidBoss_E",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 112,
+      "name": "P02_FadeTarget_Bridge",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_FadeTarget_Bridge",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 113,
+      "name": "P02_StairB_F1_01",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_01",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 114,
+      "name": "P02_StairB_F1_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_02",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 115,
+      "name": "P02_StairB_F1_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_03",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 116,
+      "name": "P02_StairB_F1_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_04",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 117,
+      "name": "P02_StairB_F1_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_05",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 118,
+      "name": "P02_StairB_F1_06",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_06",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 119,
+      "name": "P02_StairB_F1_07",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_07",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 120,
+      "name": "P02_StairB_F1_08",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_08",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 121,
+      "name": "P02_StairB_F1_09",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F1_09",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 122,
+      "name": "P02_StairB_Turn",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_Turn",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 123,
+      "name": "P02_StairB_F2_01",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_01",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 124,
+      "name": "P02_StairB_F2_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_02",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 125,
+      "name": "P02_StairB_F2_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_03",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 126,
+      "name": "P02_StairB_F2_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_04",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 127,
+      "name": "P02_StairB_F2_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_05",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 128,
+      "name": "P02_StairB_F2_06",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_06",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 129,
+      "name": "P02_StairB_F2_07",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_07",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 130,
+      "name": "P02_StairB_F2_08",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_08",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 131,
+      "name": "P02_StairB_F2_09",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairB_F2_09",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 132,
+      "name": "P02_WallFade_StairShaft",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_WallFade_StairShaft",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 133,
+      "name": "P02_FadeTarget_StairB",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_FadeTarget_StairB",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 134,
+      "name": "P02_Candidate1_Wall_WestNorth",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Candidate1_Wall_WestNorth",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 135,
+      "name": "P02_EndPad",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndPad",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 136,
+      "name": "P02_EndPad_Rail_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndPad_Rail_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 137,
+      "name": "P02_EndPad_Rail_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndPad_Rail_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 138,
+      "name": "P02_EndPad_Rail_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndPad_Rail_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 139,
+      "name": "P02_EndTrigger",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndTrigger",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 140,
+      "name": "P02_ColorPad_Red",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_ColorPad_Red",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 141,
+      "name": "P02_ColorPad_Green",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_ColorPad_Green",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 142,
+      "name": "P02_ColorPad_Blue",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_ColorPad_Blue",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 143,
+      "name": "P02_WallFade_Lower",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_WallFade_Lower",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 144,
+      "name": "P02_FadeTarget_All",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_FadeTarget_All",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 145,
+      "name": "P02_ColorHint_1",
+      "label": "StaticMeshActor1",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_ColorHint_1",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 146,
+      "name": "P02_ColorHint_2",
+      "label": "StaticMeshActor2",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_ColorHint_2",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 147,
+      "name": "P02_ColorHint_3",
+      "label": "StaticMeshActor3",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_ColorHint_3",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 148,
+      "name": "P02_Candidate1_Wall_NorthWest",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Candidate1_Wall_NorthWest",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 149,
+      "name": "P02_HintMark_1a",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_HintMark_1a",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 150,
+      "name": "P02_HintMark_2a",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_HintMark_2a",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 151,
+      "name": "P02_HintMark_2b",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_HintMark_2b",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 152,
+      "name": "P02_HintMark_3a",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_HintMark_3a",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 153,
+      "name": "P02_HintMark_3b",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_HintMark_3b",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 154,
+      "name": "P02_HintMark_3c",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_HintMark_3c",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 155,
+      "name": "P02_Rail_Landing_SouthWest",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Rail_Landing_SouthWest",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 156,
+      "name": "P02_MidBossDoor",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_MidBossDoor",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 157,
+      "name": "P02_MidBossEnemySpawn",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_MidBossEnemySpawn",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 158,
+      "name": "P02_BridgeWeakSection_Deck",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_BridgeWeakSection_Deck",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 159,
+      "name": "P02_BridgeWeakSection_RailS",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_BridgeWeakSection_RailS",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 160,
+      "name": "P02_BridgeWeakSection_RailN",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_BridgeWeakSection_RailN",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 161,
+      "name": "P02_WrongAnswerSpawn_NE",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_WrongAnswerSpawn_NE",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 162,
+      "name": "P02_WrongAnswerSpawn_E",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_WrongAnswerSpawn_E",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 163,
+      "name": "P02_WrongAnswerSpawn_SE",
+      "label": "TriggerBox",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_WrongAnswerSpawn_SE",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 164,
+      "name": "P02_LowerCorridor_Floor",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_LowerCorridor_Floor",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 165,
+      "name": "P02_StairD_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_02",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 166,
+      "name": "P02_StairD_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_03",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 167,
+      "name": "P02_StairD_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_04",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 168,
+      "name": "P02_StairD_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_05",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 169,
+      "name": "P02_StairD_06",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_06",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 170,
+      "name": "P02_StairD_07",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_07",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 171,
+      "name": "P02_StairD_08",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_08",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 172,
+      "name": "P02_StairD_09",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_09",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 173,
+      "name": "P02_StairD_10",
+      "label": "StaticMeshActor10",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_10",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 174,
+      "name": "P02_StairD_11",
+      "label": "StaticMeshActor11",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_11",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 175,
+      "name": "P02_StairD_12",
+      "label": "StaticMeshActor12",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_12",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 176,
+      "name": "P02_StairD_13",
+      "label": "StaticMeshActor13",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_13",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 177,
+      "name": "P02_StairD_14",
+      "label": "StaticMeshActor14",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_14",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 178,
+      "name": "P02_StairD_15",
+      "label": "StaticMeshActor15",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_15",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 179,
+      "name": "P02_StairD_Landing",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Landing",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 180,
+      "name": "P02_StairD_Landing_Wall_West",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Landing_Wall_West",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 181,
+      "name": "P02_StairD_Rail_S_01",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_S_01",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 182,
+      "name": "P02_StairD_Rail_N_01",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_01",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 183,
+      "name": "P02_StairD_Rail_N_02",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_02",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 184,
+      "name": "P02_StairD_Rail_N_03",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_03",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 185,
+      "name": "P02_StairD_Rail_N_04",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_04",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 186,
+      "name": "P02_StairD_Rail_N_05",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_05",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 187,
+      "name": "P02_StairD_Rail_N_06",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_06",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 188,
+      "name": "P02_StairD_Rail_N_07",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Rail_N_07",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 189,
+      "name": "P02_StairD_Landing_Rail_N",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_Landing_Rail_N",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 190,
+      "name": "P02_Candidate1_Wall_EastNorth",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_Candidate1_Wall_EastNorth",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 191,
+      "name": "MCP_TEST_Candidate1_BigDoor_Arch",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_Candidate1_BigDoor_Arch",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 192,
+      "name": "P02_BossGate_Jamb_South",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_BossGate_Jamb_South",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 193,
+      "name": "P02_BossGate_Jamb_North",
+      "label": "StaticMeshActor",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_BossGate_Jamb_North",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 194,
+      "name": "P02_StairD_0",
+      "label": "StaticMeshActor16",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_StairD_0",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 195,
+      "name": "DefaultPhysicsVolume_0",
+      "label": "DefaultPhysicsVolume0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.DefaultPhysicsVolume_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 196,
+      "name": "BP_CombatGameMode_C_0",
+      "label": "BP_CombatGameMode0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.BP_CombatGameMode_C_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 197,
+      "name": "AbstractNavData-Default",
+      "label": "AbstractNavData",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.AbstractNavData-Default",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 198,
+      "name": "BP_CombatPlayerController_C_0",
+      "label": "BP_CombatPlayerController0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.BP_CombatPlayerController_C_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 199,
+      "name": "PlayerCameraManager_0",
+      "label": "PlayerCameraManager0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.PlayerCameraManager_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 200,
+      "name": "BP_CombatCharacter_C_0",
+      "label": "BP_CombatCharacter0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.BP_CombatCharacter_C_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 205,
+      "name": "GameplayDebuggerCategoryReplicator_0",
+      "label": "GameplayDebuggerCategoryReplicator0",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.GameplayDebuggerCategoryReplicator_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 206,
+      "name": "MCP_TEST_QuarterViewCameraRig",
+      "label": "P02QuarterViewCameraRig",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_QuarterViewCameraRig",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 209,
+      "name": "MCP_TEST_MidBossEnemy",
+      "label": "P02PlaytestEnemy",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossEnemy",
+      "has_mesh": true,
+      "stateful": true
+    },
+    {
+      "node_index": 210,
+      "name": "MCP_TEST_MidBossInteraction",
+      "label": "P02TransformStairInteraction",
+      "ue_path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossInteraction",
+      "has_mesh": false,
+      "stateful": true
+    }
+  ],
+  "unmatched_mesh_nodes": []
+}

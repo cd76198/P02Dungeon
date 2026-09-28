@@ -1,0 +1,18 @@
+[
+  {
+    "actor": "MCP_TEST_MidBossInteraction",
+    "component": "LeverHandleMesh",
+    "material_index": 168,
+    "source_material": "/Game/Portfolio02/Graybox/MI_Grid_1Second_400uu_TEST",
+    "source_parameters": {
+      "SurfaceColor_linear": [
+        0.18,
+        0.18,
+        0.18,
+        1
+      ],
+      "Roughness": 1
+    },
+    "limitation": "Original grid pattern could not be baked for this component. Solid source color/roughness substitute; not full material equivalence."
+  }
+]

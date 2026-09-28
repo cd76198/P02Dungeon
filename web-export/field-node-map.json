@@ -1,0 +1,2062 @@
+{
+  "source": "field-native.glb",
+  "nodes": [
+    {
+      "node_index": 0,
+      "name": "Brush_0",
+      "label": "Brush0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.Brush_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 1,
+      "name": "StaticMeshActor_250",
+      "label": "신전_정면벽_-1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_250",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 2,
+      "name": "StaticMeshActor_251",
+      "label": "신전_정면벽_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_251",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 3,
+      "name": "StaticMeshActor_252",
+      "label": "유일입구_상인방",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_252",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 4,
+      "name": "StaticMeshActor_253",
+      "label": "신전_오른쪽벽",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_253",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 5,
+      "name": "StaticMeshActor_254",
+      "label": "신전_후면막힌벽",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_254",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 6,
+      "name": "StaticMeshActor_255",
+      "label": "신전_왼벽_앞",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_255",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 7,
+      "name": "StaticMeshActor_256",
+      "label": "신전_왼벽_뒤",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_256",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 8,
+      "name": "StaticMeshActor_257",
+      "label": "관찰틈_막힌하부",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_257",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 9,
+      "name": "StaticMeshActor_258",
+      "label": "관찰틈_상부",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_258",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 10,
+      "name": "StaticMeshActor_265",
+      "label": "신전기둥_21600_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_265",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 11,
+      "name": "StaticMeshActor_266",
+      "label": "주두_21600_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_266",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 12,
+      "name": "StaticMeshActor_267",
+      "label": "신전기둥_21600_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_267",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 13,
+      "name": "StaticMeshActor_268",
+      "label": "주두_21600_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_268",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 14,
+      "name": "StaticMeshActor_269",
+      "label": "신전기둥_22100_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_269",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 15,
+      "name": "StaticMeshActor_270",
+      "label": "주두_22100_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_270",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 16,
+      "name": "StaticMeshActor_271",
+      "label": "신전기둥_22100_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_271",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 17,
+      "name": "StaticMeshActor_272",
+      "label": "주두_22100_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_272",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 18,
+      "name": "StaticMeshActor_275",
+      "label": "신전기둥_22600_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_275",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 19,
+      "name": "StaticMeshActor_276",
+      "label": "주두_22600_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_276",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 20,
+      "name": "StaticMeshActor_277",
+      "label": "신전기둥_23100_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_277",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 21,
+      "name": "StaticMeshActor_278",
+      "label": "주두_23100_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_278",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 22,
+      "name": "StaticMeshActor_279",
+      "label": "신전기둥_23100_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_279",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 23,
+      "name": "StaticMeshActor_280",
+      "label": "주두_23100_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_280",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 24,
+      "name": "StaticMeshActor_281",
+      "label": "신전기둥_23600_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_281",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 25,
+      "name": "StaticMeshActor_282",
+      "label": "주두_23600_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_282",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 26,
+      "name": "StaticMeshActor_283",
+      "label": "신전기둥_23600_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_283",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 27,
+      "name": "StaticMeshActor_284",
+      "label": "주두_23600_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_284",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 28,
+      "name": "StaticMeshActor_285",
+      "label": "신전기둥_24100_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_285",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 29,
+      "name": "StaticMeshActor_286",
+      "label": "주두_24100_-1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_286",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 30,
+      "name": "StaticMeshActor_287",
+      "label": "신전기둥_24100_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_287",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 31,
+      "name": "StaticMeshActor_288",
+      "label": "주두_24100_1250",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_288",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 32,
+      "name": "StaticMeshActor_289",
+      "label": "신전_경사지붕_-650",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_289",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 33,
+      "name": "StaticMeshActor_290",
+      "label": "신전_경사지붕_650",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_290",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 34,
+      "name": "StaticMeshActor_291",
+      "label": "신전_입구안쪽차폐벽",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_291",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 35,
+      "name": "StaticMeshActor_292",
+      "label": "쓰러진기둥_옛길만차단",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_292",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 36,
+      "name": "StaticMeshActor_293",
+      "label": "쓰러진기둥_주두",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_293",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 37,
+      "name": "StaticMeshActor_294",
+      "label": "천막_0_지붕_-125",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_294",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 38,
+      "name": "StaticMeshActor_295",
+      "label": "천막_0_지붕_125",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_295",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 39,
+      "name": "StaticMeshActor_296",
+      "label": "천막_0_기둥_-190",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_296",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 40,
+      "name": "StaticMeshActor_297",
+      "label": "천막_0_기둥_190",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_297",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 41,
+      "name": "StaticMeshActor_298",
+      "label": "천막_1_지붕_-125",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_298",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 42,
+      "name": "StaticMeshActor_299",
+      "label": "천막_1_지붕_125",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_299",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 43,
+      "name": "StaticMeshActor_300",
+      "label": "천막_1_기둥_-190",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_300",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 44,
+      "name": "StaticMeshActor_301",
+      "label": "천막_1_기둥_190",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_301",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 45,
+      "name": "P02OutdoorReviewController_0",
+      "label": "새맵전용_전투범위_기록_던전연결",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.P02OutdoorReviewController_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 46,
+      "name": "PlayerStart_0",
+      "label": "시작지점_START",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.PlayerStart_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 47,
+      "name": "DirectionalLight_0",
+      "label": "검토용_태양",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.DirectionalLight_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 48,
+      "name": "SkyLight_0",
+      "label": "검토용_환경광",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.SkyLight_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 49,
+      "name": "SkyAtmosphere_0",
+      "label": "검토용_대기",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.SkyAtmosphere_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 50,
+      "name": "DirectionalLight_1",
+      "label": "검토용_그림자보조광",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.DirectionalLight_1",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 51,
+      "name": "StaticMeshActor_107",
+      "label": "V05_기존계단보존_15000_-6000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_107",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 52,
+      "name": "StaticMeshActor_108",
+      "label": "V05_기존계단보존_15000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_108",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 53,
+      "name": "StaticMeshActor_109",
+      "label": "V05_기존계단보존_15000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_109",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 54,
+      "name": "StaticMeshActor_110",
+      "label": "V05_기존계단보존_17000_-6000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_110",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 55,
+      "name": "StaticMeshActor_111",
+      "label": "V05_기존계단보존_17000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_111",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 56,
+      "name": "StaticMeshActor_113",
+      "label": "V05_기존계단보존_19000_-6000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_113",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 57,
+      "name": "StaticMeshActor_114",
+      "label": "V05_기존계단보존_19000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_114",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 58,
+      "name": "StaticMeshActor_115",
+      "label": "V05_기존계단보존_19000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_115",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 59,
+      "name": "StaticMeshActor_116",
+      "label": "V05_기존계단보존_19000_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_116",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 60,
+      "name": "StaticMeshActor_118",
+      "label": "V05_기존계단보존_21000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_118",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 61,
+      "name": "StaticMeshActor_119",
+      "label": "V05_기존계단보존_21000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_119",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 62,
+      "name": "StaticMeshActor_120",
+      "label": "V05_기존계단보존_21000_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_120",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 63,
+      "name": "StaticMeshActor_122",
+      "label": "V05_기존계단보존_23000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_122",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 64,
+      "name": "StaticMeshActor_123",
+      "label": "V05_기존계단보존_23000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_123",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 65,
+      "name": "StaticMeshActor_124",
+      "label": "V05_기존계단보존_23000_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_124",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 66,
+      "name": "StaticMeshActor_128",
+      "label": "V05_기존계단보존_25000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_128",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 67,
+      "name": "StaticMeshActor_129",
+      "label": "V05_기존계단보존_25000_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_129",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 68,
+      "name": "StaticMeshActor_133",
+      "label": "V05_왼쪽진입계단_00",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_133",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 69,
+      "name": "StaticMeshActor_134",
+      "label": "V05_왼쪽진입계단_01",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_134",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 70,
+      "name": "StaticMeshActor_135",
+      "label": "V05_왼쪽진입계단_02",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_135",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 71,
+      "name": "StaticMeshActor_136",
+      "label": "V05_왼쪽진입계단_03",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_136",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 72,
+      "name": "StaticMeshActor_137",
+      "label": "V05_왼쪽진입계단_04",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_137",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 73,
+      "name": "StaticMeshActor_138",
+      "label": "V05_왼쪽진입계단_05",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_138",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 74,
+      "name": "StaticMeshActor_139",
+      "label": "V05_왼쪽진입계단_06",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_139",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 75,
+      "name": "StaticMeshActor_140",
+      "label": "V05_왼쪽진입계단_07",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_140",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 76,
+      "name": "StaticMeshActor_141",
+      "label": "V05_왼쪽진입계단_08",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_141",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 77,
+      "name": "StaticMeshActor_142",
+      "label": "V05_왼쪽진입계단_09",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_142",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 78,
+      "name": "StaticMeshActor_143",
+      "label": "V05_왼쪽진입계단_10",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_143",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 79,
+      "name": "StaticMeshActor_144",
+      "label": "V05_왼쪽진입계단_11",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_144",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 80,
+      "name": "StaticMeshActor_145",
+      "label": "V05_붕괴확인_작은폐허마당",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_145",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 81,
+      "name": "StaticMeshActor_146",
+      "label": "V05_신전왼쪽_관찰마당",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_146",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 82,
+      "name": "StaticMeshActor_147",
+      "label": "V05_열린마당_15100_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_147",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 83,
+      "name": "StaticMeshActor_148",
+      "label": "V05_열린마당_15100_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_148",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 84,
+      "name": "StaticMeshActor_151",
+      "label": "V05_열린마당_15500_1200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_151",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 85,
+      "name": "StaticMeshActor_155",
+      "label": "V05_열린마당_16400_1200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_155",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 86,
+      "name": "StaticMeshActor_156",
+      "label": "V05_열린마당_16400_2600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_156",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 87,
+      "name": "StaticMeshActor_157",
+      "label": "V05_열린마당_16400_4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_157",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 88,
+      "name": "StaticMeshActor_161",
+      "label": "V05_열린마당_17800_1200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_161",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 89,
+      "name": "StaticMeshActor_162",
+      "label": "V05_열린마당_17800_2600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_162",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 90,
+      "name": "StaticMeshActor_163",
+      "label": "V05_열린마당_17800_4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_163",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 91,
+      "name": "StaticMeshActor_167",
+      "label": "V05_열린마당_19000_1200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_167",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 92,
+      "name": "StaticMeshActor_168",
+      "label": "V05_열린마당_19000_2600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_168",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 93,
+      "name": "StaticMeshActor_169",
+      "label": "V05_열린마당_19000_4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_169",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 94,
+      "name": "StaticMeshActor_170",
+      "label": "V05_열린마당_20000_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_170",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 95,
+      "name": "StaticMeshActor_171",
+      "label": "V05_열린마당_20000_1200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_171",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 96,
+      "name": "StaticMeshActor_172",
+      "label": "V05_열린마당_20000_2600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_172",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 97,
+      "name": "StaticMeshActor_173",
+      "label": "V05_열린마당_20380_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_173",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 98,
+      "name": "StaticMeshActor_174",
+      "label": "V05_열린마당_20380_1200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_174",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 99,
+      "name": "StaticMeshActor_175",
+      "label": "V05_외곽경계_15000_-4800",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_175",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 100,
+      "name": "StaticMeshActor_176",
+      "label": "V05_외곽경계_15000_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_176",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 101,
+      "name": "StaticMeshActor_177",
+      "label": "V05_외곽경계_15000_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_177",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 102,
+      "name": "StaticMeshActor_178",
+      "label": "V05_외곽경계_15000_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_178",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 103,
+      "name": "StaticMeshActor_179",
+      "label": "V05_외곽경계_15000_1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_179",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 104,
+      "name": "StaticMeshActor_180",
+      "label": "V05_외곽경계_16600_-4800",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_180",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 105,
+      "name": "StaticMeshActor_181",
+      "label": "V05_외곽경계_16600_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_181",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 106,
+      "name": "StaticMeshActor_182",
+      "label": "V05_외곽경계_16600_1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_182",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 107,
+      "name": "StaticMeshActor_183",
+      "label": "V05_외곽경계_16600_3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_183",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 108,
+      "name": "StaticMeshActor_185",
+      "label": "V05_외곽경계_18200_-4800",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_185",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 109,
+      "name": "StaticMeshActor_186",
+      "label": "V05_외곽경계_18200_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_186",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 110,
+      "name": "StaticMeshActor_187",
+      "label": "V05_외곽경계_18200_3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_187",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 111,
+      "name": "StaticMeshActor_190",
+      "label": "V05_외곽경계_19800_-4800",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_190",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 112,
+      "name": "StaticMeshActor_191",
+      "label": "V05_외곽경계_19800_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_191",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 113,
+      "name": "StaticMeshActor_192",
+      "label": "V05_외곽경계_19800_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_192",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 114,
+      "name": "StaticMeshActor_193",
+      "label": "V05_외곽경계_19800_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_193",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 115,
+      "name": "StaticMeshActor_194",
+      "label": "V05_외곽경계_19800_1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_194",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 116,
+      "name": "StaticMeshActor_195",
+      "label": "V05_외곽경계_19800_3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_195",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 117,
+      "name": "StaticMeshActor_197",
+      "label": "V05_외곽경계_21400_-4800",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_197",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 118,
+      "name": "StaticMeshActor_198",
+      "label": "V05_외곽경계_21400_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_198",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 119,
+      "name": "StaticMeshActor_199",
+      "label": "V05_외곽경계_21400_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_199",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 120,
+      "name": "StaticMeshActor_200",
+      "label": "V05_외곽경계_21400_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_200",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 121,
+      "name": "StaticMeshActor_201",
+      "label": "V05_외곽경계_21400_1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_201",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 122,
+      "name": "StaticMeshActor_204",
+      "label": "V05_외곽경계_23000_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_204",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 123,
+      "name": "StaticMeshActor_205",
+      "label": "V05_외곽경계_23000_1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_205",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 124,
+      "name": "StaticMeshActor_209",
+      "label": "V05_외곽경계_24600_-3200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_209",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 125,
+      "name": "StaticMeshActor_210",
+      "label": "V05_외곽경계_24600_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_210",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 126,
+      "name": "StaticMeshActor_211",
+      "label": "V05_외곽경계_24600_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_211",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 127,
+      "name": "StaticMeshActor_212",
+      "label": "V05_외곽경계_24600_1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_212",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 128,
+      "name": "StaticMeshActor_224",
+      "label": "낮은지형덩어리_2",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_224",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 129,
+      "name": "StaticMeshActor_225",
+      "label": "폐허벽잔존_2",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_225",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 130,
+      "name": "StaticMeshActor_226",
+      "label": "끊어진포장_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_226",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 131,
+      "name": "StaticMeshActor_227",
+      "label": "끊어진포장_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_227",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 132,
+      "name": "StaticMeshActor_228",
+      "label": "끊어진포장_2",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_228",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 133,
+      "name": "StaticMeshActor_229",
+      "label": "끊어진포장_3",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_229",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 134,
+      "name": "StaticMeshActor_230",
+      "label": "끊어진포장_4",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_230",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 135,
+      "name": "StaticMeshActor_231",
+      "label": "끊어진포장_5",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_231",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 136,
+      "name": "StaticMeshActor_232",
+      "label": "끊어진포장_6",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_232",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 137,
+      "name": "StaticMeshActor_241",
+      "label": "관찰마당_낮은이동차단난간",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_241",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 138,
+      "name": "StaticMeshActor_0",
+      "label": "관찰틈_안쪽막힘면",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_0",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 139,
+      "name": "StaticMeshActor_1",
+      "label": "관찰유도_바깥쪽쓰러진기둥",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_1",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 140,
+      "name": "P02ObservationPoint_0",
+      "label": "관찰_틈새살펴보기",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.P02ObservationPoint_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 141,
+      "name": "StaticMeshActor_47",
+      "label": "제안_종탑_몸통",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_47",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 142,
+      "name": "StaticMeshActor_48",
+      "label": "제안_종탑_중간처마",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_48",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 143,
+      "name": "StaticMeshActor_49",
+      "label": "제안_종탑_상부기둥_-1_-1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_49",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 144,
+      "name": "StaticMeshActor_50",
+      "label": "제안_종탑_상부기둥_-1_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_50",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 145,
+      "name": "StaticMeshActor_51",
+      "label": "제안_종탑_상부기둥_1_-1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_51",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 146,
+      "name": "StaticMeshActor_52",
+      "label": "제안_종탑_상부기둥_1_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_52",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 147,
+      "name": "StaticMeshActor_53",
+      "label": "제안_종탑_상부인방",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_53",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 148,
+      "name": "StaticMeshActor_54",
+      "label": "제안_종탑_작은지붕_-1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_54",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 149,
+      "name": "StaticMeshActor_55",
+      "label": "제안_종탑_작은지붕_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_55",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 150,
+      "name": "StaticMeshActor_56",
+      "label": "V09_종_몸체",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_56",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 151,
+      "name": "StaticMeshActor_57",
+      "label": "V09_종_입구테두리",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_57",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 152,
+      "name": "StaticMeshActor_58",
+      "label": "V09_종_추",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_58",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 153,
+      "name": "StaticMeshActor_59",
+      "label": "V09_종_매달림",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_59",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 154,
+      "name": "StaticMeshActor_60",
+      "label": "V09_포장추가_7",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_60",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 155,
+      "name": "StaticMeshActor_61",
+      "label": "V09_포장추가_8",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_61",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 156,
+      "name": "StaticMeshActor_62",
+      "label": "관찰틈_파손벽체",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_62",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 157,
+      "name": "StaticMeshActor_63",
+      "label": "관찰유도_쓰러진기둥_주두",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_63",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 158,
+      "name": "StaticMeshActor_64",
+      "label": "V05_왼쪽진입계단_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_64",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 159,
+      "name": "StaticMeshActor_65",
+      "label": "V05_왼쪽진입계단_2",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_65",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 160,
+      "name": "StaticMeshActor_66",
+      "label": "V05_왼쪽진입계단_3",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_66",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 161,
+      "name": "StaticMeshActor_67",
+      "label": "V05_왼쪽진입계단_4",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_67",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 162,
+      "name": "StaticMeshActor_68",
+      "label": "V05_왼쪽진입계단_5",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_68",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 163,
+      "name": "StaticMeshActor_69",
+      "label": "단축순례길_바닥_19000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_69",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 164,
+      "name": "StaticMeshActor_70",
+      "label": "단축순례길_낙차난간_19000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_70",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 165,
+      "name": "StaticMeshActor_71",
+      "label": "단축순례길_바닥_19000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_71",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 166,
+      "name": "StaticMeshActor_72",
+      "label": "단축순례길_낙차난간_19000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_72",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 167,
+      "name": "StaticMeshActor_78",
+      "label": "단축순례길_바닥_20000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_78",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 168,
+      "name": "StaticMeshActor_79",
+      "label": "단축순례길_낙차난간_20000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_79",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 169,
+      "name": "StaticMeshActor_80",
+      "label": "단축순례길_바닥_20000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_80",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 170,
+      "name": "StaticMeshActor_81",
+      "label": "단축순례길_낙차난간_20000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_81",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 171,
+      "name": "StaticMeshActor_82",
+      "label": "단축순례길_바닥_20000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_82",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 172,
+      "name": "StaticMeshActor_83",
+      "label": "단축순례길_낙차난간_20000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_83",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 173,
+      "name": "StaticMeshActor_84",
+      "label": "단축순례길_바닥_20000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_84",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 174,
+      "name": "StaticMeshActor_86",
+      "label": "단축순례길_바닥_20000_-1000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_86",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 175,
+      "name": "StaticMeshActor_88",
+      "label": "단축순례길_바닥_20000_0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_88",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 176,
+      "name": "StaticMeshActor_90",
+      "label": "단축순례길_바닥_21000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_90",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 177,
+      "name": "StaticMeshActor_91",
+      "label": "단축순례길_낙차난간_21000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_91",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 178,
+      "name": "StaticMeshActor_92",
+      "label": "단축순례길_바닥_21000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_92",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 179,
+      "name": "StaticMeshActor_93",
+      "label": "단축순례길_낙차난간_21000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_93",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 180,
+      "name": "StaticMeshActor_94",
+      "label": "단축순례길_바닥_21000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_94",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 181,
+      "name": "StaticMeshActor_95",
+      "label": "단축순례길_낙차난간_21000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_95",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 182,
+      "name": "StaticMeshActor_96",
+      "label": "단축순례길_바닥_21000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_96",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 183,
+      "name": "StaticMeshActor_97",
+      "label": "단축순례길_낙차난간_21000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_97",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 184,
+      "name": "StaticMeshActor_98",
+      "label": "단축순례길_바닥_21000_-1000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_98",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 185,
+      "name": "StaticMeshActor_99",
+      "label": "단축순례길_낙차난간_21000_-1000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_99",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 186,
+      "name": "StaticMeshActor_100",
+      "label": "단축순례길_바닥_22000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_100",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 187,
+      "name": "StaticMeshActor_101",
+      "label": "단축순례길_낙차난간_22000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_101",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 188,
+      "name": "StaticMeshActor_102",
+      "label": "단축순례길_바닥_22000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_102",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 189,
+      "name": "StaticMeshActor_103",
+      "label": "단축순례길_낙차난간_22000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_103",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 190,
+      "name": "StaticMeshActor_104",
+      "label": "단축순례길_바닥_22000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_104",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 191,
+      "name": "StaticMeshActor_105",
+      "label": "단축순례길_낙차난간_22000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_105",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 192,
+      "name": "StaticMeshActor_152",
+      "label": "단축순례길_바닥_23000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_152",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 193,
+      "name": "StaticMeshActor_153",
+      "label": "단축순례길_낙차난간_23000_-5000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_153",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 194,
+      "name": "StaticMeshActor_154",
+      "label": "단축순례길_바닥_23000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_154",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 195,
+      "name": "StaticMeshActor_158",
+      "label": "단축순례길_낙차난간_23000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_158",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 196,
+      "name": "StaticMeshActor_159",
+      "label": "단축순례길_바닥_23000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_159",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 197,
+      "name": "StaticMeshActor_164",
+      "label": "단축순례길_바닥_23000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_164",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 198,
+      "name": "StaticMeshActor_165",
+      "label": "단축순례길_낙차난간_23000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_165",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 199,
+      "name": "StaticMeshActor_221",
+      "label": "단축순례길_바닥_24000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_221",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 200,
+      "name": "StaticMeshActor_222",
+      "label": "단축순례길_낙차난간_24000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_222",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 201,
+      "name": "StaticMeshActor_223",
+      "label": "단축순례길_바닥_24000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_223",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 202,
+      "name": "StaticMeshActor_233",
+      "label": "단축순례길_낙차난간_24000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_233",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 203,
+      "name": "StaticMeshActor_235",
+      "label": "단축순례길_낙차난간_19000_-4000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_235",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 204,
+      "name": "StaticMeshActor_237",
+      "label": "단축순례길_바닥_22000_-2000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_237",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 205,
+      "name": "StaticMeshActor_76",
+      "label": "관찰유도_빈공간확장_기둥접속난간",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_76",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 206,
+      "name": "StaticMeshActor_74",
+      "label": "V098_주변바닥_열린마당_15500_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_74",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 207,
+      "name": "StaticMeshActor_106",
+      "label": "V098_주변바닥_열린마당_15500_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_106",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 208,
+      "name": "StaticMeshActor_112",
+      "label": "V098_주변바닥_열린마당_16400_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_112",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 209,
+      "name": "StaticMeshActor_117",
+      "label": "V098_주변바닥_열린마당_16400_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_117",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 210,
+      "name": "StaticMeshActor_121",
+      "label": "V098_주변바닥_열린마당_17800_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_121",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 211,
+      "name": "StaticMeshActor_125",
+      "label": "V098_주변바닥_열린마당_17800_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_125",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 212,
+      "name": "StaticMeshActor_126",
+      "label": "V098_주변바닥_열린마당_17800_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_126",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 213,
+      "name": "StaticMeshActor_127",
+      "label": "V098_주변바닥_열린마당_19000_-3000",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_127",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 214,
+      "name": "StaticMeshActor_130",
+      "label": "V098_주변바닥_열린마당_19000_-1600",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_130",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 215,
+      "name": "StaticMeshActor_131",
+      "label": "V098_주변바닥_열린마당_19000_-200",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_131",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 216,
+      "name": "StaticMeshActor_189",
+      "label": "V098_분수_원형수조",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_189",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 217,
+      "name": "StaticMeshActor_196",
+      "label": "V098_분수_수조바닥",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_196",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 218,
+      "name": "StaticMeshActor_202",
+      "label": "V098_분수_임시수면",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_202",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 219,
+      "name": "StaticMeshActor_203",
+      "label": "V098_분수_중앙받침",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_203",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 220,
+      "name": "StaticMeshActor_206",
+      "label": "V098_분수_상부접시",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_206",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 221,
+      "name": "StaticMeshActor_207",
+      "label": "V098_입구테두리_-1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_207",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 222,
+      "name": "StaticMeshActor_208",
+      "label": "V098_입구테두리_1",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_208",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 223,
+      "name": "StaticMeshActor_213",
+      "label": "V098_입구테두리_상부",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_213",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 224,
+      "name": "StaticMeshActor_302",
+      "label": "V099_호수_바닥",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_302",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 225,
+      "name": "StaticMeshActor_303",
+      "label": "V099_호수_수면",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_303",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 226,
+      "name": "StaticMeshActor_313",
+      "label": "V099_계단하부받침_12",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_313",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 227,
+      "name": "StaticMeshActor_315",
+      "label": "V099_계단하부받침_13",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_315",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 228,
+      "name": "StaticMeshActor_317",
+      "label": "V099_계단하부받침_14",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_317",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 229,
+      "name": "StaticMeshActor_319",
+      "label": "V099_계단하부받침_15",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_319",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 230,
+      "name": "StaticMeshActor_321",
+      "label": "V099_계단하부받침_16",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_321",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 231,
+      "name": "StaticMeshActor_323",
+      "label": "V099_계단하부받침_17",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_323",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 232,
+      "name": "StaticMeshActor_325",
+      "label": "V099_계단하부받침_18",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_325",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 233,
+      "name": "StaticMeshActor_327",
+      "label": "V099_계단하부받침_19",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_327",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 234,
+      "name": "StaticMeshActor_329",
+      "label": "V099_계단하부받침_20",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_329",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 235,
+      "name": "StaticMeshActor_331",
+      "label": "V099_계단하부받침_21",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_331",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 236,
+      "name": "StaticMeshActor_333",
+      "label": "V099_계단하부받침_22",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_333",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 237,
+      "name": "StaticMeshActor_335",
+      "label": "V099_계단하부받침_23",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_335",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 238,
+      "name": "StaticMeshActor_337",
+      "label": "V099_계단하부받침_24",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_337",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 239,
+      "name": "StaticMeshActor_339",
+      "label": "V099_계단하부받침_25",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_339",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 240,
+      "name": "StaticMeshActor_341",
+      "label": "V099_계단하부받침_26",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_341",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 241,
+      "name": "StaticMeshActor_343",
+      "label": "V099_계단하부받침_27",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_343",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 242,
+      "name": "StaticMeshActor_345",
+      "label": "V099_계단하부받침_28",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_345",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 243,
+      "name": "StaticMeshActor_2",
+      "label": "V0911_분수마당_확장바닥",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_2",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 244,
+      "name": "StaticMeshActor_3",
+      "label": "V0911_합류외곽_연속안전난간",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_3",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 245,
+      "name": "StaticMeshActor_4",
+      "label": "V0911_정면접속_보존난간",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_4",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 246,
+      "name": "StaticMeshActor_5",
+      "label": "V0912_계단호수_통합난간",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_5",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 247,
+      "name": "StaticMeshActor_6",
+      "label": "V0915_난간접합_옛길",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_6",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 248,
+      "name": "StaticMeshActor_7",
+      "label": "V0915_난간접합_호수왼쪽",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.StaticMeshActor_7",
+      "has_mesh": true,
+      "stateful": false
+    },
+    {
+      "node_index": 249,
+      "name": "DefaultPhysicsVolume_0",
+      "label": "DefaultPhysicsVolume0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.DefaultPhysicsVolume_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 250,
+      "name": "BP_CombatGameMode_C_0",
+      "label": "BP_CombatGameMode0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.BP_CombatGameMode_C_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 251,
+      "name": "AbstractNavData-Default",
+      "label": "AbstractNavData",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.AbstractNavData-Default",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 252,
+      "name": "BP_CombatPlayerController_C_0",
+      "label": "BP_CombatPlayerController0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.BP_CombatPlayerController_C_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 253,
+      "name": "PlayerCameraManager_0",
+      "label": "PlayerCameraManager0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.PlayerCameraManager_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 254,
+      "name": "BP_CombatCharacter_C_0",
+      "label": "BP_CombatCharacter0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.BP_CombatCharacter_C_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 259,
+      "name": "GameplayDebuggerCategoryReplicator_0",
+      "label": "GameplayDebuggerCategoryReplicator0",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.GameplayDebuggerCategoryReplicator_0",
+      "has_mesh": false,
+      "stateful": false
+    },
+    {
+      "node_index": 260,
+      "name": "MCP_TEST_QuarterViewCameraRig",
+      "label": "P02QuarterViewCameraRig",
+      "ue_path": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A:PersistentLevel.MCP_TEST_QuarterViewCameraRig",
+      "has_mesh": false,
+      "stateful": false
+    }
+  ],
+  "unmatched_mesh_nodes": []
+}

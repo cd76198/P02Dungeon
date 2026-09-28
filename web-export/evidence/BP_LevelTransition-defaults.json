@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "default_pawn_class": {
+      "unavailable": "Actor: Failed to find property 'default_pawn_class' for attribute 'default_pawn_class' on 'BP_LevelTransition_C'"
+    },
+    "player_controller_class": {
+      "unavailable": "Actor: Failed to find property 'player_controller_class' for attribute 'player_controller_class' on 'BP_LevelTransition_C'"
+    },
+    "hud_class": {
+      "unavailable": "Actor: Failed to find property 'hud_class' for attribute 'hud_class' on 'BP_LevelTransition_C'"
+    },
+    "target_level": {
+      "unavailable": "Actor: Failed to find property 'target_level' for attribute 'target_level' on 'BP_LevelTransition_C'"
+    },
+    "level_name": {
+      "unavailable": "Actor: Failed to find property 'level_name' for attribute 'level_name' on 'BP_LevelTransition_C'"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "map": "던전내부최종.umap",
+    "sha256": "f8da37fd536f29c0384365010118a494f431d8639ab33baa7ed0e0d7c765d1c3",
+    "copy_matches": true
+  },
+  {
+    "map": "던전내부최종_보수_v01.umap",
+    "sha256": "7437303a69c3c9df33419c1fda72defd229f9e7801596724644b505c3f69cb9d",
+    "copy_matches": true
+  },
+  {
+    "map": "던전내부최종_보수_v02.umap",
+    "sha256": "d5bdda9f8be06fc1b690d18c43c4cdc652f44f65ff8bf13b4037a14907dff400",
+    "copy_matches": true
+  }
+]

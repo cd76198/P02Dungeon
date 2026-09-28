@@ -1,0 +1,7 @@
+{
+  "actor": "P02OutdoorReviewController_0",
+  "before": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종",
+  "after": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종_보수_v02",
+  "field": "/Game/Portfolio02/Levels/던전외부필드_v09-17_A",
+  "dungeon": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종_보수_v02"
+}

@@ -1,0 +1,567 @@
+[
+  {
+    "path": "collision-rules.md",
+    "bytes": 2440,
+    "sha256": "12c971dffcccfd5315c97d87ef8d25f91b07d72e6d14ac82dfe324deb023b1a0"
+  },
+  {
+    "path": "coordinates-camera.json",
+    "bytes": 13585,
+    "sha256": "33e6f168c0daaf60bdb8e7f91417629ddd9f356b2a6dd938dec13df0330ef834"
+  },
+  {
+    "path": "dungeon-collision-index.csv",
+    "bytes": 16221,
+    "sha256": "0157bed10c076328bed4817d5b93b5fad2cd3cbdae4dccdfc67a437df7a672a8"
+  },
+  {
+    "path": "dungeon-collision-index.json",
+    "bytes": 113017,
+    "sha256": "2561a6a67ddd22e5180db48dda513d9248e26f8e11bce28aaff0adf2b5812810"
+  },
+  {
+    "path": "dungeon-collision.glb",
+    "bytes": 208684,
+    "sha256": "69eb1cb9e864c343d2b59a0af329b0ecaf7d2394ebbb674bbd6ad008cf01a125"
+  },
+  {
+    "path": "dungeon-node-map.json",
+    "bytes": 70116,
+    "sha256": "25d5ee44496a07422e4b10d3a266861e51f2ee6a0a87f231376334c29e2f2498"
+  },
+  {
+    "path": "dungeon.glb",
+    "bytes": 4152536,
+    "sha256": "36066ff5933ba826d3180513bf7258e9b874bc1112739222b510779da600c717"
+  },
+  {
+    "path": "evidence/bake-diagnose-origin.json",
+    "bytes": 39,
+    "sha256": "f87a77b80e26b78c4519b0ce4b0eff4c333afdc94c38091a160f594af0f7f4a5"
+  },
+  {
+    "path": "evidence/bake-diagnose-original.json",
+    "bytes": 39,
+    "sha256": "f87a77b80e26b78c4519b0ce4b0eff4c333afdc94c38091a160f594af0f7f4a5"
+  },
+  {
+    "path": "evidence/bake-diagnose-periodic.json",
+    "bytes": 39,
+    "sha256": "f87a77b80e26b78c4519b0ce4b0eff4c333afdc94c38091a160f594af0f7f4a5"
+  },
+  {
+    "path": "evidence/bake-diagnose-zero_z.json",
+    "bytes": 39,
+    "sha256": "f87a77b80e26b78c4519b0ce4b0eff4c333afdc94c38091a160f594af0f7f4a5"
+  },
+  {
+    "path": "evidence/bake-recovery.json",
+    "bytes": 35668,
+    "sha256": "c3d948caeaedd433d76fe6f9f8f2658208a7b6c921b161f73a59f41896ba093c"
+  },
+  {
+    "path": "evidence/blueprint-exports.json",
+    "bytes": 505,
+    "sha256": "a9da2d74a9e61004e9ff34af4657201d9f494b6b75389253a30309f912376807"
+  },
+  {
+    "path": "evidence/BP_CombatCharacter-defaults.json",
+    "bytes": 1349,
+    "sha256": "9588af782da5d017dba81f3f9f1d4dc7757b6d3c81f3fc62bcc31bfe6e9a8917"
+  },
+  {
+    "path": "evidence/BP_CombatCharacter.t3d",
+    "bytes": 2868826,
+    "sha256": "9451d64b625f026dd0147a5ef44c10cfef4a90f1441793824ddb0b34b989ff92"
+  },
+  {
+    "path": "evidence/BP_CombatGameMode-defaults.json",
+    "bytes": 608,
+    "sha256": "cc0fc9266ba9d54a94cac6023f8bc2a96e972a6ef0fee3222c82f6454882750e"
+  },
+  {
+    "path": "evidence/BP_CombatGameMode.t3d",
+    "bytes": 19356,
+    "sha256": "b2eb85823785dc79dd6e793dee7dfc7c4d10c96b91bcea1cd1dccbd0ca675ed3"
+  },
+  {
+    "path": "evidence/BP_LevelTransition-defaults.json",
+    "bytes": 843,
+    "sha256": "1411d444a44e56b5645c7d511fe4e6f2379155b2bb2f2b3531b360536f77c755"
+  },
+  {
+    "path": "evidence/BP_LevelTransition.t3d",
+    "bytes": 80396,
+    "sha256": "390494f0e1dcd691203295c5ac2f72d86c76dcf44844b275c441696866d8183f"
+  },
+  {
+    "path": "evidence/BP_ThirdPersonCharacter-defaults.json",
+    "bytes": 1373,
+    "sha256": "e6ffb9c87325917dc3d1d2f83f189a66aa420cb226bff271ff8a2995e93f5e65"
+  },
+  {
+    "path": "evidence/BP_ThirdPersonCharacter.t3d",
+    "bytes": 1219626,
+    "sha256": "58f8b80074241818ec741c648722a6cdccb18d58b8aaa192a921d304f8409dc6"
+  },
+  {
+    "path": "evidence/BP_ThirdPersonGameMode-defaults.json",
+    "bytes": 632,
+    "sha256": "ee103b3fd37d83c6a3f717866f04f767c7975c9cd4e22cdb9cf671559e5ea67c"
+  },
+  {
+    "path": "evidence/BP_ThirdPersonGameMode.t3d",
+    "bytes": 4919,
+    "sha256": "df56a61b8dce60beb1cbc126bbca48739cfd41ab397f2cf68f0d318131928e57"
+  },
+  {
+    "path": "evidence/collision-extraction-errors.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "evidence/dungeon-actors.json",
+    "bytes": 916192,
+    "sha256": "9fa2c82246a8d4a8870b0a16fa7ec176af06aba1a928cb85b7310dc86f65ff16"
+  },
+  {
+    "path": "evidence/dungeon-bake-test.glb-messages.json",
+    "bytes": 61,
+    "sha256": "7ecf4f59ad1f4af1f3ac6b3e61566d123e139aa3f671777584053c112ca87ffe"
+  },
+  {
+    "path": "evidence/dungeon-collision-geometry.json",
+    "bytes": 182848,
+    "sha256": "f4f9bbe19a43ef83f290d173ad95b0831f7a19a31d544538e6b95694080e8982"
+  },
+  {
+    "path": "evidence/dungeon-collision-gltf-validator.json",
+    "bytes": 906,
+    "sha256": "69642a9b243dfa46c1090f9d91fe5b3c1af7f53747c7de48d022eb16ee7a45ad"
+  },
+  {
+    "path": "evidence/dungeon-editor-native.json",
+    "bytes": 929378,
+    "sha256": "d093a5676f47bb901b31767917903eb53e572878ec2b9f3b9c93fca8c515cc28"
+  },
+  {
+    "path": "evidence/dungeon-export-result.json",
+    "bytes": 90,
+    "sha256": "6edc68cac55da9ac92f76c47743f858556f519821ff53b59f7708434683a93a9"
+  },
+  {
+    "path": "evidence/dungeon-gltf-validator.json",
+    "bytes": 108852,
+    "sha256": "a7fa20653a8304b0f650e518fd1d15e8dbf2b865b5c647e42a5bd797d861fd53"
+  },
+  {
+    "path": "evidence/dungeon-level.t3d",
+    "bytes": 627700,
+    "sha256": "e2748b8a1338e0c3c61f88cbafd4766e06b667bb129873b70550301a9624f003"
+  },
+  {
+    "path": "evidence/dungeon-material-validation.json",
+    "bytes": 24042,
+    "sha256": "cc7fbc90eb6dd4f60ba33e4a899e2a8675e9ae5d85cb6f3b26ff9734ca585a66"
+  },
+  {
+    "path": "evidence/dungeon-native-level.t3d",
+    "bytes": 630042,
+    "sha256": "ddcafe66064fdc92bdbab48c7eaab85eec46845f360c8b7b56f9329367d867a9"
+  },
+  {
+    "path": "evidence/dungeon-native.glb-messages.json",
+    "bytes": 347,
+    "sha256": "285155a7d3a0d314866d7c96972a6105192bc23d93fae1e63f792814fbf70d64"
+  },
+  {
+    "path": "evidence/dungeon-runtime-bridge-broken.json",
+    "bytes": 1014207,
+    "sha256": "450cb28d277a96d4d41f475d74c4e9299a397e92462478c6beb9e4d11b6c1367"
+  },
+  {
+    "path": "evidence/dungeon-runtime-bridge-restored.json",
+    "bytes": 1014196,
+    "sha256": "f4d83b4a8c331320c8b8df8c989927265b9f2b935845e280bdb8a0a45ec941f1"
+  },
+  {
+    "path": "evidence/dungeon-runtime-initial.json",
+    "bytes": 1014196,
+    "sha256": "f4d83b4a8c331320c8b8df8c989927265b9f2b935845e280bdb8a0a45ec941f1"
+  },
+  {
+    "path": "evidence/dungeon-runtime-midboss-defeated.json",
+    "bytes": 1003333,
+    "sha256": "4b321ceb565fa7069b4fa4129cc4a2c721233da544a92a9d969e9bc09953ae47"
+  },
+  {
+    "path": "evidence/dungeon-runtime.t3d",
+    "bytes": 748140,
+    "sha256": "40b91a5a4c74cc2763ef85185dea94ca79adf382b4e32e1736b3129cc6d8ff38"
+  },
+  {
+    "path": "evidence/dungeon-source-bake-test.glb-messages.json",
+    "bytes": 61,
+    "sha256": "7ecf4f59ad1f4af1f3ac6b3e61566d123e139aa3f671777584053c112ca87ffe"
+  },
+  {
+    "path": "evidence/extraction-errors.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "evidence/field-actors.json",
+    "bytes": 1148871,
+    "sha256": "a92662f1e05986b78c494d108336ffa400afb40ef5b23e9ac34c11e23ef2f030"
+  },
+  {
+    "path": "evidence/field-collision-geometry.json",
+    "bytes": 2835932,
+    "sha256": "ce56f263cd8f036fcab30bfe6fe7d371ef86d42dfca3c9e21c68452a5d2d371f"
+  },
+  {
+    "path": "evidence/field-collision-gltf-validator.json",
+    "bytes": 909,
+    "sha256": "bc8536547ab8094ffa8971cccda6f622e3a65f846f14d700422f8312ee72d674"
+  },
+  {
+    "path": "evidence/field-editor-native.json",
+    "bytes": 1180702,
+    "sha256": "9aacb63cc6f8726af700eb866b611e8dc9b60b0a8a72e334f020c8eec87e7d1b"
+  },
+  {
+    "path": "evidence/field-export-result.json",
+    "bytes": 90,
+    "sha256": "e69226848ecd4b3027d99fe71f75784cb0ed3c531fd7270a9ffd2d4f3683f9e1"
+  },
+  {
+    "path": "evidence/field-gltf-validator.json",
+    "bytes": 37466,
+    "sha256": "aead8b7114031d93e4325b0a81fea8c1887109a6961214cdb7087f04086c3cd2"
+  },
+  {
+    "path": "evidence/field-level.t3d",
+    "bytes": 819706,
+    "sha256": "e0293840196d5d3905e4e9531260174cbcbd2bf4cfb545869b67febfd8fe924a"
+  },
+  {
+    "path": "evidence/field-material-validation.json",
+    "bytes": 169,
+    "sha256": "e2dbdd36a4c9e1472e8ca8b0c00dbad487a28d6217eb83471dc8ee7d4d0e027a"
+  },
+  {
+    "path": "evidence/field-native-level.t3d",
+    "bytes": 829512,
+    "sha256": "00653e97e90d24b8ae98e7839b1a09c6c67aabc9d76903572afa2da47301e3a4"
+  },
+  {
+    "path": "evidence/field-native.glb-messages.json",
+    "bytes": 180,
+    "sha256": "89aa22f66c95969ba3b3b408ad96999d7085859c3639b48187d2312db36c5e0c"
+  },
+  {
+    "path": "evidence/field-runtime-initial.json",
+    "bytes": 1247165,
+    "sha256": "27498bc932c0c93d51bb44dedb1b7caac82a39e80039341f660c100ffe1c6877"
+  },
+  {
+    "path": "evidence/IMC_Combat.t3d",
+    "bytes": 7185,
+    "sha256": "8d4f7bbf18d54413d362cc847104e25c0bf7114d81750548998063311a4b2b28"
+  },
+  {
+    "path": "evidence/IMC_Default.t3d",
+    "bytes": 6773,
+    "sha256": "6b16818c210ad4bbbebde28fbdca632b7ea6f8e02e6f716179f739c3a1c7e834"
+  },
+  {
+    "path": "evidence/lever-handle-bake.json",
+    "bytes": 3540,
+    "sha256": "8a6638d224ce0ed55971674ed8ef24b56dd1fde0f3c33de69b11e6e460243739"
+  },
+  {
+    "path": "evidence/M_PrototypeGrid.t3d",
+    "bytes": 117800,
+    "sha256": "df9b5b106ff00d4049a8791018061a428bd4021f982fc50466859d2b0cfd9c1e"
+  },
+  {
+    "path": "evidence/material-source-parameters.json",
+    "bytes": 5096,
+    "sha256": "58b103bdd30188207650352382dc76be0a568842e7e56956f35a8fe2c5097e15"
+  },
+  {
+    "path": "evidence/MI_Grid_1Second_400uu_TEST.t3d",
+    "bytes": 3115,
+    "sha256": "c91a244fbf0b20647213b19aca375738c7585981f424131bb5670406bdcd8b51"
+  },
+  {
+    "path": "evidence/MI_Grid_Blue.t3d",
+    "bytes": 2891,
+    "sha256": "faa0dde0a189d42321f0ce98ba131165c0d6151bb36cfb9aab3069fa62c43c49"
+  },
+  {
+    "path": "evidence/MI_Grid_Green.t3d",
+    "bytes": 2907,
+    "sha256": "16d95ed41d06d92fae6675a2ec6a38481a7bd51b9d8db499508c65c7ff5d8b50"
+  },
+  {
+    "path": "evidence/MI_Grid_Red.t3d",
+    "bytes": 2875,
+    "sha256": "7ca89575c81bd8b8c8b74352c9f79fd502232c26570c2f21d858e7294f16fe73"
+  },
+  {
+    "path": "evidence/native-capture-errors.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "evidence/observation-image-export.json",
+    "bytes": 155,
+    "sha256": "197d25307a18e3dc2f4b233acc564f821bd987b3ca3af35bdef806767bc6473c"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_BigDoor_Visibility_Test.md",
+    "bytes": 2443,
+    "sha256": "bb8f0380896e47f85a1a299a868ef3a57b46b259dac047e511c69a3e477d125a"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_Entrance_Design_Log.md",
+    "bytes": 170703,
+    "sha256": "ad8a8197490a83910185a265c1dd8df1251be4535cf03b668bbb6ba54b0c2fa9"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_Field_Design_Log.md",
+    "bytes": 9094,
+    "sha256": "87011dae51a8dafface6dcb34429707c9b6e42092e7b770cd90005a631d22ab8"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_Interior_v01_Report.md",
+    "bytes": 17829,
+    "sha256": "748733bfd04b52ec085da128d8aff0c47409df6bf12e32909bff049ba5662282"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_LevelData.csv",
+    "bytes": 9086,
+    "sha256": "b8ac9068e0cafb1f0a4d0dfb36ad672f3004981cc276357c7574e648009ebffc"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_LevelData.tsv",
+    "bytes": 9080,
+    "sha256": "df29c9beb49afdd32a3a27fe02bfc9d485285940472e3f2a95e03917d7cab04b"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_LevelData.xlsx",
+    "bytes": 15442,
+    "sha256": "db56354a673f5fa6f913da5109610c392b245ddf88718bb93ebb7a2368274433"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_LevelData_v2.xlsx",
+    "bytes": 11704,
+    "sha256": "dfe2bb7cabcfcd7527de1ea0c6cd1bcbb6d68d058e7bb0da6957a3f3cd8f685d"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_UsedMetrics.csv",
+    "bytes": 1195,
+    "sha256": "8cd06b1e3a19e17388400e10869a4e8b9ce63ad832a7b6e5fa4c97e9d69c8d2e"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_UsedMetrics.tsv",
+    "bytes": 1191,
+    "sha256": "9f54ca118cc60c070c2fa32d09a905d79e34831b00932a11977c38e2dec668d7"
+  },
+  {
+    "path": "evidence/project-docs/Portfolio02_UsedMetrics.xlsx",
+    "bytes": 6102,
+    "sha256": "6cf97122b3539c82ee81dc3d85072e845b39e13c1412ea99b46f2defa3298948"
+  },
+  {
+    "path": "evidence/project-docs/source-README.md",
+    "bytes": 3569,
+    "sha256": "473aba2047c9175272f39bb940e7aa9a8a0e2030e113da26529c8b7e49fa494e"
+  },
+  {
+    "path": "evidence/runtime-test-results.json",
+    "bytes": 411,
+    "sha256": "70f8f1e822e6a0e0acccb447f9cc76192e32a83950c4f9d344ee62c1d9dd4edd"
+  },
+  {
+    "path": "evidence/source/P02CharacterOcclusionComponent.cpp",
+    "bytes": 6079,
+    "sha256": "833ffa00ae16e1d6ace1084f02ad77b54ecd9db7dc4817c9f1508c94540c52e6"
+  },
+  {
+    "path": "evidence/source/P02CharacterOcclusionComponent.h",
+    "bytes": 1955,
+    "sha256": "6b904a6d240046c125b8de99636bc716e37d2d889bb1664e0af6b907b909d662"
+  },
+  {
+    "path": "evidence/source/P02Dungeon.cpp",
+    "bytes": 201,
+    "sha256": "adf3ac3eab4300f6a800dc031444b1c804dc55f289add5d6d1a333bb650d8b6e"
+  },
+  {
+    "path": "evidence/source/P02Dungeon.h",
+    "bytes": 98,
+    "sha256": "4694b655856b269fc41b195971214f8e629857c7e5d6f34002a066cd4af3037c"
+  },
+  {
+    "path": "evidence/source/P02FieldTelemetry.cpp",
+    "bytes": 14763,
+    "sha256": "675697391aaaa7b178cedf1f814daa5eb126663b166f18683be5b2d4e0e580e7"
+  },
+  {
+    "path": "evidence/source/P02FieldTelemetry.h",
+    "bytes": 1964,
+    "sha256": "1a59dbc52875cce1e4b602b997a47b079c654127417de223e149f015a0e484df"
+  },
+  {
+    "path": "evidence/source/P02ObservationPoint.cpp",
+    "bytes": 8624,
+    "sha256": "0a19e4907f3d97a855103ecb8b93b582737e3e72128aa56296e8248fab1b3f73"
+  },
+  {
+    "path": "evidence/source/P02ObservationPoint.h",
+    "bytes": 2162,
+    "sha256": "faeb049d3bcc83327159f275d813a576d0c7adc560e8c95cd99068f05d3c27c7"
+  },
+  {
+    "path": "evidence/source/P02OutdoorReviewController.cpp",
+    "bytes": 3705,
+    "sha256": "e4f09f82643fcb734dab4628ee8d29e59f2082d7c8a40fab630fee246ca76059"
+  },
+  {
+    "path": "evidence/source/P02OutdoorReviewController.h",
+    "bytes": 2237,
+    "sha256": "37c955f940e85d36b0a9e2c89c9bc8778e94363646a8d6e52f2d0a6c76348530"
+  },
+  {
+    "path": "evidence/source/P02PlaytestSystem.cpp",
+    "bytes": 81390,
+    "sha256": "f72dfd63a2e09b20f0b07934172bc0f8872962881e1935f155fa8601823c0e4a"
+  },
+  {
+    "path": "evidence/source/P02PlaytestSystem.h",
+    "bytes": 21285,
+    "sha256": "e1a9aca5ddc97a0332eacb06147f85abb3d669c64f4d1cd01fbaf385f23bed1b"
+  },
+  {
+    "path": "evidence/static-mesh-physics.json",
+    "bytes": 384108,
+    "sha256": "0d6a30c9f98d0f4277170e062a72ff529c4d9d60b81bc9950b42bfc81304f76d"
+  },
+  {
+    "path": "field-collision-index.csv",
+    "bytes": 24502,
+    "sha256": "1dd4bb553cfa700b039df98f05e15961d06076485bd2cb6ad1b28536b25064b3"
+  },
+  {
+    "path": "field-collision-index.json",
+    "bytes": 161879,
+    "sha256": "1b51d948468238e84ce05e8377879a170c054463ac5a6d0649e41ff155e2e5ca"
+  },
+  {
+    "path": "field-collision.glb",
+    "bytes": 1637680,
+    "sha256": "854001a14c50d0f6ef8c62cc55adf45ab7eed6d0419f2083d143dd99a51d54b1"
+  },
+  {
+    "path": "field-node-map.json",
+    "bytes": 83071,
+    "sha256": "6ad7b724e6715a9a1b869c706462819619a14a9220be178aaec01bb10953e27f"
+  },
+  {
+    "path": "field-observation.png",
+    "bytes": 710416,
+    "sha256": "405834df6ff93008214fd7b906d175787b49f95c61bcaa6b73d91a61a0a90bf2"
+  },
+  {
+    "path": "field-playtest.md",
+    "bytes": 3140,
+    "sha256": "62fc95dad0fe445b7033c6b39ca076f332dfba0960db2234e3c255822d9d9d36"
+  },
+  {
+    "path": "field.glb",
+    "bytes": 3570448,
+    "sha256": "4b587e5fab16510b9a3dbe6b7f768a097bc6ab92ac6c77955ad9b7b8a17c1f1b"
+  },
+  {
+    "path": "gimmick-rules.md",
+    "bytes": 6374,
+    "sha256": "9c341168036c54018c516b0357e1abc0b4c336b830b71d9f2223be4c551c58b3"
+  },
+  {
+    "path": "interactive-objects.csv",
+    "bytes": 4586,
+    "sha256": "63ef7779e4d00289d50925c9abf14422ca33054521949724cfc0b4e2be5e8feb"
+  },
+  {
+    "path": "interactive-objects.json",
+    "bytes": 248908,
+    "sha256": "aea3dbdd40805c7b922b651409f4bc419c5eb9256ff21781d1c3d21127185f53"
+  },
+  {
+    "path": "material-fallbacks.json",
+    "bytes": 514,
+    "sha256": "b8cd7c48ba8f9c61d2646c5699fa20069d1ba85a1ec8bcb800ae52abf932f776"
+  },
+  {
+    "path": "preview.html",
+    "bytes": 5642,
+    "sha256": "b8b861181140ff0ccade0b3a78cdc193f233ac442cb98ed596a41d2219c7b103"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5843,
+    "sha256": "ec98976bc6363a7d9f33c89cb02f22e9fa3f615b6ff777a277e917cfc570617a"
+  },
+  {
+    "path": "source-hashes.json",
+    "bytes": 216070,
+    "sha256": "5c5fa7d5de05e73c017dcb7faefbd96553d1879df2e8926d7aa3749ee6a0b418"
+  },
+  {
+    "path": "validation.json",
+    "bytes": 2507,
+    "sha256": "4cf5bc741b2568d41c5bdc838ccf46217044b037a51f2138c92d96024396e843"
+  },
+  {
+    "path": "vendor/addons/controls/OrbitControls.js",
+    "bytes": 38703,
+    "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+  },
+  {
+    "path": "vendor/addons/loaders/GLTFLoader.js",
+    "bytes": 114739,
+    "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+  },
+  {
+    "path": "vendor/addons/utils/BufferGeometryUtils.js",
+    "bytes": 35539,
+    "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+  },
+  {
+    "path": "vendor/LICENSE-three.txt",
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  {
+    "path": "vendor/three.core.js",
+    "bytes": 1403455,
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  {
+    "path": "vendor/three.module.js",
+    "bytes": 603113,
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+  },
+  {
+    "path": "video-comparison.md",
+    "bytes": 2203,
+    "sha256": "8394b672cf4f7296b666dca34bfd0eb0439ba886fd8476768f0e46e31917364e"
+  },
+  {
+    "path": "web-integration.md",
+    "bytes": 2584,
+    "sha256": "53d48c8594a17f56ea349190b5186293ce152149700e2f8fe0e029e623a68a9c"
+  }
+]

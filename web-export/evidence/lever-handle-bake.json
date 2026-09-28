@@ -1,0 +1,87 @@
+{
+  "source_component": {
+    "name": "LeverHandleMesh",
+    "path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.MCP_TEST_MidBossInteraction.LeverHandleMesh",
+    "class": "/Script/Engine.StaticMeshComponent",
+    "transform_ue": {
+      "translation": [
+        9150.0,
+        1100.0,
+        414.0000005066395
+      ],
+      "rotation": [
+        0.0,
+        0.2164396139381029,
+        0.0,
+        0.9762960071199335
+      ],
+      "scale": [
+        0.10800000858306902,
+        0.10800000858306902,
+        0.480000026226044
+      ]
+    },
+    "properties": {
+      "visible": false,
+      "hidden_in_game": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "relative_location": [
+        0.0,
+        0.0,
+        85.0
+      ],
+      "relative_rotation": {
+        "pitch": -25.000000000000007,
+        "yaw": 0.0,
+        "roll": 0.0
+      },
+      "relative_scale3d": [
+        0.18000000715255737,
+        0.18000000715255737,
+        1.2000000476837158
+      ]
+    },
+    "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "collision_profile": "NoCollision",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "collision_properties": {
+      "can_character_step_up_on": "<CanBeCharacterBase.ECB_YES: 1>",
+      "generate_overlap_events": true,
+      "walkable_slope_override": {
+        "unavailable": "StaticMeshComponent: Failed to find property 'walkable_slope_override' for attribute 'walkable_slope_override' on 'StaticMeshComponent'"
+      },
+      "body_instance": "<Struct 'BodyInstance' (0x0000016A7D337408) {simulate_physics: False, enable_gravity: True, update_kinematic_from_simulation: False, gyroscopic_torque_enabled: False, auto_weld: True, start_awake: True, generate_wake_events: False, update_mass_when_scale_changes: True, position_solver_iteration_count: 8, velocity_solver_iteration_count: 2, projection_solver_iteration_count: 1, sleep_family: Normal, use_ccd: False, ignore_analytic_collisions: False, notify_rigid_body_collision: False, smooth_edge_collisions: False, inertia_conditioning: True, one_way_interaction: False, override_solver_async_delta_time: False, solver_async_delta_time: 0.016667, max_depenetration_velocity: 0.000000, mass_in_kg_override: 100.000000, linear_damping: 0.010000, angular_damping: 0.000000, com_nudge: {x: 0.000000, y: 0.000000, z: 0.000000}, mass_scale: 1.000000, gravity_group_index: 0, inertia_tensor_scale: {x: 1.000000, y: 1.000000, z: 1.000000}, walkable_slope_override: {walkable_slope_behavior: WalkableSlope_Default, walkable_slope_angle: 0.000000}, phys_material_override: None, max_angular_velocity: 3600.000000, custom_sleep_threshold_multiplier: 1.000000, stabilization_threshold_multiplier: 1.000000}>"
+    },
+    "mesh": "/Engine/BasicShapes/Cube.Cube",
+    "materials": [
+      "/Game/Portfolio02/Graybox/MI_Grid_1Second_400uu_TEST.MI_Grid_1Second_400uu_TEST"
+    ]
+  },
+  "attempts": [
+    {
+      "dz_cm": 0,
+      "magenta": true
+    },
+    {
+      "dz_cm": 400,
+      "magenta": true
+    },
+    {
+      "dz_cm": -400,
+      "magenta": true
+    },
+    {
+      "dz_cm": 800,
+      "magenta": true
+    },
+    {
+      "dz_cm": -800,
+      "magenta": true
+    },
+    {
+      "dz_cm": 1200,
+      "magenta": true
+    }
+  ],
+  "method": "Independent temporary actor with exact component world transform; material only grafted into final GLB"
+}

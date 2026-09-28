@@ -1,0 +1,1865 @@
+{
+  "original->v01": {
+    "before_count": 194,
+    "after_count": 194,
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "v01->v02": {
+    "before_count": 194,
+    "after_count": 194,
+    "added": {},
+    "removed": {},
+    "changed": {
+      "P02_StairD_Landing": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              2905.0,
+              1800.0,
+              -960.0
+            ],
+            [
+              150.0,
+              250.0,
+              50.0
+            ]
+          ],
+          "after": [
+            [
+              2918.5,
+              1800.0,
+              -960.0
+            ],
+            [
+              156.75,
+              250.0,
+              50.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            3.0,
+            5.0,
+            1.0
+          ],
+          "after": [
+            3.135,
+            5.0,
+            1.0
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            2755.0,
+            1550.0,
+            -1010.0
+          ],
+          "after": [
+            2761.75,
+            1550.0,
+            -1010.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            3.0,
+            5.0,
+            1.0
+          ],
+          "after": [
+            3.135,
+            5.0,
+            1.0
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            2755.0,
+            1550.0,
+            -1010.0
+          ],
+          "after": [
+            2761.75,
+            1550.0,
+            -1010.0
+          ]
+        }
+      ],
+      "StaticMeshActor_28": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              7900.0,
+              2650.0,
+              420.0
+            ],
+            [
+              1600.0,
+              50.0,
+              180.0
+            ]
+          ],
+          "after": [
+            [
+              7950.0,
+              2650.0,
+              420.0
+            ],
+            [
+              1650.0,
+              50.0,
+              180.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            7900.0,
+            2650.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            2650.0,
+            420.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            7900.0,
+            2650.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            2650.0,
+            420.0
+          ]
+        }
+      ],
+      "P02_Rail_Start_North": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              0.0,
+              -700.0,
+              335.0
+            ],
+            [
+              400.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              0.0,
+              -700.0,
+              335.0
+            ],
+            [
+              500.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        }
+      ],
+      "P02_StairD_0": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              4660.0,
+              1800.0,
+              -1560.0
+            ],
+            [
+              54.5,
+              250.0,
+              20.0
+            ]
+          ],
+          "after": [
+            [
+              4660.0,
+              1800.0,
+              -1560.0
+            ],
+            [
+              59.999998331069946,
+              250.0,
+              20.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            1.09,
+            5.0,
+            0.4
+          ],
+          "after": [
+            1.199999966621399,
+            5.0,
+            0.4
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            4605.5,
+            1550.0,
+            -1580.0
+          ],
+          "after": [
+            4600.00000166893,
+            1550.0,
+            -1580.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            1.09,
+            5.0,
+            0.4
+          ],
+          "after": [
+            1.199999966621399,
+            5.0,
+            0.4
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            4605.5,
+            1550.0,
+            -1580.0
+          ],
+          "after": [
+            4600.00000166893,
+            1550.0,
+            -1580.0
+          ]
+        }
+      ],
+      "StaticMeshActor_6": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              2050.0,
+              -2250.0,
+              175.0
+            ],
+            [
+              1350.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              2100.0,
+              -2250.0,
+              175.0
+            ],
+            [
+              1400.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            27.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            28.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            2050.0,
+            -2250.0,
+            175.0
+          ],
+          "after": [
+            2100.0,
+            -2250.0,
+            175.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            27.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            28.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            2050.0,
+            -2250.0,
+            175.0
+          ],
+          "after": [
+            2100.0,
+            -2250.0,
+            175.0
+          ]
+        }
+      ],
+      "P02_Rail_Landing_North": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              2600.0,
+              1550.0,
+              370.0
+            ],
+            [
+              400.0,
+              50.0,
+              129.99999523162842
+            ]
+          ],
+          "after": [
+            [
+              2575.0,
+              1550.0,
+              370.0
+            ],
+            [
+              425.0,
+              50.0,
+              129.99999523162842
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            2.5999999046325684
+          ],
+          "after": [
+            8.5,
+            1.0,
+            2.5999999046325684
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            2600.0,
+            1550.0,
+            370.0
+          ],
+          "after": [
+            2575.0,
+            1550.0,
+            370.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            2.5999999046325684
+          ],
+          "after": [
+            8.5,
+            1.0,
+            2.5999999046325684
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            2600.0,
+            1550.0,
+            370.0
+          ],
+          "after": [
+            2575.0,
+            1550.0,
+            370.0
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate1_Wall_South": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              4850.0,
+              -1750.0,
+              -785.0
+            ],
+            [
+              950.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              4300.0,
+              -1750.0,
+              -785.0
+            ],
+            [
+              1500.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            19.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            30.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            4850.0,
+            -1750.0,
+            -785.0
+          ],
+          "after": [
+            4300.0,
+            -1750.0,
+            -785.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            19.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            30.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            4850.0,
+            -1750.0,
+            -785.0
+          ],
+          "after": [
+            4300.0,
+            -1750.0,
+            -785.0
+          ]
+        }
+      ],
+      "P02_Rail_Start_South": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              0.0,
+              -1700.0,
+              335.0
+            ],
+            [
+              400.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              0.0,
+              -1700.0,
+              335.0
+            ],
+            [
+              500.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate2_Floor": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              5120.0,
+              2135.0,
+              -1610.0
+            ],
+            [
+              675.0,
+              664.9998664855957,
+              50.0
+            ]
+          ],
+          "after": [
+            [
+              5122.5,
+              2135.0,
+              -1610.0
+            ],
+            [
+              677.5,
+              664.9998664855957,
+              50.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            13.5,
+            13.299997329711914,
+            1.0
+          ],
+          "after": [
+            13.55,
+            13.299997329711914,
+            1.0
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            5120.0,
+            2135.0,
+            -1610.0
+          ],
+          "after": [
+            5122.5,
+            2135.0,
+            -1610.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            13.5,
+            13.299997329711914,
+            1.0
+          ],
+          "after": [
+            13.55,
+            13.299997329711914,
+            1.0
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            5120.0,
+            2135.0,
+            -1610.0
+          ],
+          "after": [
+            5122.5,
+            2135.0,
+            -1610.0
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate1_Floor": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              4300.0,
+              -460.0,
+              -1010.0
+            ],
+            [
+              1500.0,
+              1262.5,
+              50.0
+            ]
+          ],
+          "after": [
+            [
+              4300.0,
+              -473.75,
+              -1010.0
+            ],
+            [
+              1500.0,
+              1276.25,
+              50.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            30.0,
+            25.25,
+            1.0
+          ],
+          "after": [
+            30.0,
+            25.525,
+            1.0
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            4300.0,
+            -460.0,
+            -1010.0
+          ],
+          "after": [
+            4300.0,
+            -473.75,
+            -1010.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            30.0,
+            25.25,
+            1.0
+          ],
+          "after": [
+            30.0,
+            25.525,
+            1.0
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            4300.0,
+            -460.0,
+            -1010.0
+          ],
+          "after": [
+            4300.0,
+            -473.75,
+            -1010.0
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate2_Wall_North": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              5120.0,
+              2750.0,
+              -1385.0
+            ],
+            [
+              675.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              5122.5,
+              2750.0,
+              -1385.0
+            ],
+            [
+              677.5,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            13.5,
+            1.0,
+            3.5
+          ],
+          "after": [
+            13.55,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            5120.0,
+            2750.0,
+            -1385.0
+          ],
+          "after": [
+            5122.5,
+            2750.0,
+            -1385.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            13.5,
+            1.0,
+            3.5
+          ],
+          "after": [
+            13.55,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            5120.0,
+            2750.0,
+            -1385.0
+          ],
+          "after": [
+            5122.5,
+            2750.0,
+            -1385.0
+          ]
+        }
+      ],
+      "StaticMeshActor_27": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              7900.0,
+              -450.0,
+              420.0
+            ],
+            [
+              1600.0,
+              50.0,
+              180.0
+            ]
+          ],
+          "after": [
+            [
+              7950.0,
+              -450.0,
+              420.0
+            ],
+            [
+              1650.0,
+              50.0,
+              180.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            7900.0,
+            -450.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            -450.0,
+            420.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            7900.0,
+            -450.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            -450.0,
+            420.0
+          ]
+        }
+      ]
+    }
+  },
+  "original->v02": {
+    "before_count": 194,
+    "after_count": 194,
+    "added": {},
+    "removed": {},
+    "changed": {
+      "P02_StairD_Landing": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              2905.0,
+              1800.0,
+              -960.0
+            ],
+            [
+              150.0,
+              250.0,
+              50.0
+            ]
+          ],
+          "after": [
+            [
+              2918.5,
+              1800.0,
+              -960.0
+            ],
+            [
+              156.75,
+              250.0,
+              50.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            3.0,
+            5.0,
+            1.0
+          ],
+          "after": [
+            3.135,
+            5.0,
+            1.0
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            2755.0,
+            1550.0,
+            -1010.0
+          ],
+          "after": [
+            2761.75,
+            1550.0,
+            -1010.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            3.0,
+            5.0,
+            1.0
+          ],
+          "after": [
+            3.135,
+            5.0,
+            1.0
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            2755.0,
+            1550.0,
+            -1010.0
+          ],
+          "after": [
+            2761.75,
+            1550.0,
+            -1010.0
+          ]
+        }
+      ],
+      "StaticMeshActor_28": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              7900.0,
+              2650.0,
+              420.0
+            ],
+            [
+              1600.0,
+              50.0,
+              180.0
+            ]
+          ],
+          "after": [
+            [
+              7950.0,
+              2650.0,
+              420.0
+            ],
+            [
+              1650.0,
+              50.0,
+              180.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            7900.0,
+            2650.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            2650.0,
+            420.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            7900.0,
+            2650.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            2650.0,
+            420.0
+          ]
+        }
+      ],
+      "P02_Rail_Start_North": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              0.0,
+              -700.0,
+              335.0
+            ],
+            [
+              400.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              0.0,
+              -700.0,
+              335.0
+            ],
+            [
+              500.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        }
+      ],
+      "P02_StairD_0": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              4660.0,
+              1800.0,
+              -1560.0
+            ],
+            [
+              54.5,
+              250.0,
+              20.0
+            ]
+          ],
+          "after": [
+            [
+              4660.0,
+              1800.0,
+              -1560.0
+            ],
+            [
+              59.999998331069946,
+              250.0,
+              20.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            1.09,
+            5.0,
+            0.4
+          ],
+          "after": [
+            1.199999966621399,
+            5.0,
+            0.4
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            4605.5,
+            1550.0,
+            -1580.0
+          ],
+          "after": [
+            4600.00000166893,
+            1550.0,
+            -1580.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            1.09,
+            5.0,
+            0.4
+          ],
+          "after": [
+            1.199999966621399,
+            5.0,
+            0.4
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            4605.5,
+            1550.0,
+            -1580.0
+          ],
+          "after": [
+            4600.00000166893,
+            1550.0,
+            -1580.0
+          ]
+        }
+      ],
+      "StaticMeshActor_6": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              2050.0,
+              -2250.0,
+              175.0
+            ],
+            [
+              1350.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              2100.0,
+              -2250.0,
+              175.0
+            ],
+            [
+              1400.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            27.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            28.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            2050.0,
+            -2250.0,
+            175.0
+          ],
+          "after": [
+            2100.0,
+            -2250.0,
+            175.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            27.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            28.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            2050.0,
+            -2250.0,
+            175.0
+          ],
+          "after": [
+            2100.0,
+            -2250.0,
+            175.0
+          ]
+        }
+      ],
+      "P02_Rail_Landing_North": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              2600.0,
+              1550.0,
+              370.0
+            ],
+            [
+              400.0,
+              50.0,
+              129.99999523162842
+            ]
+          ],
+          "after": [
+            [
+              2575.0,
+              1550.0,
+              370.0
+            ],
+            [
+              425.0,
+              50.0,
+              129.99999523162842
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            2.5999999046325684
+          ],
+          "after": [
+            8.5,
+            1.0,
+            2.5999999046325684
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            2600.0,
+            1550.0,
+            370.0
+          ],
+          "after": [
+            2575.0,
+            1550.0,
+            370.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            2.5999999046325684
+          ],
+          "after": [
+            8.5,
+            1.0,
+            2.5999999046325684
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            2600.0,
+            1550.0,
+            370.0
+          ],
+          "after": [
+            2575.0,
+            1550.0,
+            370.0
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate1_Wall_South": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              4850.0,
+              -1750.0,
+              -785.0
+            ],
+            [
+              950.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              4300.0,
+              -1750.0,
+              -785.0
+            ],
+            [
+              1500.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            19.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            30.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            4850.0,
+            -1750.0,
+            -785.0
+          ],
+          "after": [
+            4300.0,
+            -1750.0,
+            -785.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            19.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            30.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            4850.0,
+            -1750.0,
+            -785.0
+          ],
+          "after": [
+            4300.0,
+            -1750.0,
+            -785.0
+          ]
+        }
+      ],
+      "P02_Rail_Start_South": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              0.0,
+              -1700.0,
+              335.0
+            ],
+            [
+              400.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              0.0,
+              -1700.0,
+              335.0
+            ],
+            [
+              500.0,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            8.0,
+            1.0,
+            3.5
+          ],
+          "after": [
+            10.0,
+            1.0,
+            3.5
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate2_Floor": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              5120.0,
+              2135.0,
+              -1610.0
+            ],
+            [
+              675.0,
+              664.9998664855957,
+              50.0
+            ]
+          ],
+          "after": [
+            [
+              5122.5,
+              2135.0,
+              -1610.0
+            ],
+            [
+              677.5,
+              664.9998664855957,
+              50.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            13.5,
+            13.299997329711914,
+            1.0
+          ],
+          "after": [
+            13.55,
+            13.299997329711914,
+            1.0
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            5120.0,
+            2135.0,
+            -1610.0
+          ],
+          "after": [
+            5122.5,
+            2135.0,
+            -1610.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            13.5,
+            13.299997329711914,
+            1.0
+          ],
+          "after": [
+            13.55,
+            13.299997329711914,
+            1.0
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            5120.0,
+            2135.0,
+            -1610.0
+          ],
+          "after": [
+            5122.5,
+            2135.0,
+            -1610.0
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate1_Floor": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              4300.0,
+              -460.0,
+              -1010.0
+            ],
+            [
+              1500.0,
+              1262.5,
+              50.0
+            ]
+          ],
+          "after": [
+            [
+              4300.0,
+              -473.75,
+              -1010.0
+            ],
+            [
+              1500.0,
+              1276.25,
+              50.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            30.0,
+            25.25,
+            1.0
+          ],
+          "after": [
+            30.0,
+            25.525,
+            1.0
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            4300.0,
+            -460.0,
+            -1010.0
+          ],
+          "after": [
+            4300.0,
+            -473.75,
+            -1010.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            30.0,
+            25.25,
+            1.0
+          ],
+          "after": [
+            30.0,
+            25.525,
+            1.0
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            4300.0,
+            -460.0,
+            -1010.0
+          ],
+          "after": [
+            4300.0,
+            -473.75,
+            -1010.0
+          ]
+        }
+      ],
+      "MCP_TEST_Candidate2_Wall_North": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              5120.0,
+              2750.0,
+              -1385.0
+            ],
+            [
+              675.0,
+              50.0,
+              175.0
+            ]
+          ],
+          "after": [
+            [
+              5122.5,
+              2750.0,
+              -1385.0
+            ],
+            [
+              677.5,
+              50.0,
+              175.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            13.5,
+            1.0,
+            3.5
+          ],
+          "after": [
+            13.55,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            5120.0,
+            2750.0,
+            -1385.0
+          ],
+          "after": [
+            5122.5,
+            2750.0,
+            -1385.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            13.5,
+            1.0,
+            3.5
+          ],
+          "after": [
+            13.55,
+            1.0,
+            3.5
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            5120.0,
+            2750.0,
+            -1385.0
+          ],
+          "after": [
+            5122.5,
+            2750.0,
+            -1385.0
+          ]
+        }
+      ],
+      "StaticMeshActor_27": [
+        {
+          "property": ".bounds",
+          "before": [
+            [
+              7900.0,
+              -450.0,
+              420.0
+            ],
+            [
+              1600.0,
+              50.0,
+              180.0
+            ]
+          ],
+          "after": [
+            [
+              7950.0,
+              -450.0,
+              420.0
+            ],
+            [
+              1650.0,
+              50.0,
+              180.0
+            ]
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".components.StaticMeshComponent0.transform.translation",
+          "before": [
+            7900.0,
+            -450.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            -450.0,
+            420.0
+          ]
+        },
+        {
+          "property": ".transform.scale",
+          "before": [
+            32.0,
+            1.0,
+            3.6
+          ],
+          "after": [
+            33.0,
+            1.0,
+            3.6
+          ]
+        },
+        {
+          "property": ".transform.translation",
+          "before": [
+            7900.0,
+            -450.0,
+            420.0
+          ],
+          "after": [
+            7950.0,
+            -450.0,
+            420.0
+          ]
+        }
+      ]
+    }
+  }
+}

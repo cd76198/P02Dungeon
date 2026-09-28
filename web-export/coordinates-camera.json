@@ -1,0 +1,408 @@
+{
+  "conversion": {
+    "position": "UE [X,Y,Z] cm -> glTF [X,Z,Y] m",
+    "quaternion_xyzw": "[-x,-z,-y,w]",
+    "scene_origins": "Each level origin preserved. No recentering. Independent OpenLevel worlds; physical inter-level offset is NOT defined.",
+    "physical_connection_transform": null
+  },
+  "maps": {
+    "field": {
+      "level": "/Game/Portfolio02/Levels/던전외부필드_v09-17_A",
+      "player_start_actor": {
+        "name": "PlayerStart_0",
+        "label": "시작지점_START",
+        "ue_cm": [
+          15500.0,
+          100.0,
+          1670.0
+        ],
+        "gltf_m": [
+          155.0,
+          16.7,
+          1.0
+        ],
+        "rotation_ue_degrees": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        }
+      },
+      "pawn_settled_snapshot": {
+        "name": "BP_CombatCharacter_C_0",
+        "label": "BP_CombatCharacter0",
+        "ue_cm": [
+          15500.0,
+          100.0,
+          1653.373062133789
+        ],
+        "gltf_m": [
+          155.0,
+          16.53373062133789,
+          1.0
+        ],
+        "rotation_ue_degrees": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        }
+      },
+      "movement": {
+        "max_walk_speed": 400.0,
+        "max_step_height": 45.0,
+        "walkable_floor_angle": 44.76508331298828,
+        "walkable_floor_z": 0.7100000381469727,
+        "jump_z_velocity": 0.0,
+        "orient_rotation_to_movement": true,
+        "rotation_rate": {
+          "pitch": 0.0,
+          "yaw": 720.0,
+          "roll": 0.0
+        }
+      },
+      "capsule_ue_cm": {
+        "capsule_half_height": 90.0,
+        "capsule_radius": 35.0
+      },
+      "active_camera": {
+        "name": "MCP_TEST_QuarterViewCameraRig",
+        "ue_transform": {
+          "translation": [
+            14214.424780626923,
+            100.0,
+            3185.4619483717465
+          ],
+          "rotation": [
+            0.0,
+            0.4226182617406998,
+            0.0,
+            0.9063077870366498
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "gltf_position_m": [
+          142.14424780626925,
+          31.854619483717467,
+          1.0
+        ],
+        "ue_rotation_degrees": {
+          "pitch": -50.00000000000005,
+          "yaw": 0.0,
+          "roll": -0.0
+        },
+        "horizontal_fov_degrees": 45.0,
+        "aspect": 1.7777780294418335,
+        "projection": "perspective",
+        "arm_length_ue_cm": 2000,
+        "follow_offset_ue_cm": [
+          -1285.5752193730768,
+          0.0,
+          1532.0888862379575
+        ],
+        "follow_offset_gltf_m": [
+          -12.855752193730769,
+          15.320888862379576,
+          0.0
+        ],
+        "vertical_fov_degrees_at_16_9": 26.231287550545375,
+        "position_is": "Snapshot while standing; camera follows pawn with fixed rotation."
+      }
+    },
+    "dungeon": {
+      "level": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종_보수_v02",
+      "player_start_actor": {
+        "name": "PlayerStart_0",
+        "label": "MCP_TEST_Interior_PlayerStart",
+        "ue_cm": [
+          0.0,
+          -1200.0,
+          260.0
+        ],
+        "gltf_m": [
+          0.0,
+          2.6,
+          -12.0
+        ],
+        "rotation_ue_degrees": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        }
+      },
+      "pawn_settled_snapshot": {
+        "name": "BP_CombatCharacter_C_0",
+        "label": "BP_CombatCharacter0",
+        "ue_cm": [
+          0.0,
+          -1200.0,
+          252.15000200271606
+        ],
+        "gltf_m": [
+          0.0,
+          2.521500020027161,
+          -12.0
+        ],
+        "rotation_ue_degrees": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        }
+      },
+      "movement": {
+        "max_walk_speed": 400.0,
+        "max_step_height": 45.0,
+        "walkable_floor_angle": 44.76508331298828,
+        "walkable_floor_z": 0.7100000381469727,
+        "jump_z_velocity": 0.0,
+        "orient_rotation_to_movement": true,
+        "rotation_rate": {
+          "pitch": 0.0,
+          "yaw": 720.0,
+          "roll": 0.0
+        }
+      },
+      "capsule_ue_cm": {
+        "capsule_half_height": 90.0,
+        "capsule_radius": 35.0
+      },
+      "active_camera": {
+        "name": "MCP_TEST_QuarterViewCameraRig",
+        "ue_transform": {
+          "translation": [
+            -1285.5752193730773,
+            -1200.0,
+            1784.2388882406733
+          ],
+          "rotation": [
+            0.0,
+            0.4226182617406998,
+            0.0,
+            0.9063077870366498
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "gltf_position_m": [
+          -12.855752193730773,
+          17.842388882406734,
+          -12.0
+        ],
+        "ue_rotation_degrees": {
+          "pitch": -50.00000000000005,
+          "yaw": 0.0,
+          "roll": -0.0
+        },
+        "horizontal_fov_degrees": 45.0,
+        "aspect": 1.7777780294418335,
+        "projection": "perspective",
+        "arm_length_ue_cm": 2000,
+        "follow_offset_ue_cm": [
+          -1285.5752193730773,
+          0.0,
+          1532.0888862379572
+        ],
+        "follow_offset_gltf_m": [
+          -12.855752193730773,
+          15.320888862379572,
+          0.0
+        ],
+        "vertical_fov_degrees_at_16_9": 26.231287550545375,
+        "position_is": "Snapshot while standing; camera follows pawn with fixed rotation."
+      }
+    }
+  },
+  "transition": {
+    "controller": "P02OutdoorReviewController_0",
+    "entrance_ue_cm": [
+      21500.0,
+      0.0,
+      3840.0
+    ],
+    "entrance_gltf_m": [
+      215.0,
+      38.4,
+      0.0
+    ],
+    "condition": "Started >= 0 AND 40 < (PawnX-EntranceX) < 360 AND abs(PawnY-EntranceY) <= EntranceHalfWidth AND abs(PawnZ-EntranceZ-96) < 160",
+    "bounds_ue_cm": {
+      "x_open": [
+        21540,
+        21860
+      ],
+      "y_closed": [
+        -480,
+        480
+      ],
+      "z_open": [
+        3776,
+        4096
+      ]
+    },
+    "started_condition": "A sampled frame-to-frame movement > 1 cm",
+    "actual_source_destination": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종",
+    "exported_dungeon_is_latest_repaired_version": true,
+    "destination_mismatch": "Source OpenLevel targets the original dungeon, not exported repaired v02. Website must choose explicitly; source project was not changed."
+  },
+  "finish": {
+    "name": "P02_EndTrigger",
+    "label": "TriggerBox",
+    "ue_cm": [
+      6350.0,
+      150.0,
+      -860.0
+    ],
+    "gltf_m": [
+      63.5,
+      -8.6,
+      1.5
+    ],
+    "rotation_ue_degrees": {
+      "pitch": 0.0,
+      "yaw": 0.0,
+      "roll": 0.0
+    },
+    "components": [
+      {
+        "name": "CollisionComp",
+        "path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndTrigger.CollisionComp",
+        "class": "/Script/Engine.BoxComponent",
+        "transform_ue": {
+          "translation": [
+            6350.0,
+            150.0,
+            -860.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "scale": [
+            3.75,
+            12.5,
+            3.75
+          ]
+        },
+        "properties": {
+          "visible": true,
+          "hidden_in_game": false,
+          "mobility": "<ComponentMobility.MOVABLE: 2>",
+          "relative_location": [
+            6350.0,
+            150.0,
+            -860.0
+          ],
+          "relative_rotation": {
+            "pitch": 0.0,
+            "yaw": 0.0,
+            "roll": 0.0
+          },
+          "relative_scale3d": [
+            3.75,
+            12.5,
+            3.75
+          ]
+        },
+        "collision_enabled": "<CollisionEnabled.QUERY_ONLY: 1>",
+        "collision_profile": "Trigger",
+        "pawn_response": "<CollisionResponseType.ECR_OVERLAP: 1>",
+        "collision_properties": {
+          "can_character_step_up_on": "<CanBeCharacterBase.ECB_YES: 1>",
+          "generate_overlap_events": true,
+          "walkable_slope_override": {
+            "unavailable": "BoxComponent: Failed to find property 'walkable_slope_override' for attribute 'walkable_slope_override' on 'BoxComponent'"
+          },
+          "body_instance": "<Struct 'BodyInstance' (0x0000016A7DADF908) {simulate_physics: False, enable_gravity: True, update_kinematic_from_simulation: False, gyroscopic_torque_enabled: False, auto_weld: True, start_awake: True, generate_wake_events: False, update_mass_when_scale_changes: True, position_solver_iteration_count: 8, velocity_solver_iteration_count: 2, projection_solver_iteration_count: 1, sleep_family: Normal, use_ccd: False, ignore_analytic_collisions: False, notify_rigid_body_collision: False, smooth_edge_collisions: False, inertia_conditioning: True, one_way_interaction: False, override_solver_async_delta_time: False, solver_async_delta_time: 0.016667, max_depenetration_velocity: 0.000000, mass_in_kg_override: 100.000000, linear_damping: 0.010000, angular_damping: 0.000000, com_nudge: {x: 0.000000, y: 0.000000, z: 0.000000}, mass_scale: 1.000000, gravity_group_index: 0, inertia_tensor_scale: {x: 1.000000, y: 1.000000, z: 1.000000}, walkable_slope_override: {walkable_slope_behavior: WalkableSlope_Default, walkable_slope_angle: 0.000000}, phys_material_override: None, max_angular_velocity: 3600.000000, custom_sleep_threshold_multiplier: 1.000000, stabilization_threshold_multiplier: 1.000000}>"
+        },
+        "box_extent_ue": [
+          40.0,
+          40.0,
+          40.0
+        ]
+      },
+      {
+        "name": "Sprite",
+        "path": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02:PersistentLevel.P02_EndTrigger.Sprite",
+        "class": "/Script/Engine.BillboardComponent",
+        "transform_ue": {
+          "translation": [
+            6350.0,
+            150.0,
+            -860.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "scale": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        "properties": {
+          "visible": true,
+          "hidden_in_game": false,
+          "mobility": "<ComponentMobility.MOVABLE: 2>",
+          "relative_location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "relative_rotation": {
+            "pitch": 0.0,
+            "yaw": 0.0,
+            "roll": 0.0
+          },
+          "relative_scale3d": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "NoCollision",
+        "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+        "collision_properties": {
+          "can_character_step_up_on": "<CanBeCharacterBase.ECB_YES: 1>",
+          "generate_overlap_events": false,
+          "walkable_slope_override": {
+            "unavailable": "BillboardComponent: Failed to find property 'walkable_slope_override' for attribute 'walkable_slope_override' on 'BillboardComponent'"
+          },
+          "body_instance": "<Struct 'BodyInstance' (0x0000016A7DADE408) {simulate_physics: False, enable_gravity: True, update_kinematic_from_simulation: False, gyroscopic_torque_enabled: False, auto_weld: False, start_awake: True, generate_wake_events: False, update_mass_when_scale_changes: True, position_solver_iteration_count: 8, velocity_solver_iteration_count: 2, projection_solver_iteration_count: 1, sleep_family: Normal, use_ccd: False, ignore_analytic_collisions: False, notify_rigid_body_collision: False, smooth_edge_collisions: False, inertia_conditioning: True, one_way_interaction: False, override_solver_async_delta_time: False, solver_async_delta_time: 0.016667, max_depenetration_velocity: 0.000000, mass_in_kg_override: 100.000000, linear_damping: 0.010000, angular_damping: 0.000000, com_nudge: {x: 0.000000, y: 0.000000, z: 0.000000}, mass_scale: 1.000000, gravity_group_index: 0, inertia_tensor_scale: {x: 1.000000, y: 1.000000, z: 1.000000}, walkable_slope_override: {walkable_slope_behavior: WalkableSlope_Default, walkable_slope_angle: 0.000000}, phys_material_override: None, max_angular_velocity: 3600.000000, custom_sleep_threshold_multiplier: 1.000000, stabilization_threshold_multiplier: 1.000000}>"
+        }
+      }
+    ],
+    "bounds_ue": [
+      [
+        6350.0,
+        150.0,
+        -860.0
+      ],
+      [
+        150.0,
+        500.0,
+        150.0
+      ]
+    ],
+    "condition": "Color puzzle solved AND pawn center inside or on GetComponentsBoundingBox(true) of P02_EndTrigger"
+  },
+  "movement_axes": {
+    "W_Up": "UE +X / glTF +X",
+    "S_Down": "UE -X / glTF -X",
+    "D_Right": "UE +Y / glTF +Z",
+    "A_Left": "UE -Y / glTF -Z",
+    "source": "IMC_Default + BP_CombatCharacter Move + runtime controller yaw=0",
+    "jump": "Disabled at runtime",
+    "dash": "Disabled: bDashPressed=false"
+  }
+}

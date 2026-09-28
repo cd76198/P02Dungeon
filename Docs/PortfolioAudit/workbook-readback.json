@@ -1,0 +1,5120 @@
+[
+  {
+    "file": "Portfolio02_LevelData.xlsx",
+    "sheets": [
+      {
+        "name": "Level Data",
+        "rows": [
+          [
+            {
+              "cell": "A1",
+              "value": "이름"
+            },
+            {
+              "cell": "B1",
+              "value": "설명"
+            },
+            {
+              "cell": "C1",
+              "value": "타입"
+            },
+            {
+              "cell": "D1",
+              "value": "값"
+            },
+            {
+              "cell": "E1",
+              "value": "단위"
+            },
+            {
+              "cell": "F1",
+              "value": "산출방식"
+            },
+            {
+              "cell": "G1",
+              "value": "비고"
+            }
+          ],
+          [
+            {
+              "cell": "A2",
+              "value": "[카메라]"
+            }
+          ],
+          [
+            {
+              "cell": "A3",
+              "value": "Camera_Projection"
+            },
+            {
+              "cell": "B3",
+              "value": "카메라 투영 방식"
+            },
+            {
+              "cell": "C3",
+              "value": "string"
+            },
+            {
+              "cell": "D3",
+              "value": "Perspective"
+            },
+            {
+              "cell": "E3",
+              "value": "-"
+            },
+            {
+              "cell": "F3",
+              "value": "확정값"
+            },
+            {
+              "cell": "G3",
+              "value": "변경 금지 항목"
+            }
+          ],
+          [
+            {
+              "cell": "A4",
+              "value": "Camera_Pitch"
+            },
+            {
+              "cell": "B4",
+              "value": "카메라 상하 각도"
+            },
+            {
+              "cell": "C4",
+              "value": "float"
+            },
+            {
+              "cell": "D4",
+              "value": "-50"
+            },
+            {
+              "cell": "E4",
+              "value": "도"
+            },
+            {
+              "cell": "F4",
+              "value": "확정값"
+            },
+            {
+              "cell": "G4",
+              "value": "변경 금지 항목"
+            }
+          ],
+          [
+            {
+              "cell": "A5",
+              "value": "Camera_Yaw"
+            },
+            {
+              "cell": "B5",
+              "value": "카메라 좌우 각도"
+            },
+            {
+              "cell": "C5",
+              "value": "float"
+            },
+            {
+              "cell": "D5",
+              "value": "0"
+            },
+            {
+              "cell": "E5",
+              "value": "도"
+            },
+            {
+              "cell": "F5",
+              "value": "확정값"
+            },
+            {
+              "cell": "G5",
+              "value": "화면 오른쪽 = +Y"
+            }
+          ],
+          [
+            {
+              "cell": "A6",
+              "value": "Camera_Distance"
+            },
+            {
+              "cell": "B6",
+              "value": "카메라 거리"
+            },
+            {
+              "cell": "C6",
+              "value": "float"
+            },
+            {
+              "cell": "D6",
+              "value": "2000"
+            },
+            {
+              "cell": "E6",
+              "value": "uu"
+            },
+            {
+              "cell": "F6",
+              "value": "확정값"
+            },
+            {
+              "cell": "G6",
+              "value": "스프링암 길이"
+            }
+          ],
+          [
+            {
+              "cell": "A7",
+              "value": "Camera_FOV"
+            },
+            {
+              "cell": "B7",
+              "value": "시야각"
+            },
+            {
+              "cell": "C7",
+              "value": "float"
+            },
+            {
+              "cell": "D7",
+              "value": "45"
+            },
+            {
+              "cell": "E7",
+              "value": "도"
+            },
+            {
+              "cell": "F7",
+              "value": "확정값"
+            },
+            {
+              "cell": "G7",
+              "value": "수평 기준"
+            }
+          ],
+          [
+            {
+              "cell": "A8",
+              "value": "Camera_View_HalfWidth"
+            },
+            {
+              "cell": "B8",
+              "value": "초점거리에서 수평 가시 반폭"
+            },
+            {
+              "cell": "C8",
+              "value": "float"
+            },
+            {
+              "cell": "D8",
+              "value": "828"
+            },
+            {
+              "cell": "E8",
+              "value": "uu"
+            },
+            {
+              "cell": "F8",
+              "value": "Distance x tan(FOV/2)"
+            },
+            {
+              "cell": "G8",
+              "value": "오브젝트 배치 가시성 판정 기준"
+            }
+          ],
+          [
+            {
+              "cell": "A9",
+              "value": "[플레이어]"
+            }
+          ],
+          [
+            {
+              "cell": "A10",
+              "value": "Player_MaxHealth"
+            },
+            {
+              "cell": "B10",
+              "value": "플레이어 체력"
+            },
+            {
+              "cell": "C10",
+              "value": "float"
+            },
+            {
+              "cell": "D10",
+              "value": "100"
+            },
+            {
+              "cell": "E10",
+              "value": "-"
+            },
+            {
+              "cell": "F10",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A11",
+              "value": "Player_Attack_Damage"
+            },
+            {
+              "cell": "B11",
+              "value": "플레이어 공격력"
+            },
+            {
+              "cell": "C11",
+              "value": "float"
+            },
+            {
+              "cell": "D11",
+              "value": "34"
+            },
+            {
+              "cell": "E11",
+              "value": "-"
+            },
+            {
+              "cell": "F11",
+              "value": "확정값"
+            },
+            {
+              "cell": "G11",
+              "value": "반경 내 다중 타격"
+            }
+          ],
+          [
+            {
+              "cell": "A12",
+              "value": "Player_Attack_Range"
+            },
+            {
+              "cell": "B12",
+              "value": "공격 전방 오프셋"
+            },
+            {
+              "cell": "C12",
+              "value": "float"
+            },
+            {
+              "cell": "D12",
+              "value": "140"
+            },
+            {
+              "cell": "E12",
+              "value": "uu"
+            },
+            {
+              "cell": "F12",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A13",
+              "value": "Player_Attack_Radius"
+            },
+            {
+              "cell": "B13",
+              "value": "공격 판정 반경"
+            },
+            {
+              "cell": "C13",
+              "value": "float"
+            },
+            {
+              "cell": "D13",
+              "value": "170"
+            },
+            {
+              "cell": "E13",
+              "value": "uu"
+            },
+            {
+              "cell": "F13",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A14",
+              "value": "Player_Attack_Cooldown"
+            },
+            {
+              "cell": "B14",
+              "value": "공격 쿨다운"
+            },
+            {
+              "cell": "C14",
+              "value": "float"
+            },
+            {
+              "cell": "D14",
+              "value": "0.35"
+            },
+            {
+              "cell": "E14",
+              "value": "초"
+            },
+            {
+              "cell": "F14",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A15",
+              "value": "Player_Dash_Distance"
+            },
+            {
+              "cell": "B15",
+              "value": "대시 이동 거리"
+            },
+            {
+              "cell": "C15",
+              "value": "float"
+            },
+            {
+              "cell": "D15",
+              "value": "450"
+            },
+            {
+              "cell": "E15",
+              "value": "uu"
+            },
+            {
+              "cell": "F15",
+              "value": "확정값"
+            },
+            {
+              "cell": "G15",
+              "value": "다리 간극 700uu 를 못 넘는 근거"
+            }
+          ],
+          [
+            {
+              "cell": "A16",
+              "value": "Player_Dash_Speed"
+            },
+            {
+              "cell": "B16",
+              "value": "대시 속도"
+            },
+            {
+              "cell": "C16",
+              "value": "float"
+            },
+            {
+              "cell": "D16",
+              "value": "1600"
+            },
+            {
+              "cell": "E16",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F16",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A17",
+              "value": "Player_Dash_Cooldown"
+            },
+            {
+              "cell": "B17",
+              "value": "대시 쿨다운"
+            },
+            {
+              "cell": "C17",
+              "value": "float"
+            },
+            {
+              "cell": "D17",
+              "value": "0.8"
+            },
+            {
+              "cell": "E17",
+              "value": "초"
+            },
+            {
+              "cell": "F17",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A18",
+              "value": "Player_KillZ"
+            },
+            {
+              "cell": "B18",
+              "value": "낙하 사망 높이"
+            },
+            {
+              "cell": "C18",
+              "value": "float"
+            },
+            {
+              "cell": "D18",
+              "value": "-1750"
+            },
+            {
+              "cell": "E18",
+              "value": "uu"
+            },
+            {
+              "cell": "F18",
+              "value": "최저 바닥 하단(-1660)보다 아래"
+            },
+            {
+              "cell": "G18",
+              "value": "로스트아크 모바일에는 필요없는 기능이지만 예외를 대비해 설정"
+            }
+          ],
+          [
+            {
+              "cell": "A19",
+              "value": "[다리 / 중간보스 문]"
+            }
+          ],
+          [
+            {
+              "cell": "A20",
+              "value": "Bridge_Monster_Speed"
+            },
+            {
+              "cell": "B20",
+              "value": "다리 몬스터 이동속도"
+            },
+            {
+              "cell": "C20",
+              "value": "float"
+            },
+            {
+              "cell": "D20",
+              "value": "410"
+            },
+            {
+              "cell": "E20",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F20",
+              "value": "(거리 1860 - 공격사거리 150) / 목표 도착 4초"
+            }
+          ],
+          [
+            {
+              "cell": "A21",
+              "value": "Bridge_Door_dist"
+            },
+            {
+              "cell": "B21",
+              "value": "스폰 지점 → 문 거리"
+            },
+            {
+              "cell": "C21",
+              "value": "float"
+            },
+            {
+              "cell": "D21",
+              "value": "1860"
+            },
+            {
+              "cell": "E21",
+              "value": "uu"
+            },
+            {
+              "cell": "F21",
+              "value": "스폰박스 서쪽면 X4440 → 문 X6300"
+            },
+            {
+              "cell": "G21",
+              "value": "2D 직선거리"
+            }
+          ],
+          [
+            {
+              "cell": "A22",
+              "value": "Monster_Moving_Sec"
+            },
+            {
+              "cell": "B22",
+              "value": "몬스터 도착 시간"
+            },
+            {
+              "cell": "C22",
+              "value": "float"
+            },
+            {
+              "cell": "D22",
+              "value": 4.27
+            },
+            {
+              "cell": "E22",
+              "value": "초"
+            },
+            {
+              "cell": "F22",
+              "value": "{(1860 - 150) / 410} + 0.1"
+            },
+            {
+              "cell": "G22",
+              "value": "설계 목표는 4초. 실제 계산값 4.27초"
+            }
+          ],
+          [
+            {
+              "cell": "A23",
+              "value": "Monster_FirstHit_Sec"
+            },
+            {
+              "cell": "B23",
+              "value": "스폰→첫 피격 실측"
+            },
+            {
+              "cell": "C23",
+              "value": "float"
+            },
+            {
+              "cell": "D23",
+              "value": "2.78"
+            },
+            {
+              "cell": "E23",
+              "value": "초"
+            },
+            {
+              "cell": "F23",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G23",
+              "value": "플레이어가 문 앞 정지가 아니라 이동 중이던 값. 참고용"
+            }
+          ],
+          [
+            {
+              "cell": "A24",
+              "value": "Interection_Sec"
+            },
+            {
+              "cell": "B24",
+              "value": "문 상호작용 시간"
+            },
+            {
+              "cell": "C24",
+              "value": "float"
+            },
+            {
+              "cell": "D24",
+              "value": "5"
+            },
+            {
+              "cell": "E24",
+              "value": "초"
+            },
+            {
+              "cell": "F24",
+              "value": "역산"
+            },
+            {
+              "cell": "G24",
+              "value": "몬스터 이동속도와 거리를 통해 역산. 도착 4.17초 < 홀드 5초"
+            }
+          ],
+          [
+            {
+              "cell": "A25",
+              "value": "Bridge_Monster_respawn"
+            },
+            {
+              "cell": "B25",
+              "value": "다리 몬스터 리스폰 시간"
+            },
+            {
+              "cell": "C25",
+              "value": "float"
+            },
+            {
+              "cell": "D25",
+              "value": "0.1"
+            },
+            {
+              "cell": "E25",
+              "value": "초"
+            },
+            {
+              "cell": "F25",
+              "value": "확정값"
+            },
+            {
+              "cell": "G25",
+              "value": "사망 했을 시에만 리스폰"
+            }
+          ],
+          [
+            {
+              "cell": "A26",
+              "value": "Bridge_Monster_Count"
+            },
+            {
+              "cell": "B26",
+              "value": "동시 등장 몬스터 수"
+            },
+            {
+              "cell": "C26",
+              "value": "int"
+            },
+            {
+              "cell": "D26",
+              "value": "1"
+            },
+            {
+              "cell": "E26",
+              "value": "마리"
+            },
+            {
+              "cell": "F26",
+              "value": "확정값"
+            },
+            {
+              "cell": "G26",
+              "value": "1마리씩 연속 리스폰"
+            }
+          ],
+          [
+            {
+              "cell": "A27",
+              "value": "Bridge_Monster_HP"
+            },
+            {
+              "cell": "B27",
+              "value": "다리 몬스터 체력"
+            },
+            {
+              "cell": "C27",
+              "value": "float"
+            },
+            {
+              "cell": "D27",
+              "value": "34"
+            },
+            {
+              "cell": "E27",
+              "value": "-"
+            },
+            {
+              "cell": "F27",
+              "value": "확정값"
+            },
+            {
+              "cell": "G27",
+              "value": "플레이어 공격 1회로 처치"
+            }
+          ],
+          [
+            {
+              "cell": "A28",
+              "value": "Bridge_Monster_Damage"
+            },
+            {
+              "cell": "B28",
+              "value": "다리 몬스터 공격력"
+            },
+            {
+              "cell": "C28",
+              "value": "float"
+            },
+            {
+              "cell": "D28",
+              "value": "10"
+            },
+            {
+              "cell": "E28",
+              "value": "-"
+            },
+            {
+              "cell": "F28",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A29",
+              "value": "Bridge_Monster_AttackDelay"
+            },
+            {
+              "cell": "B29",
+              "value": "몬스터 공격 간격"
+            },
+            {
+              "cell": "C29",
+              "value": "float"
+            },
+            {
+              "cell": "D29",
+              "value": "1.5"
+            },
+            {
+              "cell": "E29",
+              "value": "초"
+            },
+            {
+              "cell": "F29",
+              "value": "확정값"
+            },
+            {
+              "cell": "G29",
+              "value": "전 몬스터 공통"
+            }
+          ],
+          [
+            {
+              "cell": "A30",
+              "value": "Bridge_Monster_AttackRange"
+            },
+            {
+              "cell": "B30",
+              "value": "몬스터 공격 사거리"
+            },
+            {
+              "cell": "C30",
+              "value": "float"
+            },
+            {
+              "cell": "D30",
+              "value": "150"
+            },
+            {
+              "cell": "E30",
+              "value": "uu"
+            },
+            {
+              "cell": "F30",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A31",
+              "value": "Bridge_ArmLine_X"
+            },
+            {
+              "cell": "B31",
+              "value": "추격 발동 X 좌표"
+            },
+            {
+              "cell": "C31",
+              "value": "float"
+            },
+            {
+              "cell": "D31",
+              "value": "4760"
+            },
+            {
+              "cell": "E31",
+              "value": "uu"
+            },
+            {
+              "cell": "F31",
+              "value": "스폰박스 동쪽면"
+            },
+            {
+              "cell": "G31",
+              "value": "플레이어가 이 X 를 넘으면 스폰 시작"
+            }
+          ],
+          [
+            {
+              "cell": "A32",
+              "value": "Bridge_Des_Attack"
+            },
+            {
+              "cell": "B32",
+              "value": "다리 파괴시 피격 횟수"
+            },
+            {
+              "cell": "C32",
+              "value": "int"
+            },
+            {
+              "cell": "D32",
+              "value": "8"
+            },
+            {
+              "cell": "E32",
+              "value": "회"
+            },
+            {
+              "cell": "F32",
+              "value": "확정값"
+            },
+            {
+              "cell": "G32",
+              "value": "HP 없음. 타격 횟수만 카운트"
+            }
+          ],
+          [
+            {
+              "cell": "A33",
+              "value": "Bridge_Break_Side"
+            },
+            {
+              "cell": "B33",
+              "value": "파괴 가능 방향"
+            },
+            {
+              "cell": "C33",
+              "value": "string"
+            },
+            {
+              "cell": "D33",
+              "value": "동쪽만"
+            },
+            {
+              "cell": "E33",
+              "value": "-"
+            },
+            {
+              "cell": "F33",
+              "value": "확정값"
+            },
+            {
+              "cell": "G33",
+              "value": "발밑에서 무너뜨려 고립되는 것 방지"
+            }
+          ],
+          [
+            {
+              "cell": "A34",
+              "value": "Bridge_Break_Gap"
+            },
+            {
+              "cell": "B34",
+              "value": "파괴 후 간극"
+            },
+            {
+              "cell": "C34",
+              "value": "float"
+            },
+            {
+              "cell": "D34",
+              "value": "700"
+            },
+            {
+              "cell": "E34",
+              "value": "uu"
+            },
+            {
+              "cell": "F34",
+              "value": "약한 구간 X4900~5600"
+            },
+            {
+              "cell": "G34",
+              "value": "대시 450uu 로 도약 불가"
+            }
+          ],
+          [
+            {
+              "cell": "A35",
+              "value": "Bridge_Drop_Distance"
+            },
+            {
+              "cell": "B35",
+              "value": "파괴 낙하 거리"
+            },
+            {
+              "cell": "C35",
+              "value": "float"
+            },
+            {
+              "cell": "D35",
+              "value": "1400"
+            },
+            {
+              "cell": "E35",
+              "value": "uu"
+            },
+            {
+              "cell": "F35",
+              "value": "확정값"
+            },
+            {
+              "cell": "G35",
+              "value": "연출용"
+            }
+          ],
+          [
+            {
+              "cell": "A36",
+              "value": "Bridge_Drop_Duration"
+            },
+            {
+              "cell": "B36",
+              "value": "파괴 낙하 시간"
+            },
+            {
+              "cell": "C36",
+              "value": "float"
+            },
+            {
+              "cell": "D36",
+              "value": "0.6"
+            },
+            {
+              "cell": "E36",
+              "value": "초"
+            },
+            {
+              "cell": "F36",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A37",
+              "value": "Bridge_Restore_Sec"
+            },
+            {
+              "cell": "B37",
+              "value": "다리 복구 시간"
+            },
+            {
+              "cell": "C37",
+              "value": "float"
+            },
+            {
+              "cell": "D37",
+              "value": "0"
+            },
+            {
+              "cell": "E37",
+              "value": "초"
+            },
+            {
+              "cell": "F37",
+              "value": "확정값"
+            },
+            {
+              "cell": "G37",
+              "value": "레버 E 입력 시 즉시 복구"
+            }
+          ],
+          [
+            {
+              "cell": "A38",
+              "value": "Door_Interact_Radius"
+            },
+            {
+              "cell": "B38",
+              "value": "문 상호작용 반경"
+            },
+            {
+              "cell": "C38",
+              "value": "float"
+            },
+            {
+              "cell": "D38",
+              "value": "250"
+            },
+            {
+              "cell": "E38",
+              "value": "uu"
+            },
+            {
+              "cell": "F38",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A39",
+              "value": "Door_Open_Distance"
+            },
+            {
+              "cell": "B39",
+              "value": "문 하강 거리"
+            },
+            {
+              "cell": "C39",
+              "value": "float"
+            },
+            {
+              "cell": "D39",
+              "value": "620"
+            },
+            {
+              "cell": "E39",
+              "value": "uu"
+            },
+            {
+              "cell": "F39",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A40",
+              "value": "Door_Open_Duration"
+            },
+            {
+              "cell": "B40",
+              "value": "문 개방 시간"
+            },
+            {
+              "cell": "C40",
+              "value": "float"
+            },
+            {
+              "cell": "D40",
+              "value": "1.0"
+            },
+            {
+              "cell": "E40",
+              "value": "초"
+            },
+            {
+              "cell": "F40",
+              "value": "확정값"
+            },
+            {
+              "cell": "G40",
+              "value": "하강 + 페이드 동시"
+            }
+          ],
+          [
+            {
+              "cell": "A41",
+              "value": "[중간보스 / 계단]"
+            }
+          ],
+          [
+            {
+              "cell": "A42",
+              "value": "MidBoss_HP"
+            },
+            {
+              "cell": "B42",
+              "value": "중간보스 체력"
+            },
+            {
+              "cell": "C42",
+              "value": "float"
+            },
+            {
+              "cell": "D42",
+              "value": 50
+            },
+            {
+              "cell": "E42",
+              "value": "-"
+            },
+            {
+              "cell": "F42",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A43",
+              "value": "MidBoss_Speed"
+            },
+            {
+              "cell": "B43",
+              "value": "중간보스 이동속도"
+            },
+            {
+              "cell": "C43",
+              "value": "float"
+            },
+            {
+              "cell": "D43",
+              "value": "120"
+            },
+            {
+              "cell": "E43",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F43",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A44",
+              "value": "MidBoss_Damage"
+            },
+            {
+              "cell": "B44",
+              "value": "중간보스 공격력"
+            },
+            {
+              "cell": "C44",
+              "value": "float"
+            },
+            {
+              "cell": "D44",
+              "value": "0"
+            },
+            {
+              "cell": "E44",
+              "value": "-"
+            },
+            {
+              "cell": "F44",
+              "value": "확정값"
+            },
+            {
+              "cell": "G44",
+              "value": "전투 난이도 배제 목적"
+            }
+          ],
+          [
+            {
+              "cell": "A45",
+              "value": "MidBoss_HitsToKill"
+            },
+            {
+              "cell": "B45",
+              "value": "처치 필요 타격 수"
+            },
+            {
+              "cell": "C45",
+              "value": "int"
+            },
+            {
+              "cell": "D45",
+              "value": 2
+            },
+            {
+              "cell": "E45",
+              "value": "회"
+            },
+            {
+              "cell": "F45",
+              "value": "체력 50 / 공격력 34"
+            }
+          ],
+          [
+            {
+              "cell": "A46",
+              "value": "Stair_Auto_Delay"
+            },
+            {
+              "cell": "B46",
+              "value": "처치 후 계단 자동 작동 지연"
+            },
+            {
+              "cell": "C46",
+              "value": "float"
+            },
+            {
+              "cell": "D46",
+              "value": "2.0"
+            },
+            {
+              "cell": "E46",
+              "value": "초"
+            },
+            {
+              "cell": "F46",
+              "value": "확정값"
+            },
+            {
+              "cell": "G46",
+              "value": "레버 조작 불필요"
+            }
+          ],
+          [
+            {
+              "cell": "A47",
+              "value": "Stair_Transition_Sec"
+            },
+            {
+              "cell": "B47",
+              "value": "계단 변화 시간"
+            },
+            {
+              "cell": "C47",
+              "value": "float"
+            },
+            {
+              "cell": "D47",
+              "value": "1.25"
+            },
+            {
+              "cell": "E47",
+              "value": "초"
+            },
+            {
+              "cell": "F47",
+              "value": "확정값"
+            },
+            {
+              "cell": "G47",
+              "value": "차단판 페이드 아웃"
+            }
+          ],
+          [
+            {
+              "cell": "A48",
+              "value": "Stair_Rise_Per_Step"
+            },
+            {
+              "cell": "B48",
+              "value": "계단 한 칸 상승"
+            },
+            {
+              "cell": "C48",
+              "value": "float"
+            },
+            {
+              "cell": "D48",
+              "value": "40"
+            },
+            {
+              "cell": "E48",
+              "value": "uu"
+            },
+            {
+              "cell": "F48",
+              "value": "확정값"
+            },
+            {
+              "cell": "G48",
+              "value": "Max Step Height 45 제약"
+            }
+          ],
+          [
+            {
+              "cell": "A49",
+              "value": "Stair_Run_Per_Step"
+            },
+            {
+              "cell": "B49",
+              "value": "계단 한 칸 진행"
+            },
+            {
+              "cell": "C49",
+              "value": "float"
+            },
+            {
+              "cell": "D49",
+              "value": "109"
+            },
+            {
+              "cell": "E49",
+              "value": "uu"
+            },
+            {
+              "cell": "F49",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A50",
+              "value": "Stair_Slope"
+            },
+            {
+              "cell": "B50",
+              "value": "계단 경사"
+            },
+            {
+              "cell": "C50",
+              "value": "float"
+            },
+            {
+              "cell": "D50",
+              "value": "20.2"
+            },
+            {
+              "cell": "E50",
+              "value": "도"
+            },
+            {
+              "cell": "F50",
+              "value": "atan(40/109)"
+            },
+            {
+              "cell": "G50",
+              "value": "전 계단 공통"
+            }
+          ],
+          [
+            {
+              "cell": "A51",
+              "value": "StairA_Steps"
+            },
+            {
+              "cell": "B51",
+              "value": "상부 계단 칸수"
+            },
+            {
+              "cell": "C51",
+              "value": "int"
+            },
+            {
+              "cell": "D51",
+              "value": "11"
+            },
+            {
+              "cell": "E51",
+              "value": "칸"
+            },
+            {
+              "cell": "F51",
+              "value": "확정값"
+            },
+            {
+              "cell": "G51",
+              "value": "총 400uu 하강"
+            }
+          ],
+          [
+            {
+              "cell": "A52",
+              "value": "StairB_Steps"
+            },
+            {
+              "cell": "B52",
+              "value": "메인 하강 계단 칸수"
+            },
+            {
+              "cell": "C52",
+              "value": "int"
+            },
+            {
+              "cell": "D52",
+              "value": "19"
+            },
+            {
+              "cell": "E52",
+              "value": "칸"
+            },
+            {
+              "cell": "F52",
+              "value": "확정값"
+            },
+            {
+              "cell": "G52",
+              "value": "총 720uu 하강. 180도 꺾임 폐기 후 직선"
+            }
+          ],
+          [
+            {
+              "cell": "A53",
+              "value": "StairD_Steps"
+            },
+            {
+              "cell": "B53",
+              "value": "Candidate2 하강 계단 칸수"
+            },
+            {
+              "cell": "C53",
+              "value": "int"
+            },
+            {
+              "cell": "D53",
+              "value": "15"
+            },
+            {
+              "cell": "E53",
+              "value": "칸"
+            },
+            {
+              "cell": "F53",
+              "value": "확정값"
+            },
+            {
+              "cell": "G53",
+              "value": "총 560uu 하강"
+            }
+          ],
+          [
+            {
+              "cell": "A54",
+              "value": "[힌트 / 최종보스 퍼즐]"
+            }
+          ],
+          [
+            {
+              "cell": "A55",
+              "value": "Hint_Color_Count"
+            },
+            {
+              "cell": "B55",
+              "value": "힌트 색 개수"
+            },
+            {
+              "cell": "C55",
+              "value": "int"
+            },
+            {
+              "cell": "D55",
+              "value": "3"
+            },
+            {
+              "cell": "E55",
+              "value": "개"
+            },
+            {
+              "cell": "F55",
+              "value": "확정값"
+            },
+            {
+              "cell": "G55",
+              "value": "현재값. 5개 이상 필요 (아래 참조)"
+            }
+          ],
+          [
+            {
+              "cell": "A56",
+              "value": "Hint_Answer"
+            },
+            {
+              "cell": "B56",
+              "value": "정답 순서"
+            },
+            {
+              "cell": "C56",
+              "value": "string"
+            },
+            {
+              "cell": "D56",
+              "value": "Blue-Red-Green"
+            },
+            {
+              "cell": "E56",
+              "value": "-"
+            },
+            {
+              "cell": "F56",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A57",
+              "value": "Puzzle_Input_Steps"
+            },
+            {
+              "cell": "B57",
+              "value": "입력 단계 수"
+            },
+            {
+              "cell": "C57",
+              "value": "int"
+            },
+            {
+              "cell": "D57",
+              "value": "3"
+            },
+            {
+              "cell": "E57",
+              "value": "단계"
+            },
+            {
+              "cell": "F57",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A58",
+              "value": "Pad_Radius"
+            },
+            {
+              "cell": "B58",
+              "value": "입력 패드 인식 반경"
+            },
+            {
+              "cell": "C58",
+              "value": "float"
+            },
+            {
+              "cell": "D58",
+              "value": "220"
+            },
+            {
+              "cell": "E58",
+              "value": "uu"
+            },
+            {
+              "cell": "F58",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A59",
+              "value": "Pad_To_Door_dist"
+            },
+            {
+              "cell": "B59",
+              "value": "입력장치 → 보스문 거리"
+            },
+            {
+              "cell": "C59",
+              "value": "float"
+            },
+            {
+              "cell": "D59",
+              "value": "475"
+            },
+            {
+              "cell": "E59",
+              "value": "uu"
+            },
+            {
+              "cell": "F59",
+              "value": "패드 X5375 → 문 X5850"
+            }
+          ],
+          [
+            {
+              "cell": "A60",
+              "value": "Wrong_Enemy_Count"
+            },
+            {
+              "cell": "B60",
+              "value": "오답 시 등장 몬스터 수"
+            },
+            {
+              "cell": "C60",
+              "value": "int"
+            },
+            {
+              "cell": "D60",
+              "value": "3"
+            },
+            {
+              "cell": "E60",
+              "value": "마리"
+            },
+            {
+              "cell": "F60",
+              "value": "확정값"
+            },
+            {
+              "cell": "G60",
+              "value": "스폰 지점당 1마리"
+            }
+          ],
+          [
+            {
+              "cell": "A61",
+              "value": "Wrong_Enemy_Speed"
+            },
+            {
+              "cell": "B61",
+              "value": "오답 몬스터 이동속도"
+            },
+            {
+              "cell": "C61",
+              "value": "float"
+            },
+            {
+              "cell": "D61",
+              "value": "410"
+            },
+            {
+              "cell": "E61",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F61",
+              "value": "확정값"
+            },
+            {
+              "cell": "G61",
+              "value": "다리 몬스터와 통일"
+            }
+          ],
+          [
+            {
+              "cell": "A62",
+              "value": "Wrong_Enemy_HP"
+            },
+            {
+              "cell": "B62",
+              "value": "오답 몬스터 체력"
+            },
+            {
+              "cell": "C62",
+              "value": "float"
+            },
+            {
+              "cell": "D62",
+              "value": "34"
+            },
+            {
+              "cell": "E62",
+              "value": "-"
+            },
+            {
+              "cell": "F62",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A63",
+              "value": "Wrong_Enemy_Damage"
+            },
+            {
+              "cell": "B63",
+              "value": "오답 몬스터 공격력"
+            },
+            {
+              "cell": "C63",
+              "value": "float"
+            },
+            {
+              "cell": "D63",
+              "value": "10"
+            },
+            {
+              "cell": "E63",
+              "value": "-"
+            },
+            {
+              "cell": "F63",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A64",
+              "value": "Wrong_Spawn_dist_Min"
+            },
+            {
+              "cell": "B64",
+              "value": "입력장치 → 최근접 스폰 거리"
+            },
+            {
+              "cell": "C64",
+              "value": "float"
+            },
+            {
+              "cell": "D64",
+              "value": "2401"
+            },
+            {
+              "cell": "E64",
+              "value": "uu"
+            },
+            {
+              "cell": "F64",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G64",
+              "value": "(3000, 500)"
+            }
+          ],
+          [
+            {
+              "cell": "A65",
+              "value": "Wrong_Spawn_dist_Max"
+            },
+            {
+              "cell": "B65",
+              "value": "입력장치 → 최원거리 스폰 거리"
+            },
+            {
+              "cell": "C65",
+              "value": "float"
+            },
+            {
+              "cell": "D65",
+              "value": "2892"
+            },
+            {
+              "cell": "E65",
+              "value": "uu"
+            },
+            {
+              "cell": "F65",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G65",
+              "value": "(3000, -1500)"
+            }
+          ],
+          [
+            {
+              "cell": "A66",
+              "value": "Wrong_Arrival_Sec_Min"
+            },
+            {
+              "cell": "B66",
+              "value": "최근접 몬스터 도착 시간"
+            },
+            {
+              "cell": "C66",
+              "value": "float"
+            },
+            {
+              "cell": "D66",
+              "value": "5.9"
+            },
+            {
+              "cell": "E66",
+              "value": "초"
+            },
+            {
+              "cell": "F66",
+              "value": "2401 / 410"
+            }
+          ],
+          [
+            {
+              "cell": "A67",
+              "value": "Wrong_Arrival_Sec_Max"
+            },
+            {
+              "cell": "B67",
+              "value": "최원거리 몬스터 도착 시간"
+            },
+            {
+              "cell": "C67",
+              "value": "float"
+            },
+            {
+              "cell": "D67",
+              "value": "7.1"
+            },
+            {
+              "cell": "E67",
+              "value": "초"
+            },
+            {
+              "cell": "F67",
+              "value": "2892 / 410"
+            }
+          ],
+          [
+            {
+              "cell": "A68",
+              "value": "Wrong_FirstContact_Sec"
+            },
+            {
+              "cell": "B68",
+              "value": "오답 → 첫 피격"
+            },
+            {
+              "cell": "C68",
+              "value": "float"
+            },
+            {
+              "cell": "D68",
+              "value": "3.95"
+            },
+            {
+              "cell": "E68",
+              "value": "초"
+            },
+            {
+              "cell": "F68",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G68",
+              "value": "플레이어가 몬스터 쪽으로 이동한 값"
+            }
+          ],
+          [
+            {
+              "cell": "A69",
+              "value": "Wrong_Retry_Sec"
+            },
+            {
+              "cell": "B69",
+              "value": "오답 → 재입력 가능"
+            },
+            {
+              "cell": "C69",
+              "value": "float"
+            },
+            {
+              "cell": "D69",
+              "value": "5.32"
+            },
+            {
+              "cell": "E69",
+              "value": "초"
+            },
+            {
+              "cell": "F69",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G69",
+              "value": "오답 1회의 전체 추가 비용"
+            }
+          ],
+          [
+            {
+              "cell": "A70",
+              "value": "Wrong_Hardlock_Limit"
+            },
+            {
+              "cell": "B70",
+              "value": "오답 전투 강제 해제 시간"
+            },
+            {
+              "cell": "C70",
+              "value": "float"
+            },
+            {
+              "cell": "D70",
+              "value": "60"
+            },
+            {
+              "cell": "E70",
+              "value": "초"
+            },
+            {
+              "cell": "F70",
+              "value": "확정값"
+            },
+            {
+              "cell": "G70",
+              "value": "도달 불가 몬스터로 인한 하드락 방지"
+            }
+          ],
+          [
+            {
+              "cell": "A71",
+              "value": "FinalDoor_Open_Duration"
+            },
+            {
+              "cell": "B71",
+              "value": "최종보스 문 개방 시간"
+            },
+            {
+              "cell": "C71",
+              "value": "float"
+            },
+            {
+              "cell": "D71",
+              "value": "1.0"
+            },
+            {
+              "cell": "E71",
+              "value": "초"
+            },
+            {
+              "cell": "F71",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A72",
+              "value": "[공간 치수]"
+            }
+          ],
+          [
+            {
+              "cell": "A73",
+              "value": "Space_Cand1_Size"
+            },
+            {
+              "cell": "B73",
+              "value": "최종보스 구역 크기"
+            },
+            {
+              "cell": "C73",
+              "value": "string"
+            },
+            {
+              "cell": "D73",
+              "value": "3000 x 2525"
+            },
+            {
+              "cell": "E73",
+              "value": "uu"
+            },
+            {
+              "cell": "F73",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G73",
+              "value": "거리를 실패 비용으로 쓰는 공간"
+            }
+          ],
+          [
+            {
+              "cell": "A74",
+              "value": "Space_Cand2_Size"
+            },
+            {
+              "cell": "B74",
+              "value": "힌트 구역 크기"
+            },
+            {
+              "cell": "C74",
+              "value": "string"
+            },
+            {
+              "cell": "D74",
+              "value": "1350 x 1330"
+            },
+            {
+              "cell": "E74",
+              "value": "uu"
+            },
+            {
+              "cell": "F74",
+              "value": "좌표 계산"
+            }
+          ],
+          [
+            {
+              "cell": "A75",
+              "value": "Space_Corridor_Width"
+            },
+            {
+              "cell": "B75",
+              "value": "하층 통로 폭"
+            },
+            {
+              "cell": "C75",
+              "value": "float"
+            },
+            {
+              "cell": "D75",
+              "value": "690"
+            },
+            {
+              "cell": "E75",
+              "value": "uu"
+            },
+            {
+              "cell": "F75",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G75",
+              "value": "두 방 사이 순 간격"
+            }
+          ],
+          [
+            {
+              "cell": "A76",
+              "value": "Space_Bridge_Width"
+            },
+            {
+              "cell": "B76",
+              "value": "다리 폭"
+            },
+            {
+              "cell": "C76",
+              "value": "float"
+            },
+            {
+              "cell": "D76",
+              "value": "800"
+            },
+            {
+              "cell": "E76",
+              "value": "uu"
+            },
+            {
+              "cell": "F76",
+              "value": "좌표 계산"
+            }
+          ],
+          [
+            {
+              "cell": "A77",
+              "value": "Space_MidBossDoor_Front"
+            },
+            {
+              "cell": "B77",
+              "value": "중간보스 문 앞 공간"
+            },
+            {
+              "cell": "C77",
+              "value": "string"
+            },
+            {
+              "cell": "D77",
+              "value": "700 x 600"
+            },
+            {
+              "cell": "E77",
+              "value": "uu"
+            },
+            {
+              "cell": "F77",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G77",
+              "value": "홀드 중 회피 여유가 거의 없는 크기"
+            }
+          ],
+          [
+            {
+              "cell": "A78",
+              "value": "Height_Bridge_to_Lower"
+            },
+            {
+              "cell": "B78",
+              "value": "다리 상판 → 하층 통로 높이차"
+            },
+            {
+              "cell": "C78",
+              "value": "float"
+            },
+            {
+              "cell": "D78",
+              "value": "1200"
+            },
+            {
+              "cell": "E78",
+              "value": "uu"
+            },
+            {
+              "cell": "F78",
+              "value": "Z 240 → -960"
+            }
+          ],
+          [
+            {
+              "cell": "A79",
+              "value": "Height_Bridge_to_Cand2"
+            },
+            {
+              "cell": "B79",
+              "value": "다리 상판 → 힌트 구역 높이차"
+            },
+            {
+              "cell": "C79",
+              "value": "float"
+            },
+            {
+              "cell": "D79",
+              "value": "1800"
+            },
+            {
+              "cell": "E79",
+              "value": "uu"
+            },
+            {
+              "cell": "F79",
+              "value": "Z 240 → -1560"
+            },
+            {
+              "cell": "G79",
+              "value": "하층에서 색 블럭이 시야에 안 들어오는 근거"
+            }
+          ],
+          [
+            {
+              "cell": "A80",
+              "value": "Height_Lower_to_Cand2"
+            },
+            {
+              "cell": "B80",
+              "value": "하층 통로 → 힌트 구역 높이차"
+            },
+            {
+              "cell": "C80",
+              "value": "float"
+            },
+            {
+              "cell": "D80",
+              "value": "600"
+            },
+            {
+              "cell": "E80",
+              "value": "uu"
+            },
+            {
+              "cell": "F80",
+              "value": "Z -960 → -1560"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Portfolio02_LevelData_v2.xlsx",
+    "sheets": [
+      {
+        "name": "Level Data",
+        "rows": [
+          [
+            {
+              "cell": "A1",
+              "value": "이름"
+            },
+            {
+              "cell": "B1",
+              "value": "설명"
+            },
+            {
+              "cell": "C1",
+              "value": "타입"
+            },
+            {
+              "cell": "D1",
+              "value": "값"
+            },
+            {
+              "cell": "E1",
+              "value": "단위"
+            },
+            {
+              "cell": "F1",
+              "value": "산출방식"
+            },
+            {
+              "cell": "G1",
+              "value": "비고"
+            }
+          ],
+          [
+            {
+              "cell": "A2",
+              "value": "[카메라]"
+            }
+          ],
+          [
+            {
+              "cell": "A3",
+              "value": "Camera_Projection"
+            },
+            {
+              "cell": "B3",
+              "value": "카메라 투영 방식"
+            },
+            {
+              "cell": "C3",
+              "value": "string"
+            },
+            {
+              "cell": "D3",
+              "value": "Perspective"
+            },
+            {
+              "cell": "E3",
+              "value": "-"
+            },
+            {
+              "cell": "F3",
+              "value": "확정값"
+            },
+            {
+              "cell": "G3",
+              "value": "변경 금지 항목"
+            }
+          ],
+          [
+            {
+              "cell": "A4",
+              "value": "Camera_Pitch"
+            },
+            {
+              "cell": "B4",
+              "value": "카메라 상하 각도"
+            },
+            {
+              "cell": "C4",
+              "value": "float"
+            },
+            {
+              "cell": "D4",
+              "value": "-50"
+            },
+            {
+              "cell": "E4",
+              "value": "도"
+            },
+            {
+              "cell": "F4",
+              "value": "확정값"
+            },
+            {
+              "cell": "G4",
+              "value": "변경 금지 항목"
+            }
+          ],
+          [
+            {
+              "cell": "A5",
+              "value": "Camera_Yaw"
+            },
+            {
+              "cell": "B5",
+              "value": "카메라 좌우 각도"
+            },
+            {
+              "cell": "C5",
+              "value": "float"
+            },
+            {
+              "cell": "D5",
+              "value": "0"
+            },
+            {
+              "cell": "E5",
+              "value": "도"
+            },
+            {
+              "cell": "F5",
+              "value": "확정값"
+            },
+            {
+              "cell": "G5",
+              "value": "화면 오른쪽 = +Y"
+            }
+          ],
+          [
+            {
+              "cell": "A6",
+              "value": "Camera_Distance"
+            },
+            {
+              "cell": "B6",
+              "value": "카메라 거리"
+            },
+            {
+              "cell": "C6",
+              "value": "float"
+            },
+            {
+              "cell": "D6",
+              "value": "2000"
+            },
+            {
+              "cell": "E6",
+              "value": "uu"
+            },
+            {
+              "cell": "F6",
+              "value": "확정값"
+            },
+            {
+              "cell": "G6",
+              "value": "스프링암 길이"
+            }
+          ],
+          [
+            {
+              "cell": "A7",
+              "value": "Camera_FOV"
+            },
+            {
+              "cell": "B7",
+              "value": "시야각"
+            },
+            {
+              "cell": "C7",
+              "value": "float"
+            },
+            {
+              "cell": "D7",
+              "value": "45"
+            },
+            {
+              "cell": "E7",
+              "value": "도"
+            },
+            {
+              "cell": "F7",
+              "value": "확정값"
+            },
+            {
+              "cell": "G7",
+              "value": "수평 기준"
+            }
+          ],
+          [
+            {
+              "cell": "A8",
+              "value": "Camera_View_HalfWidth"
+            },
+            {
+              "cell": "B8",
+              "value": "초점거리에서 수평 가시 반폭"
+            },
+            {
+              "cell": "C8",
+              "value": "float"
+            },
+            {
+              "cell": "D8",
+              "value": "828"
+            },
+            {
+              "cell": "E8",
+              "value": "uu"
+            },
+            {
+              "cell": "F8",
+              "value": "Distance x tan(FOV/2)"
+            },
+            {
+              "cell": "G8",
+              "value": "오브젝트 배치 가시성 판정 기준"
+            }
+          ],
+          [
+            {
+              "cell": "A9",
+              "value": "[플레이어]"
+            }
+          ],
+          [
+            {
+              "cell": "A10",
+              "value": "Player_MaxHealth"
+            },
+            {
+              "cell": "B10",
+              "value": "플레이어 체력"
+            },
+            {
+              "cell": "C10",
+              "value": "float"
+            },
+            {
+              "cell": "D10",
+              "value": "100"
+            },
+            {
+              "cell": "E10",
+              "value": "-"
+            },
+            {
+              "cell": "F10",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A11",
+              "value": "Player_Attack_Damage"
+            },
+            {
+              "cell": "B11",
+              "value": "플레이어 공격력"
+            },
+            {
+              "cell": "C11",
+              "value": "float"
+            },
+            {
+              "cell": "D11",
+              "value": "34"
+            },
+            {
+              "cell": "E11",
+              "value": "-"
+            },
+            {
+              "cell": "F11",
+              "value": "확정값"
+            },
+            {
+              "cell": "G11",
+              "value": "반경 내 다중 타격"
+            }
+          ],
+          [
+            {
+              "cell": "A12",
+              "value": "Player_Attack_Range"
+            },
+            {
+              "cell": "B12",
+              "value": "공격 전방 오프셋"
+            },
+            {
+              "cell": "C12",
+              "value": "float"
+            },
+            {
+              "cell": "D12",
+              "value": "140"
+            },
+            {
+              "cell": "E12",
+              "value": "uu"
+            },
+            {
+              "cell": "F12",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A13",
+              "value": "Player_Attack_Radius"
+            },
+            {
+              "cell": "B13",
+              "value": "공격 판정 반경"
+            },
+            {
+              "cell": "C13",
+              "value": "float"
+            },
+            {
+              "cell": "D13",
+              "value": "170"
+            },
+            {
+              "cell": "E13",
+              "value": "uu"
+            },
+            {
+              "cell": "F13",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A14",
+              "value": "Player_Attack_Cooldown"
+            },
+            {
+              "cell": "B14",
+              "value": "공격 쿨다운"
+            },
+            {
+              "cell": "C14",
+              "value": "float"
+            },
+            {
+              "cell": "D14",
+              "value": "0.35"
+            },
+            {
+              "cell": "E14",
+              "value": "초"
+            },
+            {
+              "cell": "F14",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A15",
+              "value": "Player_Dash_Distance"
+            },
+            {
+              "cell": "B15",
+              "value": "대시 이동 거리"
+            },
+            {
+              "cell": "C15",
+              "value": "float"
+            },
+            {
+              "cell": "D15",
+              "value": "450"
+            },
+            {
+              "cell": "E15",
+              "value": "uu"
+            },
+            {
+              "cell": "F15",
+              "value": "확정값"
+            },
+            {
+              "cell": "G15",
+              "value": "다리 간극 700uu 를 못 넘는 근거"
+            }
+          ],
+          [
+            {
+              "cell": "A16",
+              "value": "Player_Dash_Speed"
+            },
+            {
+              "cell": "B16",
+              "value": "대시 속도"
+            },
+            {
+              "cell": "C16",
+              "value": "float"
+            },
+            {
+              "cell": "D16",
+              "value": "1600"
+            },
+            {
+              "cell": "E16",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F16",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A17",
+              "value": "Player_Dash_Cooldown"
+            },
+            {
+              "cell": "B17",
+              "value": "대시 쿨다운"
+            },
+            {
+              "cell": "C17",
+              "value": "float"
+            },
+            {
+              "cell": "D17",
+              "value": "0.8"
+            },
+            {
+              "cell": "E17",
+              "value": "초"
+            },
+            {
+              "cell": "F17",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A18",
+              "value": "Player_KillZ"
+            },
+            {
+              "cell": "B18",
+              "value": "낙하 사망 높이"
+            },
+            {
+              "cell": "C18",
+              "value": "float"
+            },
+            {
+              "cell": "D18",
+              "value": "-1750"
+            },
+            {
+              "cell": "E18",
+              "value": "uu"
+            },
+            {
+              "cell": "F18",
+              "value": "최저 바닥 하단(-1660)보다 아래"
+            },
+            {
+              "cell": "G18",
+              "value": "높이만으로 판정, XY 판정 없음"
+            }
+          ],
+          [
+            {
+              "cell": "A19",
+              "value": "[다리 / 중간보스 문]"
+            }
+          ],
+          [
+            {
+              "cell": "A20",
+              "value": "Bridge_Monster_Speed"
+            },
+            {
+              "cell": "B20",
+              "value": "다리 몬스터 이동속도"
+            },
+            {
+              "cell": "C20",
+              "value": "float"
+            },
+            {
+              "cell": "D20",
+              "value": "410"
+            },
+            {
+              "cell": "E20",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F20",
+              "value": "(거리 1860 - 공격사거리 150) / 목표 도착 4초"
+            },
+            {
+              "cell": "G20",
+              "value": "실측 250 에서 6.62초 나온 값으로 역산해 확정"
+            }
+          ],
+          [
+            {
+              "cell": "A21",
+              "value": "Bridge_Door_dist"
+            },
+            {
+              "cell": "B21",
+              "value": "스폰 지점 → 문 거리"
+            },
+            {
+              "cell": "C21",
+              "value": "float"
+            },
+            {
+              "cell": "D21",
+              "value": "1860"
+            },
+            {
+              "cell": "E21",
+              "value": "uu"
+            },
+            {
+              "cell": "F21",
+              "value": "스폰박스 서쪽면 X4440 → 문 X6300"
+            },
+            {
+              "cell": "G21",
+              "value": "2D 직선거리"
+            }
+          ],
+          [
+            {
+              "cell": "A22",
+              "value": "Monster_Moving_Sec"
+            },
+            {
+              "cell": "B22",
+              "value": "몬스터 도착 시간"
+            },
+            {
+              "cell": "C22",
+              "value": "float"
+            },
+            {
+              "cell": "D22",
+              "value": "4.17"
+            },
+            {
+              "cell": "E22",
+              "value": "초"
+            },
+            {
+              "cell": "F22",
+              "value": "(1860 - 150) / 410"
+            },
+            {
+              "cell": "G22",
+              "value": "설계 목표는 4초. 실제 계산값 4.17초"
+            }
+          ],
+          [
+            {
+              "cell": "A23",
+              "value": "Monster_FirstHit_Sec"
+            },
+            {
+              "cell": "B23",
+              "value": "스폰→첫 피격 실측"
+            },
+            {
+              "cell": "C23",
+              "value": "float"
+            },
+            {
+              "cell": "D23",
+              "value": "2.78"
+            },
+            {
+              "cell": "E23",
+              "value": "초"
+            },
+            {
+              "cell": "F23",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G23",
+              "value": "플레이어가 문 앞 정지가 아니라 이동 중이던 값. 참고용"
+            }
+          ],
+          [
+            {
+              "cell": "A24",
+              "value": "Interection_Sec"
+            },
+            {
+              "cell": "B24",
+              "value": "문 상호작용 시간"
+            },
+            {
+              "cell": "C24",
+              "value": "float"
+            },
+            {
+              "cell": "D24",
+              "value": "5"
+            },
+            {
+              "cell": "E24",
+              "value": "초"
+            },
+            {
+              "cell": "F24",
+              "value": "역산"
+            },
+            {
+              "cell": "G24",
+              "value": "몬스터 이동속도와 거리를 통해 역산. 도착 4.17초 < 홀드 5초"
+            }
+          ],
+          [
+            {
+              "cell": "A25",
+              "value": "Bridge_Monster_respawn"
+            },
+            {
+              "cell": "B25",
+              "value": "다리 몬스터 리스폰 시간"
+            },
+            {
+              "cell": "C25",
+              "value": "float"
+            },
+            {
+              "cell": "D25",
+              "value": "0.1"
+            },
+            {
+              "cell": "E25",
+              "value": "초"
+            },
+            {
+              "cell": "F25",
+              "value": "확정값"
+            },
+            {
+              "cell": "G25",
+              "value": "사망 했을 시에만 리스폰"
+            }
+          ],
+          [
+            {
+              "cell": "A26",
+              "value": "Bridge_Monster_Count"
+            },
+            {
+              "cell": "B26",
+              "value": "동시 등장 몬스터 수"
+            },
+            {
+              "cell": "C26",
+              "value": "int"
+            },
+            {
+              "cell": "D26",
+              "value": "1"
+            },
+            {
+              "cell": "E26",
+              "value": "마리"
+            },
+            {
+              "cell": "F26",
+              "value": "확정값"
+            },
+            {
+              "cell": "G26",
+              "value": "1마리씩 연속 리스폰"
+            }
+          ],
+          [
+            {
+              "cell": "A27",
+              "value": "Bridge_Monster_HP"
+            },
+            {
+              "cell": "B27",
+              "value": "다리 몬스터 체력"
+            },
+            {
+              "cell": "C27",
+              "value": "float"
+            },
+            {
+              "cell": "D27",
+              "value": "34"
+            },
+            {
+              "cell": "E27",
+              "value": "-"
+            },
+            {
+              "cell": "F27",
+              "value": "확정값"
+            },
+            {
+              "cell": "G27",
+              "value": "플레이어 공격 1회로 처치"
+            }
+          ],
+          [
+            {
+              "cell": "A28",
+              "value": "Bridge_Monster_Damage"
+            },
+            {
+              "cell": "B28",
+              "value": "다리 몬스터 공격력"
+            },
+            {
+              "cell": "C28",
+              "value": "float"
+            },
+            {
+              "cell": "D28",
+              "value": "10"
+            },
+            {
+              "cell": "E28",
+              "value": "-"
+            },
+            {
+              "cell": "F28",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A29",
+              "value": "Bridge_Monster_AttackDelay"
+            },
+            {
+              "cell": "B29",
+              "value": "몬스터 공격 간격"
+            },
+            {
+              "cell": "C29",
+              "value": "float"
+            },
+            {
+              "cell": "D29",
+              "value": "1.5"
+            },
+            {
+              "cell": "E29",
+              "value": "초"
+            },
+            {
+              "cell": "F29",
+              "value": "확정값"
+            },
+            {
+              "cell": "G29",
+              "value": "전 몬스터 공통"
+            }
+          ],
+          [
+            {
+              "cell": "A30",
+              "value": "Bridge_Monster_AttackRange"
+            },
+            {
+              "cell": "B30",
+              "value": "몬스터 공격 사거리"
+            },
+            {
+              "cell": "C30",
+              "value": "float"
+            },
+            {
+              "cell": "D30",
+              "value": "150"
+            },
+            {
+              "cell": "E30",
+              "value": "uu"
+            },
+            {
+              "cell": "F30",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A31",
+              "value": "Bridge_ArmLine_X"
+            },
+            {
+              "cell": "B31",
+              "value": "추격 발동 X 좌표"
+            },
+            {
+              "cell": "C31",
+              "value": "float"
+            },
+            {
+              "cell": "D31",
+              "value": "4760"
+            },
+            {
+              "cell": "E31",
+              "value": "uu"
+            },
+            {
+              "cell": "F31",
+              "value": "스폰박스 동쪽면"
+            },
+            {
+              "cell": "G31",
+              "value": "플레이어가 이 X 를 넘으면 스폰 시작"
+            }
+          ],
+          [
+            {
+              "cell": "A32",
+              "value": "Bridge_Des_Attack"
+            },
+            {
+              "cell": "B32",
+              "value": "다리 파괴시 피격 횟수"
+            },
+            {
+              "cell": "C32",
+              "value": "int"
+            },
+            {
+              "cell": "D32",
+              "value": "8"
+            },
+            {
+              "cell": "E32",
+              "value": "회"
+            },
+            {
+              "cell": "F32",
+              "value": "확정값"
+            },
+            {
+              "cell": "G32",
+              "value": "HP 없음. 타격 횟수만 카운트"
+            }
+          ],
+          [
+            {
+              "cell": "A33",
+              "value": "Bridge_Break_Side"
+            },
+            {
+              "cell": "B33",
+              "value": "파괴 가능 방향"
+            },
+            {
+              "cell": "C33",
+              "value": "string"
+            },
+            {
+              "cell": "D33",
+              "value": "동쪽만"
+            },
+            {
+              "cell": "E33",
+              "value": "-"
+            },
+            {
+              "cell": "F33",
+              "value": "확정값"
+            },
+            {
+              "cell": "G33",
+              "value": "발밑에서 무너뜨려 고립되는 것 방지"
+            }
+          ],
+          [
+            {
+              "cell": "A34",
+              "value": "Bridge_Break_Gap"
+            },
+            {
+              "cell": "B34",
+              "value": "파괴 후 간극"
+            },
+            {
+              "cell": "C34",
+              "value": "float"
+            },
+            {
+              "cell": "D34",
+              "value": "700"
+            },
+            {
+              "cell": "E34",
+              "value": "uu"
+            },
+            {
+              "cell": "F34",
+              "value": "약한 구간 X4900~5600"
+            },
+            {
+              "cell": "G34",
+              "value": "대시 450uu 로 도약 불가"
+            }
+          ],
+          [
+            {
+              "cell": "A35",
+              "value": "Bridge_Drop_Distance"
+            },
+            {
+              "cell": "B35",
+              "value": "파괴 낙하 거리"
+            },
+            {
+              "cell": "C35",
+              "value": "float"
+            },
+            {
+              "cell": "D35",
+              "value": "1400"
+            },
+            {
+              "cell": "E35",
+              "value": "uu"
+            },
+            {
+              "cell": "F35",
+              "value": "확정값"
+            },
+            {
+              "cell": "G35",
+              "value": "연출용"
+            }
+          ],
+          [
+            {
+              "cell": "A36",
+              "value": "Bridge_Drop_Duration"
+            },
+            {
+              "cell": "B36",
+              "value": "파괴 낙하 시간"
+            },
+            {
+              "cell": "C36",
+              "value": "float"
+            },
+            {
+              "cell": "D36",
+              "value": "0.6"
+            },
+            {
+              "cell": "E36",
+              "value": "초"
+            },
+            {
+              "cell": "F36",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A37",
+              "value": "Bridge_Restore_Sec"
+            },
+            {
+              "cell": "B37",
+              "value": "다리 복구 시간"
+            },
+            {
+              "cell": "C37",
+              "value": "float"
+            },
+            {
+              "cell": "D37",
+              "value": "0"
+            },
+            {
+              "cell": "E37",
+              "value": "초"
+            },
+            {
+              "cell": "F37",
+              "value": "확정값"
+            },
+            {
+              "cell": "G37",
+              "value": "레버 E 입력 시 즉시 복구"
+            }
+          ],
+          [
+            {
+              "cell": "A38",
+              "value": "Door_Interact_Radius"
+            },
+            {
+              "cell": "B38",
+              "value": "문 상호작용 반경"
+            },
+            {
+              "cell": "C38",
+              "value": "float"
+            },
+            {
+              "cell": "D38",
+              "value": "250"
+            },
+            {
+              "cell": "E38",
+              "value": "uu"
+            },
+            {
+              "cell": "F38",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A39",
+              "value": "Door_Open_Distance"
+            },
+            {
+              "cell": "B39",
+              "value": "문 하강 거리"
+            },
+            {
+              "cell": "C39",
+              "value": "float"
+            },
+            {
+              "cell": "D39",
+              "value": "620"
+            },
+            {
+              "cell": "E39",
+              "value": "uu"
+            },
+            {
+              "cell": "F39",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A40",
+              "value": "Door_Open_Duration"
+            },
+            {
+              "cell": "B40",
+              "value": "문 개방 시간"
+            },
+            {
+              "cell": "C40",
+              "value": "float"
+            },
+            {
+              "cell": "D40",
+              "value": "1.0"
+            },
+            {
+              "cell": "E40",
+              "value": "초"
+            },
+            {
+              "cell": "F40",
+              "value": "확정값"
+            },
+            {
+              "cell": "G40",
+              "value": "하강 + 페이드 동시"
+            }
+          ],
+          [
+            {
+              "cell": "A41",
+              "value": "[중간보스 / 계단]"
+            }
+          ],
+          [
+            {
+              "cell": "A42",
+              "value": "MidBoss_HP"
+            },
+            {
+              "cell": "B42",
+              "value": "중간보스 체력"
+            },
+            {
+              "cell": "C42",
+              "value": "float"
+            },
+            {
+              "cell": "D42",
+              "value": "100"
+            },
+            {
+              "cell": "E42",
+              "value": "-"
+            },
+            {
+              "cell": "F42",
+              "value": "실효값 (선언값 34)"
+            },
+            {
+              "cell": "G42",
+              "value": "SpawnActor 후 MaxHealth 를 대입해 BeginPlay 가 이미 100 을 복사함. 선언 34 는 클램프 상한으로만 작동"
+            }
+          ],
+          [
+            {
+              "cell": "A43",
+              "value": "MidBoss_Speed"
+            },
+            {
+              "cell": "B43",
+              "value": "중간보스 이동속도"
+            },
+            {
+              "cell": "C43",
+              "value": "float"
+            },
+            {
+              "cell": "D43",
+              "value": "120"
+            },
+            {
+              "cell": "E43",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F43",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A44",
+              "value": "MidBoss_Damage"
+            },
+            {
+              "cell": "B44",
+              "value": "중간보스 공격력"
+            },
+            {
+              "cell": "C44",
+              "value": "float"
+            },
+            {
+              "cell": "D44",
+              "value": "0"
+            },
+            {
+              "cell": "E44",
+              "value": "-"
+            },
+            {
+              "cell": "F44",
+              "value": "확정값"
+            },
+            {
+              "cell": "G44",
+              "value": "전투 난이도 배제 목적"
+            }
+          ],
+          [
+            {
+              "cell": "A45",
+              "value": "MidBoss_HitsToKill"
+            },
+            {
+              "cell": "B45",
+              "value": "처치 필요 타격 수"
+            },
+            {
+              "cell": "C45",
+              "value": "int"
+            },
+            {
+              "cell": "D45",
+              "value": "2"
+            },
+            {
+              "cell": "E45",
+              "value": "회"
+            },
+            {
+              "cell": "F45",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G45",
+              "value": "1타에서 클램프가 100을 34로 내리고 2타에 사망. 의도된 값이 아니라 스폰 순서 문제의 결과"
+            }
+          ],
+          [
+            {
+              "cell": "A46",
+              "value": "Stair_Auto_Delay"
+            },
+            {
+              "cell": "B46",
+              "value": "처치 후 계단 자동 작동 지연"
+            },
+            {
+              "cell": "C46",
+              "value": "float"
+            },
+            {
+              "cell": "D46",
+              "value": "2.0"
+            },
+            {
+              "cell": "E46",
+              "value": "초"
+            },
+            {
+              "cell": "F46",
+              "value": "확정값"
+            },
+            {
+              "cell": "G46",
+              "value": "레버 조작 불필요"
+            }
+          ],
+          [
+            {
+              "cell": "A47",
+              "value": "Stair_Transition_Sec"
+            },
+            {
+              "cell": "B47",
+              "value": "계단 변화 시간"
+            },
+            {
+              "cell": "C47",
+              "value": "float"
+            },
+            {
+              "cell": "D47",
+              "value": "1.25"
+            },
+            {
+              "cell": "E47",
+              "value": "초"
+            },
+            {
+              "cell": "F47",
+              "value": "확정값"
+            },
+            {
+              "cell": "G47",
+              "value": "차단판 페이드 아웃"
+            }
+          ],
+          [
+            {
+              "cell": "A48",
+              "value": "Stair_Rise_Per_Step"
+            },
+            {
+              "cell": "B48",
+              "value": "계단 한 칸 상승"
+            },
+            {
+              "cell": "C48",
+              "value": "float"
+            },
+            {
+              "cell": "D48",
+              "value": "40"
+            },
+            {
+              "cell": "E48",
+              "value": "uu"
+            },
+            {
+              "cell": "F48",
+              "value": "확정값"
+            },
+            {
+              "cell": "G48",
+              "value": "Max Step Height 45 제약"
+            }
+          ],
+          [
+            {
+              "cell": "A49",
+              "value": "Stair_Run_Per_Step"
+            },
+            {
+              "cell": "B49",
+              "value": "계단 한 칸 진행"
+            },
+            {
+              "cell": "C49",
+              "value": "float"
+            },
+            {
+              "cell": "D49",
+              "value": "109"
+            },
+            {
+              "cell": "E49",
+              "value": "uu"
+            },
+            {
+              "cell": "F49",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A50",
+              "value": "Stair_Slope"
+            },
+            {
+              "cell": "B50",
+              "value": "계단 경사"
+            },
+            {
+              "cell": "C50",
+              "value": "float"
+            },
+            {
+              "cell": "D50",
+              "value": "20.2"
+            },
+            {
+              "cell": "E50",
+              "value": "도"
+            },
+            {
+              "cell": "F50",
+              "value": "atan(40/109)"
+            },
+            {
+              "cell": "G50",
+              "value": "전 계단 공통"
+            }
+          ],
+          [
+            {
+              "cell": "A51",
+              "value": "StairA_Steps"
+            },
+            {
+              "cell": "B51",
+              "value": "상부 계단 칸수"
+            },
+            {
+              "cell": "C51",
+              "value": "int"
+            },
+            {
+              "cell": "D51",
+              "value": "11"
+            },
+            {
+              "cell": "E51",
+              "value": "칸"
+            },
+            {
+              "cell": "F51",
+              "value": "확정값"
+            },
+            {
+              "cell": "G51",
+              "value": "총 400uu 하강"
+            }
+          ],
+          [
+            {
+              "cell": "A52",
+              "value": "StairB_Steps"
+            },
+            {
+              "cell": "B52",
+              "value": "메인 하강 계단 칸수"
+            },
+            {
+              "cell": "C52",
+              "value": "int"
+            },
+            {
+              "cell": "D52",
+              "value": "19"
+            },
+            {
+              "cell": "E52",
+              "value": "칸"
+            },
+            {
+              "cell": "F52",
+              "value": "확정값"
+            },
+            {
+              "cell": "G52",
+              "value": "총 720uu 하강. 180도 꺾임 폐기 후 직선"
+            }
+          ],
+          [
+            {
+              "cell": "A53",
+              "value": "StairD_Steps"
+            },
+            {
+              "cell": "B53",
+              "value": "Candidate2 하강 계단 칸수"
+            },
+            {
+              "cell": "C53",
+              "value": "int"
+            },
+            {
+              "cell": "D53",
+              "value": "15"
+            },
+            {
+              "cell": "E53",
+              "value": "칸"
+            },
+            {
+              "cell": "F53",
+              "value": "확정값"
+            },
+            {
+              "cell": "G53",
+              "value": "총 560uu 하강"
+            }
+          ],
+          [
+            {
+              "cell": "A54",
+              "value": "[힌트 / 최종보스 퍼즐]"
+            }
+          ],
+          [
+            {
+              "cell": "A55",
+              "value": "Hint_Color_Count"
+            },
+            {
+              "cell": "B55",
+              "value": "힌트 색 개수"
+            },
+            {
+              "cell": "C55",
+              "value": "int"
+            },
+            {
+              "cell": "D55",
+              "value": "3"
+            },
+            {
+              "cell": "E55",
+              "value": "개"
+            },
+            {
+              "cell": "F55",
+              "value": "확정값"
+            },
+            {
+              "cell": "G55",
+              "value": "현재값. 5개 이상 필요 (아래 참조)"
+            }
+          ],
+          [
+            {
+              "cell": "A56",
+              "value": "Hint_Answer"
+            },
+            {
+              "cell": "B56",
+              "value": "정답 순서"
+            },
+            {
+              "cell": "C56",
+              "value": "string"
+            },
+            {
+              "cell": "D56",
+              "value": "Blue-Red-Green"
+            },
+            {
+              "cell": "E56",
+              "value": "-"
+            },
+            {
+              "cell": "F56",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A57",
+              "value": "Puzzle_Input_Steps"
+            },
+            {
+              "cell": "B57",
+              "value": "입력 단계 수"
+            },
+            {
+              "cell": "C57",
+              "value": "int"
+            },
+            {
+              "cell": "D57",
+              "value": "3"
+            },
+            {
+              "cell": "E57",
+              "value": "단계"
+            },
+            {
+              "cell": "F57",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A58",
+              "value": "Pad_Radius"
+            },
+            {
+              "cell": "B58",
+              "value": "입력 패드 인식 반경"
+            },
+            {
+              "cell": "C58",
+              "value": "float"
+            },
+            {
+              "cell": "D58",
+              "value": "220"
+            },
+            {
+              "cell": "E58",
+              "value": "uu"
+            },
+            {
+              "cell": "F58",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A59",
+              "value": "Pad_To_Door_dist"
+            },
+            {
+              "cell": "B59",
+              "value": "입력장치 → 보스문 거리"
+            },
+            {
+              "cell": "C59",
+              "value": "float"
+            },
+            {
+              "cell": "D59",
+              "value": "475"
+            },
+            {
+              "cell": "E59",
+              "value": "uu"
+            },
+            {
+              "cell": "F59",
+              "value": "패드 X5375 → 문 X5850"
+            }
+          ],
+          [
+            {
+              "cell": "A60",
+              "value": "Wrong_Enemy_Count"
+            },
+            {
+              "cell": "B60",
+              "value": "오답 시 등장 몬스터 수"
+            },
+            {
+              "cell": "C60",
+              "value": "int"
+            },
+            {
+              "cell": "D60",
+              "value": "3"
+            },
+            {
+              "cell": "E60",
+              "value": "마리"
+            },
+            {
+              "cell": "F60",
+              "value": "확정값"
+            },
+            {
+              "cell": "G60",
+              "value": "스폰 지점당 1마리"
+            }
+          ],
+          [
+            {
+              "cell": "A61",
+              "value": "Wrong_Enemy_Speed"
+            },
+            {
+              "cell": "B61",
+              "value": "오답 몬스터 이동속도"
+            },
+            {
+              "cell": "C61",
+              "value": "float"
+            },
+            {
+              "cell": "D61",
+              "value": "410"
+            },
+            {
+              "cell": "E61",
+              "value": "uu/s"
+            },
+            {
+              "cell": "F61",
+              "value": "확정값"
+            },
+            {
+              "cell": "G61",
+              "value": "다리 몬스터와 통일"
+            }
+          ],
+          [
+            {
+              "cell": "A62",
+              "value": "Wrong_Enemy_HP"
+            },
+            {
+              "cell": "B62",
+              "value": "오답 몬스터 체력"
+            },
+            {
+              "cell": "C62",
+              "value": "float"
+            },
+            {
+              "cell": "D62",
+              "value": "34"
+            },
+            {
+              "cell": "E62",
+              "value": "-"
+            },
+            {
+              "cell": "F62",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A63",
+              "value": "Wrong_Enemy_Damage"
+            },
+            {
+              "cell": "B63",
+              "value": "오답 몬스터 공격력"
+            },
+            {
+              "cell": "C63",
+              "value": "float"
+            },
+            {
+              "cell": "D63",
+              "value": "10"
+            },
+            {
+              "cell": "E63",
+              "value": "-"
+            },
+            {
+              "cell": "F63",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A64",
+              "value": "Wrong_Spawn_dist_Min"
+            },
+            {
+              "cell": "B64",
+              "value": "입력장치 → 최근접 스폰 거리"
+            },
+            {
+              "cell": "C64",
+              "value": "float"
+            },
+            {
+              "cell": "D64",
+              "value": "2401"
+            },
+            {
+              "cell": "E64",
+              "value": "uu"
+            },
+            {
+              "cell": "F64",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G64",
+              "value": "(3000, 500)"
+            }
+          ],
+          [
+            {
+              "cell": "A65",
+              "value": "Wrong_Spawn_dist_Max"
+            },
+            {
+              "cell": "B65",
+              "value": "입력장치 → 최원거리 스폰 거리"
+            },
+            {
+              "cell": "C65",
+              "value": "float"
+            },
+            {
+              "cell": "D65",
+              "value": "2892"
+            },
+            {
+              "cell": "E65",
+              "value": "uu"
+            },
+            {
+              "cell": "F65",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G65",
+              "value": "(3000, -1500)"
+            }
+          ],
+          [
+            {
+              "cell": "A66",
+              "value": "Wrong_Arrival_Sec_Min"
+            },
+            {
+              "cell": "B66",
+              "value": "최근접 몬스터 도착 시간"
+            },
+            {
+              "cell": "C66",
+              "value": "float"
+            },
+            {
+              "cell": "D66",
+              "value": "5.9"
+            },
+            {
+              "cell": "E66",
+              "value": "초"
+            },
+            {
+              "cell": "F66",
+              "value": "2401 / 410"
+            }
+          ],
+          [
+            {
+              "cell": "A67",
+              "value": "Wrong_Arrival_Sec_Max"
+            },
+            {
+              "cell": "B67",
+              "value": "최원거리 몬스터 도착 시간"
+            },
+            {
+              "cell": "C67",
+              "value": "float"
+            },
+            {
+              "cell": "D67",
+              "value": "7.1"
+            },
+            {
+              "cell": "E67",
+              "value": "초"
+            },
+            {
+              "cell": "F67",
+              "value": "2892 / 410"
+            }
+          ],
+          [
+            {
+              "cell": "A68",
+              "value": "Wrong_FirstContact_Sec"
+            },
+            {
+              "cell": "B68",
+              "value": "오답 → 첫 피격"
+            },
+            {
+              "cell": "C68",
+              "value": "float"
+            },
+            {
+              "cell": "D68",
+              "value": "3.95"
+            },
+            {
+              "cell": "E68",
+              "value": "초"
+            },
+            {
+              "cell": "F68",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G68",
+              "value": "플레이어가 몬스터 쪽으로 이동한 값"
+            }
+          ],
+          [
+            {
+              "cell": "A69",
+              "value": "Wrong_Retry_Sec"
+            },
+            {
+              "cell": "B69",
+              "value": "오답 → 재입력 가능 (오답 기믹 처벌)"
+            },
+            {
+              "cell": "C69",
+              "value": "float"
+            },
+            {
+              "cell": "D69",
+              "value": "5.32"
+            },
+            {
+              "cell": "E69",
+              "value": "초"
+            },
+            {
+              "cell": "F69",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G69",
+              "value": "오답 1회로 발생하는 순수 처벌. 색 개수 산정은 이 값 기준"
+            }
+          ],
+          [
+            {
+              "cell": "A70",
+              "value": "Wrong_Hardlock_Limit"
+            },
+            {
+              "cell": "B70",
+              "value": "오답 전투 강제 해제 시간"
+            },
+            {
+              "cell": "C70",
+              "value": "float"
+            },
+            {
+              "cell": "D70",
+              "value": "60"
+            },
+            {
+              "cell": "E70",
+              "value": "초"
+            },
+            {
+              "cell": "F70",
+              "value": "확정값"
+            },
+            {
+              "cell": "G70",
+              "value": "도달 불가 몬스터로 인한 하드락 방지"
+            }
+          ],
+          [
+            {
+              "cell": "A71",
+              "value": "FinalDoor_Open_Duration"
+            },
+            {
+              "cell": "B71",
+              "value": "최종보스 문 개방 시간"
+            },
+            {
+              "cell": "C71",
+              "value": "float"
+            },
+            {
+              "cell": "D71",
+              "value": "1.0"
+            },
+            {
+              "cell": "E71",
+              "value": "초"
+            },
+            {
+              "cell": "F71",
+              "value": "확정값"
+            }
+          ],
+          [
+            {
+              "cell": "A72",
+              "value": "[전체 플레이 - PIE 실측]"
+            }
+          ],
+          [
+            {
+              "cell": "A73",
+              "value": "Run_A_Time"
+            },
+            {
+              "cell": "B73",
+              "value": "A 정답 경로 총 시간"
+            },
+            {
+              "cell": "C73",
+              "value": "float"
+            },
+            {
+              "cell": "D73",
+              "value": "44.52"
+            },
+            {
+              "cell": "E73",
+              "value": "초"
+            },
+            {
+              "cell": "F73",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G73",
+              "value": "힌트 확인 후 1회 정답"
+            }
+          ],
+          [
+            {
+              "cell": "A74",
+              "value": "Run_A_Dist"
+            },
+            {
+              "cell": "B74",
+              "value": "A 정답 경로 총 이동거리"
+            },
+            {
+              "cell": "C74",
+              "value": "float"
+            },
+            {
+              "cell": "D74",
+              "value": "18333"
+            },
+            {
+              "cell": "E74",
+              "value": "uu"
+            },
+            {
+              "cell": "F74",
+              "value": "PIE 실측"
+            }
+          ],
+          [
+            {
+              "cell": "A75",
+              "value": "Run_B_Time"
+            },
+            {
+              "cell": "B75",
+              "value": "B 오답 복구 경로 총 시간"
+            },
+            {
+              "cell": "C75",
+              "value": "float"
+            },
+            {
+              "cell": "D75",
+              "value": "57.04"
+            },
+            {
+              "cell": "E75",
+              "value": "초"
+            },
+            {
+              "cell": "F75",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G75",
+              "value": "오답 1회 발생"
+            }
+          ],
+          [
+            {
+              "cell": "A76",
+              "value": "Run_B_Dist"
+            },
+            {
+              "cell": "B76",
+              "value": "B 오답 복구 경로 총 이동거리"
+            },
+            {
+              "cell": "C76",
+              "value": "float"
+            },
+            {
+              "cell": "D76",
+              "value": "21579"
+            },
+            {
+              "cell": "E76",
+              "value": "uu"
+            },
+            {
+              "cell": "F76",
+              "value": "PIE 실측"
+            }
+          ],
+          [
+            {
+              "cell": "A77",
+              "value": "Run_C_Time"
+            },
+            {
+              "cell": "B77",
+              "value": "C 레버 복구 경로 총 시간"
+            },
+            {
+              "cell": "C77",
+              "value": "float"
+            },
+            {
+              "cell": "D77",
+              "value": "64.08"
+            },
+            {
+              "cell": "E77",
+              "value": "초"
+            },
+            {
+              "cell": "F77",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G77",
+              "value": "다리 복구 후 힌트 재확인"
+            }
+          ],
+          [
+            {
+              "cell": "A78",
+              "value": "Run_C_Dist"
+            },
+            {
+              "cell": "B78",
+              "value": "C 레버 복구 경로 총 이동거리"
+            },
+            {
+              "cell": "C78",
+              "value": "float"
+            },
+            {
+              "cell": "D78",
+              "value": "29894"
+            },
+            {
+              "cell": "E78",
+              "value": "uu"
+            },
+            {
+              "cell": "F78",
+              "value": "PIE 실측"
+            }
+          ],
+          [
+            {
+              "cell": "A79",
+              "value": "Run_B_Extra_Time"
+            },
+            {
+              "cell": "B79",
+              "value": "B 경로 전체 추가 비용"
+            },
+            {
+              "cell": "C79",
+              "value": "float"
+            },
+            {
+              "cell": "D79",
+              "value": "12.52"
+            },
+            {
+              "cell": "E79",
+              "value": "초"
+            },
+            {
+              "cell": "F79",
+              "value": "B - A"
+            },
+            {
+              "cell": "G79",
+              "value": "오답 처벌만이 아님. 전투 6.01 + 정보 미인지로 헤맨 이동 5.76 + 재입력 0.47 의 합"
+            }
+          ],
+          [
+            {
+              "cell": "A80",
+              "value": "Run_C_Extra_Time"
+            },
+            {
+              "cell": "B80",
+              "value": "C 경로 전체 추가 비용"
+            },
+            {
+              "cell": "C80",
+              "value": "float"
+            },
+            {
+              "cell": "D80",
+              "value": "19.56"
+            },
+            {
+              "cell": "E80",
+              "value": "초"
+            },
+            {
+              "cell": "F80",
+              "value": "C - A"
+            },
+            {
+              "cell": "G80",
+              "value": "레버 왕복 이동 비용. 오답 처벌과 직접 비교하지 말 것"
+            }
+          ],
+          [
+            {
+              "cell": "A81",
+              "value": "Run_C_Extra_Dist"
+            },
+            {
+              "cell": "B81",
+              "value": "레버 복구 추가 이동거리"
+            },
+            {
+              "cell": "C81",
+              "value": "float"
+            },
+            {
+              "cell": "D81",
+              "value": "11561"
+            },
+            {
+              "cell": "E81",
+              "value": "uu"
+            },
+            {
+              "cell": "F81",
+              "value": "C - A"
+            },
+            {
+              "cell": "G81",
+              "value": "공간 거리를 실패 비용으로 사용한 사례"
+            }
+          ],
+          [
+            {
+              "cell": "A82",
+              "value": "Wrong_Search_Sec"
+            },
+            {
+              "cell": "B82",
+              "value": "정보 미인지로 헤맨 이동 시간"
+            },
+            {
+              "cell": "C82",
+              "value": "float"
+            },
+            {
+              "cell": "D82",
+              "value": "5.76"
+            },
+            {
+              "cell": "E82",
+              "value": "초"
+            },
+            {
+              "cell": "F82",
+              "value": "B 이동 15.56 - A 이동 9.80"
+            },
+            {
+              "cell": "G82",
+              "value": "오답 기믹과 무관. 정보를 모른다는 사실 자체의 비용. A 이동값이 역산이라 불확실"
+            }
+          ],
+          [
+            {
+              "cell": "A83",
+              "value": "Lower_Travel_A"
+            },
+            {
+              "cell": "B83",
+              "value": "A 계단 → 첫 입력 이동"
+            },
+            {
+              "cell": "C83",
+              "value": "float"
+            },
+            {
+              "cell": "D83",
+              "value": "9.80"
+            },
+            {
+              "cell": "E83",
+              "value": "초"
+            },
+            {
+              "cell": "F83",
+              "value": "A 하층 13.84 - 입력구간 4.04"
+            },
+            {
+              "cell": "G83",
+              "value": "역산값. 첫 입력 마일스톤 없음"
+            }
+          ],
+          [
+            {
+              "cell": "A84",
+              "value": "Lower_Travel_B"
+            },
+            {
+              "cell": "B84",
+              "value": "B 계단 → 첫 입력 이동"
+            },
+            {
+              "cell": "C84",
+              "value": "float"
+            },
+            {
+              "cell": "D84",
+              "value": "15.56"
+            },
+            {
+              "cell": "E84",
+              "value": "초"
+            },
+            {
+              "cell": "F84",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G84",
+              "value": "WRONG ANSWER #1 마일스톤 = 첫 패드 입력"
+            }
+          ],
+          [
+            {
+              "cell": "A85",
+              "value": "Lower_Section_A"
+            },
+            {
+              "cell": "B85",
+              "value": "A 하층 구간 시간"
+            },
+            {
+              "cell": "C85",
+              "value": "float"
+            },
+            {
+              "cell": "D85",
+              "value": "16.79"
+            },
+            {
+              "cell": "E85",
+              "value": "초"
+            },
+            {
+              "cell": "F85",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G85",
+              "value": "계단 하강 → END"
+            }
+          ],
+          [
+            {
+              "cell": "A86",
+              "value": "Lower_Section_B"
+            },
+            {
+              "cell": "B86",
+              "value": "B 하층 구간 시간"
+            },
+            {
+              "cell": "C86",
+              "value": "float"
+            },
+            {
+              "cell": "D86",
+              "value": "29.26"
+            },
+            {
+              "cell": "E86",
+              "value": "초"
+            },
+            {
+              "cell": "F86",
+              "value": "PIE 실측"
+            }
+          ],
+          [
+            {
+              "cell": "A87",
+              "value": "Lower_Section_C"
+            },
+            {
+              "cell": "B87",
+              "value": "C 하층 구간 시간"
+            },
+            {
+              "cell": "C87",
+              "value": "float"
+            },
+            {
+              "cell": "D87",
+              "value": "37.56"
+            },
+            {
+              "cell": "E87",
+              "value": "초"
+            },
+            {
+              "cell": "F87",
+              "value": "PIE 실측"
+            }
+          ],
+          [
+            {
+              "cell": "A88",
+              "value": "[공간 치수]"
+            }
+          ],
+          [
+            {
+              "cell": "A89",
+              "value": "Space_Cand1_Size"
+            },
+            {
+              "cell": "B89",
+              "value": "최종보스 구역 크기"
+            },
+            {
+              "cell": "C89",
+              "value": "string"
+            },
+            {
+              "cell": "D89",
+              "value": "3000 x 2525"
+            },
+            {
+              "cell": "E89",
+              "value": "uu"
+            },
+            {
+              "cell": "F89",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G89",
+              "value": "거리를 실패 비용으로 쓰는 공간"
+            }
+          ],
+          [
+            {
+              "cell": "A90",
+              "value": "Space_Cand2_Size"
+            },
+            {
+              "cell": "B90",
+              "value": "힌트 구역 크기"
+            },
+            {
+              "cell": "C90",
+              "value": "string"
+            },
+            {
+              "cell": "D90",
+              "value": "1350 x 1330"
+            },
+            {
+              "cell": "E90",
+              "value": "uu"
+            },
+            {
+              "cell": "F90",
+              "value": "좌표 계산"
+            }
+          ],
+          [
+            {
+              "cell": "A91",
+              "value": "Space_Corridor_Width"
+            },
+            {
+              "cell": "B91",
+              "value": "하층 통로 폭"
+            },
+            {
+              "cell": "C91",
+              "value": "float"
+            },
+            {
+              "cell": "D91",
+              "value": "690"
+            },
+            {
+              "cell": "E91",
+              "value": "uu"
+            },
+            {
+              "cell": "F91",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G91",
+              "value": "두 방 사이 순 간격"
+            }
+          ],
+          [
+            {
+              "cell": "A92",
+              "value": "Space_Bridge_Width"
+            },
+            {
+              "cell": "B92",
+              "value": "다리 폭"
+            },
+            {
+              "cell": "C92",
+              "value": "float"
+            },
+            {
+              "cell": "D92",
+              "value": "800"
+            },
+            {
+              "cell": "E92",
+              "value": "uu"
+            },
+            {
+              "cell": "F92",
+              "value": "좌표 계산"
+            }
+          ],
+          [
+            {
+              "cell": "A93",
+              "value": "Space_MidBossDoor_Front"
+            },
+            {
+              "cell": "B93",
+              "value": "중간보스 문 앞 공간"
+            },
+            {
+              "cell": "C93",
+              "value": "string"
+            },
+            {
+              "cell": "D93",
+              "value": "700 x 600"
+            },
+            {
+              "cell": "E93",
+              "value": "uu"
+            },
+            {
+              "cell": "F93",
+              "value": "좌표 계산"
+            },
+            {
+              "cell": "G93",
+              "value": "홀드 중 회피 여유가 거의 없는 크기"
+            }
+          ],
+          [
+            {
+              "cell": "A94",
+              "value": "Height_Bridge_to_Lower"
+            },
+            {
+              "cell": "B94",
+              "value": "다리 상판 → 하층 통로 높이차"
+            },
+            {
+              "cell": "C94",
+              "value": "float"
+            },
+            {
+              "cell": "D94",
+              "value": "1200"
+            },
+            {
+              "cell": "E94",
+              "value": "uu"
+            },
+            {
+              "cell": "F94",
+              "value": "Z 240 → -960"
+            }
+          ],
+          [
+            {
+              "cell": "A95",
+              "value": "Height_Bridge_to_Cand2"
+            },
+            {
+              "cell": "B95",
+              "value": "다리 상판 → 힌트 구역 높이차"
+            },
+            {
+              "cell": "C95",
+              "value": "float"
+            },
+            {
+              "cell": "D95",
+              "value": "1800"
+            },
+            {
+              "cell": "E95",
+              "value": "uu"
+            },
+            {
+              "cell": "F95",
+              "value": "Z 240 → -1560"
+            },
+            {
+              "cell": "G95",
+              "value": "하층에서 색 블럭이 시야에 안 들어오는 근거"
+            }
+          ],
+          [
+            {
+              "cell": "A96",
+              "value": "Height_Lower_to_Cand2"
+            },
+            {
+              "cell": "B96",
+              "value": "하층 통로 → 힌트 구역 높이차"
+            },
+            {
+              "cell": "C96",
+              "value": "float"
+            },
+            {
+              "cell": "D96",
+              "value": "600"
+            },
+            {
+              "cell": "E96",
+              "value": "uu"
+            },
+            {
+              "cell": "F96",
+              "value": "Z -960 → -1560"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Portfolio02_UsedMetrics.xlsx",
+    "sheets": [
+      {
+        "name": "Used Metrics",
+        "rows": [
+          [
+            {
+              "cell": "A1",
+              "value": "구분"
+            },
+            {
+              "cell": "B1",
+              "value": "항목"
+            },
+            {
+              "cell": "C1",
+              "value": "값"
+            },
+            {
+              "cell": "D1",
+              "value": "단위"
+            },
+            {
+              "cell": "E1",
+              "value": "포트폴리오 위치"
+            },
+            {
+              "cell": "F1",
+              "value": "산출·근거"
+            },
+            {
+              "cell": "G1",
+              "value": "프로젝트 실제값 대조"
+            }
+          ],
+          [
+            {
+              "cell": "A2",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B2",
+              "value": "문 상호작용 시간"
+            },
+            {
+              "cell": "C2",
+              "value": "5.0"
+            },
+            {
+              "cell": "D2",
+              "value": "초"
+            },
+            {
+              "cell": "E2",
+              "value": "p.7 / p.8"
+            },
+            {
+              "cell": "F2",
+              "value": "확정값"
+            },
+            {
+              "cell": "G2",
+              "value": "일치 (HoldSeconds 5.0)"
+            }
+          ],
+          [
+            {
+              "cell": "A3",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B3",
+              "value": "몬스터 스폰 지연"
+            },
+            {
+              "cell": "C3",
+              "value": "0.1"
+            },
+            {
+              "cell": "D3",
+              "value": "초"
+            },
+            {
+              "cell": "E3",
+              "value": "p.8"
+            },
+            {
+              "cell": "F3",
+              "value": "확정값"
+            },
+            {
+              "cell": "G3",
+              "value": "△ 프로젝트에서는 '사망 후 리스폰 지연'"
+            }
+          ],
+          [
+            {
+              "cell": "A4",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B4",
+              "value": "스폰 지점 → 문 최장 거리"
+            },
+            {
+              "cell": "C4",
+              "value": "1,860"
+            },
+            {
+              "cell": "D4",
+              "value": "uu"
+            },
+            {
+              "cell": "E4",
+              "value": "p.8"
+            },
+            {
+              "cell": "F4",
+              "value": "스폰박스 서쪽면 X4440 → 문 X6300"
+            },
+            {
+              "cell": "G4",
+              "value": "일치"
+            }
+          ],
+          [
+            {
+              "cell": "A5",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B5",
+              "value": "몬스터 공격 사거리"
+            },
+            {
+              "cell": "C5",
+              "value": "150"
+            },
+            {
+              "cell": "D5",
+              "value": "uu"
+            },
+            {
+              "cell": "E5",
+              "value": "p.8"
+            },
+            {
+              "cell": "F5",
+              "value": "확정값"
+            },
+            {
+              "cell": "G5",
+              "value": "일치 (AttackRange 150)"
+            }
+          ],
+          [
+            {
+              "cell": "A6",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B6",
+              "value": "목표 도달 시간"
+            },
+            {
+              "cell": "C6",
+              "value": "4.2"
+            },
+            {
+              "cell": "D6",
+              "value": "초"
+            },
+            {
+              "cell": "E6",
+              "value": "p.8"
+            },
+            {
+              "cell": "F6",
+              "value": "설계 목표"
+            },
+            {
+              "cell": "G6",
+              "value": "△ 410 적용 시 실제 4.17초"
+            }
+          ],
+          [
+            {
+              "cell": "A7",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B7",
+              "value": "역산 이동속도"
+            },
+            {
+              "cell": "C7",
+              "value": "407.1428"
+            },
+            {
+              "cell": "D7",
+              "value": "uu/s"
+            },
+            {
+              "cell": "E7",
+              "value": "p.8"
+            },
+            {
+              "cell": "F7",
+              "value": "(1,860 - 150) ÷ 4.2"
+            },
+            {
+              "cell": "G7",
+              "value": "계산식 검산 일치"
+            }
+          ],
+          [
+            {
+              "cell": "A8",
+              "value": "중간보스 문"
+            },
+            {
+              "cell": "B8",
+              "value": "최종 적용 이동속도"
+            },
+            {
+              "cell": "C8",
+              "value": "410"
+            },
+            {
+              "cell": "D8",
+              "value": "uu/s"
+            },
+            {
+              "cell": "E8",
+              "value": "p.8"
+            },
+            {
+              "cell": "F8",
+              "value": "407.14 반올림 후 플레이테스트로 확정"
+            },
+            {
+              "cell": "G8",
+              "value": "일치 (EnemyMoveSpeed 410)"
+            }
+          ],
+          [
+            {
+              "cell": "A9",
+              "value": "최종 퍼즐"
+            },
+            {
+              "cell": "B9",
+              "value": "힌트 색 개수"
+            },
+            {
+              "cell": "C9",
+              "value": "3"
+            },
+            {
+              "cell": "D9",
+              "value": "색"
+            },
+            {
+              "cell": "E9",
+              "value": "p.16"
+            },
+            {
+              "cell": "F9",
+              "value": "확정값"
+            },
+            {
+              "cell": "G9",
+              "value": "일치 (Hint_Color_Count 3)"
+            }
+          ],
+          [
+            {
+              "cell": "A10",
+              "value": "플레이 결과"
+            },
+            {
+              "cell": "B10",
+              "value": "A 힌트 확인 후 클리어"
+            },
+            {
+              "cell": "C10",
+              "value": "44.52"
+            },
+            {
+              "cell": "D10",
+              "value": "초"
+            },
+            {
+              "cell": "E10",
+              "value": "p.16"
+            },
+            {
+              "cell": "F10",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G10",
+              "value": "일치"
+            }
+          ],
+          [
+            {
+              "cell": "A11",
+              "value": "플레이 결과"
+            },
+            {
+              "cell": "B11",
+              "value": "B 힌트 미확인 · 오답 1회"
+            },
+            {
+              "cell": "C11",
+              "value": "57.04"
+            },
+            {
+              "cell": "D11",
+              "value": "초"
+            },
+            {
+              "cell": "E11",
+              "value": "p.16"
+            },
+            {
+              "cell": "F11",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G11",
+              "value": "일치"
+            }
+          ],
+          [
+            {
+              "cell": "A12",
+              "value": "플레이 결과"
+            },
+            {
+              "cell": "B12",
+              "value": "C 힌트 미확인 · 레버 복구"
+            },
+            {
+              "cell": "C12",
+              "value": "64.08"
+            },
+            {
+              "cell": "D12",
+              "value": "초"
+            },
+            {
+              "cell": "E12",
+              "value": "p.16"
+            },
+            {
+              "cell": "F12",
+              "value": "PIE 실측"
+            },
+            {
+              "cell": "G12",
+              "value": "일치"
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

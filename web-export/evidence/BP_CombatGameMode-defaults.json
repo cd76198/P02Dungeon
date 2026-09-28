@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "default_pawn_class": "/Game/Variant_Combat/Blueprints/BP_CombatCharacter.BP_CombatCharacter_C",
+    "player_controller_class": "/Game/Variant_Combat/Blueprints/BP_CombatPlayerController.BP_CombatPlayerController_C",
+    "hud_class": "/Script/Engine.HUD",
+    "target_level": {
+      "unavailable": "GameModeBase: Failed to find property 'target_level' for attribute 'target_level' on 'BP_CombatGameMode_C'"
+    },
+    "level_name": {
+      "unavailable": "GameModeBase: Failed to find property 'level_name' for attribute 'level_name' on 'BP_CombatGameMode_C'"
+    }
+  }
+}

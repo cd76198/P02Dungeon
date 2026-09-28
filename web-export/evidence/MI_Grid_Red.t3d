@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Grid_Red" ExportPath="/Script/Engine.MaterialInstanceConstant'/Game/Portfolio02/Graybox/MI_Grid_Red.MI_Grid_Red'"
+   Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="MI_Grid_RedEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Game/Portfolio02/Graybox/MI_Grid_Red.MI_Grid_Red:MI_Grid_RedEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/Portfolio02/Graybox/MI_Grid_Red.MI_Grid_Red:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="MI_Grid_RedEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Game/Portfolio02/Graybox/MI_Grid_Red.MI_Grid_Red:MI_Grid_RedEditorOnlyData'"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/Portfolio02/Graybox/MI_Grid_Red.MI_Grid_Red:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   ParameterStateId=0508E9AB41D5AB841A73BCB8FB740D6B
+   Parent="/Script/Engine.Material'/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid'"
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Grid Size"),ParameterValue=400.000000,ExpressionGUID=24F0A0994A5FB3330BF38D8355E1A214)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Roughness"),ParameterValue=1.000000,ExpressionGUID=5258442B443D60A7B6C2A48F588D02BB)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="SurfaceColor"),ParameterValue=(R=0.750000,G=0.060000,B=0.060000,A=1.000000),ExpressionGUID=00ABBD3F48B14CCB49E12995BAFE00FB)
+   VectorParameterValues(1)=(ParameterInfo=(Name="GridColor"),ParameterValue=(R=0.026042,G=0.026042,B=0.026042,A=1.000000),ExpressionGUID=D5FCC7374FCCA3EE9646B1A8BD94555C)
+   VectorParameterValues(2)=(ParameterInfo=(Name="SubGridColor"),ParameterValue=(R=0.088542,G=0.088542,B=0.088542,A=1.000000),ExpressionGUID=F04EB7DA459BAE57E5D62080C7B9FCEC)
+   VectorParameterValues(3)=(ParameterInfo=(Name="TopGridColor"),ParameterValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000),ExpressionGUID=0DD4B2584314E25F674D65A5EF75B58C)
+   BasePropertyOverrides=(BlendMode=BLEND_Masked,OpacityMaskClipValue=0.333300)
+   StaticParametersRuntime=(StaticSwitchParameters=((ParameterInfo=(Name="ObjectAligned"),bOverride=True,ExpressionGUID=F161485E458BEA8DA6D2EFAFD96B1FE4)))
+   EditorOnlyData="/Script/Engine.MaterialInstanceEditorOnlyData'MI_Grid_RedEditorOnlyData'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+   LightingGuid=B41004D3472C1DFEE88BBC8EA67DD948
+End Object

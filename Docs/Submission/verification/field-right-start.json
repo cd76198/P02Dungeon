@@ -1,0 +1,81 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Levels/UEDPIE_0_던전외부필드_v09-17_A.던전외부필드_v09-17_A",
+    "action": {
+      "type": "snapshot",
+      "name": "field-right-start",
+      "names": [
+        "PlayerStart_0",
+        "P02OutdoorReviewController_0"
+      ],
+      "started": 369442.671,
+      "origin": [
+        15500.0,
+        100.0,
+        1653.373062133789
+      ]
+    },
+    "queued": 12,
+    "seconds": 10.44,
+    "position": [
+      15500.0,
+      100.0,
+      1653.373062133789
+    ],
+    "velocity": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_ignored": false,
+    "end": false
+  },
+  "actors": [
+    {
+      "name": "P02OutdoorReviewController_0",
+      "class": "P02OutdoorReviewController",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "PlayerStart_0",
+      "class": "PlayerStart",
+      "location": [
+        15500.0,
+        100.0,
+        1670.0
+      ],
+      "bounds": [
+        [
+          15556.0,
+          100.0,
+          1670.0
+        ],
+        [
+          184.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    }
+  ]
+}

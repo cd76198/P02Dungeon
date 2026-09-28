@@ -1,0 +1,105 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+    "action": {
+      "type": "snapshot",
+      "name": "bridge-after-input",
+      "names": [
+        "P02_BridgeWeakSection_Deck",
+        "P02_BridgeWeakSection_RailS",
+        "P02_BridgeWeakSection_RailN"
+      ],
+      "started": 369890.234,
+      "origin": [
+        5678.781210402622,
+        1100.0070932742449,
+        331.93326641379235
+      ]
+    },
+    "queued": 8,
+    "seconds": 458.0,
+    "position": [
+      5678.781210402622,
+      1100.0070932742449,
+      331.93326641379235
+    ],
+    "velocity": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_ignored": false,
+    "end": false
+  },
+  "actors": [
+    {
+      "name": "P02_BridgeWeakSection_Deck",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        1100.0,
+        -1039.144287109375
+      ],
+      "bounds": [
+        [
+          5250.0,
+          1100.0,
+          -1039.144287109375
+        ],
+        [
+          350.0,
+          400.0,
+          50.0
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailS",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        650.0,
+        -859.144287109375
+      ],
+      "bounds": [
+        [
+          5250.0,
+          650.0,
+          -859.144287109375
+        ],
+        [
+          350.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailN",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        1550.0,
+        -859.144287109375
+      ],
+      "bounds": [
+        [
+          5250.0,
+          1550.0,
+          -859.144287109375
+        ],
+        [
+          350.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_commit": "f315d8c0d245fa74fc335042fa302002d88f76a0",
+  "engine": "5.7.4",
+  "maps": {
+    "field": {
+      "visual_glb_bytes": 3570448,
+      "collision_glb_bytes": 1637680,
+      "actor_nodes_matched": 257,
+      "unmatched_mesh_nodes": 0,
+      "max_actor_translation_error_m": 1.853267383084328e-05,
+      "collision_components": 230,
+      "collision_triangles": 51378,
+      "support_candidate_triangles": 9380,
+      "original_clockwise_collision_components_verified": 230,
+      "embedded_images": 0,
+      "magenta_materials": 0,
+      "magenta_pixels": 0,
+      "gltf_validator": {
+        "field": {
+          "numErrors": 0,
+          "numWarnings": 0,
+          "numInfos": 192
+        },
+        "field-collision": {
+          "numErrors": 0,
+          "numWarnings": 0,
+          "numInfos": 0
+        }
+      }
+    },
+    "dungeon": {
+      "visual_glb_bytes": 4152536,
+      "collision_glb_bytes": 208684,
+      "actor_nodes_matched": 205,
+      "unmatched_mesh_nodes": 0,
+      "max_actor_translation_error_m": 5.200124617815541e-06,
+      "collision_components": 166,
+      "collision_triangles": 2232,
+      "support_candidate_triangles": 360,
+      "original_clockwise_collision_components_verified": 166,
+      "embedded_images": 162,
+      "magenta_materials": 0,
+      "magenta_pixels": 0,
+      "gltf_validator": {
+        "dungeon": {
+          "numErrors": 0,
+          "numWarnings": 0,
+          "numInfos": 279
+        },
+        "dungeon-collision": {
+          "numErrors": 0,
+          "numWarnings": 0,
+          "numInfos": 0
+        }
+      }
+    }
+  },
+  "manual_browser_checks": [
+    "field overview rendered",
+    "dungeon overview rendered",
+    "lever separate body/handle rendered when shown",
+    "field/dungeon collision upward faces green and walls red",
+    "browser console no errors or warnings during inspected views"
+  ],
+  "not_verified": [
+    "Full field/dungeon keyboard playthrough",
+    "All route capsule reachability and collision edge cases",
+    "Door hold and full color-puzzle input scenarios in PIE",
+    "Exact UE lighting/postprocess appearance",
+    "Lever handle original procedural grid pattern",
+    "Physical inter-level offset (not defined in source)",
+    "Participant field playtest results (excluded from repository)"
+  ],
+  "original_integrity": {
+    "files_verified": 1512,
+    "changed_or_missing": [],
+    "git_status_porcelain": ""
+  }
+}

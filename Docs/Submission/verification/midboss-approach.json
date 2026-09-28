@@ -1,0 +1,5022 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+    "action": {
+      "type": "snapshot",
+      "name": "midboss-approach",
+      "started": 369899.968,
+      "origin": [
+        6675.055408263585,
+        1100.000011070023,
+        331.93326641379235
+      ]
+    },
+    "queued": 0,
+    "seconds": 467.73,
+    "position": [
+      6675.055408263585,
+      1100.000011070023,
+      331.93326641379235
+    ],
+    "velocity": [
+      329.5985879898621,
+      -0.00014627077172059587,
+      0.0
+    ],
+    "move_ignored": false,
+    "end": false
+  },
+  "actors": [
+    {
+      "name": "WorldSettings",
+      "class": "WorldSettings",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "Brush_0",
+      "class": "Brush",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "DirectionalLight_0",
+      "class": "DirectionalLight",
+      "location": [
+        4200.0,
+        200.0,
+        3000.0
+      ],
+      "bounds": [
+        [
+          4275.939570798683,
+          146.82654007835185,
+          2714.683045111454
+        ],
+        [
+          346.4668359804009,
+          326.10459025644946,
+          347.1203537635356
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "SkyLight_0",
+      "class": "SkyLight",
+      "location": [
+        4200.0,
+        200.0,
+        1200.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "PlayerStart_0",
+      "class": "PlayerStart",
+      "location": [
+        0.0,
+        -1200.0,
+        260.0
+      ],
+      "bounds": [
+        [
+          56.0,
+          -1200.0,
+          260.0
+        ],
+        [
+          184.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_0",
+      "class": "StaticMeshActor",
+      "location": [
+        0.0,
+        -1200.0,
+        110.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          -1200.0,
+          110.0
+        ],
+        [
+          400.0,
+          450.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_1",
+      "class": "StaticMeshActor",
+      "location": [
+        500.0,
+        -1200.0,
+        100.0
+      ],
+      "bounds": [
+        [
+          500.0,
+          -1200.0,
+          100.0
+        ],
+        [
+          110.0,
+          350.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_2",
+      "class": "StaticMeshActor",
+      "location": [
+        680.0,
+        -1200.0,
+        60.0
+      ],
+      "bounds": [
+        [
+          680.0,
+          -1200.0,
+          60.0
+        ],
+        [
+          110.0,
+          350.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_3",
+      "class": "StaticMeshActor",
+      "location": [
+        860.0,
+        -1200.0,
+        20.0
+      ],
+      "bounds": [
+        [
+          860.0,
+          -1200.0,
+          20.0
+        ],
+        [
+          110.0,
+          350.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_4",
+      "class": "StaticMeshActor",
+      "location": [
+        1040.0,
+        -1200.0,
+        -20.0
+      ],
+      "bounds": [
+        [
+          1040.0,
+          -1200.0,
+          -20.0
+        ],
+        [
+          110.0,
+          350.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_5",
+      "class": "StaticMeshActor",
+      "location": [
+        2050.0,
+        -1200.0,
+        -50.0
+      ],
+      "bounds": [
+        [
+          2050.0,
+          -1200.0,
+          -50.0
+        ],
+        [
+          1350.0,
+          1000.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_6",
+      "class": "StaticMeshActor",
+      "location": [
+        2100.0,
+        -2250.0,
+        175.0
+      ],
+      "bounds": [
+        [
+          2100.0,
+          -2250.0,
+          175.0
+        ],
+        [
+          1400.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_7",
+      "class": "StaticMeshActor",
+      "location": [
+        1520.0,
+        -150.0,
+        175.0
+      ],
+      "bounds": [
+        [
+          1520.0,
+          -150.0,
+          175.0
+        ],
+        [
+          800.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_8",
+      "class": "StaticMeshActor",
+      "location": [
+        3195.0,
+        -150.0,
+        175.0
+      ],
+      "bounds": [
+        [
+          3195.0,
+          -150.0,
+          175.0
+        ],
+        [
+          312.5,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_9",
+      "class": "StaticMeshActor",
+      "location": [
+        3450.0,
+        -1200.0,
+        175.0
+      ],
+      "bounds": [
+        [
+          3450.0,
+          -1200.0,
+          175.0
+        ],
+        [
+          50.0,
+          1000.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_10",
+      "class": "StaticMeshActor",
+      "location": [
+        2240.0,
+        -100.0,
+        260.0
+      ],
+      "bounds": [
+        [
+          2240.0,
+          -100.0,
+          260.0
+        ],
+        [
+          80.0,
+          80.0,
+          260.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_11",
+      "class": "StaticMeshActor",
+      "location": [
+        2960.0,
+        -100.0,
+        260.0
+      ],
+      "bounds": [
+        [
+          2960.0,
+          -100.0,
+          260.0
+        ],
+        [
+          80.0,
+          80.0,
+          260.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_12",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        -100.0,
+        490.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          -100.0,
+          490.0
+        ],
+        [
+          440.0,
+          80.0,
+          60.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_13",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        -100.0,
+        20.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          -100.0,
+          20.0
+        ],
+        [
+          350.0,
+          110.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_14",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        100.0,
+        60.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          99.99999999999999,
+          60.0
+        ],
+        [
+          350.0,
+          110.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_15",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        300.0,
+        100.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          300.0,
+          100.0
+        ],
+        [
+          350.0,
+          110.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_16",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        500.0,
+        140.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          500.0,
+          140.0
+        ],
+        [
+          350.0,
+          110.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_17",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        700.0,
+        180.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          700.0,
+          180.0
+        ],
+        [
+          350.0,
+          110.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_18",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        900.0,
+        220.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          900.0,
+          220.0
+        ],
+        [
+          350.0,
+          110.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_19",
+      "class": "StaticMeshActor",
+      "location": [
+        2600.0,
+        1100.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          2600.0,
+          1100.0,
+          190.0
+        ],
+        [
+          400.0,
+          400.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_20",
+      "class": "StaticMeshActor",
+      "location": [
+        3950.0,
+        1100.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          3950.0,
+          1100.0,
+          190.0
+        ],
+        [
+          950.0,
+          400.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_21",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        -90.0,
+        90.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          -90.0,
+          90.0
+        ],
+        [
+          50.0,
+          94.99999284744263,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_22",
+      "class": "StaticMeshActor",
+      "location": [
+        3950.0,
+        1550.0,
+        370.0
+      ],
+      "bounds": [
+        [
+          3950.0,
+          1550.0,
+          370.0
+        ],
+        [
+          950.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_23",
+      "class": "StaticMeshActor",
+      "location": [
+        5950.0,
+        1100.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          5950.0,
+          1100.0,
+          190.0
+        ],
+        [
+          350.0,
+          300.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_24",
+      "class": "StaticMeshActor",
+      "location": [
+        5950.0,
+        750.0,
+        400.0
+      ],
+      "bounds": [
+        [
+          5950.0,
+          750.0,
+          400.0
+        ],
+        [
+          350.0,
+          50.0,
+          160.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_25",
+      "class": "StaticMeshActor",
+      "location": [
+        5950.0,
+        1450.0,
+        400.0
+      ],
+      "bounds": [
+        [
+          5950.0,
+          1450.0,
+          400.0
+        ],
+        [
+          350.0,
+          50.0,
+          160.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_27",
+      "class": "StaticMeshActor",
+      "location": [
+        7950.0,
+        -450.0,
+        420.0
+      ],
+      "bounds": [
+        [
+          7950.0,
+          -450.0,
+          420.0
+        ],
+        [
+          1650.0,
+          50.0,
+          180.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_28",
+      "class": "StaticMeshActor",
+      "location": [
+        7950.0,
+        2650.0,
+        420.0
+      ],
+      "bounds": [
+        [
+          7950.0,
+          2650.0,
+          420.0
+        ],
+        [
+          1650.0,
+          50.0,
+          180.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_29",
+      "class": "StaticMeshActor",
+      "location": [
+        9550.0,
+        1100.0,
+        420.0
+      ],
+      "bounds": [
+        [
+          9550.0,
+          1100.0,
+          420.0
+        ],
+        [
+          50.0,
+          1500.0,
+          180.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_31",
+      "class": "StaticMeshActor",
+      "location": [
+        9150.0,
+        1100.0,
+        230.0
+      ],
+      "bounds": [
+        [
+          9150.0,
+          1100.0,
+          230.0
+        ],
+        [
+          250.0,
+          350.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "TargetPoint_0",
+      "class": "TargetPoint",
+      "location": [
+        9150.0,
+        1100.0,
+        380.0
+      ],
+      "bounds": [
+        [
+          9150.0,
+          1100.0,
+          380.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_02",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        100.0,
+        130.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          100.0,
+          130.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_03",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        300.0,
+        170.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          300.0,
+          170.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_04",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        500.0,
+        210.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          500.0,
+          210.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_05",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        700.0,
+        250.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          700.0,
+          250.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_06",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        900.0,
+        290.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          900.0,
+          290.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_32",
+      "class": "StaticMeshActor",
+      "location": [
+        3950.0,
+        650.0,
+        370.0
+      ],
+      "bounds": [
+        [
+          3950.0,
+          650.0,
+          370.0
+        ],
+        [
+          950.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_West",
+      "class": "StaticMeshActor",
+      "location": [
+        6800.0,
+        1100.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          6800.0,
+          1100.0,
+          190.0
+        ],
+        [
+          500.0,
+          1500.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_East",
+      "class": "StaticMeshActor",
+      "location": [
+        9000.0,
+        1100.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          9000.0,
+          1100.0,
+          190.0
+        ],
+        [
+          500.0,
+          1500.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_South",
+      "class": "StaticMeshActor",
+      "location": [
+        7900.0,
+        150.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          7900.0,
+          150.0,
+          190.0
+        ],
+        [
+          600.0,
+          550.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_North",
+      "class": "StaticMeshActor",
+      "location": [
+        7900.0,
+        2050.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          7900.0,
+          2050.0,
+          190.0
+        ],
+        [
+          600.0,
+          550.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Blocker",
+      "class": "StaticMeshActor",
+      "location": [
+        7900.0,
+        1100.0,
+        350.0
+      ],
+      "bounds": [
+        [
+          7900.0,
+          1100.0,
+          350.0
+        ],
+        [
+          600.0,
+          400.0,
+          110.00000238418579
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_01",
+      "class": "StaticMeshActor",
+      "location": [
+        7354.5,
+        1100.0,
+        -180.0
+      ],
+      "bounds": [
+        [
+          7354.5,
+          1100.0,
+          -180.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_02",
+      "class": "StaticMeshActor",
+      "location": [
+        7463.5,
+        1100.0,
+        -140.0
+      ],
+      "bounds": [
+        [
+          7463.5,
+          1100.0,
+          -140.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_03",
+      "class": "StaticMeshActor",
+      "location": [
+        7572.5,
+        1100.0,
+        -100.0
+      ],
+      "bounds": [
+        [
+          7572.5,
+          1100.0,
+          -100.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_04",
+      "class": "StaticMeshActor",
+      "location": [
+        7681.5,
+        1100.0,
+        -60.0
+      ],
+      "bounds": [
+        [
+          7681.5,
+          1100.0,
+          -60.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_05",
+      "class": "StaticMeshActor",
+      "location": [
+        7790.5,
+        1100.0,
+        -20.0
+      ],
+      "bounds": [
+        [
+          7790.5,
+          1100.0,
+          -20.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_06",
+      "class": "StaticMeshActor",
+      "location": [
+        7899.5,
+        1100.0,
+        20.0
+      ],
+      "bounds": [
+        [
+          7899.5,
+          1100.0,
+          20.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_Junction",
+      "class": "StaticMeshActor",
+      "location": [
+        7300.0,
+        1100.0,
+        -1010.0
+      ],
+      "bounds": [
+        [
+          7300.0,
+          1100.0,
+          -1010.0
+        ],
+        [
+          1400.0,
+          400.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_Candidate1",
+      "class": "StaticMeshActor",
+      "location": [
+        6240.0,
+        300.0,
+        -1010.0
+      ],
+      "bounds": [
+        [
+          6240.0,
+          300.0,
+          -1010.0
+        ],
+        [
+          437.5,
+          800.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_Candidate2",
+      "class": "StaticMeshActor",
+      "location": [
+        6250.0,
+        1950.0,
+        -1610.0
+      ],
+      "bounds": [
+        [
+          6250.0,
+          1950.0,
+          -1610.0
+        ],
+        [
+          450.0,
+          850.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_South",
+      "class": "StaticMeshActor",
+      "location": [
+        4300.0,
+        -1750.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          4300.0,
+          -1750.0,
+          -785.0
+        ],
+        [
+          1500.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Floor",
+      "class": "StaticMeshActor",
+      "location": [
+        4300.0,
+        -473.75,
+        -1010.0
+      ],
+      "bounds": [
+        [
+          4300.0,
+          -473.75,
+          -1010.0
+        ],
+        [
+          1500.0,
+          1276.25,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_West",
+      "class": "StaticMeshActor",
+      "location": [
+        2750.0,
+        -1350.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          2750.0,
+          -1350.0,
+          -785.0
+        ],
+        [
+          50.0,
+          350.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_North",
+      "class": "StaticMeshActor",
+      "location": [
+        5120.0,
+        750.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          5120.0,
+          750.0,
+          -785.0
+        ],
+        [
+          1500.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_EastSouth",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        -1088.5,
+        -785.0
+      ],
+      "bounds": [
+        [
+          5850.0,
+          -1088.5,
+          -785.0
+        ],
+        [
+          75.0,
+          688.5000228881836,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        150.0,
+        -710.0
+      ],
+      "bounds": [
+        [
+          5850.0,
+          150.0,
+          -710.0
+        ],
+        [
+          75.0,
+          550.0,
+          250.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Floor",
+      "class": "StaticMeshActor",
+      "location": [
+        5122.5,
+        2135.0,
+        -1610.0
+      ],
+      "bounds": [
+        [
+          5122.5,
+          2135.0,
+          -1610.0
+        ],
+        [
+          677.5,
+          664.9998664855957,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Wall_North",
+      "class": "StaticMeshActor",
+      "location": [
+        5122.5,
+        2750.0,
+        -1385.0
+      ],
+      "bounds": [
+        [
+          5122.5,
+          2750.0,
+          -1385.0
+        ],
+        [
+          677.5,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Wall_West",
+      "class": "StaticMeshActor",
+      "location": [
+        4395.0,
+        2425.0,
+        -1385.0
+      ],
+      "bounds": [
+        [
+          4395.0,
+          2425.0,
+          -1385.0
+        ],
+        [
+          50.0,
+          387.5022888183595,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Wall_South",
+      "class": "StaticMeshActor",
+      "location": [
+        4996.25,
+        1440.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          4996.25,
+          1440.0,
+          -785.0
+        ],
+        [
+          1714.9814605712907,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_07",
+      "class": "StaticMeshActor",
+      "location": [
+        8008.5,
+        1100.0,
+        60.0
+      ],
+      "bounds": [
+        [
+          8008.5,
+          1100.0,
+          60.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_08",
+      "class": "StaticMeshActor",
+      "location": [
+        8117.5,
+        1100.0,
+        100.0
+      ],
+      "bounds": [
+        [
+          8117.5,
+          1100.0,
+          100.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_09",
+      "class": "StaticMeshActor",
+      "location": [
+        8226.5,
+        1100.0,
+        140.0
+      ],
+      "bounds": [
+        [
+          8226.5,
+          1100.0,
+          140.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_10",
+      "class": "StaticMeshActor",
+      "location": [
+        8335.5,
+        1100.0,
+        180.0
+      ],
+      "bounds": [
+        [
+          8335.5,
+          1100.0,
+          180.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_11",
+      "class": "StaticMeshActor",
+      "location": [
+        8444.5,
+        1100.0,
+        220.0
+      ],
+      "bounds": [
+        [
+          8444.5,
+          1100.0,
+          220.0
+        ],
+        [
+          54.500001668930054,
+          350.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_WorkLight_TEST",
+      "class": "PointLight",
+      "location": [
+        6300.0,
+        1100.0,
+        -400.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_WorkLight_TEST",
+      "class": "PointLight",
+      "location": [
+        4300.0,
+        -500.0,
+        -100.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_26",
+      "class": "StaticMeshActor",
+      "location": [
+        750.0,
+        -510.0,
+        175.0
+      ],
+      "bounds": [
+        [
+          750.0,
+          -510.0,
+          175.0
+        ],
+        [
+          50.0,
+          337.5,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "StaticMeshActor_30",
+      "class": "StaticMeshActor",
+      "location": [
+        750.0,
+        -1920.0,
+        175.0
+      ],
+      "bounds": [
+        [
+          750.0,
+          -1920.0,
+          175.0
+        ],
+        [
+          50.0,
+          375.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Cand1_W",
+      "class": "PointLight",
+      "location": [
+        3600.0,
+        -500.0,
+        -360.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Cand1_E",
+      "class": "PointLight",
+      "location": [
+        5100.0,
+        -500.0,
+        -360.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Cand2_W",
+      "class": "PointLight",
+      "location": [
+        4700.0,
+        2230.0,
+        -960.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Cand2_E",
+      "class": "PointLight",
+      "location": [
+        5500.0,
+        2230.0,
+        -960.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Route_S",
+      "class": "PointLight",
+      "location": [
+        6300.0,
+        300.0,
+        -460.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Route_N",
+      "class": "PointLight",
+      "location": [
+        6300.0,
+        1950.0,
+        -1060.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_Route_Mid",
+      "class": "PointLight",
+      "location": [
+        7400.0,
+        1100.0,
+        -460.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerLight_StairFoot",
+      "class": "PointLight",
+      "location": [
+        8500.0,
+        1100.0,
+        -460.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_WallFade_LowerRoute",
+      "class": "TriggerBox",
+      "location": [
+        7300.0,
+        1150.0,
+        -530.0
+      ],
+      "bounds": [
+        [
+          7300.0,
+          1150.0,
+          -530.0
+        ],
+        [
+          1400.0,
+          1650.0,
+          430.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_LowerRail_Main_South",
+      "class": "StaticMeshActor",
+      "location": [
+        7650.0,
+        750.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          7650.0,
+          750.0,
+          -785.0
+        ],
+        [
+          1050.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerRail_Main_North",
+      "class": "StaticMeshActor",
+      "location": [
+        7700.0,
+        1450.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          7700.0,
+          1450.0,
+          -785.0
+        ],
+        [
+          1000.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerRail_Main_East",
+      "class": "StaticMeshActor",
+      "location": [
+        8650.0,
+        1100.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          8650.0,
+          1100.0,
+          -785.0
+        ],
+        [
+          50.0,
+          400.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerRail_SpurS_East",
+      "class": "StaticMeshActor",
+      "location": [
+        6650.0,
+        100.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          6650.0,
+          100.0,
+          -785.0
+        ],
+        [
+          50.0,
+          600.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerRail_SpurN_East",
+      "class": "StaticMeshActor",
+      "location": [
+        6650.0,
+        2150.0,
+        -1385.0
+      ],
+      "bounds": [
+        [
+          6650.0,
+          2150.0,
+          -1385.0
+        ],
+        [
+          50.0,
+          650.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerRail_SpurS_South",
+      "class": "StaticMeshActor",
+      "location": [
+        6240.0,
+        -450.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          6240.0,
+          -450.0,
+          -785.0
+        ],
+        [
+          437.5,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_LowerRail_SpurN_North",
+      "class": "StaticMeshActor",
+      "location": [
+        6250.0,
+        2750.0,
+        -1385.0
+      ],
+      "bounds": [
+        [
+          6250.0,
+          2750.0,
+          -1385.0
+        ],
+        [
+          450.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_UpperRail_MidBossWest_S",
+      "class": "StaticMeshActor",
+      "location": [
+        6350.0,
+        200.0,
+        420.0
+      ],
+      "bounds": [
+        [
+          6350.0,
+          200.0,
+          420.0
+        ],
+        [
+          50.0,
+          600.0,
+          179.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_UpperRail_MidBossWest_N",
+      "class": "StaticMeshActor",
+      "location": [
+        6350.0,
+        2000.0,
+        420.0
+      ],
+      "bounds": [
+        [
+          6350.0,
+          2000.0,
+          420.0
+        ],
+        [
+          50.0,
+          600.0,
+          179.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Start_West",
+      "class": "StaticMeshActor",
+      "location": [
+        -450.0,
+        -1200.0,
+        335.0
+      ],
+      "bounds": [
+        [
+          -450.0,
+          -1200.0,
+          335.0
+        ],
+        [
+          50.0,
+          450.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Start_South",
+      "class": "StaticMeshActor",
+      "location": [
+        0.0,
+        -1700.0,
+        335.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          -1700.0,
+          335.0
+        ],
+        [
+          500.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Start_North",
+      "class": "StaticMeshActor",
+      "location": [
+        0.0,
+        -700.0,
+        335.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          -700.0,
+          335.0
+        ],
+        [
+          500.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Start_EastS",
+      "class": "StaticMeshActor",
+      "location": [
+        450.0,
+        -1600.0,
+        335.0
+      ],
+      "bounds": [
+        [
+          450.0,
+          -1600.0,
+          335.0
+        ],
+        [
+          50.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Start_EastN",
+      "class": "StaticMeshActor",
+      "location": [
+        450.0,
+        -800.0,
+        335.0
+      ],
+      "bounds": [
+        [
+          450.0,
+          -800.0,
+          335.0
+        ],
+        [
+          50.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Descent_South",
+      "class": "StaticMeshActor",
+      "location": [
+        545.0,
+        -1600.0,
+        295.0
+      ],
+      "bounds": [
+        [
+          545.0,
+          -1600.0,
+          295.0
+        ],
+        [
+          154.99999523162842,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Descent_North",
+      "class": "StaticMeshActor",
+      "location": [
+        545.0,
+        -800.0,
+        295.0
+      ],
+      "bounds": [
+        [
+          545.0,
+          -800.0,
+          295.0
+        ],
+        [
+          154.99999523162842,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Landing_West",
+      "class": "StaticMeshActor",
+      "location": [
+        2200.0,
+        1100.0,
+        370.0
+      ],
+      "bounds": [
+        [
+          2200.0,
+          1100.0,
+          370.0
+        ],
+        [
+          50.0,
+          400.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Landing_North",
+      "class": "StaticMeshActor",
+      "location": [
+        2575.0,
+        1550.0,
+        370.0
+      ],
+      "bounds": [
+        [
+          2575.0,
+          1550.0,
+          370.0
+        ],
+        [
+          425.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Landing_SouthE",
+      "class": "StaticMeshActor",
+      "location": [
+        2975.0,
+        650.0,
+        370.0
+      ],
+      "bounds": [
+        [
+          2975.0,
+          650.0,
+          370.0
+        ],
+        [
+          25.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_01",
+      "class": "StaticMeshActor",
+      "location": [
+        3000.0,
+        -80.0,
+        90.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          -80.0,
+          90.0
+        ],
+        [
+          50.0,
+          89.99999761581421,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_02",
+      "class": "StaticMeshActor",
+      "location": [
+        3000.0,
+        100.0,
+        130.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          100.0,
+          130.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_03",
+      "class": "StaticMeshActor",
+      "location": [
+        3000.0,
+        300.0,
+        170.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          300.0,
+          170.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_04",
+      "class": "StaticMeshActor",
+      "location": [
+        3000.0,
+        500.0,
+        210.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          500.0,
+          210.0
+        ],
+        [
+          50.0,
+          110.00000238418579,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_05",
+      "class": "StaticMeshActor",
+      "location": [
+        3000.0,
+        635.0,
+        250.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          635.0,
+          250.0
+        ],
+        [
+          50.0,
+          64.99998569488525,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Shaft_Wall_South",
+      "class": "StaticMeshActor",
+      "location": [
+        5640.0,
+        725.0,
+        -205.0
+      ],
+      "bounds": [
+        [
+          5640.0,
+          725.0,
+          -205.0
+        ],
+        [
+          2875.0,
+          25.0,
+          437.5
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Shaft_Wall_North",
+      "class": "StaticMeshActor",
+      "location": [
+        5640.0,
+        1475.0,
+        -205.0
+      ],
+      "bounds": [
+        [
+          5640.0,
+          1475.0,
+          -205.0
+        ],
+        [
+          2875.0,
+          25.0,
+          437.5
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_FadeTarget_MidBoss_S",
+      "class": "TriggerBox",
+      "location": [
+        7950.0,
+        100.0,
+        375.0
+      ],
+      "bounds": [
+        [
+          7950.0,
+          100.0,
+          375.0
+        ],
+        [
+          1650.0,
+          600.0,
+          275.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_FadeTarget_MidBoss_N",
+      "class": "TriggerBox",
+      "location": [
+        7950.0,
+        2100.0,
+        375.0
+      ],
+      "bounds": [
+        [
+          7950.0,
+          2100.0,
+          375.0
+        ],
+        [
+          1650.0,
+          600.0,
+          275.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_FadeTarget_MidBoss_E",
+      "class": "TriggerBox",
+      "location": [
+        9100.0,
+        1100.0,
+        375.0
+      ],
+      "bounds": [
+        [
+          9100.0,
+          1100.0,
+          375.0
+        ],
+        [
+          500.0,
+          400.0,
+          275.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_FadeTarget_Bridge",
+      "class": "TriggerBox",
+      "location": [
+        4650.0,
+        1100.0,
+        400.0
+      ],
+      "bounds": [
+        [
+          4650.0,
+          1100.0,
+          400.0
+        ],
+        [
+          1650.0,
+          500.0,
+          200.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_StairB_F1_01",
+      "class": "StaticMeshActor",
+      "location": [
+        7245.5,
+        1145.0,
+        -220.0
+      ],
+      "bounds": [
+        [
+          7245.5,
+          1145.0,
+          -220.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_02",
+      "class": "StaticMeshActor",
+      "location": [
+        7136.5,
+        1145.0,
+        -260.0
+      ],
+      "bounds": [
+        [
+          7136.5,
+          1145.0,
+          -260.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_03",
+      "class": "StaticMeshActor",
+      "location": [
+        7027.5,
+        1145.0,
+        -300.0
+      ],
+      "bounds": [
+        [
+          7027.5,
+          1145.0,
+          -300.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_04",
+      "class": "StaticMeshActor",
+      "location": [
+        6918.5,
+        1145.0,
+        -340.0
+      ],
+      "bounds": [
+        [
+          6918.5,
+          1145.0,
+          -340.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_05",
+      "class": "StaticMeshActor",
+      "location": [
+        6809.5,
+        1145.0,
+        -380.0
+      ],
+      "bounds": [
+        [
+          6809.5,
+          1145.0,
+          -380.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_06",
+      "class": "StaticMeshActor",
+      "location": [
+        6700.5,
+        1145.0,
+        -420.0
+      ],
+      "bounds": [
+        [
+          6700.5,
+          1145.0,
+          -420.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_07",
+      "class": "StaticMeshActor",
+      "location": [
+        6591.5,
+        1145.0,
+        -460.0
+      ],
+      "bounds": [
+        [
+          6591.5,
+          1145.0,
+          -460.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_08",
+      "class": "StaticMeshActor",
+      "location": [
+        6482.5,
+        1145.0,
+        -500.0
+      ],
+      "bounds": [
+        [
+          6482.5,
+          1145.0,
+          -500.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F1_09",
+      "class": "StaticMeshActor",
+      "location": [
+        6373.5,
+        1145.0,
+        -540.0
+      ],
+      "bounds": [
+        [
+          6373.5,
+          1145.0,
+          -540.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_Turn",
+      "class": "StaticMeshActor",
+      "location": [
+        5283.5,
+        1145.0,
+        -940.0
+      ],
+      "bounds": [
+        [
+          5283.5,
+          1145.0,
+          -940.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_01",
+      "class": "StaticMeshActor",
+      "location": [
+        6264.5,
+        1145.0,
+        -580.0
+      ],
+      "bounds": [
+        [
+          6264.5,
+          1145.0,
+          -580.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_02",
+      "class": "StaticMeshActor",
+      "location": [
+        6155.5,
+        1145.0,
+        -620.0
+      ],
+      "bounds": [
+        [
+          6155.5,
+          1145.0,
+          -620.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_03",
+      "class": "StaticMeshActor",
+      "location": [
+        6046.5,
+        1145.0,
+        -660.0
+      ],
+      "bounds": [
+        [
+          6046.5,
+          1145.0,
+          -660.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_04",
+      "class": "StaticMeshActor",
+      "location": [
+        5937.5,
+        1145.0,
+        -700.0
+      ],
+      "bounds": [
+        [
+          5937.5,
+          1145.0,
+          -700.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_05",
+      "class": "StaticMeshActor",
+      "location": [
+        5828.5,
+        1145.0,
+        -740.0
+      ],
+      "bounds": [
+        [
+          5828.5,
+          1145.0,
+          -740.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_06",
+      "class": "StaticMeshActor",
+      "location": [
+        5719.5,
+        1145.0,
+        -780.0
+      ],
+      "bounds": [
+        [
+          5719.5,
+          1145.0,
+          -780.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_07",
+      "class": "StaticMeshActor",
+      "location": [
+        5610.5,
+        1145.0,
+        -820.0
+      ],
+      "bounds": [
+        [
+          5610.5,
+          1145.0,
+          -820.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_08",
+      "class": "StaticMeshActor",
+      "location": [
+        5501.5,
+        1145.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          5501.5,
+          1145.0,
+          -860.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairB_F2_09",
+      "class": "StaticMeshActor",
+      "location": [
+        5392.5,
+        1145.0,
+        -900.0
+      ],
+      "bounds": [
+        [
+          5392.5,
+          1145.0,
+          -900.0
+        ],
+        [
+          54.500001668930054,
+          345.0000047683716,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_WallFade_StairShaft",
+      "class": "TriggerBox",
+      "location": [
+        7900.0,
+        1100.0,
+        -280.0
+      ],
+      "bounds": [
+        [
+          7900.0,
+          1100.0,
+          -280.0
+        ],
+        [
+          600.0,
+          350.0,
+          680.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_FadeTarget_StairB",
+      "class": "TriggerBox",
+      "location": [
+        6264.5,
+        1145.0,
+        -405.0
+      ],
+      "bounds": [
+        [
+          6264.5,
+          1145.0,
+          -405.0
+        ],
+        [
+          1294.4000244140625,
+          468.80001068115234,
+          693.6000061035156
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_Candidate1_Wall_WestNorth",
+      "class": "StaticMeshActor",
+      "location": [
+        2750.0,
+        40.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          2750.0,
+          40.0,
+          -785.0
+        ],
+        [
+          50.0,
+          1450.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_EndPad",
+      "class": "StaticMeshActor",
+      "location": [
+        6200.0,
+        150.0,
+        -1010.0
+      ],
+      "bounds": [
+        [
+          6200.0,
+          150.0,
+          -1010.0
+        ],
+        [
+          250.0,
+          500.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_EndPad_Rail_South",
+      "class": "StaticMeshActor",
+      "location": [
+        6200.0,
+        -375.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          6200.0,
+          -375.0,
+          -785.0
+        ],
+        [
+          250.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_EndPad_Rail_North",
+      "class": "StaticMeshActor",
+      "location": [
+        6200.0,
+        675.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          6200.0,
+          675.0,
+          -785.0
+        ],
+        [
+          250.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_EndPad_Rail_West",
+      "class": "StaticMeshActor",
+      "location": [
+        6475.0,
+        150.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          6475.0,
+          150.0,
+          -785.0
+        ],
+        [
+          25.0,
+          500.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_EndTrigger",
+      "class": "TriggerBox",
+      "location": [
+        6350.0,
+        150.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          6350.0,
+          150.0,
+          -860.0
+        ],
+        [
+          150.0,
+          500.0,
+          150.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_ColorPad_Red",
+      "class": "StaticMeshActor",
+      "location": [
+        5375.0,
+        -50.0,
+        -930.0
+      ],
+      "bounds": [
+        [
+          5375.0,
+          -50.0,
+          -930.0
+        ],
+        [
+          75.0,
+          75.0,
+          30.000001192092896
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_ColorPad_Green",
+      "class": "StaticMeshActor",
+      "location": [
+        5375.0,
+        150.0,
+        -930.0
+      ],
+      "bounds": [
+        [
+          5375.0,
+          150.0,
+          -930.0
+        ],
+        [
+          75.0,
+          75.0,
+          30.000001192092896
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_ColorPad_Blue",
+      "class": "StaticMeshActor",
+      "location": [
+        5375.0,
+        350.0,
+        -930.0
+      ],
+      "bounds": [
+        [
+          5375.0,
+          350.0,
+          -930.0
+        ],
+        [
+          75.0,
+          75.0,
+          30.000001192092896
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_WallFade_Lower",
+      "class": "TriggerBox",
+      "location": [
+        5360.0,
+        850.0,
+        -850.0
+      ],
+      "bounds": [
+        [
+          5360.0,
+          850.0,
+          -850.0
+        ],
+        [
+          3387.60009765625,
+          3250.0,
+          1062.5
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_FadeTarget_All",
+      "class": "TriggerBox",
+      "location": [
+        4600.0,
+        1450.0,
+        -400.0
+      ],
+      "bounds": [
+        [
+          4600.0,
+          1450.0,
+          -400.0
+        ],
+        [
+          5100.0,
+          3850.0,
+          1400.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_ColorHint_1",
+      "class": "StaticMeshActor",
+      "location": [
+        4710.0,
+        1750.0,
+        160.0
+      ],
+      "bounds": [
+        [
+          4710.0,
+          1750.0,
+          160.0
+        ],
+        [
+          75.0,
+          75.0,
+          80.0000011920929
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_ColorHint_2",
+      "class": "StaticMeshActor",
+      "location": [
+        4710.0,
+        2150.0,
+        160.0
+      ],
+      "bounds": [
+        [
+          4710.0,
+          2150.0,
+          160.0
+        ],
+        [
+          75.0,
+          75.0,
+          80.0000011920929
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_ColorHint_3",
+      "class": "StaticMeshActor",
+      "location": [
+        4710.0,
+        1950.0,
+        160.0
+      ],
+      "bounds": [
+        [
+          4710.0,
+          1950.0,
+          160.0
+        ],
+        [
+          75.0,
+          75.0,
+          80.0000011920929
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Candidate1_Wall_NorthWest",
+      "class": "StaticMeshActor",
+      "location": [
+        2850.0,
+        -1750.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          2850.0,
+          -1750.0,
+          -785.0
+        ],
+        [
+          50.0,
+          50.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_HintMark_1a",
+      "class": "StaticMeshActor",
+      "location": [
+        6060.0,
+        2090.0,
+        -1550.0
+      ],
+      "bounds": [
+        [
+          6060.0,
+          2090.0,
+          -1550.0
+        ],
+        [
+          50.0,
+          20.000000298023224,
+          10.000000149011612
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_HintMark_2a",
+      "class": "StaticMeshActor",
+      "location": [
+        6060.0,
+        2460.0,
+        -1550.0
+      ],
+      "bounds": [
+        [
+          6060.0,
+          2460.0,
+          -1550.0
+        ],
+        [
+          50.0,
+          20.000000298023224,
+          10.000000149011612
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_HintMark_2b",
+      "class": "StaticMeshActor",
+      "location": [
+        6060.0,
+        2520.0,
+        -1550.0
+      ],
+      "bounds": [
+        [
+          6060.0,
+          2520.0,
+          -1550.0
+        ],
+        [
+          50.0,
+          20.000000298023224,
+          10.000000149011612
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_HintMark_3a",
+      "class": "StaticMeshActor",
+      "location": [
+        6060.0,
+        2230.0,
+        -1550.0
+      ],
+      "bounds": [
+        [
+          6060.0,
+          2230.0,
+          -1550.0
+        ],
+        [
+          50.0,
+          20.000000298023224,
+          10.000000149011612
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_HintMark_3b",
+      "class": "StaticMeshActor",
+      "location": [
+        6060.0,
+        2290.0,
+        -1550.0
+      ],
+      "bounds": [
+        [
+          6060.0,
+          2290.0,
+          -1550.0
+        ],
+        [
+          50.0,
+          20.000000298023224,
+          10.000000149011612
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_HintMark_3c",
+      "class": "StaticMeshActor",
+      "location": [
+        6060.0,
+        2350.0,
+        -1550.0
+      ],
+      "bounds": [
+        [
+          6060.0,
+          2350.0,
+          -1550.0
+        ],
+        [
+          50.0,
+          20.000000298023224,
+          10.000000149011612
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Rail_Landing_SouthWest",
+      "class": "StaticMeshActor",
+      "location": [
+        2225.0,
+        650.0,
+        370.0
+      ],
+      "bounds": [
+        [
+          2225.0,
+          650.0,
+          370.0
+        ],
+        [
+          25.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_MidBossDoor",
+      "class": "StaticMeshActor",
+      "location": [
+        6300.0,
+        1100.0,
+        -80.0
+      ],
+      "bounds": [
+        [
+          6300.0,
+          1100.0,
+          -80.0
+        ],
+        [
+          75.0,
+          300.0,
+          300.0
+        ]
+      ],
+      "collision": false,
+      "hidden": true
+    },
+    {
+      "name": "P02_MidBossEnemySpawn",
+      "class": "TriggerBox",
+      "location": [
+        4600.0,
+        1100.0,
+        340.0
+      ],
+      "bounds": [
+        [
+          4600.0,
+          1100.0,
+          340.0
+        ],
+        [
+          200.0,
+          320.0,
+          160.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_BridgeWeakSection_Deck",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        1100.0,
+        -1210.0
+      ],
+      "bounds": [
+        [
+          5250.0,
+          1100.0,
+          -1210.0
+        ],
+        [
+          350.0,
+          400.0,
+          50.0
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailS",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        650.0,
+        -1030.0
+      ],
+      "bounds": [
+        [
+          5250.0,
+          650.0,
+          -1030.0
+        ],
+        [
+          350.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailN",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        1550.0,
+        -1030.0
+      ],
+      "bounds": [
+        [
+          5250.0,
+          1550.0,
+          -1030.0
+        ],
+        [
+          350.0,
+          50.0,
+          129.99999523162842
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "P02_WrongAnswerSpawn_NE",
+      "class": "TriggerBox",
+      "location": [
+        3000.0,
+        500.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          500.0,
+          -860.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_WrongAnswerSpawn_E",
+      "class": "TriggerBox",
+      "location": [
+        3000.0,
+        -500.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          -500.0,
+          -860.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_WrongAnswerSpawn_SE",
+      "class": "TriggerBox",
+      "location": [
+        3000.0,
+        -1500.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          3000.0,
+          -1500.0,
+          -860.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "P02_LowerCorridor_Floor",
+      "class": "StaticMeshActor",
+      "location": [
+        3964.5,
+        1145.0,
+        -1010.0
+      ],
+      "bounds": [
+        [
+          3964.5,
+          1145.0,
+          -1010.0
+        ],
+        [
+          1264.5000457763672,
+          345.0000047683716,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_02",
+      "class": "StaticMeshActor",
+      "location": [
+        3068.5,
+        1550.0,
+        -1020.0
+      ],
+      "bounds": [
+        [
+          3123.00000166893,
+          1800.0,
+          -999.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_03",
+      "class": "StaticMeshActor",
+      "location": [
+        3177.5,
+        1550.0,
+        -1060.0
+      ],
+      "bounds": [
+        [
+          3232.00000166893,
+          1800.0,
+          -1039.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_04",
+      "class": "StaticMeshActor",
+      "location": [
+        3286.5,
+        1550.0,
+        -1100.0
+      ],
+      "bounds": [
+        [
+          3341.00000166893,
+          1800.0,
+          -1079.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_05",
+      "class": "StaticMeshActor",
+      "location": [
+        3395.5,
+        1550.0,
+        -1140.0
+      ],
+      "bounds": [
+        [
+          3450.00000166893,
+          1800.0,
+          -1119.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_06",
+      "class": "StaticMeshActor",
+      "location": [
+        3504.5,
+        1550.0,
+        -1180.0
+      ],
+      "bounds": [
+        [
+          3559.00000166893,
+          1800.0,
+          -1159.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_07",
+      "class": "StaticMeshActor",
+      "location": [
+        3613.5,
+        1550.0,
+        -1220.0
+      ],
+      "bounds": [
+        [
+          3668.00000166893,
+          1800.0,
+          -1199.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_08",
+      "class": "StaticMeshActor",
+      "location": [
+        3722.5,
+        1550.0,
+        -1260.0
+      ],
+      "bounds": [
+        [
+          3777.00000166893,
+          1800.0,
+          -1239.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_09",
+      "class": "StaticMeshActor",
+      "location": [
+        3831.5,
+        1550.0,
+        -1300.0
+      ],
+      "bounds": [
+        [
+          3886.00000166893,
+          1800.0,
+          -1279.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_10",
+      "class": "StaticMeshActor",
+      "location": [
+        3940.5,
+        1550.0,
+        -1340.0
+      ],
+      "bounds": [
+        [
+          3995.00000166893,
+          1800.0,
+          -1319.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_11",
+      "class": "StaticMeshActor",
+      "location": [
+        4049.5,
+        1550.0,
+        -1380.0
+      ],
+      "bounds": [
+        [
+          4104.00000166893,
+          1800.0,
+          -1359.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_12",
+      "class": "StaticMeshActor",
+      "location": [
+        4158.5,
+        1550.0,
+        -1420.0
+      ],
+      "bounds": [
+        [
+          4213.00000166893,
+          1800.0,
+          -1399.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_13",
+      "class": "StaticMeshActor",
+      "location": [
+        4267.5,
+        1550.0,
+        -1460.0
+      ],
+      "bounds": [
+        [
+          4322.00000166893,
+          1800.0,
+          -1439.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_14",
+      "class": "StaticMeshActor",
+      "location": [
+        4376.5,
+        1550.0,
+        -1500.0
+      ],
+      "bounds": [
+        [
+          4431.00000166893,
+          1800.0,
+          -1479.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_15",
+      "class": "StaticMeshActor",
+      "location": [
+        4485.5,
+        1550.0,
+        -1540.0
+      ],
+      "bounds": [
+        [
+          4540.00000166893,
+          1800.0,
+          -1519.9999997019768
+        ],
+        [
+          54.500001668930054,
+          250.0,
+          20.000000298023224
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Landing",
+      "class": "StaticMeshActor",
+      "location": [
+        2761.75,
+        1550.0,
+        -1010.0
+      ],
+      "bounds": [
+        [
+          2918.5,
+          1800.0,
+          -960.0
+        ],
+        [
+          156.75,
+          250.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Landing_Wall_West",
+      "class": "StaticMeshActor",
+      "location": [
+        2760.0,
+        1480.0,
+        -915.0
+      ],
+      "bounds": [
+        [
+          2785.0,
+          1767.5,
+          -740.0
+        ],
+        [
+          25.0,
+          287.5,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_S_01",
+      "class": "StaticMeshActor",
+      "location": [
+        2703.0,
+        1485.0,
+        -1595.0
+      ],
+      "bounds": [
+        [
+          4703.000000000004,
+          1522.5,
+          -1270.0
+        ],
+        [
+          2000.0000000000036,
+          37.5,
+          325.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_01",
+      "class": "StaticMeshActor",
+      "location": [
+        3043.0,
+        2000.0,
+        -1005.0
+      ],
+      "bounds": [
+        [
+          3152.00000333786,
+          2025.0,
+          -830.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_02",
+      "class": "StaticMeshActor",
+      "location": [
+        3171.0,
+        2000.0,
+        -1065.0
+      ],
+      "bounds": [
+        [
+          3280.00000333786,
+          2025.0,
+          -890.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_03",
+      "class": "StaticMeshActor",
+      "location": [
+        3389.0,
+        2000.0,
+        -1145.0
+      ],
+      "bounds": [
+        [
+          3498.00000333786,
+          2025.0,
+          -970.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_04",
+      "class": "StaticMeshActor",
+      "location": [
+        3607.0,
+        2000.0,
+        -1225.0
+      ],
+      "bounds": [
+        [
+          3716.00000333786,
+          2025.0,
+          -1050.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_05",
+      "class": "StaticMeshActor",
+      "location": [
+        3825.0,
+        2000.0,
+        -1305.0
+      ],
+      "bounds": [
+        [
+          3934.00000333786,
+          2025.0,
+          -1130.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_06",
+      "class": "StaticMeshActor",
+      "location": [
+        4043.0,
+        2000.0,
+        -1385.0
+      ],
+      "bounds": [
+        [
+          4152.00000333786,
+          2025.0,
+          -1210.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_07",
+      "class": "StaticMeshActor",
+      "location": [
+        4261.0,
+        2000.0,
+        -1465.0
+      ],
+      "bounds": [
+        [
+          4370.00000333786,
+          2025.0,
+          -1290.0
+        ],
+        [
+          109.00000333786011,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_Landing_Rail_N",
+      "class": "StaticMeshActor",
+      "location": [
+        2765.0,
+        2000.0,
+        -915.0
+      ],
+      "bounds": [
+        [
+          2915.0,
+          2025.0,
+          -740.0
+        ],
+        [
+          150.0,
+          25.0,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_Candidate1_Wall_EastNorth",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        751.0,
+        -785.0
+      ],
+      "bounds": [
+        [
+          5925.0,
+          801.9999990463257,
+          -610.0
+        ],
+        [
+          75.0,
+          50.999999046325684,
+          175.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor_Arch",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        150.0,
+        -460.0
+      ],
+      "bounds": [
+        [
+          5775.0,
+          150.0,
+          -460.0
+        ],
+        [
+          75.0,
+          400.0,
+          400.0000000000001
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_BossGate_Jamb_South",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        -325.0,
+        -710.0
+      ],
+      "bounds": [
+        [
+          5935.000002384186,
+          -250.0,
+          -460.0
+        ],
+        [
+          85.00000238418579,
+          75.0,
+          250.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_BossGate_Jamb_North",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        625.0,
+        -710.0
+      ],
+      "bounds": [
+        [
+          5935.000002384186,
+          700.0,
+          -460.0
+        ],
+        [
+          85.00000238418579,
+          75.0,
+          250.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02_StairD_0",
+      "class": "StaticMeshActor",
+      "location": [
+        4600.00000166893,
+        1550.0,
+        -1580.0
+      ],
+      "bounds": [
+        [
+          4660.0,
+          1800.0,
+          -1560.0
+        ],
+        [
+          59.999998331069946,
+          250.0,
+          20.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "DefaultPhysicsVolume_0",
+      "class": "DefaultPhysicsVolume",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "GameplayDebuggerPlayerManager_0",
+      "class": "GameplayDebuggerPlayerManager",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "ChaosDebugDrawActor",
+      "class": "Actor",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "BP_CombatGameMode_C_0",
+      "class": "BP_CombatGameMode_C",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "GameSession_0",
+      "class": "GameSession",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "ParticleEventManager_0",
+      "class": "ParticleEventManager",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "GameNetworkManager_0",
+      "class": "GameNetworkManager",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          128.0,
+          128.0,
+          128.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "GameStateBase_0",
+      "class": "GameStateBase",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "AbstractNavData-Default",
+      "class": "AbstractNavData",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "BP_CombatPlayerController_C_0",
+      "class": "BP_CombatPlayerController_C",
+      "location": [
+        0.0,
+        -1200.0,
+        260.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "PlayerState_0",
+      "class": "PlayerState",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "PlayerCameraManager_0",
+      "class": "PlayerCameraManager",
+      "location": [
+        5389.480188890508,
+        1100.000011070023,
+        1864.02215265175
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "BP_CombatCharacter_C_0",
+      "class": "BP_CombatCharacter_C",
+      "location": [
+        6675.055408263585,
+        1100.000011070023,
+        331.93326641379235
+      ],
+      "bounds": [
+        [
+          6539.078663770388,
+          1140.000027030438,
+          401.93326641379235
+        ],
+        [
+          1010.0,
+          1010.0,
+          1010.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "GameplayDebuggerCategoryReplicator_0",
+      "class": "GameplayDebuggerCategoryReplicator",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          1000000.0,
+          1000000.0,
+          1000000.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "P02PlaytestHUD_0",
+      "class": "P02PlaytestHUD",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "MCP_TEST_QuarterViewCameraRig",
+      "class": "P02QuarterViewCameraRig",
+      "location": [
+        6675.055408263585,
+        1100.000011070023,
+        331.93326641379235
+      ],
+      "bounds": [
+        [
+          5389.480188890508,
+          1100.000011070023,
+          1864.0221526517498
+        ],
+        [
+          1010.0,
+          1010.0,
+          1009.9999999999999
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossEnemy",
+      "class": "P02PlaytestEnemy",
+      "location": [
+        6962.552836060524,
+        1100.000003475959,
+        340.0
+      ],
+      "bounds": [
+        [
+          6962.552836060524,
+          1100.000003475959,
+          340.0
+        ],
+        [
+          40.00000059604645,
+          40.00000059604645,
+          80.0000011920929
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_BridgeBreaker",
+      "class": "P02BridgeBreaker",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossDoorGate",
+      "class": "P02MidBossDoorGate",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_ColorLock",
+      "class": "P02ColorLockPuzzle",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "collision": false,
+      "hidden": false
+    },
+    {
+      "name": "MCP_TEST_MidBossInteraction",
+      "class": "P02TransformStairInteraction",
+      "location": [
+        9150.0,
+        1100.0,
+        380.0
+      ],
+      "bounds": [
+        [
+          9150.0,
+          1100.0,
+          399.01676354035357
+        ],
+        [
+          30.000001192092896,
+          30.000001192092896,
+          39.01676383837679
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    }
+  ]
+}

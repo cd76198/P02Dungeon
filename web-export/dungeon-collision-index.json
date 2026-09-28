@@ -1,0 +1,4157 @@
+{
+  "units": "UE bounds in centimeters; GLB in meters",
+  "walkable_floor_z": 0.7099999785423279,
+  "support_is_not_reachability": true,
+  "objects": [
+    {
+      "name": "StaticMeshActor_0",
+      "label": "MCP_TEST_Interior_EntranceFloor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          -400.0,
+          -1650.0,
+          60.0
+        ],
+        "max": [
+          400.0,
+          -750.0,
+          160.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_1",
+      "label": "MCP_TEST_Interior_DescentStep_01",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          390.0,
+          -1550.0,
+          80.0
+        ],
+        "max": [
+          610.0,
+          -850.0,
+          120.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_2",
+      "label": "MCP_TEST_Interior_DescentStep_02",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          570.0,
+          -1550.0,
+          40.0
+        ],
+        "max": [
+          790.0,
+          -850.0,
+          80.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_3",
+      "label": "MCP_TEST_Interior_DescentStep_03",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          750.0,
+          -1550.0,
+          0.0
+        ],
+        "max": [
+          970.0,
+          -850.0,
+          40.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_4",
+      "label": "MCP_TEST_Interior_DescentStep_04",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          930.0,
+          -1550.0,
+          -40.0
+        ],
+        "max": [
+          1150.0,
+          -850.0,
+          0.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_5",
+      "label": "MCP_TEST_Interior_MidBossFloor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          700.0,
+          -2200.0,
+          -100.0
+        ],
+        "max": [
+          3400.0,
+          -200.0,
+          0.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_6",
+      "label": "MCP_TEST_Interior_MidBossWall_South",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          700.0,
+          -2300.0,
+          0.0
+        ],
+        "max": [
+          3500.0,
+          -2200.0,
+          350.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_7",
+      "label": "MCP_TEST_Interior_MidBossWall_North_West",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          720.0,
+          -200.0,
+          0.0
+        ],
+        "max": [
+          2320.0,
+          -100.0,
+          350.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_8",
+      "label": "MCP_TEST_Interior_MidBossWall_North_East",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2882.5,
+          -200.0,
+          0.0
+        ],
+        "max": [
+          3507.5,
+          -100.0,
+          350.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_9",
+      "label": "MCP_TEST_Interior_MidBossWall_East",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3400.0,
+          -2200.0,
+          0.0
+        ],
+        "max": [
+          3500.0,
+          -200.0,
+          350.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_10",
+      "label": "MCP_TEST_Interior_MidBossExitPillar_L",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2160.0,
+          -180.0,
+          0.0
+        ],
+        "max": [
+          2320.0,
+          -20.0,
+          520.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_11",
+      "label": "MCP_TEST_Interior_MidBossExitPillar_R",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2880.0,
+          -180.0,
+          0.0
+        ],
+        "max": [
+          3040.0,
+          -20.0,
+          520.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_12",
+      "label": "MCP_TEST_Interior_MidBossExitLintel",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2160.0,
+          -180.0,
+          430.0
+        ],
+        "max": [
+          3040.0,
+          -20.0,
+          550.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_13",
+      "label": "MCP_TEST_Interior_TransitionStep_01",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2250.0,
+          -210.0,
+          0.0
+        ],
+        "max": [
+          2950.0,
+          10.000000000000014,
+          40.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_14",
+      "label": "MCP_TEST_Interior_TransitionStep_02",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2250.0,
+          -10.000000000000014,
+          40.0
+        ],
+        "max": [
+          2950.0,
+          210.0,
+          80.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_15",
+      "label": "MCP_TEST_Interior_TransitionStep_03",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2250.0,
+          190.0,
+          80.0
+        ],
+        "max": [
+          2950.0,
+          410.0,
+          120.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_16",
+      "label": "MCP_TEST_Interior_TransitionStep_04",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2250.0,
+          390.0,
+          120.0
+        ],
+        "max": [
+          2950.0,
+          610.0,
+          160.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_17",
+      "label": "MCP_TEST_Interior_TransitionStep_05",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2250.0,
+          590.0,
+          160.0
+        ],
+        "max": [
+          2950.0,
+          810.0,
+          200.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_18",
+      "label": "MCP_TEST_Interior_TransitionStep_06",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2250.0,
+          790.0,
+          200.0
+        ],
+        "max": [
+          2950.0,
+          1010.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_19",
+      "label": "MCP_TEST_Interior_TransitionTurn",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2200.0,
+          700.0,
+          140.0
+        ],
+        "max": [
+          3000.0,
+          1500.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_20",
+      "label": "MCP_TEST_Interior_TransitionHighPath",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3000.0,
+          700.0,
+          140.0
+        ],
+        "max": [
+          4900.0,
+          1500.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_21",
+      "label": "MCP_TEST_Interior_TransitionLowRail",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          -184.99999284744263,
+          40.0
+        ],
+        "max": [
+          2250.0,
+          4.999992847442627,
+          140.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_22",
+      "label": "MCP_TEST_Interior_TransitionOuterWall",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3000.0,
+          1500.0,
+          240.00000476837158
+        ],
+        "max": [
+          4900.0,
+          1600.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_23",
+      "label": "MCP_TEST_Interior_FinalCompressionFloor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5600.0,
+          800.0,
+          140.0
+        ],
+        "max": [
+          6300.0,
+          1400.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_24",
+      "label": "MCP_TEST_Interior_FinalCompressionWall_South",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5600.0,
+          700.0,
+          240.0
+        ],
+        "max": [
+          6300.0,
+          800.0,
+          560.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_25",
+      "label": "MCP_TEST_Interior_FinalCompressionWall_North",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5600.0,
+          1400.0,
+          240.0
+        ],
+        "max": [
+          6300.0,
+          1500.0,
+          560.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_27",
+      "label": "MCP_TEST_Interior_FinalBossWall_South",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6300.0,
+          -500.0,
+          240.0
+        ],
+        "max": [
+          9600.0,
+          -400.0,
+          600.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_28",
+      "label": "MCP_TEST_Interior_FinalBossWall_North",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6300.0,
+          2600.0,
+          240.0
+        ],
+        "max": [
+          9600.0,
+          2700.0,
+          600.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_29",
+      "label": "MCP_TEST_Interior_FinalBossWall_East",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          9500.0,
+          -400.0,
+          240.0
+        ],
+        "max": [
+          9600.0,
+          2600.0,
+          600.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_31",
+      "label": "MCP_TEST_Interior_END_Pad",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8900.0,
+          750.0,
+          180.0
+        ],
+        "max": [
+          9400.0,
+          1450.0,
+          280.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          -10.000002384185791,
+          80.0
+        ],
+        "max": [
+          2250.0,
+          210.0000023841858,
+          180.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          189.9999976158142,
+          120.0
+        ],
+        "max": [
+          2250.0,
+          410.0000023841858,
+          220.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          389.9999976158142,
+          160.0
+        ],
+        "max": [
+          2250.0,
+          610.0000023841858,
+          260.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          589.9999976158142,
+          200.0
+        ],
+        "max": [
+          2250.0,
+          810.0000023841858,
+          300.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Interior_TransitionLeftRail_06",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          789.9999976158142,
+          240.0
+        ],
+        "max": [
+          2250.0,
+          1010.0000023841858,
+          340.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_32",
+      "label": "MCP_TEST_Interior_TransitionBridgeRail_South_260uu_TEST",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3000.0,
+          600.0,
+          240.00000476837158
+        ],
+        "max": [
+          4900.0,
+          700.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6300.0,
+          -400.0,
+          140.0
+        ],
+        "max": [
+          7300.0,
+          2600.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_East",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8500.0,
+          -400.0,
+          140.0
+        ],
+        "max": [
+          9500.0,
+          2600.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7300.0,
+          -400.0,
+          140.0
+        ],
+        "max": [
+          8500.0,
+          700.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_MidBossFloor_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7300.0,
+          1500.0,
+          140.0
+        ],
+        "max": [
+          8500.0,
+          2600.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Blocker",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stateful_blocker",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7300.0,
+          700.0,
+          239.9999976158142
+        ],
+        "max": [
+          8500.0,
+          1500.0,
+          460.0000023841858
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_01",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7299.99999833107,
+          750.0,
+          -200.00000029802322
+        ],
+        "max": [
+          7409.00000166893,
+          1450.0,
+          -159.99999970197678
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7408.99999833107,
+          750.0,
+          -160.00000029802322
+        ],
+        "max": [
+          7518.00000166893,
+          1450.0,
+          -119.99999970197678
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7517.99999833107,
+          750.0,
+          -120.00000029802322
+        ],
+        "max": [
+          7627.00000166893,
+          1450.0,
+          -79.99999970197678
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7626.99999833107,
+          750.0,
+          -80.00000029802322
+        ],
+        "max": [
+          7736.00000166893,
+          1450.0,
+          -39.999999701976776
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7735.99999833107,
+          750.0,
+          -40.000000298023224
+        ],
+        "max": [
+          7845.00000166893,
+          1450.0,
+          2.980232238769531e-07
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_06",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7844.99999833107,
+          750.0,
+          -2.980232238769531e-07
+        ],
+        "max": [
+          7954.00000166893,
+          1450.0,
+          40.000000298023224
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_Junction",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5900.0,
+          700.0,
+          -1060.0
+        ],
+        "max": [
+          8700.0,
+          1500.0,
+          -960.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_Candidate1",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5802.5,
+          -500.0,
+          -1060.0
+        ],
+        "max": [
+          6677.5,
+          1100.0,
+          -960.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_LowerRoute_Candidate2",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5800.0,
+          1100.0,
+          -1660.0
+        ],
+        "max": [
+          6700.0,
+          2800.0,
+          -1560.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2800.0,
+          -1800.0,
+          -960.0
+        ],
+        "max": [
+          5800.0,
+          -1700.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Floor",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2800.0,
+          -1750.0,
+          -1060.0
+        ],
+        "max": [
+          5800.0,
+          802.5,
+          -960.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2700.0,
+          -1700.0,
+          -960.0
+        ],
+        "max": [
+          2800.0,
+          -1000.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3620.0,
+          700.0,
+          -960.0
+        ],
+        "max": [
+          6620.0,
+          800.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_Wall_EastSouth",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5775.0,
+          -1777.0000228881836,
+          -960.0
+        ],
+        "max": [
+          5925.0,
+          -399.9999771118164,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "door",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5775.0,
+          -400.0,
+          -960.0
+        ],
+        "max": [
+          5925.0,
+          700.0,
+          -460.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Floor",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4445.0,
+          1470.0001335144043,
+          -1660.0
+        ],
+        "max": [
+          5800.0,
+          2799.9998664855957,
+          -1560.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Wall_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4445.0,
+          2700.0,
+          -1560.0
+        ],
+        "max": [
+          5800.0,
+          2800.0,
+          -1210.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Wall_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4345.0,
+          2037.4977111816404,
+          -1560.0
+        ],
+        "max": [
+          4445.0,
+          2812.5022888183594,
+          -1210.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate2_Wall_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3281.2685394287096,
+          1390.0,
+          -960.0
+        ],
+        "max": [
+          6711.231460571291,
+          1490.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_07",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7953.99999833107,
+          750.0,
+          39.999999701976776
+        ],
+        "max": [
+          8063.00000166893,
+          1450.0,
+          80.00000029802322
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_08",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8062.99999833107,
+          750.0,
+          79.99999970197678
+        ],
+        "max": [
+          8172.00000166893,
+          1450.0,
+          120.00000029802322
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_09",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8171.99999833107,
+          750.0,
+          119.99999970197678
+        ],
+        "max": [
+          8281.00000166893,
+          1450.0,
+          160.00000029802322
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_10",
+      "label": "StaticMeshActor10",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8280.99999833107,
+          750.0,
+          159.99999970197678
+        ],
+        "max": [
+          8390.00000166893,
+          1450.0,
+          200.00000029802322
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_11",
+      "label": "StaticMeshActor11",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8389.99999833107,
+          750.0,
+          199.99999970197678
+        ],
+        "max": [
+          8499.00000166893,
+          1450.0,
+          240.00000029802322
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_26",
+      "label": "MCP_TEST_Interior_MidBossWall_East2",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          700.0,
+          -847.5,
+          0.0
+        ],
+        "max": [
+          800.0,
+          -172.49999999999994,
+          350.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_30",
+      "label": "MCP_TEST_Interior_MidBossWall_East3",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          700.0,
+          -2295.0,
+          0.0
+        ],
+        "max": [
+          800.0,
+          -1545.0,
+          350.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_Main_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6600.0,
+          700.0,
+          -960.0
+        ],
+        "max": [
+          8700.0,
+          800.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_Main_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6700.0,
+          1400.0,
+          -960.0
+        ],
+        "max": [
+          8700.0,
+          1500.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_Main_East",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          8600.0,
+          700.0,
+          -960.0
+        ],
+        "max": [
+          8700.0,
+          1500.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_SpurS_East",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6600.0,
+          -500.0,
+          -960.0
+        ],
+        "max": [
+          6700.0,
+          700.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_SpurN_East",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6600.0,
+          1500.0,
+          -1560.0
+        ],
+        "max": [
+          6700.0,
+          2800.0,
+          -1210.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_SpurS_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5802.5,
+          -500.0,
+          -960.0
+        ],
+        "max": [
+          6677.5,
+          -400.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerRail_SpurN_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5800.0,
+          2700.0,
+          -1560.0
+        ],
+        "max": [
+          6700.0,
+          2800.0,
+          -1210.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_UpperRail_MidBossWest_S",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6300.0,
+          -400.0,
+          240.00000476837158
+        ],
+        "max": [
+          6400.0,
+          800.0,
+          599.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_UpperRail_MidBossWest_N",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6300.0,
+          1400.0,
+          240.00000476837158
+        ],
+        "max": [
+          6400.0,
+          2600.0,
+          599.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Start_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          -500.0,
+          -1650.0,
+          160.0
+        ],
+        "max": [
+          -400.0,
+          -750.0,
+          510.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Start_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          -500.0,
+          -1750.0,
+          160.0
+        ],
+        "max": [
+          500.0,
+          -1650.0,
+          510.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Start_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          -500.0,
+          -750.0,
+          160.0
+        ],
+        "max": [
+          500.0,
+          -650.0,
+          510.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Start_EastS",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          400.0,
+          -1650.0,
+          160.0
+        ],
+        "max": [
+          500.0,
+          -1550.0,
+          510.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Start_EastN",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          400.0,
+          -850.0,
+          160.0
+        ],
+        "max": [
+          500.0,
+          -750.0,
+          510.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Descent_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          390.0000047683716,
+          -1650.0,
+          120.0
+        ],
+        "max": [
+          699.9999952316284,
+          -1550.0,
+          470.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Descent_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          390.0000047683716,
+          -850.0,
+          120.0
+        ],
+        "max": [
+          699.9999952316284,
+          -750.0,
+          470.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Landing_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          700.0,
+          240.00000476837158
+        ],
+        "max": [
+          2250.0,
+          1500.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Landing_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2150.0,
+          1500.0,
+          240.00000476837158
+        ],
+        "max": [
+          3000.0,
+          1600.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Landing_SouthE",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2950.0,
+          600.0,
+          240.00000476837158
+        ],
+        "max": [
+          3000.0,
+          700.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_01",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2950.0,
+          -169.9999976158142,
+          40.0
+        ],
+        "max": [
+          3050.0,
+          9.999997615814209,
+          140.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2950.0,
+          -10.000002384185791,
+          80.0
+        ],
+        "max": [
+          3050.0,
+          210.0000023841858,
+          180.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2950.0,
+          189.9999976158142,
+          120.0
+        ],
+        "max": [
+          3050.0,
+          410.0000023841858,
+          220.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2950.0,
+          389.9999976158142,
+          160.0
+        ],
+        "max": [
+          3050.0,
+          610.0000023841858,
+          260.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_RiseRight_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2950.0,
+          570.0000143051147,
+          200.0
+        ],
+        "max": [
+          3050.0,
+          699.9999856948853,
+          300.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Shaft_Wall_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2765.0,
+          700.0,
+          -642.5
+        ],
+        "max": [
+          8515.0,
+          750.0,
+          232.5
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Shaft_Wall_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2765.0,
+          1450.0,
+          -642.5
+        ],
+        "max": [
+          8515.0,
+          1500.0,
+          232.5
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_01",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7190.99999833107,
+          799.9999952316284,
+          -240.00000029802322
+        ],
+        "max": [
+          7300.00000166893,
+          1490.0000047683716,
+          -199.99999970197678
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          7081.99999833107,
+          799.9999952316284,
+          -280.0000002980232
+        ],
+        "max": [
+          7191.00000166893,
+          1490.0000047683716,
+          -239.99999970197678
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6972.99999833107,
+          799.9999952316284,
+          -320.0000002980232
+        ],
+        "max": [
+          7082.00000166893,
+          1490.0000047683716,
+          -279.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6863.99999833107,
+          799.9999952316284,
+          -360.0000002980232
+        ],
+        "max": [
+          6973.00000166893,
+          1490.0000047683716,
+          -319.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6754.99999833107,
+          799.9999952316284,
+          -400.0000002980232
+        ],
+        "max": [
+          6864.00000166893,
+          1490.0000047683716,
+          -359.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_06",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6645.99999833107,
+          799.9999952316284,
+          -440.0000002980232
+        ],
+        "max": [
+          6755.00000166893,
+          1490.0000047683716,
+          -399.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_07",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6536.99999833107,
+          799.9999952316284,
+          -480.0000002980232
+        ],
+        "max": [
+          6646.00000166893,
+          1490.0000047683716,
+          -439.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_08",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6427.99999833107,
+          799.9999952316284,
+          -520.0000002980232
+        ],
+        "max": [
+          6537.00000166893,
+          1490.0000047683716,
+          -479.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F1_09",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6318.99999833107,
+          799.9999952316284,
+          -560.0000002980232
+        ],
+        "max": [
+          6428.00000166893,
+          1490.0000047683716,
+          -519.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_Turn",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5228.99999833107,
+          799.9999952316284,
+          -960.0000002980232
+        ],
+        "max": [
+          5338.00000166893,
+          1490.0000047683716,
+          -919.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_01",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6209.99999833107,
+          799.9999952316284,
+          -600.0000002980232
+        ],
+        "max": [
+          6319.00000166893,
+          1490.0000047683716,
+          -559.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6100.99999833107,
+          799.9999952316284,
+          -640.0000002980232
+        ],
+        "max": [
+          6210.00000166893,
+          1490.0000047683716,
+          -599.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5991.99999833107,
+          799.9999952316284,
+          -680.0000002980232
+        ],
+        "max": [
+          6101.00000166893,
+          1490.0000047683716,
+          -639.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5882.99999833107,
+          799.9999952316284,
+          -720.0000002980232
+        ],
+        "max": [
+          5992.00000166893,
+          1490.0000047683716,
+          -679.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5773.99999833107,
+          799.9999952316284,
+          -760.0000002980232
+        ],
+        "max": [
+          5883.00000166893,
+          1490.0000047683716,
+          -719.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_06",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5664.99999833107,
+          799.9999952316284,
+          -800.0000002980232
+        ],
+        "max": [
+          5774.00000166893,
+          1490.0000047683716,
+          -759.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_07",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5555.99999833107,
+          799.9999952316284,
+          -840.0000002980232
+        ],
+        "max": [
+          5665.00000166893,
+          1490.0000047683716,
+          -799.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_08",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5446.99999833107,
+          799.9999952316284,
+          -880.0000002980232
+        ],
+        "max": [
+          5556.00000166893,
+          1490.0000047683716,
+          -839.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairB_F2_09",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5337.99999833107,
+          799.9999952316284,
+          -920.0000002980232
+        ],
+        "max": [
+          5447.00000166893,
+          1490.0000047683716,
+          -879.9999997019768
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Candidate1_Wall_WestNorth",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2700.0,
+          -1410.0,
+          -960.0
+        ],
+        "max": [
+          2800.0,
+          1490.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_EndPad",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5950.0,
+          -350.0,
+          -1060.0
+        ],
+        "max": [
+          6450.0,
+          650.0,
+          -960.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_EndPad_Rail_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5950.0,
+          -425.0,
+          -960.0
+        ],
+        "max": [
+          6450.0,
+          -325.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_EndPad_Rail_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5950.0,
+          625.0,
+          -960.0
+        ],
+        "max": [
+          6450.0,
+          725.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_EndPad_Rail_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6450.0,
+          -350.0,
+          -960.0
+        ],
+        "max": [
+          6500.0,
+          650.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_ColorPad_Red",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5300.0,
+          -125.0,
+          -960.0000011920929
+        ],
+        "max": [
+          5450.0,
+          25.0,
+          -899.9999988079071
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_ColorPad_Green",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5300.0,
+          75.0,
+          -960.0000011920929
+        ],
+        "max": [
+          5450.0,
+          225.0,
+          -899.9999988079071
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_ColorPad_Blue",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5300.0,
+          275.0,
+          -960.0000011920929
+        ],
+        "max": [
+          5450.0,
+          425.0,
+          -899.9999988079071
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_ColorHint_1",
+      "label": "StaticMeshActor1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4635.0,
+          1675.0,
+          79.9999988079071
+        ],
+        "max": [
+          4785.0,
+          1825.0,
+          240.0000011920929
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_ColorHint_2",
+      "label": "StaticMeshActor2",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4635.0,
+          2075.0,
+          79.9999988079071
+        ],
+        "max": [
+          4785.0,
+          2225.0,
+          240.0000011920929
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_ColorHint_3",
+      "label": "StaticMeshActor3",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4635.0,
+          1875.0,
+          79.9999988079071
+        ],
+        "max": [
+          4785.0,
+          2025.0,
+          240.0000011920929
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Candidate1_Wall_NorthWest",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2800.0,
+          -1800.0,
+          -960.0
+        ],
+        "max": [
+          2900.0,
+          -1700.0,
+          -610.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_HintMark_1a",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6010.0,
+          2069.999999701977,
+          -1560.0000001490116
+        ],
+        "max": [
+          6110.0,
+          2110.000000298023,
+          -1539.9999998509884
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_HintMark_2a",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6010.0,
+          2439.999999701977,
+          -1560.0000001490116
+        ],
+        "max": [
+          6110.0,
+          2480.000000298023,
+          -1539.9999998509884
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_HintMark_2b",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6010.0,
+          2499.999999701977,
+          -1560.0000001490116
+        ],
+        "max": [
+          6110.0,
+          2540.000000298023,
+          -1539.9999998509884
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_HintMark_3a",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6010.0,
+          2209.999999701977,
+          -1560.0000001490116
+        ],
+        "max": [
+          6110.0,
+          2250.000000298023,
+          -1539.9999998509884
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_HintMark_3b",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6010.0,
+          2269.999999701977,
+          -1560.0000001490116
+        ],
+        "max": [
+          6110.0,
+          2310.000000298023,
+          -1539.9999998509884
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_HintMark_3c",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6010.0,
+          2329.999999701977,
+          -1560.0000001490116
+        ],
+        "max": [
+          6110.0,
+          2370.000000298023,
+          -1539.9999998509884
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Rail_Landing_SouthWest",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2200.0,
+          600.0,
+          240.00000476837158
+        ],
+        "max": [
+          2250.0,
+          700.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_MidBossDoor",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "door",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          6225.0,
+          800.0,
+          240.0
+        ],
+        "max": [
+          6375.0,
+          1400.0,
+          840.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_Deck",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4900.0,
+          700.0,
+          140.0
+        ],
+        "max": [
+          5600.0,
+          1500.0,
+          240.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailS",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4900.0,
+          600.0,
+          240.00000476837158
+        ],
+        "max": [
+          5600.0,
+          700.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailN",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4900.0,
+          1500.0,
+          240.00000476837158
+        ],
+        "max": [
+          5600.0,
+          1600.0,
+          499.9999952316284
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_LowerCorridor_Floor",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2699.999954223633,
+          799.9999952316284,
+          -1060.0
+        ],
+        "max": [
+          5229.000045776367,
+          1490.0000047683716,
+          -960.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3068.390999995038,
+          1549.4374978542328,
+          -1020.0500000007451
+        ],
+        "max": [
+          3177.60900167799,
+          2050.625,
+          -979.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3177.390999995038,
+          1549.4374978542328,
+          -1060.050000000745
+        ],
+        "max": [
+          3286.60900167799,
+          2050.625,
+          -1019.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3286.390999995038,
+          1549.4374978542328,
+          -1100.050000000745
+        ],
+        "max": [
+          3395.60900167799,
+          2050.625,
+          -1059.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3395.390999995038,
+          1549.4374978542328,
+          -1140.050000000745
+        ],
+        "max": [
+          3504.60900167799,
+          2050.625,
+          -1099.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_06",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3504.390999995038,
+          1549.4374978542328,
+          -1180.050000000745
+        ],
+        "max": [
+          3613.60900167799,
+          2050.625,
+          -1139.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_07",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3613.390999995038,
+          1549.4374978542328,
+          -1220.050000000745
+        ],
+        "max": [
+          3722.60900167799,
+          2050.625,
+          -1179.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_08",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3722.390999995038,
+          1549.4374978542328,
+          -1260.050000000745
+        ],
+        "max": [
+          3831.60900167799,
+          2050.625,
+          -1219.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_09",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3831.390999995038,
+          1549.4374978542328,
+          -1300.050000000745
+        ],
+        "max": [
+          3940.60900167799,
+          2050.625,
+          -1259.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_10",
+      "label": "StaticMeshActor10",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3940.390999995038,
+          1549.4374978542328,
+          -1340.050000000745
+        ],
+        "max": [
+          4049.60900167799,
+          2050.625,
+          -1299.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_11",
+      "label": "StaticMeshActor11",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4049.390999995038,
+          1549.4374978542328,
+          -1380.050000000745
+        ],
+        "max": [
+          4158.60900167799,
+          2050.625,
+          -1339.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_12",
+      "label": "StaticMeshActor12",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4158.390999995038,
+          1549.4374978542328,
+          -1420.050000000745
+        ],
+        "max": [
+          4267.60900167799,
+          2050.625,
+          -1379.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_13",
+      "label": "StaticMeshActor13",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4267.390999995038,
+          1549.4374978542328,
+          -1460.050000000745
+        ],
+        "max": [
+          4376.60900167799,
+          2050.625,
+          -1419.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_14",
+      "label": "StaticMeshActor14",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4376.390999995038,
+          1549.4374978542328,
+          -1500.050000000745
+        ],
+        "max": [
+          4485.60900167799,
+          2050.625,
+          -1459.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_15",
+      "label": "StaticMeshActor15",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4485.390999995038,
+          1549.4374978542328,
+          -1540.050000000745
+        ],
+        "max": [
+          4594.60900167799,
+          2050.625,
+          -1499.9499994032085
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Landing",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2761.4364999953286,
+          1549.4374978542328,
+          -1010.125
+        ],
+        "max": [
+          3075.5634952163696,
+          2050.625,
+          -909.875
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Landing_Wall_West",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2759.949999999255,
+          1479.3531225323677,
+          -915.4375
+        ],
+        "max": [
+          2810.0499992370605,
+          2055.71875,
+          -564.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_S_01",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2698.9999999403954,
+          1484.915624678135,
+          -1595.8125
+        ],
+        "max": [
+          6706.999938964851,
+          1560.09375,
+          -944.1875
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_01",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3042.7819999900757,
+          1999.9437497854233,
+          -1005.4375
+        ],
+        "max": [
+          3261.21800335598,
+          2050.0625,
+          -654.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_02",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3170.7819999900757,
+          1999.9437497854233,
+          -1065.4375
+        ],
+        "max": [
+          3389.21800335598,
+          2050.0625,
+          -714.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_03",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3388.7819999900757,
+          1999.9437497854233,
+          -1145.4375
+        ],
+        "max": [
+          3607.21800335598,
+          2050.0625,
+          -794.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_04",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3606.7819999900757,
+          1999.9437497854233,
+          -1225.4375
+        ],
+        "max": [
+          3825.21800335598,
+          2050.0625,
+          -874.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_05",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          3824.7819999900757,
+          1999.9437497854233,
+          -1305.4375
+        ],
+        "max": [
+          4043.21800335598,
+          2050.0625,
+          -954.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_06",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4042.7819999900757,
+          1999.9437497854233,
+          -1385.4375
+        ],
+        "max": [
+          4261.21800335598,
+          2050.0625,
+          -1034.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Rail_N_07",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4260.781999990076,
+          1999.9437497854233,
+          -1465.4375
+        ],
+        "max": [
+          4479.21800335598,
+          2050.0625,
+          -1114.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_Landing_Rail_N",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          2764.6999999955297,
+          1999.9437497854233,
+          -915.4375
+        ],
+        "max": [
+          3065.2999954223633,
+          2050.0625,
+          -564.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_Candidate1_Wall_EastNorth",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5849.849999997765,
+          750.8852495644093,
+          -785.4375
+        ],
+        "max": [
+          6000.149997711182,
+          853.1274980902672,
+          -434.5625
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor_Arch",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder",
+      "role_hint": "door",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": true,
+      "triangles": 252,
+      "upward_support_candidates": 30,
+      "other_triangles": 222,
+      "bounds_ue_cm": {
+        "min": [
+          5700.0,
+          -249.5181884765625,
+          -859.5181884765627
+        ],
+        "max": [
+          5850.0,
+          549.5181884765625,
+          -60.481811523437386
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_BossGate_Jamb_South",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5849.8299999926985,
+          -325.16875064373016,
+          -710.625
+        ],
+        "max": [
+          6020.170002179146,
+          -174.8125,
+          -209.375
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_BossGate_Jamb_North",
+      "label": "StaticMeshActor",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          5849.8299999926985,
+          624.8312493562698,
+          -710.625
+        ],
+        "max": [
+          6020.170002179146,
+          775.1875,
+          -209.375
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "P02_StairD_0",
+      "label": "StaticMeshActor16",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          4599.88000167048,
+          1549.4374978542328,
+          -1580.05
+        ],
+        "max": [
+          4720.119996496677,
+          2050.625,
+          -1539.95
+        ]
+      },
+      "complex_collision": false
+    }
+  ]
+}

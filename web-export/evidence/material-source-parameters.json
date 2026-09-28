@@ -1,0 +1,27 @@
+{
+  "/Game/Portfolio02/Graybox/MI_Grid_1Second_400uu_TEST": {
+    "parent": "<Object '/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid' (0x00000193000F7E00) Class 'Material'>",
+    "scalar_parameter_values": "[{parameter_info: {name: \"Grid Size\", association: GlobalParameter, index: -1}, parameter_value: 400.000000}, {parameter_info: {name: \"Roughness\", association: GlobalParameter, index: -1}, parameter_value: 1.000000}, {parameter_info: {name: \"RefractionDepthBias\", association: GlobalParameter, index: -1}, parameter_value: 0.000000}]",
+    "vector_parameter_values": "[{parameter_info: {name: \"SurfaceColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.180000, g: 0.180000, b: 0.180000, a: 1.000000}}, {parameter_info: {name: \"GridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.026042, g: 0.026042, b: 0.026042, a: 1.000000}}, {parameter_info: {name: \"SubGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.088542, g: 0.088542, b: 0.088542, a: 1.000000}}, {parameter_info: {name: \"TopGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}}]",
+    "texture_parameter_values": "[]"
+  },
+  "/Game/LevelPrototyping/Materials/M_PrototypeGrid": {},
+  "/Game/Portfolio02/Graybox/MI_Grid_Red": {
+    "parent": "<Object '/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid' (0x00000193000F7E00) Class 'Material'>",
+    "scalar_parameter_values": "[{parameter_info: {name: \"Grid Size\", association: GlobalParameter, index: -1}, parameter_value: 400.000000}, {parameter_info: {name: \"Roughness\", association: GlobalParameter, index: -1}, parameter_value: 1.000000}, {parameter_info: {name: \"RefractionDepthBias\", association: GlobalParameter, index: -1}, parameter_value: 0.000000}]",
+    "vector_parameter_values": "[{parameter_info: {name: \"SurfaceColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.750000, g: 0.060000, b: 0.060000, a: 1.000000}}, {parameter_info: {name: \"GridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.026042, g: 0.026042, b: 0.026042, a: 1.000000}}, {parameter_info: {name: \"SubGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.088542, g: 0.088542, b: 0.088542, a: 1.000000}}, {parameter_info: {name: \"TopGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}}]",
+    "texture_parameter_values": "[]"
+  },
+  "/Game/Portfolio02/Graybox/MI_Grid_Green": {
+    "parent": "<Object '/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid' (0x00000193000F7E00) Class 'Material'>",
+    "scalar_parameter_values": "[{parameter_info: {name: \"Grid Size\", association: GlobalParameter, index: -1}, parameter_value: 400.000000}, {parameter_info: {name: \"Roughness\", association: GlobalParameter, index: -1}, parameter_value: 1.000000}, {parameter_info: {name: \"RefractionDepthBias\", association: GlobalParameter, index: -1}, parameter_value: 0.000000}]",
+    "vector_parameter_values": "[{parameter_info: {name: \"SurfaceColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.060000, g: 0.550000, b: 0.120000, a: 1.000000}}, {parameter_info: {name: \"GridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.026042, g: 0.026042, b: 0.026042, a: 1.000000}}, {parameter_info: {name: \"SubGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.088542, g: 0.088542, b: 0.088542, a: 1.000000}}, {parameter_info: {name: \"TopGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}}]",
+    "texture_parameter_values": "[]"
+  },
+  "/Game/Portfolio02/Graybox/MI_Grid_Blue": {
+    "parent": "<Object '/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid' (0x00000193000F7E00) Class 'Material'>",
+    "scalar_parameter_values": "[{parameter_info: {name: \"Grid Size\", association: GlobalParameter, index: -1}, parameter_value: 400.000000}, {parameter_info: {name: \"Roughness\", association: GlobalParameter, index: -1}, parameter_value: 1.000000}, {parameter_info: {name: \"RefractionDepthBias\", association: GlobalParameter, index: -1}, parameter_value: 0.000000}]",
+    "vector_parameter_values": "[{parameter_info: {name: \"SurfaceColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.060000, g: 0.180000, b: 0.800000, a: 1.000000}}, {parameter_info: {name: \"GridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.026042, g: 0.026042, b: 0.026042, a: 1.000000}}, {parameter_info: {name: \"SubGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.088542, g: 0.088542, b: 0.088542, a: 1.000000}}, {parameter_info: {name: \"TopGridColor\", association: GlobalParameter, index: -1}, parameter_value: {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}}]",
+    "texture_parameter_values": "[]"
+  }
+}

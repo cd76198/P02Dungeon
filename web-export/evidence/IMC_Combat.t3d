@@ -1,0 +1,48 @@
+Begin Object Class=/Script/EnhancedInput.InputMappingContext Name="IMC_Combat" ExportPath="/Script/EnhancedInput.InputMappingContext'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat'"
+   Begin Object Class=/Script/EnhancedInput.InputModifierDeadZone Name="InputModifierDeadZone_0" ExportPath="/Script/EnhancedInput.InputModifierDeadZone'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierDeadZone_0'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierDeadZone Name="InputModifierDeadZone_1" ExportPath="/Script/EnhancedInput.InputModifierDeadZone'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierDeadZone_1'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierNegate Name="InputModifierNegate_0" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_0'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierNegate Name="InputModifierNegate_2" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_2'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierNegate Name="InputModifierNegate_3" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_3'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierNegate Name="InputModifierNegate_6" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_6'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierScalar Name="InputModifierScalar_0" ExportPath="/Script/EnhancedInput.InputModifierScalar'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierScalar_0'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierSwizzleAxis Name="InputModifierSwizzleAxis_3" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_3'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierSwizzleAxis Name="InputModifierSwizzleAxis_4" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_4'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierSwizzleAxis Name="InputModifierSwizzleAxis_5" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_5'"
+   End Object
+   Begin Object Class=/Script/EnhancedInput.InputModifierSwizzleAxis Name="InputModifierSwizzleAxis_6" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_6'"
+   End Object
+   Begin Object Name="InputModifierDeadZone_0" ExportPath="/Script/EnhancedInput.InputModifierDeadZone'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierDeadZone_0'"
+   End Object
+   Begin Object Name="InputModifierDeadZone_1" ExportPath="/Script/EnhancedInput.InputModifierDeadZone'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierDeadZone_1'"
+   End Object
+   Begin Object Name="InputModifierNegate_0" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_0'"
+   End Object
+   Begin Object Name="InputModifierNegate_2" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_2'"
+   End Object
+   Begin Object Name="InputModifierNegate_3" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_3'"
+   End Object
+   Begin Object Name="InputModifierNegate_6" ExportPath="/Script/EnhancedInput.InputModifierNegate'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierNegate_6'"
+   End Object
+   Begin Object Name="InputModifierScalar_0" ExportPath="/Script/EnhancedInput.InputModifierScalar'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierScalar_0'"
+      Scalar=(X=50.000000,Y=50.000000,Z=1.000000)
+   End Object
+   Begin Object Name="InputModifierSwizzleAxis_3" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_3'"
+   End Object
+   Begin Object Name="InputModifierSwizzleAxis_4" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_4'"
+   End Object
+   Begin Object Name="InputModifierSwizzleAxis_5" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_5'"
+   End Object
+   Begin Object Name="InputModifierSwizzleAxis_6" ExportPath="/Script/EnhancedInput.InputModifierSwizzleAxis'/Game/Variant_Combat/Input/IMC_Combat.IMC_Combat:InputModifierSwizzleAxis_6'"
+   End Object
+   DefaultKeyMappings=(Mappings=((Modifiers=("/Script/EnhancedInput.InputModifierSwizzleAxis'InputModifierSwizzleAxis_3'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=W),(Modifiers=("/Script/EnhancedInput.InputModifierSwizzleAxis'InputModifierSwizzleAxis_4'","/Script/EnhancedInput.InputModifierNegate'InputModifierNegate_0'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=S),(Modifiers=("/Script/EnhancedInput.InputModifierNegate'InputModifierNegate_3'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=A),(Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=D),(Modifiers=("/Script/EnhancedInput.InputModifierSwizzleAxis'InputModifierSwizzleAxis_5'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=Up),(Modifiers=("/Script/EnhancedInput.InputModifierSwizzleAxis'InputModifierSwizzleAxis_6'","/Script/EnhancedInput.InputModifierNegate'InputModifierNegate_2'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=Down),(Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=Right),(Modifiers=("/Script/EnhancedInput.InputModifierNegate'InputModifierNegate_6'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=Left),(Modifiers=("/Script/EnhancedInput.InputModifierDeadZone'InputModifierDeadZone_0'","/Script/EnhancedInput.InputModifierScalar'InputModifierScalar_0'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Move.IA_Move'",Key=Gamepad_Left2D),(Modifiers=("/Script/EnhancedInput.InputModifierDeadZone'InputModifierDeadZone_1'"),Action="/Script/EnhancedInput.InputAction'/Game/Input/Actions/IA_Look.IA_Look'",Key=Gamepad_Right2D),(Action="/Script/EnhancedInput.InputAction'/Game/Variant_Combat/Input/Actions/IA_ToggleCameraSide.IA_ToggleCameraSide'",Key=R),(Action="/Script/EnhancedInput.InputAction'/Game/Variant_Combat/Input/Actions/IA_ToggleCameraSide.IA_ToggleCameraSide'",Key=Gamepad_DPad_Down)))
+End Object

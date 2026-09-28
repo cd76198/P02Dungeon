@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/Game/Blueprints/BP_LevelTransition",
+    "text_export": true
+  },
+  {
+    "path": "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter",
+    "text_export": true
+  },
+  {
+    "path": "/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode",
+    "text_export": true
+  },
+  {
+    "path": "/Game/Variant_Combat/Blueprints/BP_CombatCharacter",
+    "text_export": true
+  },
+  {
+    "path": "/Game/Variant_Combat/Blueprints/BP_CombatGameMode",
+    "text_export": true
+  }
+]

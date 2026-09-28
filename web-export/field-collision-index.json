@@ -1,0 +1,5757 @@
+{
+  "units": "UE bounds in centimeters; GLB in meters",
+  "walkable_floor_z": 0.7099999785423279,
+  "support_is_not_reachability": true,
+  "objects": [
+    {
+      "name": "StaticMeshActor_250",
+      "label": "신전_정면벽_-1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21372.0,
+          -2016.0,
+          3840.0
+        ],
+        "max": [
+          21628.0,
+          -480.0,
+          4460.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_251",
+      "label": "신전_정면벽_1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21372.0,
+          480.0,
+          3840.0
+        ],
+        "max": [
+          21628.0,
+          2016.0,
+          4460.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_252",
+      "label": "유일입구_상인방",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21324.0,
+          -480.00000000000006,
+          4370.0
+        ],
+        "max": [
+          21676.0,
+          480.00000000000006,
+          4490.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_253",
+      "label": "신전_오른쪽벽",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21500.0,
+          1648.0,
+          3840.0
+        ],
+        "max": [
+          25980.0,
+          1872.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_254",
+      "label": "신전_후면막힌벽",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          25708.0,
+          -1760.0000000000002,
+          3840.0
+        ],
+        "max": [
+          25932.0,
+          1760.0000000000002,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_255",
+      "label": "신전_왼벽_앞",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21340.0,
+          -1872.0,
+          3840.0
+        ],
+        "max": [
+          23100.0,
+          -1648.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_256",
+      "label": "신전_왼벽_뒤",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          24300.0,
+          -1872.0,
+          3840.0
+        ],
+        "max": [
+          25900.0,
+          -1648.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_257",
+      "label": "관찰틈_막힌하부",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23100.0,
+          -1888.0,
+          3840.0
+        ],
+        "max": [
+          24220.0,
+          -1632.0,
+          3960.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_258",
+      "label": "관찰틈_상부",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23100.0,
+          -1888.0,
+          4490.0
+        ],
+        "max": [
+          24220.0,
+          -1632.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_265",
+      "label": "신전기둥_21600_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          21524.0,
+          -2136.0,
+          3840.0
+        ],
+        "max": [
+          21796.0,
+          -1864.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_266",
+      "label": "주두_21600_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21468.0,
+          -2192.0,
+          4520.0
+        ],
+        "max": [
+          21852.0,
+          -1808.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_267",
+      "label": "신전기둥_21600_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          21524.0,
+          1864.0,
+          3840.0
+        ],
+        "max": [
+          21796.0,
+          2136.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_268",
+      "label": "주두_21600_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21468.0,
+          1808.0,
+          4520.0
+        ],
+        "max": [
+          21852.0,
+          2192.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_269",
+      "label": "신전기둥_22100_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          22324.0,
+          -2136.0,
+          3840.0
+        ],
+        "max": [
+          22596.0,
+          -1864.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_270",
+      "label": "주두_22100_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          22268.0,
+          -2192.0,
+          4520.0
+        ],
+        "max": [
+          22652.0,
+          -1808.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_271",
+      "label": "신전기둥_22100_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          22324.0,
+          1864.0,
+          3840.0
+        ],
+        "max": [
+          22596.0,
+          2136.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_272",
+      "label": "주두_22100_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          22268.0,
+          1808.0,
+          4520.0
+        ],
+        "max": [
+          22652.0,
+          2192.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_275",
+      "label": "신전기둥_22600_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          23124.0,
+          1864.0,
+          3840.0
+        ],
+        "max": [
+          23396.0,
+          2136.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_276",
+      "label": "주두_22600_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23068.0,
+          1808.0,
+          4520.0
+        ],
+        "max": [
+          23452.0,
+          2192.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_277",
+      "label": "신전기둥_23100_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          23924.0,
+          -2136.0,
+          3840.0
+        ],
+        "max": [
+          24196.0,
+          -1864.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_278",
+      "label": "주두_23100_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23868.0,
+          -2192.0,
+          4520.0
+        ],
+        "max": [
+          24252.0,
+          -1808.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_279",
+      "label": "신전기둥_23100_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          23924.0,
+          1864.0,
+          3840.0
+        ],
+        "max": [
+          24196.0,
+          2136.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_280",
+      "label": "주두_23100_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23868.0,
+          1808.0,
+          4520.0
+        ],
+        "max": [
+          24252.0,
+          2192.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_281",
+      "label": "신전기둥_23600_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          24724.0,
+          -2136.0,
+          3840.0
+        ],
+        "max": [
+          24996.0,
+          -1864.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_282",
+      "label": "주두_23600_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          24668.0,
+          -2192.0,
+          4520.0
+        ],
+        "max": [
+          25052.0,
+          -1808.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_283",
+      "label": "신전기둥_23600_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          24724.0,
+          1864.0,
+          3840.0
+        ],
+        "max": [
+          24996.0,
+          2136.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_284",
+      "label": "주두_23600_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          24668.0,
+          1808.0,
+          4520.0
+        ],
+        "max": [
+          25052.0,
+          2192.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_285",
+      "label": "신전기둥_24100_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          25524.0,
+          -2136.0,
+          3840.0
+        ],
+        "max": [
+          25796.0,
+          -1864.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_286",
+      "label": "주두_24100_-1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          25468.0,
+          -2192.0,
+          4520.0
+        ],
+        "max": [
+          25852.0,
+          -1808.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_287",
+      "label": "신전기둥_24100_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          25524.0,
+          1864.0,
+          3840.0
+        ],
+        "max": [
+          25796.0,
+          2136.0,
+          4590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_288",
+      "label": "주두_24100_1250",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          25468.0,
+          1808.0,
+          4520.0
+        ],
+        "max": [
+          25852.0,
+          2192.0,
+          4620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_289",
+      "label": "신전_경사지붕_-650",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21340.0,
+          -2122.1792329411937,
+          4331.5928579038255
+        ],
+        "max": [
+          26140.0,
+          42.17923294119396,
+          5128.4071420961745
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_290",
+      "label": "신전_경사지붕_650",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21340.0,
+          -42.17923294119396,
+          4331.5928579038255
+        ],
+        "max": [
+          26140.0,
+          2122.1792329411937,
+          5128.4071420961745
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_291",
+      "label": "신전_입구안쪽차폐벽",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          22820.0,
+          -1280.0,
+          3840.0
+        ],
+        "max": [
+          23060.0,
+          1280.0,
+          4600.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_292",
+      "label": "쓰러진기둥_옛길만차단",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 16,
+      "other_triangles": 108,
+      "bounds_ue_cm": {
+        "min": [
+          19760.0,
+          -3400.0,
+          3010.0
+        ],
+        "max": [
+          20040.0,
+          -2680.0,
+          3290.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_293",
+      "label": "쓰러진기둥_주두",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          19708.0,
+          -3495.0,
+          2958.0
+        ],
+        "max": [
+          20092.0,
+          -3395.0,
+          3342.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_294",
+      "label": "천막_0_지붕_-125",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          18379.802325056175,
+          2275.0,
+          2721.02472722702
+        ],
+        "max": [
+          18670.197674943825,
+          2725.0,
+          2938.97527277298
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_295",
+      "label": "천막_0_지붕_125",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          18129.802325056175,
+          2275.0,
+          2721.02472722702
+        ],
+        "max": [
+          18420.197674943825,
+          2725.0,
+          2938.97527277298
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_296",
+      "label": "천막_0_기둥_-190",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          18385.0,
+          2295.0,
+          2519.0
+        ],
+        "max": [
+          18415.0,
+          2325.0,
+          2841.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_297",
+      "label": "천막_0_기둥_190",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          18385.0,
+          2675.0,
+          2519.0
+        ],
+        "max": [
+          18415.0,
+          2705.0,
+          2841.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_298",
+      "label": "천막_1_지붕_-125",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20279.802325056175,
+          825.0,
+          3750.498411437546
+        ],
+        "max": [
+          20570.197674943825,
+          1275.0,
+          3968.4489569835064
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_299",
+      "label": "천막_1_지붕_125",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20029.802325056175,
+          824.9999999999998,
+          3750.498411437546
+        ],
+        "max": [
+          20320.197674943825,
+          1275.0000000000002,
+          3968.4489569835064
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_300",
+      "label": "천막_1_기둥_-190",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20285.0,
+          845.0,
+          3548.4736842105262
+        ],
+        "max": [
+          20315.0,
+          875.0,
+          3870.4736842105262
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_301",
+      "label": "천막_1_기둥_190",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20285.0,
+          1225.0,
+          3548.4736842105262
+        ],
+        "max": [
+          20315.0,
+          1255.0,
+          3870.4736842105262
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_107",
+      "label": "V05_기존계단보존_15000_-6000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_000.SM_Piece_000",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16935.11422,
+          -4028.83812,
+          2340.0
+        ],
+        "max": [
+          17000.000000334472,
+          -4000.000000493164,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_108",
+      "label": "V05_기존계단보존_15000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_001.SM_Piece_001",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 200,
+      "upward_support_candidates": 37,
+      "other_triangles": 163,
+      "bounds_ue_cm": {
+        "min": [
+          15665.55044,
+          -4000.0,
+          1980.0
+        ],
+        "max": [
+          17000.000024960937,
+          -2000.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_109",
+      "label": "V05_기존계단보존_15000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_002.SM_Piece_002",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 76,
+      "upward_support_candidates": 15,
+      "other_triangles": 61,
+      "bounds_ue_cm": {
+        "min": [
+          15500.0,
+          -2000.0,
+          1980.0
+        ],
+        "max": [
+          16582.449584960938,
+          -1200.0,
+          2250.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_110",
+      "label": "V05_기존계단보존_17000_-6000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_003.SM_Piece_003",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 176,
+      "upward_support_candidates": 33,
+      "other_triangles": 143,
+      "bounds_ue_cm": {
+        "min": [
+          17000.0,
+          -4640.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          -4000.0,
+          2820.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_111",
+      "label": "V05_기존계단보존_17000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_004.SM_Piece_004",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 280,
+      "upward_support_candidates": 51,
+      "other_triangles": 229,
+      "bounds_ue_cm": {
+        "min": [
+          17000.0,
+          -4000.0,
+          2280.0
+        ],
+        "max": [
+          19000.0,
+          -2745.625732421875,
+          3000.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_113",
+      "label": "V05_기존계단보존_19000_-6000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R1_Piece_000.SM_R1_Piece_000",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 56,
+      "upward_support_candidates": 7,
+      "other_triangles": 49,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          -4205.31242,
+          2580.0
+        ],
+        "max": [
+          19164.249938964844,
+          -3999.9999962939455,
+          2850.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_114",
+      "label": "V05_기존계단보존_19000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R1_Piece_001.SM_R1_Piece_001",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 624,
+      "upward_support_candidates": 82,
+      "other_triangles": 542,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          -4000.0,
+          2640.0
+        ],
+        "max": [
+          21000.0,
+          -2000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_115",
+      "label": "V05_기존계단보존_19000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R1_Piece_002.SM_R1_Piece_002",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 92,
+      "upward_support_candidates": 14,
+      "other_triangles": 78,
+      "bounds_ue_cm": {
+        "min": [
+          20615.0,
+          -2000.0,
+          3420.0
+        ],
+        "max": [
+          21000.0,
+          0.0,
+          3660.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_116",
+      "label": "V05_기존계단보존_19000_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R1_Piece_003.SM_R1_Piece_003",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 60,
+      "upward_support_candidates": 9,
+      "other_triangles": 51,
+      "bounds_ue_cm": {
+        "min": [
+          20581.96736,
+          0.0,
+          3420.0
+        ],
+        "max": [
+          21000.000013808592,
+          400.0,
+          3660.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_118",
+      "label": "V05_기존계단보존_21000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R1_Piece_004.SM_R1_Piece_004",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 76,
+      "upward_support_candidates": 10,
+      "other_triangles": 66,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -3440.0,
+          3420.0
+        ],
+        "max": [
+          21425.0,
+          -2000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_119",
+      "label": "V05_기존계단보존_21000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_012.SM_Piece_012",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 112,
+      "upward_support_candidates": 20,
+      "other_triangles": 92,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -2000.0,
+          3420.0
+        ],
+        "max": [
+          23000.0,
+          0.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_120",
+      "label": "V05_기존계단보존_21000_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_013.SM_Piece_013",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 92,
+      "upward_support_candidates": 16,
+      "other_triangles": 76,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          0.0,
+          3480.0
+        ],
+        "max": [
+          23000.0,
+          1920.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_122",
+      "label": "V05_기존계단보존_23000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/HintVoidV095/SM_JoinFit_000.SM_JoinFit_000",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 68,
+      "upward_support_candidates": 10,
+      "other_triangles": 58,
+      "bounds_ue_cm": {
+        "min": [
+          23100.0,
+          -3120.0,
+          3420.0
+        ],
+        "max": [
+          24220.0,
+          -2320.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_123",
+      "label": "V05_기존계단보존_23000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_016.SM_Piece_016",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          -1920.0,
+          3660.0
+        ],
+        "max": [
+          25000.0,
+          0.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_124",
+      "label": "V05_기존계단보존_23000_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_017.SM_Piece_017",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          0.0,
+          3660.0
+        ],
+        "max": [
+          25000.0,
+          1920.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_128",
+      "label": "V05_기존계단보존_25000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_021.SM_Piece_021",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          25000.0,
+          -1920.0,
+          3660.0
+        ],
+        "max": [
+          25820.0,
+          0.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_129",
+      "label": "V05_기존계단보존_25000_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_022.SM_Piece_022",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          25000.0,
+          0.0,
+          3660.0
+        ],
+        "max": [
+          25820.0,
+          1920.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_133",
+      "label": "V05_왼쪽진입계단_00",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/StartStairJoin/SM_Curve_00.SM_Curve_00",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 200,
+      "upward_support_candidates": 33,
+      "other_triangles": 167,
+      "bounds_ue_cm": {
+        "min": [
+          15961.152632665406,
+          -851.24612,
+          1650.0
+        ],
+        "max": [
+          16802.492257070313,
+          -392.85235168945314,
+          1830.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_134",
+      "label": "V05_왼쪽진입계단_01",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_027.SM_Piece_027",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15947.50776,
+          -901.24612,
+          1680.0
+        ],
+        "max": [
+          16777.492257070313,
+          -448.75387146484377,
+          1860.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_135",
+      "label": "V05_왼쪽진입계단_02",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_028.SM_Piece_028",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15922.50776,
+          -951.24612,
+          1710.0
+        ],
+        "max": [
+          16752.492257070313,
+          -498.75387146484377,
+          1890.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_136",
+      "label": "V05_왼쪽진입계단_03",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_029.SM_Piece_029",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15897.50776,
+          -1001.24612,
+          1740.0
+        ],
+        "max": [
+          16727.492257070313,
+          -548.7538714648438,
+          1920.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_137",
+      "label": "V05_왼쪽진입계단_04",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_030.SM_Piece_030",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15872.50776,
+          -1051.24612,
+          1770.0
+        ],
+        "max": [
+          16702.492257070313,
+          -598.7538714648438,
+          1950.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_138",
+      "label": "V05_왼쪽진입계단_05",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_031.SM_Piece_031",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15847.50776,
+          -1101.24612,
+          1800.0
+        ],
+        "max": [
+          16677.492257070313,
+          -648.7538714648438,
+          1980.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_139",
+      "label": "V05_왼쪽진입계단_06",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_032.SM_Piece_032",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15822.50776,
+          -1151.24612,
+          1830.0
+        ],
+        "max": [
+          16652.492257070313,
+          -698.7538714648438,
+          2010.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_140",
+      "label": "V05_왼쪽진입계단_07",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_033.SM_Piece_033",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15797.50776,
+          -1201.24612,
+          1860.0
+        ],
+        "max": [
+          16627.492257070313,
+          -748.7538714648438,
+          2040.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_141",
+      "label": "V05_왼쪽진입계단_08",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_034.SM_Piece_034",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15772.50776,
+          -1251.24612,
+          1890.0
+        ],
+        "max": [
+          16602.492257070313,
+          -798.7538714648438,
+          2070.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_142",
+      "label": "V05_왼쪽진입계단_09",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_035.SM_Piece_035",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15747.50776,
+          -1301.24612,
+          1920.0
+        ],
+        "max": [
+          16577.492257070313,
+          -848.7538714648438,
+          2100.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_143",
+      "label": "V05_왼쪽진입계단_10",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_036.SM_Piece_036",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15722.50776,
+          -1351.24612,
+          1950.0
+        ],
+        "max": [
+          16552.492257070313,
+          -898.7538714648438,
+          2130.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_144",
+      "label": "V05_왼쪽진입계단_11",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_037.SM_Piece_037",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15497.50776,
+          -1801.2461199999998,
+          1980.0
+        ],
+        "max": [
+          16527.492257070313,
+          -948.7538714648435,
+          2160.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_145",
+      "label": "V05_붕괴확인_작은폐허마당",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldOldPathEdgeV0917/SM_Edge_02.SM_Edge_02",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 4,
+      "other_triangles": 16,
+      "bounds_ue_cm": {
+        "min": [
+          19200.0,
+          -3950.0,
+          2820.0
+        ],
+        "max": [
+          19700.0,
+          -2640.0,
+          3000.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_146",
+      "label": "V05_신전왼쪽_관찰마당",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/HintVoidV095/SM_JoinFit_001.SM_JoinFit_001",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 24,
+      "upward_support_candidates": 4,
+      "other_triangles": 20,
+      "bounds_ue_cm": {
+        "min": [
+          23100.0,
+          -3220.0,
+          3420.0
+        ],
+        "max": [
+          24220.0,
+          -1920.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_147",
+      "label": "V05_열린마당_15100_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_040.SM_Piece_040",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15100.0,
+          -300.0,
+          1380.0
+        ],
+        "max": [
+          15500.0,
+          -200.0,
+          1560.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_148",
+      "label": "V05_열린마당_15100_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_041.SM_Piece_041",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          15100.0,
+          -200.0,
+          1380.0
+        ],
+        "max": [
+          15500.0,
+          566.6666870117188,
+          1560.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_151",
+      "label": "V05_열린마당_15500_1200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_044.SM_Piece_044",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16268.86792,
+          1200.0,
+          1585.03145
+        ],
+        "max": [
+          16400.000000078126,
+          1985.0,
+          1800.0000016357421
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_155",
+      "label": "V05_열린마당_16400_1200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_048.SM_Piece_048",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          16400.0,
+          1200.0,
+          1620.0
+        ],
+        "max": [
+          17800.0,
+          2600.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_156",
+      "label": "V05_열린마당_16400_2600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_049.SM_Piece_049",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16661.70213,
+          2600.0,
+          1754.5896700000003
+        ],
+        "max": [
+          17799.9999815625,
+          4000.0,
+          2520.000009355469
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_157",
+      "label": "V05_열린마당_16400_4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_050.SM_Piece_050",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          17257.44681,
+          4000.0,
+          2060.97264
+        ],
+        "max": [
+          17799.999971621095,
+          4145.454544067383,
+          2520.000014267578
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_161",
+      "label": "V05_열린마당_17800_1200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_054.SM_Piece_054",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          17800.0,
+          1200.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          2600.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_162",
+      "label": "V05_열린마당_17800_2600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_055.SM_Piece_055",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          17800.0,
+          2600.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          4000.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_163",
+      "label": "V05_열린마당_17800_4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_056.SM_Piece_056",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          17800.0,
+          4000.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          4250.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_167",
+      "label": "V05_열린마당_19000_1200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_060.SM_Piece_060",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          1200.0,
+          2340.0
+        ],
+        "max": [
+          20000.0,
+          2600.0,
+          3360.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_168",
+      "label": "V05_열린마당_19000_2600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_061.SM_Piece_061",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 4,
+      "other_triangles": 16,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          2600.0,
+          2340.0
+        ],
+        "max": [
+          20000.0,
+          4000.0,
+          3360.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_169",
+      "label": "V05_열린마당_19000_4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_062.SM_Piece_062",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 8,
+      "upward_support_candidates": 1,
+      "other_triangles": 7,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          4000.0,
+          2340.0
+        ],
+        "max": [
+          19246.875,
+          4207.894744873047,
+          2727.375
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_170",
+      "label": "V05_열린마당_20000_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_063.SM_Piece_063",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          48.284270000000106,
+          3180.0
+        ],
+        "max": [
+          20380.0,
+          1199.9999682421876,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_171",
+      "label": "V05_열린마당_20000_1200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_064.SM_Piece_064",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          1200.0,
+          3180.0
+        ],
+        "max": [
+          20380.0,
+          2600.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_172",
+      "label": "V05_열린마당_20000_2600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_065.SM_Piece_065",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 8,
+      "upward_support_candidates": 1,
+      "other_triangles": 7,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          2600.0,
+          3180.0
+        ],
+        "max": [
+          20220.0,
+          3184.375,
+          3498.9473571777344
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_173",
+      "label": "V05_열린마당_20380_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_066.SM_Piece_066",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20380.0,
+          400.0,
+          3420.0
+        ],
+        "max": [
+          20540.0,
+          1200.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_174",
+      "label": "V05_열린마당_20380_1200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/OutdoorReviewV05/SM_Piece_067.SM_Piece_067",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20380.0,
+          1200.0,
+          3420.0
+        ],
+        "max": [
+          20540.0,
+          2175.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_175",
+      "label": "V05_외곽경계_15000_-4800",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_22_R4.SM_Rail_22_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 328,
+      "upward_support_candidates": 55,
+      "other_triangles": 273,
+      "bounds_ue_cm": {
+        "min": [
+          16240.1,
+          -3837.9,
+          2281.73661
+        ],
+        "max": [
+          16599.999993896483,
+          -3199.9999755859376,
+          2610.000007216797
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_176",
+      "label": "V05_외곽경계_15000_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_23_R4.SM_Rail_23_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 876,
+      "upward_support_candidates": 152,
+      "other_triangles": 724,
+      "bounds_ue_cm": {
+        "min": [
+          15421.5,
+          -3200.0,
+          1635.1999999999998
+        ],
+        "max": [
+          16432.359985351562,
+          -1600.0,
+          2573.3854248046873
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_177",
+      "label": "V05_외곽경계_15000_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_24_R4.SM_Rail_24_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 1108,
+      "upward_support_candidates": 181,
+      "other_triangles": 927,
+      "bounds_ue_cm": {
+        "min": [
+          15015.0,
+          -1600.0,
+          1400.0
+        ],
+        "max": [
+          15988.260009765625,
+          0.0,
+          2250.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_178",
+      "label": "V05_외곽경계_15000_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_25_R4.SM_Rail_25_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 1072,
+      "upward_support_candidates": 186,
+      "other_triangles": 886,
+      "bounds_ue_cm": {
+        "min": [
+          15015.0,
+          0.0,
+          1400.0
+        ],
+        "max": [
+          16291.5,
+          1600.0,
+          1861.0666809082031
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_179",
+      "label": "V05_외곽경계_15000_1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_26_R4.SM_Rail_26_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 544,
+      "upward_support_candidates": 94,
+      "other_triangles": 450,
+      "bounds_ue_cm": {
+        "min": [
+          16206.4,
+          1600.0,
+          1588.37333
+        ],
+        "max": [
+          16600.000006103517,
+          2672.0999755859375,
+          1992.8571251660155
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_180",
+      "label": "V05_외곽경계_16600_-4800",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_27_R4.SM_Rail_27_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 1456,
+      "upward_support_candidates": 258,
+      "other_triangles": 1198,
+      "bounds_ue_cm": {
+        "min": [
+          16600.0,
+          -4655.2,
+          2360.0
+        ],
+        "max": [
+          18200.0,
+          -3200.000048828125,
+          2850.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_181",
+      "label": "V05_외곽경계_16600_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_28_R4.SM_Rail_28_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 904,
+      "upward_support_candidates": 145,
+      "other_triangles": 759,
+      "bounds_ue_cm": {
+        "min": [
+          16826.7,
+          -3200.0,
+          1834.60571
+        ],
+        "max": [
+          18200.000048828126,
+          -2350.0,
+          2622.0988740625
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_182",
+      "label": "V05_외곽경계_16600_1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_29_R4.SM_Rail_29_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 300,
+      "upward_support_candidates": 50,
+      "other_triangles": 250,
+      "bounds_ue_cm": {
+        "min": [
+          16600.0,
+          2455.0,
+          1742.85714
+        ],
+        "max": [
+          16917.0,
+          3200.0,
+          2155.885704453125
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_183",
+      "label": "V05_외곽경계_16600_3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_30_R4.SM_Rail_30_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 832,
+      "upward_support_candidates": 141,
+      "other_triangles": 691,
+      "bounds_ue_cm": {
+        "min": [
+          16824.6,
+          3200.0,
+          1858.36571
+        ],
+        "max": [
+          18200.00002441406,
+          4267.199951171875,
+          2617.853747109375
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_185",
+      "label": "V05_외곽경계_18200_-4800",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_31_R4.SM_Rail_31_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 1108,
+      "upward_support_candidates": 192,
+      "other_triangles": 916,
+      "bounds_ue_cm": {
+        "min": [
+          18200.0,
+          -4718.5,
+          2571.3968
+        ],
+        "max": [
+          19046.830017089844,
+          -3200.0,
+          3064.7415265625
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_186",
+      "label": "V05_외곽경계_18200_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldOldPathEdgeV0917/SM_Edge_01.SM_Edge_01",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 1004,
+      "upward_support_candidates": 122,
+      "other_triangles": 882,
+      "bounds_ue_cm": {
+        "min": [
+          18200.0,
+          -3200.0,
+          2360.0
+        ],
+        "max": [
+          19633.780029296875,
+          -1781.68994140625,
+          3428.518310546875
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_187",
+      "label": "V05_외곽경계_18200_3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_33_R4.SM_Rail_33_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 832,
+      "upward_support_candidates": 142,
+      "other_triangles": 690,
+      "bounds_ue_cm": {
+        "min": [
+          18200.0,
+          3534.2,
+          2360.0
+        ],
+        "max": [
+          19800.0,
+          4334.559985351562,
+          3282.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_190",
+      "label": "V05_외곽경계_19800_-4800",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_34_R4.SM_Rail_34_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 632,
+      "upward_support_candidates": 86,
+      "other_triangles": 546,
+      "bounds_ue_cm": {
+        "min": [
+          20102.15,
+          -3525.0,
+          2840.0
+        ],
+        "max": [
+          21399.99997558594,
+          -3200.0,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_191",
+      "label": "V05_외곽경계_19800_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_35_R4.SM_Rail_35_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 240,
+      "upward_support_candidates": 23,
+      "other_triangles": 217,
+      "bounds_ue_cm": {
+        "min": [
+          19800.0,
+          -3200.0,
+          2840.0
+        ],
+        "max": [
+          21400.0,
+          -2555.0,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_192",
+      "label": "V05_외곽경계_19800_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_36_R4.SM_Rail_36_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 112,
+      "upward_support_candidates": 19,
+      "other_triangles": 93,
+      "bounds_ue_cm": {
+        "min": [
+          21198.69,
+          -485.0,
+          3470.0
+        ],
+        "max": [
+          21399.999997558592,
+          -400.0,
+          3928.2172241210938
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_193",
+      "label": "V05_외곽경계_19800_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_37_R4.SM_Rail_37_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 764,
+      "upward_support_candidates": 137,
+      "other_triangles": 627,
+      "bounds_ue_cm": {
+        "min": [
+          20540.0,
+          400.0,
+          3422.69231
+        ],
+        "max": [
+          21400.0,
+          1600.0,
+          3928.217242861328
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_194",
+      "label": "V05_외곽경계_19800_1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_38_R4.SM_Rail_38_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 772,
+      "upward_support_candidates": 132,
+      "other_triangles": 640,
+      "bounds_ue_cm": {
+        "min": [
+          19994.1,
+          1600.0,
+          3195.044
+        ],
+        "max": [
+          20625.00002441406,
+          3200.0,
+          3740.81304296875
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_195",
+      "label": "V05_외곽경계_19800_3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_39_R4.SM_Rail_39_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 292,
+      "upward_support_candidates": 52,
+      "other_triangles": 240,
+      "bounds_ue_cm": {
+        "min": [
+          19800.0,
+          3200.0,
+          3032.0
+        ],
+        "max": [
+          20084.899993896484,
+          3645.2999877929688,
+          3519.951171875
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_197",
+      "label": "V05_외곽경계_21400_-4800",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_40_R4.SM_Rail_40_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 64,
+      "upward_support_candidates": 11,
+      "other_triangles": 53,
+      "bounds_ue_cm": {
+        "min": [
+          21400.0,
+          -3310.4,
+          3440.0
+        ],
+        "max": [
+          21443.590000152588,
+          -3199.999998474121,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_198",
+      "label": "V05_외곽경계_21400_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_41_R4.SM_Rail_41_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 28,
+      "upward_support_candidates": 5,
+      "other_triangles": 23,
+      "bounds_ue_cm": {
+        "min": [
+          21400.0,
+          -3200.0,
+          3440.0
+        ],
+        "max": [
+          21443.59999847412,
+          -3175.239999771118,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_199",
+      "label": "V05_외곽경계_21400_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_42_R4.SM_Rail_42_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 404,
+      "upward_support_candidates": 67,
+      "other_triangles": 337,
+      "bounds_ue_cm": {
+        "min": [
+          21400.0,
+          -1057.47,
+          3470.0
+        ],
+        "max": [
+          21500.0,
+          -400.000029296875,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_200",
+      "label": "V05_외곽경계_21400_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_43_R4.SM_Rail_43_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 672,
+      "upward_support_candidates": 114,
+      "other_triangles": 558,
+      "bounds_ue_cm": {
+        "min": [
+          21400.0,
+          400.0,
+          3643.63636
+        ],
+        "max": [
+          21500.0,
+          1600.0,
+          3930.0000074609375
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_201",
+      "label": "V05_외곽경계_21400_1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_44_R4.SM_Rail_44_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 780,
+      "upward_support_candidates": 133,
+      "other_triangles": 647,
+      "bounds_ue_cm": {
+        "min": [
+          21415.0,
+          1600.0,
+          3680.0
+        ],
+        "max": [
+          23000.0,
+          2005.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_204",
+      "label": "V05_외곽경계_23000_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_45_R4.SM_Rail_45_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 236,
+      "upward_support_candidates": 23,
+      "other_triangles": 213,
+      "bounds_ue_cm": {
+        "min": [
+          24220.0,
+          -2125.0,
+          3440.0
+        ],
+        "max": [
+          24600.0,
+          -1920.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_205",
+      "label": "V05_외곽경계_23000_1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_46_R4.SM_Rail_46_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 576,
+      "upward_support_candidates": 96,
+      "other_triangles": 480,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          1920.0,
+          3680.0
+        ],
+        "max": [
+          24600.0,
+          2005.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_209",
+      "label": "V05_외곽경계_24600_-3200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_47_R4.SM_Rail_47_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 684,
+      "upward_support_candidates": 117,
+      "other_triangles": 567,
+      "bounds_ue_cm": {
+        "min": [
+          24600.0,
+          -2005.0,
+          3680.0
+        ],
+        "max": [
+          25905.0,
+          -1600.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_210",
+      "label": "V05_외곽경계_24600_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_48_R4.SM_Rail_48_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 828,
+      "upward_support_candidates": 138,
+      "other_triangles": 690,
+      "bounds_ue_cm": {
+        "min": [
+          25820.0,
+          -1600.0,
+          3680.0
+        ],
+        "max": [
+          25905.0,
+          0.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_211",
+      "label": "V05_외곽경계_24600_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_49_R4.SM_Rail_49_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 828,
+      "upward_support_candidates": 138,
+      "other_triangles": 690,
+      "bounds_ue_cm": {
+        "min": [
+          25820.0,
+          0.0,
+          3680.0
+        ],
+        "max": [
+          25905.0,
+          1600.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_212",
+      "label": "V05_외곽경계_24600_1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_50_R4.SM_Rail_50_R4",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 684,
+      "upward_support_candidates": 117,
+      "other_triangles": 567,
+      "bounds_ue_cm": {
+        "min": [
+          24600.0,
+          1600.0,
+          3680.0
+        ],
+        "max": [
+          25905.0,
+          2005.0,
+          3930.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_224",
+      "label": "낮은지형덩어리_2",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          19075.876601179196,
+          1750.0,
+          2762.02919601853
+        ],
+        "max": [
+          19824.123398820804,
+          2450.0,
+          3464.946255718573
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_225",
+      "label": "폐허벽잔존_2",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          19153.82641186733,
+          2295.0,
+          3139.6205903739774
+        ],
+        "max": [
+          19546.17358813267,
+          2395.0,
+          3493.9887970125965
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_241",
+      "label": "관찰마당_낮은이동차단난간",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/Observation/SM_Observation_CrackedRailing_v09_1A.SM_Observation_CrackedRailing_v09_1A",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 168,
+      "upward_support_candidates": 28,
+      "other_triangles": 140,
+      "bounds_ue_cm": {
+        "min": [
+          23070.0,
+          -2060.0,
+          3600.0
+        ],
+        "max": [
+          24250.0,
+          -1960.0,
+          3920.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_0",
+      "label": "관찰틈_안쪽막힘면",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23100.0,
+          -1650.0,
+          3960.0
+        ],
+        "max": [
+          24220.0,
+          -1630.0,
+          4490.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_1",
+      "label": "관찰유도_바깥쪽쓰러진기둥",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 16,
+      "other_triangles": 108,
+      "bounds_ue_cm": {
+        "min": [
+          23520.0,
+          -3273.2407729786564,
+          3600.2111272028737
+        ],
+        "max": [
+          23800.0,
+          -2510.7592270213436,
+          4023.7888727971263
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_47",
+      "label": "제안_종탑_몸통",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21520.0,
+          -1730.0,
+          3840.0
+        ],
+        "max": [
+          22420.0,
+          -830.0,
+          5620.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_48",
+      "label": "제안_종탑_중간처마",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21450.0,
+          -1800.0,
+          5610.0
+        ],
+        "max": [
+          22490.0,
+          -760.0,
+          5710.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_49",
+      "label": "제안_종탑_상부기둥_-1_-1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21520.0,
+          -1730.0,
+          5700.0
+        ],
+        "max": [
+          21680.0,
+          -1570.0,
+          6500.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_50",
+      "label": "제안_종탑_상부기둥_-1_1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21520.0,
+          -990.0,
+          5700.0
+        ],
+        "max": [
+          21680.0,
+          -830.0,
+          6500.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_51",
+      "label": "제안_종탑_상부기둥_1_-1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          22260.0,
+          -1730.0,
+          5700.0
+        ],
+        "max": [
+          22420.0,
+          -1570.0,
+          6500.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_52",
+      "label": "제안_종탑_상부기둥_1_1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          22260.0,
+          -990.0,
+          5700.0
+        ],
+        "max": [
+          22420.0,
+          -830.0,
+          6500.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_53",
+      "label": "제안_종탑_상부인방",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21450.0,
+          -1800.0,
+          6490.0
+        ],
+        "max": [
+          22490.0,
+          -760.0,
+          6590.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_54",
+      "label": "제안_종탑_작은지붕_-1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21410.0,
+          -1831.3220922262922,
+          6534.451196194158
+        ],
+        "max": [
+          22530.0,
+          -1228.6779077737078,
+          6905.548803805842
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_55",
+      "label": "제안_종탑_작은지붕_1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21410.0,
+          -1331.3220922262922,
+          6534.451196194158
+        ],
+        "max": [
+          22530.0,
+          -728.6779077737078,
+          6905.548803805842
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_56",
+      "label": "V09_종_몸체",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cone.Cone",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 144,
+      "upward_support_candidates": 11,
+      "other_triangles": 133,
+      "bounds_ue_cm": {
+        "min": [
+          21825.0,
+          -1425.0,
+          5880.0
+        ],
+        "max": [
+          22115.0,
+          -1135.0000663757323,
+          6280.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_57",
+      "label": "V09_종_입구테두리",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cylinder.Cylinder",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          21815.0,
+          -1435.0,
+          5860.0
+        ],
+        "max": [
+          22125.0,
+          -1125.0,
+          5920.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_58",
+      "label": "V09_종_추",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Sphere.Sphere",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 448,
+      "upward_support_candidates": 112,
+      "other_triangles": 336,
+      "bounds_ue_cm": {
+        "min": [
+          21927.73281622212,
+          -1322.267180535389,
+          5777.499996757508
+        ],
+        "max": [
+          22012.26718377788,
+          -1237.7328129796258,
+          5862.500003242492
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_59",
+      "label": "V09_종_매달림",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21956.0,
+          -1294.0,
+          6280.0
+        ],
+        "max": [
+          21984.0,
+          -1266.0,
+          6500.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_62",
+      "label": "관찰틈_파손벽체",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23100.0,
+          -1872.0,
+          3960.0
+        ],
+        "max": [
+          24220.0,
+          -1650.0,
+          4490.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_63",
+      "label": "관찰유도_쓰러진기둥_주두",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          23468.0,
+          -3376.976202970892,
+          3698.004310899414
+        ],
+        "max": [
+          23852.0,
+          -3199.323353623491,
+          4094.404158662972
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_64",
+      "label": "V05_왼쪽진입계단_1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/StartStairJoin/SM_Curve_01.SM_Curve_01",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 324,
+      "upward_support_candidates": 54,
+      "other_triangles": 270,
+      "bounds_ue_cm": {
+        "min": [
+          15911.790604543457,
+          -810.24612,
+          1615.0
+        ],
+        "max": [
+          16818.492257070313,
+          -347.2255816699219,
+          1795.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_65",
+      "label": "V05_왼쪽진입계단_2",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/StartStairJoin/SM_Curve_02.SM_Curve_02",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 372,
+      "upward_support_candidates": 62,
+      "other_triangles": 310,
+      "bounds_ue_cm": {
+        "min": [
+          15862.503884267579,
+          -762.24612,
+          1582.0
+        ],
+        "max": [
+          16842.492257070313,
+          -293.56011536132814,
+          1762.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_66",
+      "label": "V05_왼쪽진입계단_3",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/StartStairJoin/SM_Curve_03.SM_Curve_03",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 384,
+      "upward_support_candidates": 64,
+      "other_triangles": 320,
+      "bounds_ue_cm": {
+        "min": [
+          15817.477593374024,
+          -715.24612,
+          1545.0
+        ],
+        "max": [
+          16870.492257070313,
+          -240.80025818359377,
+          1725.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_67",
+      "label": "V05_왼쪽진입계단_4",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/StartStairJoin/SM_Curve_04_WallJoined.SM_Curve_04_WallJoined",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 396,
+      "upward_support_candidates": 66,
+      "other_triangles": 330,
+      "bounds_ue_cm": {
+        "min": [
+          15768.420510244141,
+          -665.24612,
+          1502.0
+        ],
+        "max": [
+          16895.492257070313,
+          -184.89873840820314,
+          1682.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_68",
+      "label": "V05_왼쪽진입계단_5",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/StartStairJoin/SM_Curve_05_WallJoined.SM_Curve_05_WallJoined",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 408,
+      "upward_support_candidates": 68,
+      "other_triangles": 340,
+      "bounds_ue_cm": {
+        "min": [
+          15719.664803457032,
+          -615.24612,
+          1467.0
+        ],
+        "max": [
+          16920.492257070313,
+          -128.99721863281252,
+          1647.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_69",
+      "label": "단축순례길_바닥_19000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R3_Piece_017.SM_R3_Piece_017",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 72,
+      "upward_support_candidates": 13,
+      "other_triangles": 59,
+      "bounds_ue_cm": {
+        "min": [
+          19146.75423,
+          -4303.36052,
+          2820.0
+        ],
+        "max": [
+          20000.000018574217,
+          -3999.9999853320314,
+          3120.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_70",
+      "label": "단축순례길_낙차난간_19000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_00_R4.SM_Rail_00_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 620,
+      "upward_support_candidates": 83,
+      "other_triangles": 537,
+      "bounds_ue_cm": {
+        "min": [
+          19028.11,
+          -4391.25,
+          2630.0
+        ],
+        "max": [
+          20000.000014648438,
+          -4024.4100036621094,
+          3247.3724975585938
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_71",
+      "label": "단축순례길_바닥_19000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R3_Piece_019.SM_R3_Piece_019",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 84,
+      "upward_support_candidates": 17,
+      "other_triangles": 67,
+      "bounds_ue_cm": {
+        "min": [
+          19108.66885,
+          -4000.0,
+          2820.0
+        ],
+        "max": [
+          20000.00002675781,
+          -3340.0,
+          3090.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_72",
+      "label": "단축순례길_낙차난간_19000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldOldPathEdgeV0917/SM_Edge_00.SM_Edge_00",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 184,
+      "upward_support_candidates": 45,
+      "other_triangles": 139,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          -2909.86,
+          2800.0
+        ],
+        "max": [
+          19805.0,
+          -2555.0000146484376,
+          3090.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_78",
+      "label": "단축순례길_바닥_20000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R3_Piece_025.SM_R3_Piece_025",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 96,
+      "upward_support_candidates": 18,
+      "other_triangles": 78,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          -4500.0,
+          2910.0
+        ],
+        "max": [
+          21000.0,
+          -4000.0,
+          3240.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_79",
+      "label": "단축순례길_낙차난간_20000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_02_R4.SM_Rail_02_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 644,
+      "upward_support_candidates": 122,
+      "other_triangles": 522,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          -4580.11,
+          2914.44987
+        ],
+        "max": [
+          21000.0,
+          -4303.36,
+          3330.0000103808593
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_80",
+      "label": "단축순례길_바닥_20000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R3_Piece_027.SM_R3_Piece_027",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 96,
+      "upward_support_candidates": 17,
+      "other_triangles": 79,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          -4000.0,
+          2880.0
+        ],
+        "max": [
+          21000.0,
+          -3476.283447265625,
+          3240.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_81",
+      "label": "단축순례길_낙차난간_20000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_03_R4.SM_Rail_03_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 448,
+      "upward_support_candidates": 5,
+      "other_triangles": 443,
+      "bounds_ue_cm": {
+        "min": [
+          20000.0,
+          -3692.71,
+          2826.16856
+        ],
+        "max": [
+          21000.0,
+          -3439.999993286133,
+          3673.7386893945313
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_82",
+      "label": "단축순례길_바닥_20000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_029.SM_R4_Piece_029",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 8,
+      "upward_support_candidates": 1,
+      "other_triangles": 7,
+      "bounds_ue_cm": {
+        "min": [
+          20992.18269,
+          -2017.567,
+          3420.0
+        ],
+        "max": [
+          20999.999999856416,
+          -2000.0000005645752,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_83",
+      "label": "단축순례길_낙차난간_20000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_04_R4.SM_Rail_04_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 376,
+      "upward_support_candidates": 42,
+      "other_triangles": 334,
+      "bounds_ue_cm": {
+        "min": [
+          20190.04,
+          -2640.0,
+          2800.0
+        ],
+        "max": [
+          20619.99999145508,
+          -2105.0,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_84",
+      "label": "단축순례길_바닥_20000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_031.SM_R4_Piece_031",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          20547.18269,
+          -2000.0,
+          3420.0
+        ],
+        "max": [
+          21000.000011777345,
+          -1000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_86",
+      "label": "단축순례길_바닥_20000_-1000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_033.SM_R4_Piece_033",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 24,
+      "upward_support_candidates": 5,
+      "other_triangles": 19,
+      "bounds_ue_cm": {
+        "min": [
+          20140.0,
+          -1000.0,
+          3420.0
+        ],
+        "max": [
+          21000.0,
+          0.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_88",
+      "label": "단축순례길_바닥_20000_0",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_035.SM_R4_Piece_035",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 64,
+      "upward_support_candidates": 13,
+      "other_triangles": 51,
+      "bounds_ue_cm": {
+        "min": [
+          20140.0,
+          0.0,
+          3420.0
+        ],
+        "max": [
+          20977.817321777344,
+          589.8729248046875,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_90",
+      "label": "단축순례길_바닥_21000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_037.SM_R2_Piece_037",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 96,
+      "upward_support_candidates": 16,
+      "other_triangles": 80,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -4476.42915,
+          3060.0
+        ],
+        "max": [
+          22000.0,
+          -4000.000011816406,
+          3450.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_91",
+      "label": "단축순례길_낙차난간_21000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_05_R4.SM_Rail_05_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 424,
+      "upward_support_candidates": 71,
+      "other_triangles": 353,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -4562.22,
+          3040.0
+        ],
+        "max": [
+          22000.0,
+          -4340.070006103516,
+          3540.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_92",
+      "label": "단축순례길_바닥_21000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_039.SM_R2_Piece_039",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 108,
+      "upward_support_candidates": 18,
+      "other_triangles": 90,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -4000.0,
+          3060.0
+        ],
+        "max": [
+          22000.0,
+          -3532.6617736816406,
+          3480.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_93",
+      "label": "단축순례길_낙차난간_21000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_06_R4.SM_Rail_06_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 612,
+      "upward_support_candidates": 75,
+      "other_triangles": 537,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -3669.03,
+          3040.0
+        ],
+        "max": [
+          22000.0,
+          -2999.999970703125,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_94",
+      "label": "단축순례길_바닥_21000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_041.SM_R4_Piece_041",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 32,
+      "upward_support_candidates": 7,
+      "other_triangles": 25,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -2527.48355,
+          3420.0
+        ],
+        "max": [
+          22000.0,
+          -2000.0000294921874,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_95",
+      "label": "단축순례길_낙차난간_21000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_07_R4.SM_Rail_07_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 500,
+      "upward_support_candidates": 89,
+      "other_triangles": 411,
+      "bounds_ue_cm": {
+        "min": [
+          21420.0,
+          -3000.0,
+          3400.0
+        ],
+        "max": [
+          22000.0,
+          -2409.5700073242188,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_96",
+      "label": "단축순례길_바닥_21000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_043.SM_R4_Piece_043",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 4,
+      "other_triangles": 16,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -2000.0,
+          3420.0
+        ],
+        "max": [
+          22000.0,
+          -1000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_97",
+      "label": "단축순례길_낙차난간_21000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_08_R4.SM_Rail_08_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 80,
+      "upward_support_candidates": 15,
+      "other_triangles": 65,
+      "bounds_ue_cm": {
+        "min": [
+          21422.82,
+          -1143.54,
+          3400.0
+        ],
+        "max": [
+          21500.000000305175,
+          -1000.0000067138672,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_98",
+      "label": "단축순례길_바닥_21000_-1000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_045.SM_R4_Piece_045",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 8,
+      "upward_support_candidates": 1,
+      "other_triangles": 7,
+      "bounds_ue_cm": {
+        "min": [
+          21000.0,
+          -1000.0,
+          3420.0
+        ],
+        "max": [
+          21422.817321777344,
+          -49.8487548828125,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_99",
+      "label": "단축순례길_낙차난간_21000_-1000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_09_R4.SM_Rail_09_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 332,
+      "upward_support_candidates": 29,
+      "other_triangles": 303,
+      "bounds_ue_cm": {
+        "min": [
+          21160.38,
+          -1000.0,
+          3400.0
+        ],
+        "max": [
+          21458.939997558595,
+          -400.0,
+          3882.6653442382812
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_100",
+      "label": "단축순례길_바닥_22000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_047.SM_R2_Piece_047",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 76,
+      "upward_support_candidates": 13,
+      "other_triangles": 63,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -4340.06551,
+          3270.0
+        ],
+        "max": [
+          23000.0,
+          -3999.999988759766,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_101",
+      "label": "단축순례길_낙차난간_22000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_10_R4.SM_Rail_10_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 424,
+      "upward_support_candidates": 71,
+      "other_triangles": 353,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -4425.85,
+          3228.94347
+        ],
+        "max": [
+          23000.0,
+          -4203.700006103516,
+          3689.9999885546877
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_102",
+      "label": "단축순례길_바닥_22000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_049.SM_R2_Piece_049",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 80,
+      "upward_support_candidates": 14,
+      "other_triangles": 66,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -4000.0,
+          3270.0
+        ],
+        "max": [
+          23000.0,
+          -3331.2216796875,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_103",
+      "label": "단축순례길_낙차난간_22000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_11_R4.SM_Rail_11_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 424,
+      "upward_support_candidates": 75,
+      "other_triangles": 349,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -3532.66,
+          3259.96795
+        ],
+        "max": [
+          22907.830017089844,
+          -3337.66,
+          3689.9999934570315
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_104",
+      "label": "단축순례길_바닥_22000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/HintVoidV095/SM_JoinFit_003.SM_JoinFit_003",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 3,
+      "other_triangles": 17,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -2735.0,
+          3420.0
+        ],
+        "max": [
+          23000.0,
+          -2000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_105",
+      "label": "단축순례길_낙차난간_22000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_12_R4.SM_Rail_12_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 352,
+      "upward_support_candidates": 60,
+      "other_triangles": 292,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -2781.23,
+          3400.0
+        ],
+        "max": [
+          22810.0,
+          -2527.48,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_152",
+      "label": "단축순례길_바닥_23000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_055.SM_R2_Piece_055",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 24,
+      "upward_support_candidates": 5,
+      "other_triangles": 19,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          -4203.70188,
+          3420.0
+        ],
+        "max": [
+          23439.81903076172,
+          -4000.0000062207027,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_153",
+      "label": "단축순례길_낙차난간_23000_-5000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_13_R4.SM_Rail_13_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 432,
+      "upward_support_candidates": 82,
+      "other_triangles": 350,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          -4289.49,
+          3400.0
+        ],
+        "max": [
+          23602.830017089844,
+          -4000.000009765625,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_154",
+      "label": "단축순례길_바닥_23000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/HintVoidV095/SM_JoinFit_005.SM_JoinFit_005",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 56,
+      "upward_support_candidates": 9,
+      "other_triangles": 47,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          -4000.0,
+          3420.0
+        ],
+        "max": [
+          24000.0,
+          -3000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_158",
+      "label": "단축순례길_낙차난간_23000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_14_R4.SM_Rail_14_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 296,
+      "upward_support_candidates": 50,
+      "other_triangles": 246,
+      "bounds_ue_cm": {
+        "min": [
+          23439.82,
+          -4000.0,
+          3400.0
+        ],
+        "max": [
+          23999.99999267578,
+          -3657.6700134277344,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_159",
+      "label": "단축순례길_바닥_23000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/HintVoidV095/SM_JoinFit_007.SM_JoinFit_007",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 120,
+      "upward_support_candidates": 17,
+      "other_triangles": 103,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          -3000.0,
+          3420.0
+        ],
+        "max": [
+          24000.0,
+          -2000.0,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_164",
+      "label": "단축순례길_바닥_23000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_060.SM_R4_Piece_060",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 3,
+      "other_triangles": 17,
+      "bounds_ue_cm": {
+        "min": [
+          23000.0,
+          -2000.0,
+          3420.0
+        ],
+        "max": [
+          23924.142150878906,
+          -1918.8266067504883,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_165",
+      "label": "단축순례길_낙차난간_23000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_15_R4.SM_Rail_15_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 40,
+      "upward_support_candidates": 9,
+      "other_triangles": 31,
+      "bounds_ue_cm": {
+        "min": [
+          23075.22,
+          -1937.67,
+          3400.0
+        ],
+        "max": [
+          23100.000000686647,
+          -1919.9999999237061,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_221",
+      "label": "단축순례길_바닥_24000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_063.SM_R2_Piece_063",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 24,
+      "upward_support_candidates": 5,
+      "other_triangles": 19,
+      "bounds_ue_cm": {
+        "min": [
+          24000.0,
+          -3657.66718,
+          3420.0
+        ],
+        "max": [
+          24300.0,
+          -3000.000004707031,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_222",
+      "label": "단축순례길_낙차난간_24000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_16_R4.SM_Rail_16_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 512,
+      "upward_support_candidates": 96,
+      "other_triangles": 416,
+      "bounds_ue_cm": {
+        "min": [
+          24000.0,
+          -3757.28,
+          3400.0
+        ],
+        "max": [
+          24385.0,
+          -2999.999970703125,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_223",
+      "label": "단축순례길_바닥_24000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R2_Piece_065.SM_R2_Piece_065",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          24000.0,
+          -3000.0,
+          3420.0
+        ],
+        "max": [
+          24300.0,
+          -2031.42138671875,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_233",
+      "label": "단축순례길_낙차난간_24000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_17_R4.SM_Rail_17_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 400,
+      "upward_support_candidates": 73,
+      "other_triangles": 327,
+      "bounds_ue_cm": {
+        "min": [
+          24220.0,
+          -3000.0,
+          3400.0
+        ],
+        "max": [
+          24385.0,
+          -2126.9099731445312,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_235",
+      "label": "단축순례길_낙차난간_19000_-4000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_18_R4.SM_Rail_18_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 36,
+      "upward_support_candidates": 1,
+      "other_triangles": 35,
+      "bounds_ue_cm": {
+        "min": [
+          19916.23,
+          -3476.2,
+          2800.0
+        ],
+        "max": [
+          19999.999996643066,
+          -3439.9999992370604,
+          3149.678680419922
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_237",
+      "label": "단축순례길_바닥_22000_-2000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/ShortLeftV093/SM_R4_Piece_053.SM_R4_Piece_053",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          22000.0,
+          -2000.0,
+          3420.0
+        ],
+        "max": [
+          23000.0,
+          -1710.2704467773438,
+          3600.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_76",
+      "label": "관찰유도_빈공간확장_기둥접속난간",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/HintVoidV095/SM_JoinFit_008.SM_JoinFit_008",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          22810.19571,
+          -3374.8958,
+          3400.0
+        ],
+        "max": [
+          23539.999970253906,
+          -2696.4557365234373,
+          3760.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_74",
+      "label": "V098_주변바닥_열린마당_15500_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldStairLandingV0916/SM_Landing_00.SM_Landing_00",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 2406,
+      "upward_support_candidates": 549,
+      "other_triangles": 1857,
+      "bounds_ue_cm": {
+        "min": [
+          15500.0,
+          -800.0,
+          1380.0
+        ],
+        "max": [
+          16300.0,
+          -200.0,
+          1773.3333435058594
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_106",
+      "label": "V098_주변바닥_열린마당_15500_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldStairLandingV0916/SM_Landing_01.SM_Landing_01",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 5256,
+      "upward_support_candidates": 1479,
+      "other_triangles": 3777,
+      "bounds_ue_cm": {
+        "min": [
+          15500.0,
+          -200.0,
+          1380.0
+        ],
+        "max": [
+          16400.0,
+          1200.0,
+          1800.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_112",
+      "label": "V098_주변바닥_열린마당_16400_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_002.SM_Piece_002",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 8,
+      "upward_support_candidates": 1,
+      "other_triangles": 7,
+      "bounds_ue_cm": {
+        "min": [
+          17250.0,
+          -2350.0,
+          2057.14286
+        ],
+        "max": [
+          17800.0,
+          -2122.413787841797,
+          2520.000007216797
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_117",
+      "label": "V098_주변바닥_열린마당_16400_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_003.SM_Piece_003",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 4,
+      "other_triangles": 16,
+      "bounds_ue_cm": {
+        "min": [
+          16400.0,
+          266.875,
+          1620.0
+        ],
+        "max": [
+          17800.0,
+          1200.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_121",
+      "label": "V098_주변바닥_열린마당_17800_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_004.SM_Piece_004",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 28,
+      "upward_support_candidates": 6,
+      "other_triangles": 22,
+      "bounds_ue_cm": {
+        "min": [
+          17800.0,
+          -2350.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          -1600.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_125",
+      "label": "V098_주변바닥_열린마당_17800_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_005.SM_Piece_005",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          18175.0,
+          -1600.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          -200.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_126",
+      "label": "V098_주변바닥_열린마당_17800_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_006.SM_Piece_006",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 24,
+      "upward_support_candidates": 5,
+      "other_triangles": 19,
+      "bounds_ue_cm": {
+        "min": [
+          17800.0,
+          -200.0,
+          2340.0
+        ],
+        "max": [
+          19000.0,
+          1200.0,
+          2520.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_127",
+      "label": "V098_주변바닥_열린마당_19000_-3000",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_007.SM_Piece_007",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          -2039.65517,
+          2340.0
+        ],
+        "max": [
+          19845.280151367188,
+          -1599.9999881152344,
+          3230.0353393554688
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_130",
+      "label": "V098_주변바닥_열린마당_19000_-1600",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_008.SM_Piece_008",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          -1600.0,
+          2340.0
+        ],
+        "max": [
+          19961.946838378906,
+          -200.0,
+          3328.0353393554688
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_131",
+      "label": "V098_주변바닥_열린마당_19000_-200",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_009.SM_Piece_009",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 24,
+      "upward_support_candidates": 5,
+      "other_triangles": 19,
+      "bounds_ue_cm": {
+        "min": [
+          19000.0,
+          -200.0,
+          2340.0
+        ],
+        "max": [
+          20000.0,
+          1200.0,
+          3360.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_189",
+      "label": "V098_분수_원형수조",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_015.SM_Piece_015",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 256,
+      "upward_support_candidates": 64,
+      "other_triangles": 192,
+      "bounds_ue_cm": {
+        "min": [
+          20470.0,
+          -730.0,
+          3595.0
+        ],
+        "max": [
+          20930.0,
+          -270.0,
+          3710.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_196",
+      "label": "V098_분수_수조바닥",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_016.SM_Piece_016",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 124,
+      "upward_support_candidates": 30,
+      "other_triangles": 94,
+      "bounds_ue_cm": {
+        "min": [
+          20518.0,
+          -682.0,
+          3595.0
+        ],
+        "max": [
+          20882.0,
+          -318.0,
+          3630.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_203",
+      "label": "V098_분수_중앙받침",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_018.SM_Piece_018",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 60,
+      "upward_support_candidates": 14,
+      "other_triangles": 46,
+      "bounds_ue_cm": {
+        "min": [
+          20658.0,
+          -542.0,
+          3630.0
+        ],
+        "max": [
+          20742.0,
+          -458.0,
+          3840.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_206",
+      "label": "V098_분수_상부접시",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldReunionV098/SM_Piece_019.SM_Piece_019",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 92,
+      "upward_support_candidates": 22,
+      "other_triangles": 70,
+      "bounds_ue_cm": {
+        "min": [
+          20605.0,
+          -595.0,
+          3825.0
+        ],
+        "max": [
+          20795.0,
+          -405.0,
+          3855.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_207",
+      "label": "V098_입구테두리_-1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21260.0,
+          -600.0,
+          3840.0
+        ],
+        "max": [
+          21380.0,
+          -480.0,
+          4430.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_208",
+      "label": "V098_입구테두리_1",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21260.0,
+          480.0,
+          3840.0
+        ],
+        "max": [
+          21380.0,
+          600.0,
+          4430.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_213",
+      "label": "V098_입구테두리_상부",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "role_hint": "unclassified_geometry",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          21260.0,
+          -600.0,
+          4430.0
+        ],
+        "max": [
+          21380.0,
+          600.0,
+          4570.0
+        ]
+      },
+      "complex_collision": false
+    },
+    {
+      "name": "StaticMeshActor_302",
+      "label": "V099_호수_바닥",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_000.SM_R2_Piece_000",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 132,
+      "upward_support_candidates": 32,
+      "other_triangles": 100,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -2350.0,
+          1220.0
+        ],
+        "max": [
+          18500.0,
+          520.0,
+          1320.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_313",
+      "label": "V099_계단하부받침_12",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_011.SM_R2_Piece_011",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16272.87,
+          -1585.9,
+          1220.0
+        ],
+        "max": [
+          16527.48999511719,
+          -1223.940008544922,
+          2155.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_315",
+      "label": "V099_계단하부받침_13",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_013.SM_R2_Piece_013",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16243.62,
+          -1351.25,
+          1220.0
+        ],
+        "max": [
+          16552.48999511719,
+          -1146.8099975585938,
+          2125.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_317",
+      "label": "V099_계단하부받침_14",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_015.SM_R2_Piece_015",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16214.36,
+          -1301.25,
+          1220.0
+        ],
+        "max": [
+          16577.490004882813,
+          -1069.6799926757812,
+          2095.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_319",
+      "label": "V099_계단하부받침_15",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_017.SM_R2_Piece_017",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16185.11,
+          -1251.25,
+          1220.0
+        ],
+        "max": [
+          16602.490004882813,
+          -992.5499877929688,
+          2065.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_321",
+      "label": "V099_계단하부받침_16",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_019.SM_R2_Piece_019",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16155.85,
+          -1201.25,
+          1220.0
+        ],
+        "max": [
+          16627.490014648436,
+          -915.4200134277344,
+          2035.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_323",
+      "label": "V099_계단하부받침_17",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_021.SM_R2_Piece_021",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          16150.0,
+          -1151.25,
+          1220.0
+        ],
+        "max": [
+          16652.489990234375,
+          -851.3699951171875,
+          2005.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_325",
+      "label": "V099_계단하부받침_18",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_023.SM_R2_Piece_023",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 16,
+      "upward_support_candidates": 3,
+      "other_triangles": 13,
+      "bounds_ue_cm": {
+        "min": [
+          16152.75,
+          -1101.25,
+          1220.0
+        ],
+        "max": [
+          16677.489990234375,
+          -800.0,
+          1975.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_327",
+      "label": "V099_계단하부받침_19",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_025.SM_R2_Piece_025",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16175.0,
+          -1051.25,
+          1220.0
+        ],
+        "max": [
+          16702.489990234375,
+          -800.0,
+          1945.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_329",
+      "label": "V099_계단하부받침_20",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_027.SM_R2_Piece_027",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -1001.25,
+          1220.0
+        ],
+        "max": [
+          16727.489990234375,
+          -737.5,
+          1915.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_331",
+      "label": "V099_계단하부받침_21",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_029.SM_R2_Piece_029",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -951.25,
+          1220.0
+        ],
+        "max": [
+          16752.489990234375,
+          -675.0,
+          1885.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_333",
+      "label": "V099_계단하부받침_22",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_031.SM_R2_Piece_031",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -901.25,
+          1220.0
+        ],
+        "max": [
+          16777.489990234375,
+          -612.5,
+          1855.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_335",
+      "label": "V099_계단하부받침_23",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_033.SM_R2_Piece_033",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -851.25,
+          1220.0
+        ],
+        "max": [
+          16802.489990234375,
+          -550.0,
+          1825.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_337",
+      "label": "V099_계단하부받침_24",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_035.SM_R2_Piece_035",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -799.45,
+          1220.0
+        ],
+        "max": [
+          16818.489990234375,
+          -500.9999877929688,
+          1790.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_339",
+      "label": "V099_계단하부받침_25",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_037.SM_R2_Piece_037",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -760.25,
+          1220.0
+        ],
+        "max": [
+          16842.489990234375,
+          -441.0,
+          1757.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_341",
+      "label": "V099_계단하부받침_26",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_039.SM_R2_Piece_039",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 20,
+      "upward_support_candidates": 4,
+      "other_triangles": 16,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -715.25,
+          1220.0
+        ],
+        "max": [
+          16870.489990234375,
+          -380.0,
+          1720.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_343",
+      "label": "V099_계단하부받침_27",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_041.SM_R2_Piece_041",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -665.25,
+          1220.0
+        ],
+        "max": [
+          16895.489990234375,
+          -317.5,
+          1677.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_345",
+      "label": "V099_계단하부받침_28",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldLakeStairV099/SM_R2_Piece_043.SM_R2_Piece_043",
+      "role_hint": "stairs_or_ramp",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 12,
+      "upward_support_candidates": 2,
+      "other_triangles": 10,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -615.25,
+          1220.0
+        ],
+        "max": [
+          16920.489990234375,
+          -255.0,
+          1642.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_2",
+      "label": "V0911_분수마당_확장바닥",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldMergeV0911/SM_Piece_000.SM_Piece_000",
+      "role_hint": "floor_or_route",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 84,
+      "upward_support_candidates": 20,
+      "other_triangles": 64,
+      "bounds_ue_cm": {
+        "min": [
+          19819.97993,
+          -2050.02,
+          3048.78314
+        ],
+        "max": [
+          21000.0199690625,
+          312.15431640625,
+          3599.9999979101563
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_3",
+      "label": "V0911_합류외곽_연속안전난간",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_19_R4.SM_Rail_19_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 1776,
+      "upward_support_candidates": 257,
+      "other_triangles": 1519,
+      "bounds_ue_cm": {
+        "min": [
+          19765.08,
+          -2105.0,
+          2982.64913
+        ],
+        "max": [
+          20627.499982910158,
+          392.77001953125,
+          3690.000021113281
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_4",
+      "label": "V0911_정면접속_보존난간",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_20_R4.SM_Rail_20_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 380,
+      "upward_support_candidates": 81,
+      "other_triangles": 299,
+      "bounds_ue_cm": {
+        "min": [
+          20540.0,
+          400.0,
+          3300.0
+        ],
+        "max": [
+          20792.600006103516,
+          621.1799926757812,
+          3690.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_5",
+      "label": "V0912_계단호수_통합난간",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Rail_21_R4.SM_Rail_21_R4",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 4960,
+      "upward_support_candidates": 863,
+      "other_triangles": 4097,
+      "bounds_ue_cm": {
+        "min": [
+          16300.0,
+          -2605.3,
+          1220.0
+        ],
+        "max": [
+          18500.0,
+          519.7500488281248,
+          2610.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_6",
+      "label": "V0915_난간접합_옛길",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Gap_00.SM_Gap_00",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 336,
+      "upward_support_candidates": 71,
+      "other_triangles": 265,
+      "bounds_ue_cm": {
+        "min": [
+          18863.08905,
+          -3087.12942,
+          2800.0
+        ],
+        "max": [
+          19060.471923535155,
+          -2836.2198741015627,
+          3090.0
+        ]
+      },
+      "complex_collision": true
+    },
+    {
+      "name": "StaticMeshActor_7",
+      "label": "V0915_난간접합_호수왼쪽",
+      "component": "StaticMeshComponent0",
+      "mesh": "/Game/Portfolio02/FieldRailCleanupV0915/SM_Gap_01.SM_Gap_01",
+      "role_hint": "wall_or_railing",
+      "role_basis": "source name/label; not a reachability test",
+      "stateful": false,
+      "triangles": 212,
+      "upward_support_candidates": 4,
+      "other_triangles": 208,
+      "bounds_ue_cm": {
+        "min": [
+          19560.86963,
+          -1853.63038,
+          2857.096
+        ],
+        "max": [
+          19893.33368029297,
+          -1664.1969846142579,
+          3689.9999916992188
+        ]
+      },
+      "complex_collision": true
+    }
+  ]
+}

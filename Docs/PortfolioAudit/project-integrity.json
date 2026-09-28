@@ -1,0 +1,22 @@
+{
+  "baseline": "../web-export/source-hashes.json",
+  "checked_files": 1512,
+  "mismatched_files": [],
+  "map_copy_checks": [
+    {
+      "path": "Content\\Portfolio02\\Levels\\던전외부필드_v09-17_A.umap",
+      "sha256": "5d7090bce2e362e9fe632ac1467ffe64744d64792e63561b82c22dc76daa3202",
+      "isolated_copy_same": true
+    },
+    {
+      "path": "Content\\Portfolio02\\Tests\\FinalBossCandidates\\던전내부최종.umap",
+      "sha256": "f8da37fd536f29c0384365010118a494f431d8639ab33baa7ed0e0d7c765d1c3",
+      "isolated_copy_same": true
+    },
+    {
+      "path": "Content\\Portfolio02\\Tests\\FinalBossCandidates\\던전내부최종_보수_v02.umap",
+      "sha256": "d5bdda9f8be06fc1b690d18c43c4cdc652f44f65ff8bf13b4037a14907dff400",
+      "isolated_copy_same": true
+    }
+  ]
+}

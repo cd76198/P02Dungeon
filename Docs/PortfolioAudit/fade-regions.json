@@ -1,0 +1,2463 @@
+{
+  "field_tagged_components": [
+    {
+      "name": "StaticMeshActor_250",
+      "label": "신전_정면벽_-1",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21500.0,
+        -1248.0,
+        4150.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21500.0,
+          -1248.0,
+          4150.0
+        ],
+        [
+          128.0,
+          768.0,
+          310.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_251",
+      "label": "신전_정면벽_1",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21500.0,
+        1248.0,
+        4150.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21500.0,
+          1248.0,
+          4150.0
+        ],
+        [
+          128.0,
+          768.0,
+          310.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_253",
+      "label": "신전_오른쪽벽",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23740.0,
+        1760.0,
+        4215.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23740.0,
+          1760.0,
+          4215.0
+        ],
+        [
+          2240.0,
+          112.0,
+          375.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_254",
+      "label": "신전_후면막힌벽",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        25820.0,
+        0.0,
+        4215.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          25820.0,
+          0.0,
+          4215.0
+        ],
+        [
+          112.0,
+          1760.0000000000002,
+          375.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_255",
+      "label": "신전_왼벽_앞",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        22220.0,
+        -1760.0,
+        4215.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          22220.0,
+          -1760.0,
+          4215.0
+        ],
+        [
+          880.0,
+          112.0,
+          375.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_256",
+      "label": "신전_왼벽_뒤",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        25100.0,
+        -1760.0,
+        4215.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          25100.0,
+          -1760.0,
+          4215.0
+        ],
+        [
+          800.0,
+          112.0,
+          375.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_291",
+      "label": "신전_입구안쪽차폐벽",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        22940.0,
+        0.0,
+        4220.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          22940.0,
+          0.0,
+          4220.0
+        ],
+        [
+          120.0,
+          1280.0,
+          380.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_175",
+      "label": "V05_외곽경계_15000_-4800",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16240.1,
+        -3837.9,
+        2281.73661
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          16420.04999694824,
+          -3518.949987792969,
+          2445.8683086083984
+        ],
+        [
+          179.9499969482422,
+          318.95001220703125,
+          164.13169860839844
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_176",
+      "label": "V05_외곽경계_15000_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        15421.5,
+        -3200.0,
+        1635.1999999999998
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          15926.929992675781,
+          -2400.0,
+          2104.2927124023436
+        ],
+        [
+          505.42999267578125,
+          800.0,
+          469.09271240234375
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_177",
+      "label": "V05_외곽경계_15000_-1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        15015.0,
+        -1600.0,
+        1400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          15501.630004882812,
+          -800.0,
+          1825.0
+        ],
+        [
+          486.6300048828125,
+          800.0,
+          425.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_178",
+      "label": "V05_외곽경계_15000_0",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        15015.0,
+        0.0,
+        1400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          15653.25,
+          800.0,
+          1630.5333404541016
+        ],
+        [
+          638.25,
+          800.0,
+          230.53334045410156
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_179",
+      "label": "V05_외곽경계_15000_1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16206.4,
+        1600.0,
+        1588.37333
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          16403.20000305176,
+          2136.0499877929688,
+          1790.6152275830077
+        ],
+        [
+          196.8000030517578,
+          536.0499877929688,
+          202.2418975830078
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_180",
+      "label": "V05_외곽경계_16600_-4800",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16600.0,
+        -4655.2,
+        2360.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          17400.0,
+          -3927.6000244140623,
+          2605.0
+        ],
+        [
+          800.0,
+          727.5999755859375,
+          245.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_181",
+      "label": "V05_외곽경계_16600_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16826.7,
+        -3200.0,
+        1834.60571
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          17513.350024414063,
+          -2775.0,
+          2228.35229203125
+        ],
+        [
+          686.6500244140625,
+          425.0,
+          393.74658203125
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_182",
+      "label": "V05_외곽경계_16600_1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16600.0,
+        2455.0,
+        1742.85714
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          16758.5,
+          2827.5,
+          1949.3714222265626
+        ],
+        [
+          158.5,
+          372.5,
+          206.5142822265625
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_183",
+      "label": "V05_외곽경계_16600_3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16824.6,
+        3200.0,
+        1858.36571
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          17512.30001220703,
+          3733.5999755859375,
+          2238.1097285546875
+        ],
+        [
+          687.7000122070312,
+          533.5999755859375,
+          379.7440185546875
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_185",
+      "label": "V05_외곽경계_18200_-4800",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        18200.0,
+        -4718.5,
+        2571.3968
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          18623.415008544922,
+          -3959.25,
+          2818.06916328125
+        ],
+        [
+          423.4150085449219,
+          759.25,
+          246.67236328125
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_186",
+      "label": "V05_외곽경계_18200_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        18200.0,
+        -3200.0,
+        2360.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          18916.890014648438,
+          -2490.844970703125,
+          2894.2591552734375
+        ],
+        [
+          716.8900146484375,
+          709.155029296875,
+          534.2591552734375
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_187",
+      "label": "V05_외곽경계_18200_3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        18200.0,
+        3534.2,
+        2360.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19000.0,
+          3934.379992675781,
+          2821.0
+        ],
+        [
+          800.0,
+          400.17999267578125,
+          461.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_190",
+      "label": "V05_외곽경계_19800_-4800",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        20102.15,
+        -3525.0,
+        2840.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20751.07498779297,
+          -3362.5,
+          3265.0
+        ],
+        [
+          648.9249877929688,
+          162.5,
+          425.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_191",
+      "label": "V05_외곽경계_19800_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19800.0,
+        -3200.0,
+        2840.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20600.0,
+          -2877.5,
+          3265.0
+        ],
+        [
+          800.0,
+          322.5,
+          425.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_192",
+      "label": "V05_외곽경계_19800_-1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21198.69,
+        -485.0,
+        3470.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21299.344998779296,
+          -442.5,
+          3699.108612060547
+        ],
+        [
+          100.65499877929688,
+          42.5,
+          229.10861206054688
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_193",
+      "label": "V05_외곽경계_19800_0",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        20540.0,
+        400.0,
+        3422.69231
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20970.0,
+          1000.0,
+          3675.454776430664
+        ],
+        [
+          430.0,
+          600.0,
+          252.76246643066406
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_194",
+      "label": "V05_외곽경계_19800_1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19994.1,
+        1600.0,
+        3195.044
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20309.55001220703,
+          2400.0,
+          3467.928521484375
+        ],
+        [
+          315.45001220703125,
+          800.0,
+          272.884521484375
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_195",
+      "label": "V05_외곽경계_19800_3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19800.0,
+        3200.0,
+        3032.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19942.449996948242,
+          3422.6499938964844,
+          3275.9755859375
+        ],
+        [
+          142.4499969482422,
+          222.64999389648438,
+          243.9755859375
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_197",
+      "label": "V05_외곽경계_21400_-4800",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21400.0,
+        -3310.4,
+        3440.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21421.795000076294,
+          -3255.1999992370606,
+          3565.0
+        ],
+        [
+          21.795000076293945,
+          55.20000076293945,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_198",
+      "label": "V05_외곽경계_21400_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21400.0,
+        -3200.0,
+        3440.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21421.79999923706,
+          -3187.619999885559,
+          3565.0
+        ],
+        [
+          21.799999237060547,
+          12.380000114440918,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_199",
+      "label": "V05_외곽경계_21400_-1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21400.0,
+        -1057.47,
+        3470.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21450.0,
+          -728.7350146484375,
+          3700.0
+        ],
+        [
+          50.0,
+          328.7349853515625,
+          230.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_200",
+      "label": "V05_외곽경계_21400_0",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21400.0,
+        400.0,
+        3643.63636
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21450.0,
+          1000.0,
+          3786.8181837304687
+        ],
+        [
+          50.0,
+          600.0,
+          143.18182373046875
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_201",
+      "label": "V05_외곽경계_21400_1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21415.0,
+        1600.0,
+        3680.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          22207.5,
+          1802.5,
+          3805.0
+        ],
+        [
+          792.5,
+          202.5,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_204",
+      "label": "V05_외곽경계_23000_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        24220.0,
+        -2125.0,
+        3440.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          24410.0,
+          -2022.5,
+          3685.0
+        ],
+        [
+          190.0,
+          102.5,
+          245.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_205",
+      "label": "V05_외곽경계_23000_1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23000.0,
+        1920.0,
+        3680.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23800.0,
+          1962.5,
+          3805.0
+        ],
+        [
+          800.0,
+          42.5,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_209",
+      "label": "V05_외곽경계_24600_-3200",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        24600.0,
+        -2005.0,
+        3680.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          25252.5,
+          -1802.5,
+          3805.0
+        ],
+        [
+          652.5,
+          202.5,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_210",
+      "label": "V05_외곽경계_24600_-1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        25820.0,
+        -1600.0,
+        3680.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          25862.5,
+          -800.0,
+          3805.0
+        ],
+        [
+          42.5,
+          800.0,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_211",
+      "label": "V05_외곽경계_24600_0",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        25820.0,
+        0.0,
+        3680.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          25862.5,
+          800.0,
+          3805.0
+        ],
+        [
+          42.5,
+          800.0,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_212",
+      "label": "V05_외곽경계_24600_1600",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        24600.0,
+        1600.0,
+        3680.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          25252.5,
+          1802.5,
+          3805.0
+        ],
+        [
+          652.5,
+          202.5,
+          125.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_225",
+      "label": "폐허벽잔존_2",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19350.0,
+        2345.0,
+        3316.804693693287
+      ],
+      "rotation": [
+        40.030258178710966,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19350.0,
+          2345.0,
+          3316.804693693287
+        ],
+        [
+          196.17358813267128,
+          50.0,
+          177.18410331930954
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_241",
+      "label": "관찰마당_낮은이동차단난간",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23660.0,
+        -2010.0,
+        3760.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23660.0,
+          -2010.0,
+          3760.0
+        ],
+        [
+          590.0,
+          50.0,
+          160.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_62",
+      "label": "관찰틈_파손벽체",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23660.0,
+        -1761.0,
+        4225.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23660.0,
+          -1761.0,
+          4225.0
+        ],
+        [
+          560.0,
+          111.0,
+          265.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_70",
+      "label": "단축순례길_낙차난간_19000_-5000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19028.11,
+        -4391.25,
+        2630.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19514.05500732422,
+          -4207.830001831055,
+          2938.686248779297
+        ],
+        [
+          485.94500732421875,
+          183.4199981689453,
+          308.6862487792969
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_72",
+      "label": "단축순례길_낙차난간_19000_-3000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19000.0,
+        -2909.86,
+        2800.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19402.5,
+          -2732.430007324219,
+          2945.0
+        ],
+        [
+          402.5,
+          177.42999267578125,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_79",
+      "label": "단축순례길_낙차난간_20000_-5000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        20000.0,
+        -4580.11,
+        2914.44987
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20500.0,
+          -4441.735,
+          3122.2249401904296
+        ],
+        [
+          500.0,
+          138.375,
+          207.7750701904297
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_81",
+      "label": "단축순례길_낙차난간_20000_-4000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        20000.0,
+        -3692.71,
+        2826.16856
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20500.0,
+          -3566.3549966430664,
+          3249.9536246972657
+        ],
+        [
+          500.0,
+          126.3550033569336,
+          423.7850646972656
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_83",
+      "label": "단축순례길_낙차난간_20000_-3000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        20190.04,
+        -2640.0,
+        2800.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20405.01999572754,
+          -2372.5,
+          3245.0
+        ],
+        [
+          214.97999572753906,
+          267.5,
+          445.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_91",
+      "label": "단축순례길_낙차난간_21000_-5000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21000.0,
+        -4562.22,
+        3040.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21500.0,
+          -4451.145003051758,
+          3290.0
+        ],
+        [
+          500.0,
+          111.07499694824219,
+          250.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_93",
+      "label": "단축순례길_낙차난간_21000_-4000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21000.0,
+        -3669.03,
+        3040.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21500.0,
+          -3334.5149853515627,
+          3365.0
+        ],
+        [
+          500.0,
+          334.5150146484375,
+          325.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_95",
+      "label": "단축순례길_낙차난간_21000_-3000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21420.0,
+        -3000.0,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21710.0,
+          -2704.7850036621094,
+          3545.0
+        ],
+        [
+          290.0,
+          295.2149963378906,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_97",
+      "label": "단축순례길_낙차난간_21000_-2000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21422.82,
+        -1143.54,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21461.410000152588,
+          -1071.7700033569336,
+          3545.0
+        ],
+        [
+          38.59000015258789,
+          71.7699966430664,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_99",
+      "label": "단축순례길_낙차난간_21000_-1000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        21160.38,
+        -1000.0,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          21309.659998779298,
+          -700.0,
+          3641.3326721191406
+        ],
+        [
+          149.27999877929688,
+          300.0,
+          241.33267211914062
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_101",
+      "label": "단축순례길_낙차난간_22000_-5000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        22000.0,
+        -4425.85,
+        3228.94347
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          22500.0,
+          -4314.775003051758,
+          3459.471729277344
+        ],
+        [
+          500.0,
+          111.07499694824219,
+          230.52825927734375
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_103",
+      "label": "단축순례길_낙차난간_22000_-4000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        22000.0,
+        -3532.66,
+        3259.96795
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          22453.915008544922,
+          -3435.16,
+          3474.983971728516
+        ],
+        [
+          453.9150085449219,
+          97.5,
+          215.01602172851562
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_105",
+      "label": "단축순례길_낙차난간_22000_-3000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        22000.0,
+        -2781.23,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          22405.0,
+          -2654.355,
+          3545.0
+        ],
+        [
+          405.0,
+          126.875,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_153",
+      "label": "단축순례길_낙차난간_23000_-5000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23000.0,
+        -4289.49,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23301.415008544922,
+          -4144.745004882812,
+          3545.0
+        ],
+        [
+          301.4150085449219,
+          144.7449951171875,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_158",
+      "label": "단축순례길_낙차난간_23000_-4000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23439.82,
+        -4000.0,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23719.90999633789,
+          -3828.835006713867,
+          3545.0
+        ],
+        [
+          280.0899963378906,
+          171.1649932861328,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_165",
+      "label": "단축순례길_낙차난간_23000_-2000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        23075.22,
+        -1937.67,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          23087.610000343324,
+          -1928.834999961853,
+          3545.0
+        ],
+        [
+          12.390000343322754,
+          8.835000038146973,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_222",
+      "label": "단축순례길_낙차난간_24000_-4000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        24000.0,
+        -3757.28,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          24192.5,
+          -3378.6399853515627,
+          3545.0
+        ],
+        [
+          192.5,
+          378.6400146484375,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_233",
+      "label": "단축순례길_낙차난간_24000_-3000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        24220.0,
+        -3000.0,
+        3400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          24302.5,
+          -2563.4549865722656,
+          3545.0
+        ],
+        [
+          82.5,
+          436.5450134277344,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_235",
+      "label": "단축순례길_낙차난간_19000_-4000",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19916.23,
+        -3476.2,
+        2800.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19958.114998321533,
+          -3458.09999961853,
+          2974.839340209961
+        ],
+        [
+          41.8849983215332,
+          18.100000381469727,
+          174.83934020996094
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_3",
+      "label": "V0911_합류외곽_연속안전난간",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19765.08,
+        -2105.0,
+        2982.64913
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20196.28999145508,
+          -856.114990234375,
+          3336.3245755566404
+        ],
+        [
+          431.2099914550781,
+          1248.885009765625,
+          353.6754455566406
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_4",
+      "label": "V0911_정면접속_보존난간",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        20540.0,
+        400.0,
+        3300.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          20666.300003051758,
+          510.5899963378906,
+          3495.0
+        ],
+        [
+          126.30000305175781,
+          110.58999633789062,
+          195.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_5",
+      "label": "V0912_계단호수_통합난간",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        16300.0,
+        -2605.3,
+        1220.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          17400.0,
+          -1042.7749755859377,
+          1915.0
+        ],
+        [
+          1100.0,
+          1562.5250244140625,
+          695.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_6",
+      "label": "V0915_난간접합_옛길",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        18863.08905,
+        -3087.12942,
+        2800.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          18961.780486767577,
+          -2961.6746470507815,
+          2945.0
+        ],
+        [
+          98.69143676757812,
+          125.45477294921875,
+          145.0
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StaticMeshActor_7",
+      "label": "V0915_난간접합_호수왼쪽",
+      "class": "/Script/Engine.StaticMeshActor",
+      "location": [
+        19560.86963,
+        -1853.63038,
+        2857.096
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          19727.101655146485,
+          -1758.913682307129,
+          3273.5479958496094
+        ],
+        [
+          166.23202514648438,
+          94.7166976928711,
+          416.4519958496094
+        ]
+      ],
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "tags": [
+            "P02_AutoOcclusionWall"
+          ]
+        }
+      ]
+    }
+  ],
+  "dungeon_regions": [
+    {
+      "name": "P02_WallFade_LowerRoute",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        7300.0,
+        1150.0,
+        -530.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          7300.0,
+          1150.0,
+          -530.0
+        ],
+        [
+          1400.0,
+          1650.0,
+          430.0
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_FadeTarget_MidBoss_S",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        7950.0,
+        100.0,
+        375.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          7950.0,
+          100.0,
+          375.0
+        ],
+        [
+          1650.0,
+          600.0,
+          275.0
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_FadeTarget_MidBoss_N",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        7950.0,
+        2100.0,
+        375.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          7950.0,
+          2100.0,
+          375.0
+        ],
+        [
+          1650.0,
+          600.0,
+          275.0
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_FadeTarget_MidBoss_E",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        9100.0,
+        1100.0,
+        375.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          9100.0,
+          1100.0,
+          375.0
+        ],
+        [
+          500.0,
+          400.0,
+          275.0
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_FadeTarget_Bridge",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        4650.0,
+        1100.0,
+        400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          4650.0,
+          1100.0,
+          400.0
+        ],
+        [
+          1650.0,
+          500.0,
+          200.0
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_WallFade_StairShaft",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        7900.0,
+        1100.0,
+        -280.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          7900.0,
+          1100.0,
+          -280.0
+        ],
+        [
+          600.0,
+          350.0,
+          680.0
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_FadeTarget_StairB",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        6264.5,
+        1145.0,
+        -405.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          6264.5,
+          1145.0,
+          -405.0
+        ],
+        [
+          1294.4000244140625,
+          468.80001068115234,
+          693.6000061035156
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_WallFade_Lower",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        5360.0,
+        850.0,
+        -850.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          5360.0,
+          850.0,
+          -850.0
+        ],
+        [
+          3387.60009765625,
+          3250.0,
+          1062.5
+        ]
+      ],
+      "components": []
+    },
+    {
+      "name": "P02_FadeTarget_All",
+      "label": "TriggerBox",
+      "class": "/Script/Engine.TriggerBox",
+      "location": [
+        4600.0,
+        1450.0,
+        -400.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds": [
+        [
+          4600.0,
+          1450.0,
+          -400.0
+        ],
+        [
+          5100.0,
+          3850.0,
+          1400.0
+        ]
+      ],
+      "components": []
+    }
+  ]
+}

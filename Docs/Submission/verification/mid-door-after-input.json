@@ -1,0 +1,57 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+    "action": {
+      "type": "snapshot",
+      "name": "mid-door-after-input",
+      "names": [
+        "P02_MidBossDoor"
+      ],
+      "started": 369898.375,
+      "origin": [
+        6083.7601158382495,
+        1100.0002734777154,
+        331.93326641379235
+      ]
+    },
+    "queued": 2,
+    "seconds": 466.14,
+    "position": [
+      6083.7601158382495,
+      1100.0002734777154,
+      331.93326641379235
+    ],
+    "velocity": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_ignored": false,
+    "end": false
+  },
+  "actors": [
+    {
+      "name": "P02_MidBossDoor",
+      "class": "StaticMeshActor",
+      "location": [
+        6300.0,
+        1100.0,
+        -80.0
+      ],
+      "bounds": [
+        [
+          6300.0,
+          1100.0,
+          -80.0
+        ],
+        [
+          75.0,
+          300.0,
+          300.0
+        ]
+      ],
+      "collision": false,
+      "hidden": true
+    }
+  ]
+}

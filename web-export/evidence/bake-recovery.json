@@ -1,0 +1,1761 @@
+{
+  "method": "Temporary per-actor Z displacement in multiples of 400 cm (grid period); original GLB node transforms restored by postprocess; no level saved",
+  "actors": [
+    {
+      "name": "StaticMeshActor_4",
+      "label": "MCP_TEST_Interior_DescentStep_04",
+      "original_position_ue": [
+        1040.0,
+        -1200.0,
+        -20.0
+      ],
+      "temporary_bake_position_ue": [
+        1040.0,
+        -1200.0,
+        380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "StaticMeshActor_12",
+      "label": "MCP_TEST_Interior_MidBossExitLintel",
+      "original_position_ue": [
+        2600.0,
+        -100.0,
+        490.0
+      ],
+      "temporary_bake_position_ue": [
+        2600.0,
+        -100.0,
+        -310.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Blocker",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7900.0,
+        1100.0,
+        350.0
+      ],
+      "temporary_bake_position_ue": [
+        7900.0,
+        1100.0,
+        -50.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_01",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7354.5,
+        1100.0,
+        -180.0
+      ],
+      "temporary_bake_position_ue": [
+        7354.5,
+        1100.0,
+        220.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_02",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7463.5,
+        1100.0,
+        -140.0
+      ],
+      "temporary_bake_position_ue": [
+        7463.5,
+        1100.0,
+        260.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_03",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7572.5,
+        1100.0,
+        -100.0
+      ],
+      "temporary_bake_position_ue": [
+        7572.5,
+        1100.0,
+        300.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_04",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7681.5,
+        1100.0,
+        -60.0
+      ],
+      "temporary_bake_position_ue": [
+        7681.5,
+        1100.0,
+        340.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_TransformStair_Step_05",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7790.5,
+        1100.0,
+        -20.0
+      ],
+      "temporary_bake_position_ue": [
+        7790.5,
+        1100.0,
+        380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_UpperRail_MidBossWest_S",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6350.0,
+        200.0,
+        420.0
+      ],
+      "temporary_bake_position_ue": [
+        6350.0,
+        200.0,
+        -380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_UpperRail_MidBossWest_N",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6350.0,
+        2000.0,
+        420.0
+      ],
+      "temporary_bake_position_ue": [
+        6350.0,
+        2000.0,
+        -380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_Rail_Landing_West",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        2200.0,
+        1100.0,
+        370.0
+      ],
+      "temporary_bake_position_ue": [
+        2200.0,
+        1100.0,
+        -30.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_Rail_Landing_North",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        2575.0,
+        1550.0,
+        370.0
+      ],
+      "temporary_bake_position_ue": [
+        2575.0,
+        1550.0,
+        -30.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_01",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7245.5,
+        1145.0,
+        -220.0
+      ],
+      "temporary_bake_position_ue": [
+        7245.5,
+        1145.0,
+        180.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_02",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7136.5,
+        1145.0,
+        -260.0
+      ],
+      "temporary_bake_position_ue": [
+        7136.5,
+        1145.0,
+        140.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_03",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        7027.5,
+        1145.0,
+        -300.0
+      ],
+      "temporary_bake_position_ue": [
+        7027.5,
+        1145.0,
+        100.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_04",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6918.5,
+        1145.0,
+        -340.0
+      ],
+      "temporary_bake_position_ue": [
+        6918.5,
+        1145.0,
+        60.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_05",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6809.5,
+        1145.0,
+        -380.0
+      ],
+      "temporary_bake_position_ue": [
+        6809.5,
+        1145.0,
+        20.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_06",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6700.5,
+        1145.0,
+        -420.0
+      ],
+      "temporary_bake_position_ue": [
+        6700.5,
+        1145.0,
+        380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_07",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6591.5,
+        1145.0,
+        -460.0
+      ],
+      "temporary_bake_position_ue": [
+        6591.5,
+        1145.0,
+        340.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_08",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6482.5,
+        1145.0,
+        -500.0
+      ],
+      "temporary_bake_position_ue": [
+        6482.5,
+        1145.0,
+        300.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F1_09",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6373.5,
+        1145.0,
+        -540.0
+      ],
+      "temporary_bake_position_ue": [
+        6373.5,
+        1145.0,
+        260.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_Turn",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5283.5,
+        1145.0,
+        -940.0
+      ],
+      "temporary_bake_position_ue": [
+        5283.5,
+        1145.0,
+        260.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_01",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6264.5,
+        1145.0,
+        -580.0
+      ],
+      "temporary_bake_position_ue": [
+        6264.5,
+        1145.0,
+        220.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_02",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6155.5,
+        1145.0,
+        -620.0
+      ],
+      "temporary_bake_position_ue": [
+        6155.5,
+        1145.0,
+        180.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_03",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        6046.5,
+        1145.0,
+        -660.0
+      ],
+      "temporary_bake_position_ue": [
+        6046.5,
+        1145.0,
+        140.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_04",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5937.5,
+        1145.0,
+        -700.0
+      ],
+      "temporary_bake_position_ue": [
+        5937.5,
+        1145.0,
+        100.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_05",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5828.5,
+        1145.0,
+        -740.0
+      ],
+      "temporary_bake_position_ue": [
+        5828.5,
+        1145.0,
+        60.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_06",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5719.5,
+        1145.0,
+        -780.0
+      ],
+      "temporary_bake_position_ue": [
+        5719.5,
+        1145.0,
+        20.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_07",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5610.5,
+        1145.0,
+        -820.0
+      ],
+      "temporary_bake_position_ue": [
+        5610.5,
+        1145.0,
+        380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_08",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5501.5,
+        1145.0,
+        -860.0
+      ],
+      "temporary_bake_position_ue": [
+        5501.5,
+        1145.0,
+        340.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairB_F2_09",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5392.5,
+        1145.0,
+        -900.0
+      ],
+      "temporary_bake_position_ue": [
+        5392.5,
+        1145.0,
+        300.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_ColorPad_Red",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5375.0,
+        -50.0,
+        -930.0
+      ],
+      "temporary_bake_position_ue": [
+        5375.0,
+        -50.0,
+        270.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_ColorPad_Green",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5375.0,
+        150.0,
+        -930.0
+      ],
+      "temporary_bake_position_ue": [
+        5375.0,
+        150.0,
+        270.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_ColorPad_Blue",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5375.0,
+        350.0,
+        -930.0
+      ],
+      "temporary_bake_position_ue": [
+        5375.0,
+        350.0,
+        270.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailS",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5250.0,
+        650.0,
+        370.0
+      ],
+      "temporary_bake_position_ue": [
+        5250.0,
+        650.0,
+        -30.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_BridgeWeakSection_RailN",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        5250.0,
+        1550.0,
+        370.0
+      ],
+      "temporary_bake_position_ue": [
+        5250.0,
+        1550.0,
+        -30.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_02",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3068.5,
+        1550.0,
+        -1020.0
+      ],
+      "temporary_bake_position_ue": [
+        3068.5,
+        1550.0,
+        180.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_03",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3177.5,
+        1550.0,
+        -1060.0
+      ],
+      "temporary_bake_position_ue": [
+        3177.5,
+        1550.0,
+        140.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_04",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3286.5,
+        1550.0,
+        -1100.0
+      ],
+      "temporary_bake_position_ue": [
+        3286.5,
+        1550.0,
+        100.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_05",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3395.5,
+        1550.0,
+        -1140.0
+      ],
+      "temporary_bake_position_ue": [
+        3395.5,
+        1550.0,
+        60.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_06",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3504.5,
+        1550.0,
+        -1180.0
+      ],
+      "temporary_bake_position_ue": [
+        3504.5,
+        1550.0,
+        20.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_07",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3613.5,
+        1550.0,
+        -1220.0
+      ],
+      "temporary_bake_position_ue": [
+        3613.5,
+        1550.0,
+        380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_08",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3722.5,
+        1550.0,
+        -1260.0
+      ],
+      "temporary_bake_position_ue": [
+        3722.5,
+        1550.0,
+        340.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_09",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        3831.5,
+        1550.0,
+        -1300.0
+      ],
+      "temporary_bake_position_ue": [
+        3831.5,
+        1550.0,
+        300.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_10",
+      "label": "StaticMeshActor10",
+      "original_position_ue": [
+        3940.5,
+        1550.0,
+        -1340.0
+      ],
+      "temporary_bake_position_ue": [
+        3940.5,
+        1550.0,
+        260.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_11",
+      "label": "StaticMeshActor11",
+      "original_position_ue": [
+        4049.5,
+        1550.0,
+        -1380.0
+      ],
+      "temporary_bake_position_ue": [
+        4049.5,
+        1550.0,
+        220.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_12",
+      "label": "StaticMeshActor12",
+      "original_position_ue": [
+        4158.5,
+        1550.0,
+        -1420.0
+      ],
+      "temporary_bake_position_ue": [
+        4158.5,
+        1550.0,
+        180.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_13",
+      "label": "StaticMeshActor13",
+      "original_position_ue": [
+        4267.5,
+        1550.0,
+        -1460.0
+      ],
+      "temporary_bake_position_ue": [
+        4267.5,
+        1550.0,
+        140.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_14",
+      "label": "StaticMeshActor14",
+      "original_position_ue": [
+        4376.5,
+        1550.0,
+        -1500.0
+      ],
+      "temporary_bake_position_ue": [
+        4376.5,
+        1550.0,
+        100.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_15",
+      "label": "StaticMeshActor15",
+      "original_position_ue": [
+        4485.5,
+        1550.0,
+        -1540.0
+      ],
+      "temporary_bake_position_ue": [
+        4485.5,
+        1550.0,
+        60.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_Landing_Wall_West",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        2760.0,
+        1480.0,
+        -915.0
+      ],
+      "temporary_bake_position_ue": [
+        2760.0,
+        1480.0,
+        -515.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_Landing_Rail_N",
+      "label": "StaticMeshActor",
+      "original_position_ue": [
+        2765.0,
+        2000.0,
+        -915.0
+      ],
+      "temporary_bake_position_ue": [
+        2765.0,
+        2000.0,
+        -515.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "P02_StairD_0",
+      "label": "StaticMeshActor16",
+      "original_position_ue": [
+        4600.00000166893,
+        1550.0,
+        -1580.0
+      ],
+      "temporary_bake_position_ue": [
+        4600.00000166893,
+        1550.0,
+        20.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 0
+        }
+      ],
+      "success": true
+    },
+    {
+      "name": "MCP_TEST_MidBossInteraction",
+      "label": "P02TransformStairInteraction",
+      "original_position_ue": [
+        9150.0,
+        1100.0,
+        380.0
+      ],
+      "temporary_bake_position_ue": [
+        9150.0,
+        1100.0,
+        4380.0
+      ],
+      "attempts": [
+        {
+          "dz_cm": 400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -400,
+          "magenta_materials": 2
+        },
+        {
+          "dz_cm": 800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -800,
+          "magenta_materials": 2
+        },
+        {
+          "dz_cm": 1200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": -1200,
+          "magenta_materials": 2
+        },
+        {
+          "dz_cm": 1600,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 2000,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 2400,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 2800,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 3200,
+          "magenta_materials": 1
+        },
+        {
+          "dz_cm": 4000,
+          "magenta_materials": 1
+        }
+      ],
+      "success": false
+    }
+  ],
+  "messages": {
+    "warnings": [
+      "Can't export socket SpringEndpoint because it belongs to an unsupported mesh component QuarterViewSpringArm",
+      "Non-uniform parent scale (X=0.600 Y=0.600 Z=0.400) for component LeverHandleMesh (in actor MCP_TEST_MidBossInteraction) may be represented differently in glTF"
+    ],
+    "errors": []
+  },
+  "remaining_magenta_materials": [
+    168
+  ]
+}

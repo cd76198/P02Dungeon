@@ -1,0 +1,397 @@
+﻿map,actor_name,actor_label,component,included,reason,upward_triangle_count,min_x,max_x,min_y,max_y,min_z,max_z
+field,StaticMeshActor_250,신전_정면벽_-1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_251,신전_정면벽_1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_252,유일입구_상인방,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_253,신전_오른쪽벽,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_254,신전_후면막힌벽,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_255,신전_왼벽_앞,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_256,신전_왼벽_뒤,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_257,관찰틈_막힌하부,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_258,관찰틈_상부,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_265,신전기둥_21600_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_266,주두_21600_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_267,신전기둥_21600_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_268,주두_21600_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_269,신전기둥_22100_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_270,주두_22100_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_271,신전기둥_22100_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_272,주두_22100_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_275,신전기둥_22600_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_276,주두_22600_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_277,신전기둥_23100_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_278,주두_23100_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_279,신전기둥_23100_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_280,주두_23100_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_281,신전기둥_23600_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_282,주두_23600_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_283,신전기둥_23600_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_284,주두_23600_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_285,신전기둥_24100_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_286,주두_24100_-1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_287,신전기둥_24100_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_288,주두_24100_1250,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_289,신전_경사지붕_-650,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_290,신전_경사지붕_650,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_291,신전_입구안쪽차폐벽,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_292,쓰러진기둥_옛길만차단,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_293,쓰러진기둥_주두,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_294,천막_0_지붕_-125,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_295,천막_0_지붕_125,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_296,천막_0_기둥_-190,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_297,천막_0_기둥_190,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_298,천막_1_지붕_-125,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_299,천막_1_지붕_125,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_300,천막_1_기둥_-190,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_301,천막_1_기둥_190,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_107,V05_기존계단보존_15000_-6000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,16935.11422,17000.000000334472,-4028.83812,-4000.000000493164,2520.0,2520.0
+field,StaticMeshActor_108,V05_기존계단보존_15000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,37,15665.55044,17000.000024960937,-4000.0,-2000.0,2160.0,2520.0
+field,StaticMeshActor_109,V05_기존계단보존_15000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,15,15500.0,16582.449584960938,-2000.0,-1200.0,2160.0,2250.0
+field,StaticMeshActor_110,V05_기존계단보존_17000_-6000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,33,17000.0,19000.0,-4640.0,-4000.0,2520.0,2820.0
+field,StaticMeshActor_111,V05_기존계단보존_17000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,51,17000.0,19000.0,-4000.0,-2745.625732421875,2460.0,3000.0
+field,StaticMeshActor_113,V05_기존계단보존_19000_-6000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,7,19000.0,19164.249938964844,-4205.31242,-3999.9999962939455,2760.0,2850.0
+field,StaticMeshActor_114,V05_기존계단보존_19000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,82,19000.0,21000.0,-4000.0,-2000.0,2820.0,3600.0
+field,StaticMeshActor_115,V05_기존계단보존_19000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,14,20615.0,21000.0,-2000.0,0.0,3600.0,3660.0
+field,StaticMeshActor_116,V05_기존계단보존_19000_0,StaticMeshComponent0,True,야외 바닥·계단 충돌면,9,20581.96736,21000.000013808592,0.0,400.0,3600.0,3660.0
+field,StaticMeshActor_118,V05_기존계단보존_21000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,10,21000.0,21425.0,-3440.0,-2000.0,3600.0,3600.0
+field,StaticMeshActor_119,V05_기존계단보존_21000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,22,21000.0,21860.0,-2000.0,0.0,3600.0,3840.0
+field,StaticMeshActor_120,V05_기존계단보존_21000_0,StaticMeshComponent0,True,야외 바닥·계단 충돌면,18,21000.0,21860.0,0.0,1920.0,3660.0,3840.0
+field,StaticMeshActor_122,V05_기존계단보존_23000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,10,23100.0,24220.0,-3120.0,-2320.0,3600.0,3600.0
+field,StaticMeshActor_123,V05_기존계단보존_23000_-2000,StaticMeshComponent0,False,전환 입구 이후 성당 내부 플랫폼; 야외 범위 제외,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_124,V05_기존계단보존_23000_0,StaticMeshComponent0,False,전환 입구 이후 성당 내부 플랫폼; 야외 범위 제외,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_128,V05_기존계단보존_25000_-2000,StaticMeshComponent0,False,전환 입구 이후 성당 내부 플랫폼; 야외 범위 제외,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_129,V05_기존계단보존_25000_0,StaticMeshComponent0,False,전환 입구 이후 성당 내부 플랫폼; 야외 범위 제외,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_133,V05_왼쪽진입계단_00,StaticMeshComponent0,True,야외 바닥·계단 충돌면,33,15961.152632665406,16802.492257070313,-851.24612,-392.85235168945314,1830.0,1830.0
+field,StaticMeshActor_134,V05_왼쪽진입계단_01,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15947.50776,16777.492257070313,-901.24612,-448.75387146484377,1860.0,1860.0
+field,StaticMeshActor_135,V05_왼쪽진입계단_02,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15922.50776,16752.492257070313,-951.24612,-498.75387146484377,1890.0,1890.0
+field,StaticMeshActor_136,V05_왼쪽진입계단_03,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15897.50776,16727.492257070313,-1001.24612,-548.7538714648438,1920.0,1920.0
+field,StaticMeshActor_137,V05_왼쪽진입계단_04,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15872.50776,16702.492257070313,-1051.24612,-598.7538714648438,1950.0,1950.0
+field,StaticMeshActor_138,V05_왼쪽진입계단_05,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15847.50776,16677.492257070313,-1101.24612,-648.7538714648438,1980.0,1980.0
+field,StaticMeshActor_139,V05_왼쪽진입계단_06,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15822.50776,16652.492257070313,-1151.24612,-698.7538714648438,2010.0,2010.0
+field,StaticMeshActor_140,V05_왼쪽진입계단_07,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15797.50776,16627.492257070313,-1201.24612,-748.7538714648438,2040.0,2040.0
+field,StaticMeshActor_141,V05_왼쪽진입계단_08,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15772.50776,16602.492257070313,-1251.24612,-798.7538714648438,2070.0,2070.0
+field,StaticMeshActor_142,V05_왼쪽진입계단_09,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15747.50776,16577.492257070313,-1301.24612,-848.7538714648438,2100.0,2100.0
+field,StaticMeshActor_143,V05_왼쪽진입계단_10,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15722.50776,16552.492257070313,-1351.24612,-898.7538714648438,2130.0,2130.0
+field,StaticMeshActor_144,V05_왼쪽진입계단_11,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15497.50776,16527.492257070313,-1801.2461199999998,-948.7538714648435,2160.0,2160.0
+field,StaticMeshActor_145,V05_붕괴확인_작은폐허마당,StaticMeshComponent0,True,야외 바닥·계단 충돌면,4,19200.0,19700.0,-3950.0,-2640.0,3000.0,3000.0
+field,StaticMeshActor_146,V05_신전왼쪽_관찰마당,StaticMeshComponent0,True,야외 바닥·계단 충돌면,4,23100.0,24220.0,-3220.0,-1920.0,3600.0,3600.0
+field,StaticMeshActor_147,V05_열린마당_15100_-1600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15100.0,15500.0,-300.0,-200.0,1560.0,1560.0
+field,StaticMeshActor_148,V05_열린마당_15100_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,15100.0,15500.0,-200.0,566.6666870117188,1560.0,1560.0
+field,StaticMeshActor_151,V05_열린마당_15500_1200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,16268.86792,16400.000000078126,1200.0,1985.0,1765.03145,1800.0000016357421
+field,StaticMeshActor_155,V05_열린마당_16400_1200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,16400.0,17800.0,1200.0,2600.0,1800.0,2520.0
+field,StaticMeshActor_156,V05_열린마당_16400_2600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,16661.70213,17799.9999815625,2600.0,4000.0,1934.5896700000003,2520.000009355469
+field,StaticMeshActor_157,V05_열린마당_16400_4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,17257.44681,17799.999971621095,4000.0,4145.454544067383,2240.97264,2520.000014267578
+field,StaticMeshActor_161,V05_열린마당_17800_1200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,17800.0,19000.0,1200.0,2600.0,2520.0,2520.0
+field,StaticMeshActor_162,V05_열린마당_17800_2600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,17800.0,19000.0,2600.0,4000.0,2520.0,2520.0
+field,StaticMeshActor_163,V05_열린마당_17800_4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,17800.0,19000.0,4000.0,4250.0,2520.0,2520.0
+field,StaticMeshActor_167,V05_열린마당_19000_1200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,19000.0,20000.0,1200.0,2600.0,2520.0,3360.0
+field,StaticMeshActor_168,V05_열린마당_19000_2600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,4,19000.0,20000.0,2600.0,4000.0,2520.0,3360.0
+field,StaticMeshActor_169,V05_열린마당_19000_4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,1,19000.0,19246.875,4000.0,4207.894744873047,2520.0,2727.375
+field,StaticMeshActor_170,V05_열린마당_20000_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,20000.0,20380.0,48.284270000000106,1199.9999682421876,3360.0,3600.0
+field,StaticMeshActor_171,V05_열린마당_20000_1200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,20000.0,20380.0,1200.0,2600.0,3360.0,3600.0
+field,StaticMeshActor_172,V05_열린마당_20000_2600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,1,20000.0,20220.0,2600.0,3184.375,3360.0,3498.9473571777344
+field,StaticMeshActor_173,V05_열린마당_20380_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,20380.0,20540.0,400.0,1200.0,3600.0,3600.0
+field,StaticMeshActor_174,V05_열린마당_20380_1200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,20380.0,20540.0,1200.0,2175.0,3600.0,3600.0
+field,StaticMeshActor_175,V05_외곽경계_15000_-4800,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_176,V05_외곽경계_15000_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_177,V05_외곽경계_15000_-1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_178,V05_외곽경계_15000_0,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_179,V05_외곽경계_15000_1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_180,V05_외곽경계_16600_-4800,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_181,V05_외곽경계_16600_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_182,V05_외곽경계_16600_1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_183,V05_외곽경계_16600_3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_185,V05_외곽경계_18200_-4800,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_186,V05_외곽경계_18200_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_187,V05_외곽경계_18200_3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_190,V05_외곽경계_19800_-4800,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_191,V05_외곽경계_19800_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_192,V05_외곽경계_19800_-1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_193,V05_외곽경계_19800_0,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_194,V05_외곽경계_19800_1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_195,V05_외곽경계_19800_3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_197,V05_외곽경계_21400_-4800,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_198,V05_외곽경계_21400_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_199,V05_외곽경계_21400_-1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_200,V05_외곽경계_21400_0,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_201,V05_외곽경계_21400_1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_204,V05_외곽경계_23000_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_205,V05_외곽경계_23000_1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_209,V05_외곽경계_24600_-3200,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_210,V05_외곽경계_24600_-1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_211,V05_외곽경계_24600_0,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_212,V05_외곽경계_24600_1600,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_224,낮은지형덩어리_2,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_225,폐허벽잔존_2,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_241,관찰마당_낮은이동차단난간,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_0,관찰틈_안쪽막힘면,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_1,관찰유도_바깥쪽쓰러진기둥,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_47,제안_종탑_몸통,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_48,제안_종탑_중간처마,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_49,제안_종탑_상부기둥_-1_-1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_50,제안_종탑_상부기둥_-1_1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_51,제안_종탑_상부기둥_1_-1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_52,제안_종탑_상부기둥_1_1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_53,제안_종탑_상부인방,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_54,제안_종탑_작은지붕_-1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_55,제안_종탑_작은지붕_1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_56,V09_종_몸체,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_57,V09_종_입구테두리,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_58,V09_종_추,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_59,V09_종_매달림,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_62,관찰틈_파손벽체,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_63,관찰유도_쓰러진기둥_주두,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_64,V05_왼쪽진입계단_1,StaticMeshComponent0,True,야외 바닥·계단 충돌면,54,15911.790604543457,16818.492257070313,-810.24612,-347.2255816699219,1795.0,1795.0
+field,StaticMeshActor_65,V05_왼쪽진입계단_2,StaticMeshComponent0,True,야외 바닥·계단 충돌면,62,15862.503884267579,16842.492257070313,-762.24612,-293.56011536132814,1762.0,1762.0
+field,StaticMeshActor_66,V05_왼쪽진입계단_3,StaticMeshComponent0,True,야외 바닥·계단 충돌면,64,15817.477593374024,16870.492257070313,-715.24612,-240.80025818359377,1725.0,1725.0
+field,StaticMeshActor_67,V05_왼쪽진입계단_4,StaticMeshComponent0,True,야외 바닥·계단 충돌면,66,15768.420510244141,16895.492257070313,-665.24612,-184.89873840820314,1682.0,1682.0
+field,StaticMeshActor_68,V05_왼쪽진입계단_5,StaticMeshComponent0,True,야외 바닥·계단 충돌면,68,15719.664803457032,16920.492257070313,-615.24612,-128.99721863281252,1647.0,1647.0
+field,StaticMeshActor_69,단축순례길_바닥_19000_-5000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,13,19146.75423,20000.000018574217,-4303.36052,-3999.9999853320314,3000.0,3120.0
+field,StaticMeshActor_70,단축순례길_낙차난간_19000_-5000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_71,단축순례길_바닥_19000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,17,19108.66885,20000.00002675781,-4000.0,-3340.0,3000.0,3090.0
+field,StaticMeshActor_72,단축순례길_낙차난간_19000_-3000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_78,단축순례길_바닥_20000_-5000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,18,20000.0,21000.0,-4500.0,-4000.0,3090.0,3240.0
+field,StaticMeshActor_79,단축순례길_낙차난간_20000_-5000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_80,단축순례길_바닥_20000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,17,20000.0,21000.0,-4000.0,-3476.283447265625,3060.0,3240.0
+field,StaticMeshActor_81,단축순례길_낙차난간_20000_-4000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_82,단축순례길_바닥_20000_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,1,20992.18269,20999.999999856416,-2017.567,-2000.0000005645752,3600.0,3600.0
+field,StaticMeshActor_83,단축순례길_낙차난간_20000_-3000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_84,단축순례길_바닥_20000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,20547.18269,21000.000011777345,-2000.0,-1000.0,3600.0,3600.0
+field,StaticMeshActor_86,단축순례길_바닥_20000_-1000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,5,20140.0,21000.0,-1000.0,0.0,3600.0,3600.0
+field,StaticMeshActor_88,단축순례길_바닥_20000_0,StaticMeshComponent0,True,야외 바닥·계단 충돌면,13,20140.0,20977.817321777344,0.0,589.8729248046875,3600.0,3600.0
+field,StaticMeshActor_90,단축순례길_바닥_21000_-5000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,20,21000.0,22000.0,-4476.42915,-4000.000011816406,3240.0,3450.0
+field,StaticMeshActor_91,단축순례길_낙차난간_21000_-5000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_92,단축순례길_바닥_21000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,24,21000.0,22000.0,-4000.0,-3532.6617736816406,3240.0,3480.0
+field,StaticMeshActor_93,단축순례길_낙차난간_21000_-4000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_94,단축순례길_바닥_21000_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,15,21000.0,22000.0,-2527.48355,-2000.0000294921874,3600.0,3600.0
+field,StaticMeshActor_95,단축순례길_낙차난간_21000_-3000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_96,단축순례길_바닥_21000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,8,21000.0,22000.0,-2000.0,-1000.0,3600.0,3600.0
+field,StaticMeshActor_97,단축순례길_낙차난간_21000_-2000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_98,단축순례길_바닥_21000_-1000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,1,21000.0,21422.817321777344,-1000.0,-49.8487548828125,3600.0,3600.0
+field,StaticMeshActor_99,단축순례길_낙차난간_21000_-1000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_100,단축순례길_바닥_22000_-5000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,13,22000.0,23000.0,-4340.06551,-3999.999988759766,3450.0,3600.0
+field,StaticMeshActor_101,단축순례길_낙차난간_22000_-5000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_102,단축순례길_바닥_22000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,14,22000.0,23000.0,-4000.0,-3331.2216796875,3450.0,3600.0
+field,StaticMeshActor_103,단축순례길_낙차난간_22000_-4000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_104,단축순례길_바닥_22000_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,22000.0,23000.0,-2735.0,-2000.0,3600.0,3600.0
+field,StaticMeshActor_105,단축순례길_낙차난간_22000_-3000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_152,단축순례길_바닥_23000_-5000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,5,23000.0,23439.81903076172,-4203.70188,-4000.0000062207027,3600.0,3600.0
+field,StaticMeshActor_153,단축순례길_낙차난간_23000_-5000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_154,단축순례길_바닥_23000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,9,23000.0,24000.0,-4000.0,-3000.0,3600.0,3600.0
+field,StaticMeshActor_158,단축순례길_낙차난간_23000_-4000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_159,단축순례길_바닥_23000_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,17,23000.0,24000.0,-3000.0,-2000.0,3600.0,3600.0
+field,StaticMeshActor_164,단축순례길_바닥_23000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,4,23000.0,23924.142150878906,-2000.0,-1920.0,3600.0,3600.0
+field,StaticMeshActor_165,단축순례길_낙차난간_23000_-2000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_221,단축순례길_바닥_24000_-4000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,5,24000.0,24300.0,-3657.66718,-3000.000004707031,3600.0,3600.0
+field,StaticMeshActor_222,단축순례길_낙차난간_24000_-4000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_223,단축순례길_바닥_24000_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,24000.0,24300.0,-3000.0,-2031.42138671875,3600.0,3600.0
+field,StaticMeshActor_233,단축순례길_낙차난간_24000_-3000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_235,단축순례길_낙차난간_19000_-4000,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_237,단축순례길_바닥_22000_-2000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,22000.0,23000.0,-2000.0,-1920.0,3600.0,3600.0
+field,StaticMeshActor_76,관찰유도_빈공간확장_기둥접속난간,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_74,V098_주변바닥_열린마당_15500_-1600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,549,15500.0,16300.0,-800.0,-200.0,1560.0,1773.3333435058594
+field,StaticMeshActor_106,V098_주변바닥_열린마당_15500_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,1479,15500.0,16400.0,-200.0,1200.0,1560.0,1800.0
+field,StaticMeshActor_112,V098_주변바닥_열린마당_16400_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,1,17250.0,17800.0,-2350.0,-2122.413787841797,2237.14286,2520.000007216797
+field,StaticMeshActor_117,V098_주변바닥_열린마당_16400_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,4,16400.0,17800.0,266.875,1200.0,1800.0,2520.0
+field,StaticMeshActor_121,V098_주변바닥_열린마당_17800_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,6,17800.0,19000.0,-2350.0,-1600.0,2520.0,2520.0
+field,StaticMeshActor_125,V098_주변바닥_열린마당_17800_-1600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,18175.0,19000.0,-1600.0,-200.0,2520.0,2520.0
+field,StaticMeshActor_126,V098_주변바닥_열린마당_17800_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,5,17800.0,19000.0,-200.0,1200.0,2520.0,2520.0
+field,StaticMeshActor_127,V098_주변바닥_열린마당_19000_-3000,StaticMeshComponent0,True,야외 바닥·계단 충돌면,3,19000.0,19845.280151367188,-2039.65517,-1599.9999881152344,2520.0,3230.0353393554688
+field,StaticMeshActor_130,V098_주변바닥_열린마당_19000_-1600,StaticMeshComponent0,True,야외 바닥·계단 충돌면,2,19000.0,19961.946838378906,-1600.0,-200.0,2520.0,3328.0353393554688
+field,StaticMeshActor_131,V098_주변바닥_열린마당_19000_-200,StaticMeshComponent0,True,야외 바닥·계단 충돌면,5,19000.0,20000.0,-200.0,1200.0,2520.0,3360.0
+field,StaticMeshActor_189,V098_분수_원형수조,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_196,V098_분수_수조바닥,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_203,V098_분수_중앙받침,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_206,V098_분수_상부접시,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_207,V098_입구테두리_-1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_208,V098_입구테두리_1,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_213,V098_입구테두리_상부,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_302,V099_호수_바닥,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_313,V099_계단하부받침_12,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_315,V099_계단하부받침_13,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_317,V099_계단하부받침_14,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_319,V099_계단하부받침_15,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_321,V099_계단하부받침_16,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_323,V099_계단하부받침_17,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_325,V099_계단하부받침_18,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_327,V099_계단하부받침_19,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_329,V099_계단하부받침_20,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_331,V099_계단하부받침_21,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_333,V099_계단하부받침_22,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_335,V099_계단하부받침_23,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_337,V099_계단하부받침_24,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_339,V099_계단하부받침_25,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_341,V099_계단하부받침_26,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_343,V099_계단하부받침_27,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_345,V099_계단하부받침_28,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_2,V0911_분수마당_확장바닥,StaticMeshComponent0,True,야외 바닥·계단 충돌면,20,19819.97993,21000.0199690625,-2050.02,312.15431640625,3599.9999979101563,3599.9999979101563
+field,StaticMeshActor_3,V0911_합류외곽_연속안전난간,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_4,V0911_정면접속_보존난간,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_5,V0912_계단호수_통합난간,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_6,V0915_난간접합_옛길,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+field,StaticMeshActor_7,V0915_난간접합_호수왼쪽,StaticMeshComponent0,False,벽·난간·수면·호수 바닥·지붕·장식·계단 하부 받침 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_0,MCP_TEST_Interior_EntranceFloor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,-400.0,400.0,-1650.0,-750.0,160.0,160.0
+dungeon,StaticMeshActor_1,MCP_TEST_Interior_DescentStep_01,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,390.0,610.0,-1550.0,-850.0,120.0,120.0
+dungeon,StaticMeshActor_2,MCP_TEST_Interior_DescentStep_02,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,570.0,790.0,-1550.0,-850.0,80.0,80.0
+dungeon,StaticMeshActor_3,MCP_TEST_Interior_DescentStep_03,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,750.0,970.0,-1550.0,-850.0,40.0,40.0
+dungeon,StaticMeshActor_4,MCP_TEST_Interior_DescentStep_04,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,930.0,1150.0,-1550.0,-850.0,0.0,0.0
+dungeon,StaticMeshActor_5,MCP_TEST_Interior_MidBossFloor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,700.0,3400.0,-2200.0,-200.0,0.0,0.0
+dungeon,StaticMeshActor_6,MCP_TEST_Interior_MidBossWall_South,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_7,MCP_TEST_Interior_MidBossWall_North_West,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_8,MCP_TEST_Interior_MidBossWall_North_East,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_9,MCP_TEST_Interior_MidBossWall_East,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_10,MCP_TEST_Interior_MidBossExitPillar_L,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_11,MCP_TEST_Interior_MidBossExitPillar_R,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_12,MCP_TEST_Interior_MidBossExitLintel,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_13,MCP_TEST_Interior_TransitionStep_01,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2250.0,2950.0,-210.0,10.000000000000014,40.0,40.0
+dungeon,StaticMeshActor_14,MCP_TEST_Interior_TransitionStep_02,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2250.0,2950.0,-10.000000000000014,210.0,80.0,80.0
+dungeon,StaticMeshActor_15,MCP_TEST_Interior_TransitionStep_03,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2250.0,2950.0,190.0,410.0,120.0,120.0
+dungeon,StaticMeshActor_16,MCP_TEST_Interior_TransitionStep_04,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2250.0,2950.0,390.0,610.0,160.0,160.0
+dungeon,StaticMeshActor_17,MCP_TEST_Interior_TransitionStep_05,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2250.0,2950.0,590.0,810.0,200.0,200.0
+dungeon,StaticMeshActor_18,MCP_TEST_Interior_TransitionStep_06,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2250.0,2950.0,790.0,1010.0,240.0,240.0
+dungeon,StaticMeshActor_19,MCP_TEST_Interior_TransitionTurn,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2200.0,3000.0,700.0,1500.0,240.0,240.0
+dungeon,StaticMeshActor_20,MCP_TEST_Interior_TransitionHighPath,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3000.0,4900.0,700.0,1500.0,240.0,240.0
+dungeon,StaticMeshActor_21,MCP_TEST_Interior_TransitionLowRail,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_22,MCP_TEST_Interior_TransitionOuterWall,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_23,MCP_TEST_Interior_FinalCompressionFloor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5600.0,6300.0,800.0,1400.0,240.0,240.0
+dungeon,StaticMeshActor_24,MCP_TEST_Interior_FinalCompressionWall_South,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_25,MCP_TEST_Interior_FinalCompressionWall_North,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_27,MCP_TEST_Interior_FinalBossWall_South,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_28,MCP_TEST_Interior_FinalBossWall_North,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_29,MCP_TEST_Interior_FinalBossWall_East,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_31,MCP_TEST_Interior_END_Pad,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,8900.0,9400.0,750.0,1450.0,280.0,280.0
+dungeon,MCP_TEST_Interior_TransitionLeftRail_02,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Interior_TransitionLeftRail_03,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Interior_TransitionLeftRail_04,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Interior_TransitionLeftRail_05,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Interior_TransitionLeftRail_06,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_32,MCP_TEST_Interior_TransitionBridgeRail_South_260uu_TEST,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_MidBossFloor_West,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6300.0,7300.0,-400.0,2600.0,240.0,240.0
+dungeon,MCP_TEST_MidBossFloor_East,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,8500.0,9500.0,-400.0,2600.0,240.0,240.0
+dungeon,MCP_TEST_MidBossFloor_South,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7300.0,8500.0,-400.0,700.0,240.0,240.0
+dungeon,MCP_TEST_MidBossFloor_North,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7300.0,8500.0,1500.0,2600.0,240.0,240.0
+dungeon,MCP_TEST_TransformStair_Blocker,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_TransformStair_Step_01,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7299.99999833107,7409.00000166893,750.0,1450.0,-159.99999970197678,-159.99999970197678
+dungeon,MCP_TEST_TransformStair_Step_02,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7408.99999833107,7518.00000166893,750.0,1450.0,-119.99999970197678,-119.99999970197678
+dungeon,MCP_TEST_TransformStair_Step_03,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7517.99999833107,7627.00000166893,750.0,1450.0,-79.99999970197678,-79.99999970197678
+dungeon,MCP_TEST_TransformStair_Step_04,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7626.99999833107,7736.00000166893,750.0,1450.0,-39.999999701976776,-39.999999701976776
+dungeon,MCP_TEST_TransformStair_Step_05,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7735.99999833107,7845.00000166893,750.0,1450.0,2.980232238769531e-07,2.980232238769531e-07
+dungeon,MCP_TEST_TransformStair_Step_06,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7844.99999833107,7954.00000166893,750.0,1450.0,40.000000298023224,40.000000298023224
+dungeon,MCP_TEST_LowerRoute_Junction,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5900.0,8700.0,700.0,1500.0,-960.0,-960.0
+dungeon,MCP_TEST_LowerRoute_Candidate1,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5802.5,6677.5,-500.0,1100.0,-960.0,-960.0
+dungeon,MCP_TEST_LowerRoute_Candidate2,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5800.0,6700.0,1100.0,2800.0,-1560.0,-1560.0
+dungeon,MCP_TEST_Candidate1_Wall_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate1_Floor,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2800.0,5800.0,-1750.0,802.5,-960.0,-960.0
+dungeon,MCP_TEST_Candidate1_Wall_West,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate1_Wall_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate1_Wall_EastSouth,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate1_BigDoor,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate2_Floor,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4445.0,5800.0,1470.0001335144043,2799.9998664855957,-1560.0,-1560.0
+dungeon,MCP_TEST_Candidate2_Wall_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate2_Wall_West,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate2_Wall_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_TransformStair_Step_07,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7953.99999833107,8063.00000166893,750.0,1450.0,80.00000029802322,80.00000029802322
+dungeon,MCP_TEST_TransformStair_Step_08,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,8062.99999833107,8172.00000166893,750.0,1450.0,120.00000029802322,120.00000029802322
+dungeon,MCP_TEST_TransformStair_Step_09,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,8171.99999833107,8281.00000166893,750.0,1450.0,160.00000029802322,160.00000029802322
+dungeon,MCP_TEST_TransformStair_Step_10,StaticMeshActor10,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,8280.99999833107,8390.00000166893,750.0,1450.0,200.00000029802322,200.00000029802322
+dungeon,MCP_TEST_TransformStair_Step_11,StaticMeshActor11,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,8389.99999833107,8499.00000166893,750.0,1450.0,240.00000029802322,240.00000029802322
+dungeon,StaticMeshActor_26,MCP_TEST_Interior_MidBossWall_East2,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,StaticMeshActor_30,MCP_TEST_Interior_MidBossWall_East3,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_Main_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_Main_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_Main_East,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_SpurS_East,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_SpurN_East,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_SpurS_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerRail_SpurN_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_UpperRail_MidBossWest_S,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_UpperRail_MidBossWest_N,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Start_West,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Start_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Start_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Start_EastS,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Start_EastN,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Descent_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Descent_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Landing_West,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Landing_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Landing_SouthE,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_RiseRight_01,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_RiseRight_02,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_RiseRight_03,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_RiseRight_04,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_RiseRight_05,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Shaft_Wall_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Shaft_Wall_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairB_F1_01,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7190.99999833107,7300.00000166893,799.9999952316284,1490.0000047683716,-199.99999970197678,-199.99999970197678
+dungeon,P02_StairB_F1_02,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,7081.99999833107,7191.00000166893,799.9999952316284,1490.0000047683716,-239.99999970197678,-239.99999970197678
+dungeon,P02_StairB_F1_03,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6972.99999833107,7082.00000166893,799.9999952316284,1490.0000047683716,-279.9999997019768,-279.9999997019768
+dungeon,P02_StairB_F1_04,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6863.99999833107,6973.00000166893,799.9999952316284,1490.0000047683716,-319.9999997019768,-319.9999997019768
+dungeon,P02_StairB_F1_05,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6754.99999833107,6864.00000166893,799.9999952316284,1490.0000047683716,-359.9999997019768,-359.9999997019768
+dungeon,P02_StairB_F1_06,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6645.99999833107,6755.00000166893,799.9999952316284,1490.0000047683716,-399.9999997019768,-399.9999997019768
+dungeon,P02_StairB_F1_07,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6536.99999833107,6646.00000166893,799.9999952316284,1490.0000047683716,-439.9999997019768,-439.9999997019768
+dungeon,P02_StairB_F1_08,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6427.99999833107,6537.00000166893,799.9999952316284,1490.0000047683716,-479.9999997019768,-479.9999997019768
+dungeon,P02_StairB_F1_09,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6318.99999833107,6428.00000166893,799.9999952316284,1490.0000047683716,-519.9999997019768,-519.9999997019768
+dungeon,P02_StairB_Turn,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5228.99999833107,5338.00000166893,799.9999952316284,1490.0000047683716,-919.9999997019768,-919.9999997019768
+dungeon,P02_StairB_F2_01,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6209.99999833107,6319.00000166893,799.9999952316284,1490.0000047683716,-559.9999997019768,-559.9999997019768
+dungeon,P02_StairB_F2_02,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,6100.99999833107,6210.00000166893,799.9999952316284,1490.0000047683716,-599.9999997019768,-599.9999997019768
+dungeon,P02_StairB_F2_03,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5991.99999833107,6101.00000166893,799.9999952316284,1490.0000047683716,-639.9999997019768,-639.9999997019768
+dungeon,P02_StairB_F2_04,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5882.99999833107,5992.00000166893,799.9999952316284,1490.0000047683716,-679.9999997019768,-679.9999997019768
+dungeon,P02_StairB_F2_05,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5773.99999833107,5883.00000166893,799.9999952316284,1490.0000047683716,-719.9999997019768,-719.9999997019768
+dungeon,P02_StairB_F2_06,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5664.99999833107,5774.00000166893,799.9999952316284,1490.0000047683716,-759.9999997019768,-759.9999997019768
+dungeon,P02_StairB_F2_07,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5555.99999833107,5665.00000166893,799.9999952316284,1490.0000047683716,-799.9999997019768,-799.9999997019768
+dungeon,P02_StairB_F2_08,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5446.99999833107,5556.00000166893,799.9999952316284,1490.0000047683716,-839.9999997019768,-839.9999997019768
+dungeon,P02_StairB_F2_09,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5337.99999833107,5447.00000166893,799.9999952316284,1490.0000047683716,-879.9999997019768,-879.9999997019768
+dungeon,P02_Candidate1_Wall_WestNorth,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_EndPad,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,5950.0,6450.0,-350.0,650.0,-960.0,-960.0
+dungeon,P02_EndPad_Rail_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_EndPad_Rail_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_EndPad_Rail_West,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_ColorPad_Red,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_ColorPad_Green,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_ColorPad_Blue,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_ColorHint_1,StaticMeshActor1,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_ColorHint_2,StaticMeshActor2,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_ColorHint_3,StaticMeshActor3,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Candidate1_Wall_NorthWest,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_HintMark_1a,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_HintMark_2a,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_HintMark_2b,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_HintMark_3a,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_HintMark_3b,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_HintMark_3c,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Rail_Landing_SouthWest,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_MidBossDoor,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_BridgeWeakSection_Deck,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4900.0,5600.0,700.0,1500.0,240.0,240.0
+dungeon,P02_BridgeWeakSection_RailS,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_BridgeWeakSection_RailN,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_LowerCorridor_Floor,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2699.999954223633,5229.000045776367,799.9999952316284,1490.0000047683716,-960.0,-960.0
+dungeon,P02_StairD_02,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3068.390999995038,3177.60900167799,1549.4374978542328,2050.625,-979.9499994032085,-979.9499994032085
+dungeon,P02_StairD_03,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3177.390999995038,3286.60900167799,1549.4374978542328,2050.625,-1019.9499994032085,-1019.9499994032085
+dungeon,P02_StairD_04,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3286.390999995038,3395.60900167799,1549.4374978542328,2050.625,-1059.9499994032085,-1059.9499994032085
+dungeon,P02_StairD_05,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3395.390999995038,3504.60900167799,1549.4374978542328,2050.625,-1099.9499994032085,-1099.9499994032085
+dungeon,P02_StairD_06,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3504.390999995038,3613.60900167799,1549.4374978542328,2050.625,-1139.9499994032085,-1139.9499994032085
+dungeon,P02_StairD_07,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3613.390999995038,3722.60900167799,1549.4374978542328,2050.625,-1179.9499994032085,-1179.9499994032085
+dungeon,P02_StairD_08,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3722.390999995038,3831.60900167799,1549.4374978542328,2050.625,-1219.9499994032085,-1219.9499994032085
+dungeon,P02_StairD_09,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3831.390999995038,3940.60900167799,1549.4374978542328,2050.625,-1259.9499994032085,-1259.9499994032085
+dungeon,P02_StairD_10,StaticMeshActor10,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,3940.390999995038,4049.60900167799,1549.4374978542328,2050.625,-1299.9499994032085,-1299.9499994032085
+dungeon,P02_StairD_11,StaticMeshActor11,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4049.390999995038,4158.60900167799,1549.4374978542328,2050.625,-1339.9499994032085,-1339.9499994032085
+dungeon,P02_StairD_12,StaticMeshActor12,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4158.390999995038,4267.60900167799,1549.4374978542328,2050.625,-1379.9499994032085,-1379.9499994032085
+dungeon,P02_StairD_13,StaticMeshActor13,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4267.390999995038,4376.60900167799,1549.4374978542328,2050.625,-1419.9499994032085,-1419.9499994032085
+dungeon,P02_StairD_14,StaticMeshActor14,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4376.390999995038,4485.60900167799,1549.4374978542328,2050.625,-1459.9499994032085,-1459.9499994032085
+dungeon,P02_StairD_15,StaticMeshActor15,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4485.390999995038,4594.60900167799,1549.4374978542328,2050.625,-1499.9499994032085,-1499.9499994032085
+dungeon,P02_StairD_Landing,StaticMeshActor,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,2761.4364999953286,3075.5634952163696,1549.4374978542328,2050.625,-909.875,-909.875
+dungeon,P02_StairD_Landing_Wall_West,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_S_01,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_01,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_02,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_03,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_04,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_05,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_06,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Rail_N_07,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_Landing_Rail_N,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_Candidate1_Wall_EastNorth,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,MCP_TEST_Candidate1_BigDoor_Arch,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_BossGate_Jamb_South,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_BossGate_Jamb_North,StaticMeshActor,StaticMeshComponent0,False,벽·난간·문·차단판·표식·장식 등 보행 바닥 집합 아님,0,nan,nan,nan,nan,nan,nan
+dungeon,P02_StairD_0,StaticMeshActor16,StaticMeshComponent0,True,상·하층 바닥·계단·다리; 도달에 필요한 기믹 상태 전환 포함,2,4599.88000167048,4720.119996496677,1549.4374978542328,2050.625,-1539.95,-1539.95

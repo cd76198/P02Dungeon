@@ -1,0 +1,6927 @@
+{
+  "field": {
+    "map": "/Game/Portfolio02/Levels/던전외부필드_v09-17_A",
+    "actor_count": 261,
+    "geometry_and_name_differences": [],
+    "mesh_material_collision_differences": [],
+    "ignored_session_generated_actor": "ChaosDebugDrawActor (rendering-session debug actor; absent in NullRHI commandlet)",
+    "actors": {
+      "WorldSettings": {
+        "class": "/Script/Engine.WorldSettings",
+        "label": "WorldSettings",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "Brush_0": {
+        "class": "/Script/Engine.Brush",
+        "label": "Brush0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_250": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_정면벽_-1",
+        "location": [
+          21500.0,
+          -1248.0,
+          4150.0
+        ],
+        "scale": [
+          2.5600000000000005,
+          15.36,
+          6.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_251": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_정면벽_1",
+        "location": [
+          21500.0,
+          1248.0,
+          4150.0
+        ],
+        "scale": [
+          2.5600000000000005,
+          15.36,
+          6.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_252": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "유일입구_상인방",
+        "location": [
+          21500.0,
+          0.0,
+          4430.0
+        ],
+        "scale": [
+          3.5200000000000005,
+          9.600000000000001,
+          1.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_253": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_오른쪽벽",
+        "location": [
+          23740.0,
+          1760.0,
+          4215.0
+        ],
+        "scale": [
+          44.800000000000004,
+          2.2399999999999998,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_254": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_후면막힌벽",
+        "location": [
+          25820.0,
+          0.0,
+          4215.0
+        ],
+        "scale": [
+          2.2399999999999998,
+          35.2,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_255": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_왼벽_앞",
+        "location": [
+          22220.0,
+          -1760.0,
+          4215.0
+        ],
+        "scale": [
+          17.6,
+          2.2399999999999998,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_256": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_왼벽_뒤",
+        "location": [
+          25100.0,
+          -1760.0,
+          4215.0
+        ],
+        "scale": [
+          16.0,
+          2.2399999999999998,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_257": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰틈_막힌하부",
+        "location": [
+          23660.0,
+          -1760.0,
+          3900.0
+        ],
+        "scale": [
+          11.2,
+          2.56,
+          1.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_258": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰틈_상부",
+        "location": [
+          23660.0,
+          -1760.0,
+          4540.0
+        ],
+        "scale": [
+          11.200000000000001,
+          2.5600000000000005,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_265": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_21600_-1250",
+        "location": [
+          21660.0,
+          -2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_266": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_21600_-1250",
+        "location": [
+          21660.0,
+          -2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_267": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_21600_1250",
+        "location": [
+          21660.0,
+          2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_268": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_21600_1250",
+        "location": [
+          21660.0,
+          2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_269": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_22100_-1250",
+        "location": [
+          22460.0,
+          -2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_270": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_22100_-1250",
+        "location": [
+          22460.0,
+          -2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_271": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_22100_1250",
+        "location": [
+          22460.0,
+          2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_272": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_22100_1250",
+        "location": [
+          22460.0,
+          2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_275": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_22600_1250",
+        "location": [
+          23260.0,
+          2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_276": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_22600_1250",
+        "location": [
+          23260.0,
+          2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_277": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_23100_-1250",
+        "location": [
+          24060.0,
+          -2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_278": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_23100_-1250",
+        "location": [
+          24060.0,
+          -2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_279": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_23100_1250",
+        "location": [
+          24060.0,
+          2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_280": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_23100_1250",
+        "location": [
+          24060.0,
+          2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_281": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_23600_-1250",
+        "location": [
+          24860.0,
+          -2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_282": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_23600_-1250",
+        "location": [
+          24860.0,
+          -2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_283": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_23600_1250",
+        "location": [
+          24860.0,
+          2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_284": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_23600_1250",
+        "location": [
+          24860.0,
+          2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_285": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_24100_-1250",
+        "location": [
+          25660.0,
+          -2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_286": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_24100_-1250",
+        "location": [
+          25660.0,
+          -2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_287": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전기둥_24100_1250",
+        "location": [
+          25660.0,
+          2000.0,
+          4215.0
+        ],
+        "scale": [
+          2.72,
+          2.72,
+          7.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_288": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "주두_24100_1250",
+        "location": [
+          25660.0,
+          2000.0,
+          4570.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_289": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_경사지붕_-650",
+        "location": [
+          23740.0,
+          -1040.0,
+          4730.0
+        ],
+        "scale": [
+          48.0,
+          22.400000000000002,
+          1.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_290": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_경사지붕_650",
+        "location": [
+          23740.0,
+          1040.0,
+          4730.0
+        ],
+        "scale": [
+          48.0,
+          22.400000000000002,
+          1.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_291": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "신전_입구안쪽차폐벽",
+        "location": [
+          22940.0,
+          0.0,
+          4220.0
+        ],
+        "scale": [
+          2.4000000000000004,
+          25.6,
+          7.6
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_292": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "쓰러진기둥_옛길만차단",
+        "location": [
+          19900.0,
+          -3040.0,
+          3150.0
+        ],
+        "scale": [
+          2.8,
+          2.8,
+          7.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_293": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "쓰러진기둥_주두",
+        "location": [
+          19900.0,
+          -3445.0,
+          3150.0
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_294": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_0_지붕_-125",
+        "location": [
+          18525.0,
+          2500.0,
+          2830.0
+        ],
+        "scale": [
+          4.5,
+          3.3,
+          0.35
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_295": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_0_지붕_125",
+        "location": [
+          18275.0,
+          2500.0,
+          2830.0
+        ],
+        "scale": [
+          4.5,
+          3.3,
+          0.35
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_296": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_0_기둥_-190",
+        "location": [
+          18400.0,
+          2310.0,
+          2680.0
+        ],
+        "scale": [
+          0.3,
+          0.3,
+          3.22
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_297": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_0_기둥_190",
+        "location": [
+          18400.0,
+          2690.0,
+          2680.0
+        ],
+        "scale": [
+          0.3,
+          0.3,
+          3.22
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_298": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_1_지붕_-125",
+        "location": [
+          20425.0,
+          1050.0,
+          3859.4736842105262
+        ],
+        "scale": [
+          4.5,
+          3.3,
+          0.35
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_299": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_1_지붕_125",
+        "location": [
+          20175.0,
+          1050.0,
+          3859.4736842105262
+        ],
+        "scale": [
+          4.5,
+          3.3,
+          0.35
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_300": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_1_기둥_-190",
+        "location": [
+          20300.0,
+          860.0,
+          3709.4736842105262
+        ],
+        "scale": [
+          0.3,
+          0.3,
+          3.22
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_301": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "천막_1_기둥_190",
+        "location": [
+          20300.0,
+          1240.0,
+          3709.4736842105262
+        ],
+        "scale": [
+          0.3,
+          0.3,
+          3.22
+        ],
+        "collision": true
+      },
+      "P02OutdoorReviewController_0": {
+        "class": "/Script/P02Dungeon.P02OutdoorReviewController",
+        "label": "새맵전용_전투범위_기록_던전연결",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "PlayerStart_0": {
+        "class": "/Script/Engine.PlayerStart",
+        "label": "시작지점_START",
+        "location": [
+          15500.0,
+          100.0,
+          1670.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "DirectionalLight_0": {
+        "class": "/Script/Engine.DirectionalLight",
+        "label": "검토용_태양",
+        "location": [
+          21000.0,
+          0.0,
+          7000.0
+        ],
+        "scale": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "collision": true
+      },
+      "SkyLight_0": {
+        "class": "/Script/Engine.SkyLight",
+        "label": "검토용_환경광",
+        "location": [
+          20000.0,
+          0.0,
+          6000.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "SkyAtmosphere_0": {
+        "class": "/Script/Engine.SkyAtmosphere",
+        "label": "검토용_대기",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "DirectionalLight_1": {
+        "class": "/Script/Engine.DirectionalLight",
+        "label": "검토용_그림자보조광",
+        "location": [
+          20000.0,
+          -5000.0,
+          6000.0
+        ],
+        "scale": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_107": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_15000_-6000",
+        "location": [
+          16935.11422,
+          -4028.83812,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_108": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_15000_-4000",
+        "location": [
+          15665.55044,
+          -4000.0,
+          1980.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_109": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_15000_-2000",
+        "location": [
+          15500.0,
+          -2000.0,
+          1980.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_110": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_17000_-6000",
+        "location": [
+          17000.0,
+          -4640.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_111": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_17000_-4000",
+        "location": [
+          17000.0,
+          -4000.0,
+          2280.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_113": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_19000_-6000",
+        "location": [
+          19000.0,
+          -4205.31242,
+          2580.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_114": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_19000_-4000",
+        "location": [
+          19000.0,
+          -4000.0,
+          2640.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_115": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_19000_-2000",
+        "location": [
+          20615.0,
+          -2000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_116": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_19000_0",
+        "location": [
+          20581.96736,
+          0.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_118": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_21000_-4000",
+        "location": [
+          21000.0,
+          -3440.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_119": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_21000_-2000",
+        "location": [
+          21000.0,
+          -2000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_120": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_21000_0",
+        "location": [
+          21000.0,
+          0.0,
+          3480.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_122": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_23000_-4000",
+        "location": [
+          23100.0,
+          -3120.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_123": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_23000_-2000",
+        "location": [
+          23000.0,
+          -1920.0,
+          3660.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_124": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_23000_0",
+        "location": [
+          23000.0,
+          0.0,
+          3660.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_128": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_25000_-2000",
+        "location": [
+          25000.0,
+          -1920.0,
+          3660.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_129": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_기존계단보존_25000_0",
+        "location": [
+          25000.0,
+          0.0,
+          3660.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_133": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_00",
+        "location": [
+          15972.50776,
+          -851.24612,
+          1650.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_134": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_01",
+        "location": [
+          15947.50776,
+          -901.24612,
+          1680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_135": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_02",
+        "location": [
+          15922.50776,
+          -951.24612,
+          1710.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_136": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_03",
+        "location": [
+          15897.50776,
+          -1001.24612,
+          1740.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_137": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_04",
+        "location": [
+          15872.50776,
+          -1051.24612,
+          1770.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_138": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_05",
+        "location": [
+          15847.50776,
+          -1101.24612,
+          1800.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_139": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_06",
+        "location": [
+          15822.50776,
+          -1151.24612,
+          1830.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_140": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_07",
+        "location": [
+          15797.50776,
+          -1201.24612,
+          1860.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_141": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_08",
+        "location": [
+          15772.50776,
+          -1251.24612,
+          1890.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_142": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_09",
+        "location": [
+          15747.50776,
+          -1301.24612,
+          1920.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_143": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_10",
+        "location": [
+          15722.50776,
+          -1351.24612,
+          1950.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_144": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_11",
+        "location": [
+          15497.50776,
+          -1801.2461199999998,
+          1980.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_145": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_붕괴확인_작은폐허마당",
+        "location": [
+          19200.0,
+          -3950.0,
+          2820.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_146": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_신전왼쪽_관찰마당",
+        "location": [
+          23100.0,
+          -3220.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_147": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_15100_-1600",
+        "location": [
+          15100.0,
+          -300.0,
+          1380.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_148": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_15100_-200",
+        "location": [
+          15100.0,
+          -200.0,
+          1380.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_151": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_15500_1200",
+        "location": [
+          16268.86792,
+          1200.0,
+          1585.03145
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_155": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_16400_1200",
+        "location": [
+          16400.0,
+          1200.0,
+          1620.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_156": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_16400_2600",
+        "location": [
+          16661.70213,
+          2600.0,
+          1754.5896700000003
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_157": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_16400_4000",
+        "location": [
+          17257.44681,
+          4000.0,
+          2060.97264
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_161": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_17800_1200",
+        "location": [
+          17800.0,
+          1200.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_162": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_17800_2600",
+        "location": [
+          17800.0,
+          2600.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_163": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_17800_4000",
+        "location": [
+          17800.0,
+          4000.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_167": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_19000_1200",
+        "location": [
+          19000.0,
+          1200.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_168": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_19000_2600",
+        "location": [
+          19000.0,
+          2600.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_169": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_19000_4000",
+        "location": [
+          19000.0,
+          4000.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_170": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_20000_-200",
+        "location": [
+          20000.0,
+          48.284270000000106,
+          3180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_171": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_20000_1200",
+        "location": [
+          20000.0,
+          1200.0,
+          3180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_172": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_20000_2600",
+        "location": [
+          20000.0,
+          2600.0,
+          3180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_173": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_20380_-200",
+        "location": [
+          20380.0,
+          400.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_174": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_열린마당_20380_1200",
+        "location": [
+          20380.0,
+          1200.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_175": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_15000_-4800",
+        "location": [
+          16240.1,
+          -3837.9,
+          2281.73661
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_176": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_15000_-3200",
+        "location": [
+          15421.5,
+          -3200.0,
+          1635.1999999999998
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_177": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_15000_-1600",
+        "location": [
+          15015.0,
+          -1600.0,
+          1400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_178": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_15000_0",
+        "location": [
+          15015.0,
+          0.0,
+          1400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_179": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_15000_1600",
+        "location": [
+          16206.4,
+          1600.0,
+          1588.37333
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_180": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_16600_-4800",
+        "location": [
+          16600.0,
+          -4655.2,
+          2360.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_181": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_16600_-3200",
+        "location": [
+          16826.7,
+          -3200.0,
+          1834.60571
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_182": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_16600_1600",
+        "location": [
+          16600.0,
+          2455.0,
+          1742.85714
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_183": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_16600_3200",
+        "location": [
+          16824.6,
+          3200.0,
+          1858.36571
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_185": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_18200_-4800",
+        "location": [
+          18200.0,
+          -4718.5,
+          2571.3968
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_186": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_18200_-3200",
+        "location": [
+          18200.0,
+          -3200.0,
+          2360.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_187": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_18200_3200",
+        "location": [
+          18200.0,
+          3534.2,
+          2360.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_190": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_19800_-4800",
+        "location": [
+          20102.15,
+          -3525.0,
+          2840.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_191": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_19800_-3200",
+        "location": [
+          19800.0,
+          -3200.0,
+          2840.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_192": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_19800_-1600",
+        "location": [
+          21198.69,
+          -485.0,
+          3470.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_193": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_19800_0",
+        "location": [
+          20540.0,
+          400.0,
+          3422.69231
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_194": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_19800_1600",
+        "location": [
+          19994.1,
+          1600.0,
+          3195.044
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_195": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_19800_3200",
+        "location": [
+          19800.0,
+          3200.0,
+          3032.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_197": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_21400_-4800",
+        "location": [
+          21400.0,
+          -3310.4,
+          3440.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_198": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_21400_-3200",
+        "location": [
+          21400.0,
+          -3200.0,
+          3440.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_199": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_21400_-1600",
+        "location": [
+          21400.0,
+          -1057.47,
+          3470.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_200": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_21400_0",
+        "location": [
+          21400.0,
+          400.0,
+          3643.63636
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_201": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_21400_1600",
+        "location": [
+          21415.0,
+          1600.0,
+          3680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_204": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_23000_-3200",
+        "location": [
+          24220.0,
+          -2125.0,
+          3440.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_205": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_23000_1600",
+        "location": [
+          23000.0,
+          1920.0,
+          3680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_209": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_24600_-3200",
+        "location": [
+          24600.0,
+          -2005.0,
+          3680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_210": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_24600_-1600",
+        "location": [
+          25820.0,
+          -1600.0,
+          3680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_211": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_24600_0",
+        "location": [
+          25820.0,
+          0.0,
+          3680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_212": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_외곽경계_24600_1600",
+        "location": [
+          24600.0,
+          1600.0,
+          3680.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_224": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "낮은지형덩어리_2",
+        "location": [
+          19450.0,
+          2100.0,
+          3113.4877258685515
+        ],
+        "scale": [
+          7.0,
+          7.0,
+          3.3
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_225": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "폐허벽잔존_2",
+        "location": [
+          19350.0,
+          2345.0,
+          3316.804693693287
+        ],
+        "scale": [
+          4.2,
+          1.0,
+          1.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_226": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_0",
+        "location": [
+          16620.0,
+          1120.0,
+          1918.142857142857
+        ],
+        "scale": [
+          3.5,
+          4.1,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_227": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_1",
+        "location": [
+          17120.0,
+          1640.0,
+          2175.285714285714
+        ],
+        "scale": [
+          3.85,
+          3.6,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_228": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_2",
+        "location": [
+          17600.0,
+          2050.0,
+          2422.142857142857
+        ],
+        "scale": [
+          4.2,
+          4.1,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_229": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_3",
+        "location": [
+          18200.0,
+          2100.0,
+          2525.0
+        ],
+        "scale": [
+          3.5,
+          3.6,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_230": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_4",
+        "location": [
+          18750.0,
+          1820.0,
+          2525.0
+        ],
+        "scale": [
+          3.85,
+          4.1,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_231": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_5",
+        "location": [
+          19200.0,
+          1450.0,
+          2693.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_232": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "끊어진포장_6",
+        "location": [
+          19600.0,
+          1200.0,
+          3029.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_241": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰마당_낮은이동차단난간",
+        "location": [
+          23660.0,
+          -2010.0,
+          3760.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_242": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "사각작업범위_플레이영역아님",
+        "location": [
+          21900.0,
+          -1800.0,
+          1150.0
+        ],
+        "scale": [
+          142.0,
+          128.0,
+          0.1
+        ],
+        "collision": true
+      },
+      "TargetPoint_0": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_시작",
+        "location": [
+          15500.0,
+          100.0,
+          1670.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_1": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_마당진입",
+        "location": [
+          16400.0,
+          100.0,
+          1900.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_2": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_빠른통과",
+        "location": [
+          18000.0,
+          850.0,
+          2620.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_3": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_이벤트여유공간",
+        "location": [
+          18350.0,
+          3200.0,
+          2620.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_4": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_붕괴확인",
+        "location": [
+          19420.0,
+          -3040.0,
+          3100.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_5": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_관찰공간",
+        "location": [
+          23660.0,
+          -2550.0,
+          3700.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_6": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "검토_정면합류",
+        "location": [
+          20400.0,
+          0.0,
+          3700.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_0": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰틈_안쪽막힘면",
+        "location": [
+          23660.0,
+          -1640.0,
+          4225.0
+        ],
+        "scale": [
+          11.2,
+          0.2,
+          5.3
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_1": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰유도_바깥쪽쓰러진기둥",
+        "location": [
+          23660.0,
+          -2892.0,
+          3812.0
+        ],
+        "scale": [
+          2.8,
+          2.8,
+          7.2
+        ],
+        "collision": true
+      },
+      "P02ObservationPoint_0": {
+        "class": "/Script/P02Dungeon.P02ObservationPoint",
+        "label": "관찰_틈새살펴보기",
+        "location": [
+          23305.0,
+          -2280.0,
+          3692.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_47": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_몸통",
+        "location": [
+          21970.0,
+          -1280.0,
+          4730.0
+        ],
+        "scale": [
+          9.0,
+          9.0,
+          17.8
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_48": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_중간처마",
+        "location": [
+          21970.0,
+          -1280.0,
+          5660.0
+        ],
+        "scale": [
+          10.4,
+          10.4,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_49": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_상부기둥_-1_-1",
+        "location": [
+          21600.0,
+          -1650.0,
+          6100.0
+        ],
+        "scale": [
+          1.6,
+          1.6,
+          8.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_50": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_상부기둥_-1_1",
+        "location": [
+          21600.0,
+          -910.0,
+          6100.0
+        ],
+        "scale": [
+          1.6,
+          1.6,
+          8.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_51": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_상부기둥_1_-1",
+        "location": [
+          22340.0,
+          -1650.0,
+          6100.0
+        ],
+        "scale": [
+          1.6,
+          1.6,
+          8.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_52": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_상부기둥_1_1",
+        "location": [
+          22340.0,
+          -910.0,
+          6100.0
+        ],
+        "scale": [
+          1.6,
+          1.6,
+          8.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_53": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_상부인방",
+        "location": [
+          21970.0,
+          -1280.0,
+          6540.0
+        ],
+        "scale": [
+          10.4,
+          10.4,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_54": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_작은지붕_-1",
+        "location": [
+          21970.0,
+          -1530.0,
+          6720.0
+        ],
+        "scale": [
+          11.2,
+          6.4,
+          0.8
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_55": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "제안_종탑_작은지붕_1",
+        "location": [
+          21970.0,
+          -1030.0,
+          6720.0
+        ],
+        "scale": [
+          11.2,
+          6.4,
+          0.8
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_56": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V09_종_몸체",
+        "location": [
+          21970.0,
+          -1280.0,
+          6080.0
+        ],
+        "scale": [
+          2.9,
+          2.9,
+          4.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_57": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V09_종_입구테두리",
+        "location": [
+          21970.0,
+          -1280.0,
+          5890.0
+        ],
+        "scale": [
+          3.1,
+          3.1,
+          0.6
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_58": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V09_종_추",
+        "location": [
+          21970.0,
+          -1280.0,
+          5820.0
+        ],
+        "scale": [
+          0.85,
+          0.85,
+          0.85
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_59": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V09_종_매달림",
+        "location": [
+          21970.0,
+          -1280.0,
+          6390.0
+        ],
+        "scale": [
+          0.28,
+          0.28,
+          2.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_60": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V09_포장추가_7",
+        "location": [
+          19930.0,
+          880.0,
+          3306.2
+        ],
+        "scale": [
+          3.85,
+          3.6,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_61": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V09_포장추가_8",
+        "location": [
+          20280.0,
+          480.0,
+          3541.842105263158
+        ],
+        "scale": [
+          4.2,
+          4.1,
+          0.1
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_62": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰틈_파손벽체",
+        "location": [
+          23660.0,
+          -1761.0,
+          4225.0
+        ],
+        "scale": [
+          11.2,
+          2.22,
+          5.3
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_63": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰유도_쓰러진기둥_주두",
+        "location": [
+          23660.0,
+          -3288.1497782971915,
+          3896.204234781193
+        ],
+        "scale": [
+          3.84,
+          3.84,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_64": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_1",
+        "location": [
+          15988.50776,
+          -810.24612,
+          1615.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_65": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_2",
+        "location": [
+          16012.50776,
+          -762.24612,
+          1582.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_66": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_3",
+        "location": [
+          16040.50776,
+          -715.24612,
+          1545.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_67": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_4",
+        "location": [
+          16065.50776,
+          -665.24612,
+          1502.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_68": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V05_왼쪽진입계단_5",
+        "location": [
+          16090.50776,
+          -615.24612,
+          1467.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_69": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_19000_-5000",
+        "location": [
+          19146.75423,
+          -4303.36052,
+          2820.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_70": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_19000_-5000",
+        "location": [
+          19028.11,
+          -4391.25,
+          2630.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_71": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_19000_-4000",
+        "location": [
+          19108.66885,
+          -4000.0,
+          2820.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_72": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_19000_-3000",
+        "location": [
+          19000.0,
+          -2909.86,
+          2800.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_78": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_20000_-5000",
+        "location": [
+          20000.0,
+          -4500.0,
+          2910.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_79": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_20000_-5000",
+        "location": [
+          20000.0,
+          -4580.11,
+          2914.44987
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_80": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_20000_-4000",
+        "location": [
+          20000.0,
+          -4000.0,
+          2880.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_81": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_20000_-4000",
+        "location": [
+          20000.0,
+          -3692.71,
+          2826.16856
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_82": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_20000_-3000",
+        "location": [
+          20992.18269,
+          -2017.567,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_83": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_20000_-3000",
+        "location": [
+          20190.04,
+          -2640.0,
+          2800.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_84": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_20000_-2000",
+        "location": [
+          20547.18269,
+          -2000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_86": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_20000_-1000",
+        "location": [
+          20140.0,
+          -1000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_88": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_20000_0",
+        "location": [
+          20140.0,
+          0.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_90": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_21000_-5000",
+        "location": [
+          21000.0,
+          -4476.42915,
+          3060.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_91": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_21000_-5000",
+        "location": [
+          21000.0,
+          -4562.22,
+          3040.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_92": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_21000_-4000",
+        "location": [
+          21000.0,
+          -4000.0,
+          3060.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_93": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_21000_-4000",
+        "location": [
+          21000.0,
+          -3669.03,
+          3040.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_94": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_21000_-3000",
+        "location": [
+          21000.0,
+          -2527.48355,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_95": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_21000_-3000",
+        "location": [
+          21420.0,
+          -3000.0,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_96": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_21000_-2000",
+        "location": [
+          21000.0,
+          -2000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_97": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_21000_-2000",
+        "location": [
+          21422.82,
+          -1143.54,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_98": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_21000_-1000",
+        "location": [
+          21000.0,
+          -1000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_99": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_21000_-1000",
+        "location": [
+          21160.38,
+          -1000.0,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_100": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_22000_-5000",
+        "location": [
+          22000.0,
+          -4340.06551,
+          3270.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_101": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_22000_-5000",
+        "location": [
+          22000.0,
+          -4425.85,
+          3228.94347
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_102": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_22000_-4000",
+        "location": [
+          22000.0,
+          -4000.0,
+          3270.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_103": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_22000_-4000",
+        "location": [
+          22000.0,
+          -3532.66,
+          3259.96795
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_104": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_22000_-3000",
+        "location": [
+          22000.0,
+          -2735.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_105": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_22000_-3000",
+        "location": [
+          22000.0,
+          -2781.23,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_152": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_23000_-5000",
+        "location": [
+          23000.0,
+          -4203.70188,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_153": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_23000_-5000",
+        "location": [
+          23000.0,
+          -4289.49,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_154": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_23000_-4000",
+        "location": [
+          23000.0,
+          -4000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_158": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_23000_-4000",
+        "location": [
+          23439.82,
+          -4000.0,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_159": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_23000_-3000",
+        "location": [
+          23000.0,
+          -3000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_164": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_23000_-2000",
+        "location": [
+          23000.0,
+          -2000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_165": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_23000_-2000",
+        "location": [
+          23075.22,
+          -1937.67,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_221": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_24000_-4000",
+        "location": [
+          24000.0,
+          -3657.66718,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_222": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_24000_-4000",
+        "location": [
+          24000.0,
+          -3757.28,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_223": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_24000_-3000",
+        "location": [
+          24000.0,
+          -3000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_233": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_24000_-3000",
+        "location": [
+          24220.0,
+          -3000.0,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_235": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_낙차난간_19000_-4000",
+        "location": [
+          19916.23,
+          -3476.2,
+          2800.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_237": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "단축순례길_바닥_22000_-2000",
+        "location": [
+          22000.0,
+          -2000.0,
+          3420.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_76": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "관찰유도_빈공간확장_기둥접속난간",
+        "location": [
+          22810.19571,
+          -3374.8958,
+          3400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_74": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_15500_-1600",
+        "location": [
+          15500.0,
+          -800.0,
+          1380.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_106": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_15500_-200",
+        "location": [
+          15500.0,
+          -200.0,
+          1380.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_112": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_16400_-3000",
+        "location": [
+          17250.0,
+          -2350.0,
+          2057.14286
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_117": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_16400_-200",
+        "location": [
+          16400.0,
+          266.875,
+          1620.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_121": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_17800_-3000",
+        "location": [
+          17800.0,
+          -2350.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_125": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_17800_-1600",
+        "location": [
+          18175.0,
+          -1600.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_126": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_17800_-200",
+        "location": [
+          17800.0,
+          -200.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_127": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_19000_-3000",
+        "location": [
+          19000.0,
+          -2039.65517,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_130": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_19000_-1600",
+        "location": [
+          19000.0,
+          -1600.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_131": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_주변바닥_열린마당_19000_-200",
+        "location": [
+          19000.0,
+          -200.0,
+          2340.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_189": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_분수_원형수조",
+        "location": [
+          20470.0,
+          -730.0,
+          3595.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_196": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_분수_수조바닥",
+        "location": [
+          20518.0,
+          -682.0,
+          3595.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_202": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_분수_임시수면",
+        "location": [
+          20518.0,
+          -682.0,
+          3653.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_203": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_분수_중앙받침",
+        "location": [
+          20658.0,
+          -542.0,
+          3630.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_206": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_분수_상부접시",
+        "location": [
+          20605.0,
+          -595.0,
+          3825.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_207": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_입구테두리_-1",
+        "location": [
+          21320.0,
+          -540.0,
+          4135.0
+        ],
+        "scale": [
+          1.2,
+          1.2,
+          5.9
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_208": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_입구테두리_1",
+        "location": [
+          21320.0,
+          540.0,
+          4135.0
+        ],
+        "scale": [
+          1.2,
+          1.2,
+          5.9
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_213": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V098_입구테두리_상부",
+        "location": [
+          21320.0,
+          0.0,
+          4500.0
+        ],
+        "scale": [
+          1.2,
+          12.0,
+          1.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_302": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_호수_바닥",
+        "location": [
+          16300.0,
+          -2350.0,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_303": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_호수_수면",
+        "location": [
+          16300.0,
+          -2350.0,
+          1478.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_313": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_12",
+        "location": [
+          16272.87,
+          -1585.9,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_315": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_13",
+        "location": [
+          16243.62,
+          -1351.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_317": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_14",
+        "location": [
+          16214.36,
+          -1301.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_319": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_15",
+        "location": [
+          16185.11,
+          -1251.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_321": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_16",
+        "location": [
+          16155.85,
+          -1201.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_323": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_17",
+        "location": [
+          16150.0,
+          -1151.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_325": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_18",
+        "location": [
+          16152.75,
+          -1101.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_327": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_19",
+        "location": [
+          16175.0,
+          -1051.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_329": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_20",
+        "location": [
+          16300.0,
+          -1001.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_331": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_21",
+        "location": [
+          16300.0,
+          -951.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_333": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_22",
+        "location": [
+          16300.0,
+          -901.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_335": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_23",
+        "location": [
+          16300.0,
+          -851.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_337": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_24",
+        "location": [
+          16300.0,
+          -799.45,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_339": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_25",
+        "location": [
+          16300.0,
+          -760.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_341": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_26",
+        "location": [
+          16300.0,
+          -715.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_343": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_27",
+        "location": [
+          16300.0,
+          -665.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_345": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V099_계단하부받침_28",
+        "location": [
+          16300.0,
+          -615.25,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_2": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V0911_분수마당_확장바닥",
+        "location": [
+          19819.97993,
+          -2050.02,
+          3048.78314
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_3": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V0911_합류외곽_연속안전난간",
+        "location": [
+          19765.08,
+          -2105.0,
+          2982.64913
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_4": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V0911_정면접속_보존난간",
+        "location": [
+          20540.0,
+          400.0,
+          3300.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_5": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V0912_계단호수_통합난간",
+        "location": [
+          16300.0,
+          -2605.3,
+          1220.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_6": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V0915_난간접합_옛길",
+        "location": [
+          18863.08905,
+          -3087.12942,
+          2800.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_7": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "V0915_난간접합_호수왼쪽",
+        "location": [
+          19560.86963,
+          -1853.63038,
+          2857.096
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "DefaultPhysicsVolume_0": {
+        "class": "/Script/Engine.DefaultPhysicsVolume",
+        "label": "DefaultPhysicsVolume0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "GameplayDebuggerPlayerManager_0": {
+        "class": "/Script/GameplayDebugger.GameplayDebuggerPlayerManager",
+        "label": "GameplayDebuggerPlayerManager0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "AbstractNavData-Default": {
+        "class": "/Script/NavigationSystem.AbstractNavData",
+        "label": "AbstractNavData-Default",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      }
+    },
+    "destination": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종_보수_v02",
+    "entrance": [
+      21500.0,
+      0.0,
+      3840.0
+    ],
+    "entrance_half_width": 480.0
+  },
+  "dungeon": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/던전내부최종_보수_v02",
+    "actor_count": 199,
+    "geometry_and_name_differences": [],
+    "mesh_material_collision_differences": [],
+    "ignored_session_generated_actor": "ChaosDebugDrawActor (rendering-session debug actor; absent in NullRHI commandlet)",
+    "actors": {
+      "WorldSettings": {
+        "class": "/Script/Engine.WorldSettings",
+        "label": "WorldSettings",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "Brush_0": {
+        "class": "/Script/Engine.Brush",
+        "label": "Brush0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "DirectionalLight_0": {
+        "class": "/Script/Engine.DirectionalLight",
+        "label": "MCP_TEST_Interior_DirectionalLight",
+        "location": [
+          4200.0,
+          200.0,
+          3000.0
+        ],
+        "scale": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "collision": true
+      },
+      "SkyLight_0": {
+        "class": "/Script/Engine.SkyLight",
+        "label": "MCP_TEST_Interior_SkyLight",
+        "location": [
+          4200.0,
+          200.0,
+          1200.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "PlayerStart_0": {
+        "class": "/Script/Engine.PlayerStart",
+        "label": "MCP_TEST_Interior_PlayerStart",
+        "location": [
+          0.0,
+          -1200.0,
+          260.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_0": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_EntranceFloor",
+        "location": [
+          0.0,
+          -1200.0,
+          110.0
+        ],
+        "scale": [
+          8.0,
+          9.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_1": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_DescentStep_01",
+        "location": [
+          500.0,
+          -1200.0,
+          100.0
+        ],
+        "scale": [
+          2.2,
+          7.0,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_2": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_DescentStep_02",
+        "location": [
+          680.0,
+          -1200.0,
+          60.0
+        ],
+        "scale": [
+          2.2,
+          7.0,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_3": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_DescentStep_03",
+        "location": [
+          860.0,
+          -1200.0,
+          20.0
+        ],
+        "scale": [
+          2.2,
+          7.0,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_4": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_DescentStep_04",
+        "location": [
+          1040.0,
+          -1200.0,
+          -20.0
+        ],
+        "scale": [
+          2.2,
+          7.0,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_5": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossFloor",
+        "location": [
+          2050.0,
+          -1200.0,
+          -50.0
+        ],
+        "scale": [
+          27.0,
+          20.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_6": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossWall_South",
+        "location": [
+          2100.0,
+          -2250.0,
+          175.0
+        ],
+        "scale": [
+          28.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_7": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossWall_North_West",
+        "location": [
+          1520.0,
+          -150.0,
+          175.0
+        ],
+        "scale": [
+          16.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_8": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossWall_North_East",
+        "location": [
+          3195.0,
+          -150.0,
+          175.0
+        ],
+        "scale": [
+          6.25,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_9": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossWall_East",
+        "location": [
+          3450.0,
+          -1200.0,
+          175.0
+        ],
+        "scale": [
+          1.0,
+          20.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_10": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossExitPillar_L",
+        "location": [
+          2240.0,
+          -100.0,
+          260.0
+        ],
+        "scale": [
+          1.6,
+          1.6,
+          5.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_11": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossExitPillar_R",
+        "location": [
+          2960.0,
+          -100.0,
+          260.0
+        ],
+        "scale": [
+          1.6,
+          1.6,
+          5.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_12": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossExitLintel",
+        "location": [
+          2600.0,
+          -100.0,
+          490.0
+        ],
+        "scale": [
+          8.8,
+          1.6,
+          1.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_13": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionStep_01",
+        "location": [
+          2600.0,
+          -100.0,
+          20.0
+        ],
+        "scale": [
+          7.0,
+          2.2,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_14": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionStep_02",
+        "location": [
+          2600.0,
+          100.0,
+          60.0
+        ],
+        "scale": [
+          7.0,
+          2.2,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_15": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionStep_03",
+        "location": [
+          2600.0,
+          300.0,
+          100.0
+        ],
+        "scale": [
+          7.0,
+          2.2,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_16": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionStep_04",
+        "location": [
+          2600.0,
+          500.0,
+          140.0
+        ],
+        "scale": [
+          7.0,
+          2.2,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_17": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionStep_05",
+        "location": [
+          2600.0,
+          700.0,
+          180.0
+        ],
+        "scale": [
+          7.0,
+          2.2,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_18": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionStep_06",
+        "location": [
+          2600.0,
+          900.0,
+          220.0
+        ],
+        "scale": [
+          7.0,
+          2.2,
+          0.4
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_19": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionTurn",
+        "location": [
+          2600.0,
+          1100.0,
+          190.0
+        ],
+        "scale": [
+          8.0,
+          8.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_20": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionHighPath",
+        "location": [
+          3950.0,
+          1100.0,
+          190.0
+        ],
+        "scale": [
+          19.0,
+          8.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_21": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionLowRail",
+        "location": [
+          2200.0,
+          -90.0,
+          90.0
+        ],
+        "scale": [
+          1.0,
+          1.8999998569488525,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_22": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionOuterWall",
+        "location": [
+          3950.0,
+          1550.0,
+          370.0
+        ],
+        "scale": [
+          19.0,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_23": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_FinalCompressionFloor",
+        "location": [
+          5950.0,
+          1100.0,
+          190.0
+        ],
+        "scale": [
+          7.0,
+          6.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_24": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_FinalCompressionWall_South",
+        "location": [
+          5950.0,
+          750.0,
+          400.0
+        ],
+        "scale": [
+          7.0,
+          1.0,
+          3.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_25": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_FinalCompressionWall_North",
+        "location": [
+          5950.0,
+          1450.0,
+          400.0
+        ],
+        "scale": [
+          7.0,
+          1.0,
+          3.2
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_27": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_FinalBossWall_South",
+        "location": [
+          7950.0,
+          -450.0,
+          420.0
+        ],
+        "scale": [
+          33.0,
+          1.0,
+          3.6
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_28": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_FinalBossWall_North",
+        "location": [
+          7950.0,
+          2650.0,
+          420.0
+        ],
+        "scale": [
+          33.0,
+          1.0,
+          3.6
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_29": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_FinalBossWall_East",
+        "location": [
+          9550.0,
+          1100.0,
+          420.0
+        ],
+        "scale": [
+          1.0,
+          30.0,
+          3.6
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_31": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_END_Pad",
+        "location": [
+          9150.0,
+          1100.0,
+          230.0
+        ],
+        "scale": [
+          5.0,
+          7.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "TargetPoint_0": {
+        "class": "/Script/Engine.TargetPoint",
+        "label": "MCP_TEST_Interior_END",
+        "location": [
+          9150.0,
+          1100.0,
+          380.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Interior_TransitionLeftRail_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2200.0,
+          100.0,
+          130.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Interior_TransitionLeftRail_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2200.0,
+          300.0,
+          170.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Interior_TransitionLeftRail_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2200.0,
+          500.0,
+          210.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Interior_TransitionLeftRail_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2200.0,
+          700.0,
+          250.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Interior_TransitionLeftRail_06": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2200.0,
+          900.0,
+          290.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_32": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_TransitionBridgeRail_South_260uu_TEST",
+        "location": [
+          3950.0,
+          650.0,
+          370.0
+        ],
+        "scale": [
+          19.0,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "MCP_TEST_MidBossFloor_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6800.0,
+          1100.0,
+          190.0
+        ],
+        "scale": [
+          10.0,
+          30.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_MidBossFloor_East": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          9000.0,
+          1100.0,
+          190.0
+        ],
+        "scale": [
+          10.0,
+          30.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_MidBossFloor_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7900.0,
+          150.0,
+          190.0
+        ],
+        "scale": [
+          12.0,
+          11.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_MidBossFloor_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7900.0,
+          2050.0,
+          190.0
+        ],
+        "scale": [
+          12.0,
+          11.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Blocker": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7900.0,
+          1100.0,
+          350.0
+        ],
+        "scale": [
+          12.0,
+          8.0,
+          2.200000047683716
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_01": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7354.5,
+          1100.0,
+          -180.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7463.5,
+          1100.0,
+          -140.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7572.5,
+          1100.0,
+          -100.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7681.5,
+          1100.0,
+          -60.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7790.5,
+          1100.0,
+          -20.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_06": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7899.5,
+          1100.0,
+          20.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_LowerRoute_Junction": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7300.0,
+          1100.0,
+          -1010.0
+        ],
+        "scale": [
+          28.0,
+          8.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_LowerRoute_Candidate1": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6240.0,
+          300.0,
+          -1010.0
+        ],
+        "scale": [
+          8.75,
+          16.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_LowerRoute_Candidate2": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6250.0,
+          1950.0,
+          -1610.0
+        ],
+        "scale": [
+          9.0,
+          17.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_Wall_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          4300.0,
+          -1750.0,
+          -785.0
+        ],
+        "scale": [
+          30.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_Floor": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          4300.0,
+          -473.75,
+          -1010.0
+        ],
+        "scale": [
+          30.0,
+          25.525,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_Wall_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2750.0,
+          -1350.0,
+          -785.0
+        ],
+        "scale": [
+          1.0,
+          7.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_Wall_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5120.0,
+          750.0,
+          -785.0
+        ],
+        "scale": [
+          30.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_Wall_EastSouth": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5850.0,
+          -1088.5,
+          -785.0
+        ],
+        "scale": [
+          1.5,
+          13.770000457763672,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_BigDoor": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5850.0,
+          150.0,
+          -710.0
+        ],
+        "scale": [
+          1.5,
+          11.0,
+          5.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate2_Floor": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5122.5,
+          2135.0,
+          -1610.0
+        ],
+        "scale": [
+          13.55,
+          13.299997329711914,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate2_Wall_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5122.5,
+          2750.0,
+          -1385.0
+        ],
+        "scale": [
+          13.55,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate2_Wall_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          4395.0,
+          2425.0,
+          -1385.0
+        ],
+        "scale": [
+          1.0,
+          7.750045776367191,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate2_Wall_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          4996.25,
+          1440.0,
+          -785.0
+        ],
+        "scale": [
+          34.29962921142581,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_07": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          8008.5,
+          1100.0,
+          60.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_08": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          8117.5,
+          1100.0,
+          100.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_09": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          8226.5,
+          1100.0,
+          140.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_10": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor10",
+        "location": [
+          8335.5,
+          1100.0,
+          180.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_TransformStair_Step_11": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor11",
+        "location": [
+          8444.5,
+          1100.0,
+          220.0
+        ],
+        "scale": [
+          1.090000033378601,
+          7.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "MCP_TEST_LowerRoute_WorkLight_TEST": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          6300.0,
+          1100.0,
+          -400.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_WorkLight_TEST": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          4300.0,
+          -500.0,
+          -100.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_26": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossWall_East2",
+        "location": [
+          750.0,
+          -510.0,
+          175.0
+        ],
+        "scale": [
+          1.0,
+          6.750000000000001,
+          3.5
+        ],
+        "collision": true
+      },
+      "StaticMeshActor_30": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "MCP_TEST_Interior_MidBossWall_East3",
+        "location": [
+          750.0,
+          -1920.0,
+          175.0
+        ],
+        "scale": [
+          1.0,
+          7.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Cand1_W": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          3600.0,
+          -500.0,
+          -360.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Cand1_E": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          5100.0,
+          -500.0,
+          -360.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Cand2_W": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          4700.0,
+          2230.0,
+          -960.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Cand2_E": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          5500.0,
+          2230.0,
+          -960.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Route_S": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          6300.0,
+          300.0,
+          -460.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Route_N": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          6300.0,
+          1950.0,
+          -1060.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_Route_Mid": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          7400.0,
+          1100.0,
+          -460.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerLight_StairFoot": {
+        "class": "/Script/Engine.PointLight",
+        "label": "PointLight",
+        "location": [
+          8500.0,
+          1100.0,
+          -460.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_WallFade_LowerRoute": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          7300.0,
+          1150.0,
+          -530.0
+        ],
+        "scale": [
+          35.0,
+          41.25,
+          10.75
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_Main_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7650.0,
+          750.0,
+          -785.0
+        ],
+        "scale": [
+          21.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_Main_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7700.0,
+          1450.0,
+          -785.0
+        ],
+        "scale": [
+          20.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_Main_East": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          8650.0,
+          1100.0,
+          -785.0
+        ],
+        "scale": [
+          1.0,
+          8.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_SpurS_East": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6650.0,
+          100.0,
+          -785.0
+        ],
+        "scale": [
+          1.0,
+          12.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_SpurN_East": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6650.0,
+          2150.0,
+          -1385.0
+        ],
+        "scale": [
+          1.0,
+          13.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_SpurS_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6240.0,
+          -450.0,
+          -785.0
+        ],
+        "scale": [
+          8.75,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_LowerRail_SpurN_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6250.0,
+          2750.0,
+          -1385.0
+        ],
+        "scale": [
+          9.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_UpperRail_MidBossWest_S": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6350.0,
+          200.0,
+          420.0
+        ],
+        "scale": [
+          1.0,
+          12.0,
+          3.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_UpperRail_MidBossWest_N": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6350.0,
+          2000.0,
+          420.0
+        ],
+        "scale": [
+          1.0,
+          12.0,
+          3.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_Rail_Start_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          -450.0,
+          -1200.0,
+          335.0
+        ],
+        "scale": [
+          1.0,
+          9.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Start_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          0.0,
+          -1700.0,
+          335.0
+        ],
+        "scale": [
+          10.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Start_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          0.0,
+          -700.0,
+          335.0
+        ],
+        "scale": [
+          10.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Start_EastS": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          450.0,
+          -1600.0,
+          335.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Start_EastN": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          450.0,
+          -800.0,
+          335.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Descent_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          545.0,
+          -1600.0,
+          295.0
+        ],
+        "scale": [
+          3.0999999046325684,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Descent_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          545.0,
+          -800.0,
+          295.0
+        ],
+        "scale": [
+          3.0999999046325684,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Rail_Landing_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2200.0,
+          1100.0,
+          370.0
+        ],
+        "scale": [
+          1.0,
+          8.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_Rail_Landing_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2575.0,
+          1550.0,
+          370.0
+        ],
+        "scale": [
+          8.5,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_Rail_Landing_SouthE": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2975.0,
+          650.0,
+          370.0
+        ],
+        "scale": [
+          0.5,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_Rail_RiseRight_01": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3000.0,
+          -80.0,
+          90.0
+        ],
+        "scale": [
+          1.0,
+          1.7999999523162842,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_Rail_RiseRight_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3000.0,
+          100.0,
+          130.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_Rail_RiseRight_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3000.0,
+          300.0,
+          170.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_Rail_RiseRight_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3000.0,
+          500.0,
+          210.0
+        ],
+        "scale": [
+          1.0,
+          2.200000047683716,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_Rail_RiseRight_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3000.0,
+          635.0,
+          250.0
+        ],
+        "scale": [
+          1.0,
+          1.299999713897705,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_Shaft_Wall_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5640.0,
+          725.0,
+          -205.0
+        ],
+        "scale": [
+          57.5,
+          0.5,
+          8.75
+        ],
+        "collision": true
+      },
+      "P02_Shaft_Wall_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5640.0,
+          1475.0,
+          -205.0
+        ],
+        "scale": [
+          57.5,
+          0.5,
+          8.75
+        ],
+        "collision": true
+      },
+      "P02_FadeTarget_MidBoss_S": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          7950.0,
+          100.0,
+          375.0
+        ],
+        "scale": [
+          41.25,
+          15.0,
+          6.875
+        ],
+        "collision": true
+      },
+      "P02_FadeTarget_MidBoss_N": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          7950.0,
+          2100.0,
+          375.0
+        ],
+        "scale": [
+          41.25,
+          15.0,
+          6.875
+        ],
+        "collision": true
+      },
+      "P02_FadeTarget_MidBoss_E": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          9100.0,
+          1100.0,
+          375.0
+        ],
+        "scale": [
+          12.5,
+          10.0,
+          6.875
+        ],
+        "collision": true
+      },
+      "P02_FadeTarget_Bridge": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          4650.0,
+          1100.0,
+          400.0
+        ],
+        "scale": [
+          41.25,
+          12.5,
+          5.0
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_01": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7245.5,
+          1145.0,
+          -220.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7136.5,
+          1145.0,
+          -260.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          7027.5,
+          1145.0,
+          -300.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6918.5,
+          1145.0,
+          -340.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6809.5,
+          1145.0,
+          -380.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_06": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6700.5,
+          1145.0,
+          -420.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_07": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6591.5,
+          1145.0,
+          -460.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_08": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6482.5,
+          1145.0,
+          -500.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F1_09": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6373.5,
+          1145.0,
+          -540.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_Turn": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5283.5,
+          1145.0,
+          -940.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_01": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6264.5,
+          1145.0,
+          -580.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6155.5,
+          1145.0,
+          -620.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6046.5,
+          1145.0,
+          -660.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5937.5,
+          1145.0,
+          -700.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5828.5,
+          1145.0,
+          -740.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_06": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5719.5,
+          1145.0,
+          -780.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_07": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5610.5,
+          1145.0,
+          -820.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_08": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5501.5,
+          1145.0,
+          -860.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairB_F2_09": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5392.5,
+          1145.0,
+          -900.0
+        ],
+        "scale": [
+          1.090000033378601,
+          6.900000095367432,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_WallFade_StairShaft": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          7900.0,
+          1100.0,
+          -280.0
+        ],
+        "scale": [
+          15.0,
+          8.75,
+          17.0
+        ],
+        "collision": true
+      },
+      "P02_FadeTarget_StairB": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          6264.5,
+          1145.0,
+          -405.0
+        ],
+        "scale": [
+          32.36000061035156,
+          11.720000267028809,
+          17.34000015258789
+        ],
+        "collision": true
+      },
+      "P02_Candidate1_Wall_WestNorth": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2750.0,
+          40.0,
+          -785.0
+        ],
+        "scale": [
+          1.0,
+          29.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_EndPad": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6200.0,
+          150.0,
+          -1010.0
+        ],
+        "scale": [
+          5.0,
+          10.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_EndPad_Rail_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6200.0,
+          -375.0,
+          -785.0
+        ],
+        "scale": [
+          5.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_EndPad_Rail_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6200.0,
+          675.0,
+          -785.0
+        ],
+        "scale": [
+          5.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_EndPad_Rail_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6475.0,
+          150.0,
+          -785.0
+        ],
+        "scale": [
+          0.5,
+          10.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_EndTrigger": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          6350.0,
+          150.0,
+          -860.0
+        ],
+        "scale": [
+          3.75,
+          12.5,
+          3.75
+        ],
+        "collision": true
+      },
+      "P02_ColorPad_Red": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5375.0,
+          -50.0,
+          -930.0
+        ],
+        "scale": [
+          1.5,
+          1.5,
+          0.6000000238418579
+        ],
+        "collision": true
+      },
+      "P02_ColorPad_Green": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5375.0,
+          150.0,
+          -930.0
+        ],
+        "scale": [
+          1.5,
+          1.5,
+          0.6000000238418579
+        ],
+        "collision": true
+      },
+      "P02_ColorPad_Blue": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5375.0,
+          350.0,
+          -930.0
+        ],
+        "scale": [
+          1.5,
+          1.5,
+          0.6000000238418579
+        ],
+        "collision": true
+      },
+      "P02_WallFade_Lower": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          5360.0,
+          850.0,
+          -850.0
+        ],
+        "scale": [
+          84.69000244140625,
+          81.25,
+          26.5625
+        ],
+        "collision": true
+      },
+      "P02_FadeTarget_All": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          4600.0,
+          1450.0,
+          -400.0
+        ],
+        "scale": [
+          127.5,
+          96.25,
+          35.0
+        ],
+        "collision": true
+      },
+      "P02_ColorHint_1": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor1",
+        "location": [
+          4710.0,
+          1750.0,
+          160.0
+        ],
+        "scale": [
+          1.5,
+          1.5,
+          1.600000023841858
+        ],
+        "collision": true
+      },
+      "P02_ColorHint_2": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor2",
+        "location": [
+          4710.0,
+          2150.0,
+          160.0
+        ],
+        "scale": [
+          1.5,
+          1.5,
+          1.600000023841858
+        ],
+        "collision": true
+      },
+      "P02_ColorHint_3": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor3",
+        "location": [
+          4710.0,
+          1950.0,
+          160.0
+        ],
+        "scale": [
+          1.5,
+          1.5,
+          1.600000023841858
+        ],
+        "collision": true
+      },
+      "P02_Candidate1_Wall_NorthWest": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2850.0,
+          -1750.0,
+          -785.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_HintMark_1a": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6060.0,
+          2090.0,
+          -1550.0
+        ],
+        "scale": [
+          1.0,
+          0.4000000059604645,
+          0.20000000298023224
+        ],
+        "collision": true
+      },
+      "P02_HintMark_2a": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6060.0,
+          2460.0,
+          -1550.0
+        ],
+        "scale": [
+          1.0,
+          0.4000000059604645,
+          0.20000000298023224
+        ],
+        "collision": true
+      },
+      "P02_HintMark_2b": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6060.0,
+          2520.0,
+          -1550.0
+        ],
+        "scale": [
+          1.0,
+          0.4000000059604645,
+          0.20000000298023224
+        ],
+        "collision": true
+      },
+      "P02_HintMark_3a": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6060.0,
+          2230.0,
+          -1550.0
+        ],
+        "scale": [
+          1.0,
+          0.4000000059604645,
+          0.20000000298023224
+        ],
+        "collision": true
+      },
+      "P02_HintMark_3b": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6060.0,
+          2290.0,
+          -1550.0
+        ],
+        "scale": [
+          1.0,
+          0.4000000059604645,
+          0.20000000298023224
+        ],
+        "collision": true
+      },
+      "P02_HintMark_3c": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6060.0,
+          2350.0,
+          -1550.0
+        ],
+        "scale": [
+          1.0,
+          0.4000000059604645,
+          0.20000000298023224
+        ],
+        "collision": true
+      },
+      "P02_Rail_Landing_SouthWest": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2225.0,
+          650.0,
+          370.0
+        ],
+        "scale": [
+          0.5,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_MidBossDoor": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          6300.0,
+          1100.0,
+          540.0
+        ],
+        "scale": [
+          1.5,
+          6.0,
+          6.0
+        ],
+        "collision": true
+      },
+      "P02_MidBossEnemySpawn": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          4600.0,
+          1100.0,
+          340.0
+        ],
+        "scale": [
+          5.0,
+          8.0,
+          4.0
+        ],
+        "collision": true
+      },
+      "P02_BridgeWeakSection_Deck": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5250.0,
+          1100.0,
+          190.0
+        ],
+        "scale": [
+          7.0,
+          8.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_BridgeWeakSection_RailS": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5250.0,
+          650.0,
+          370.0
+        ],
+        "scale": [
+          7.0,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_BridgeWeakSection_RailN": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5250.0,
+          1550.0,
+          370.0
+        ],
+        "scale": [
+          7.0,
+          1.0,
+          2.5999999046325684
+        ],
+        "collision": true
+      },
+      "P02_WrongAnswerSpawn_NE": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          3000.0,
+          500.0,
+          -860.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_WrongAnswerSpawn_E": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          3000.0,
+          -500.0,
+          -860.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_WrongAnswerSpawn_SE": {
+        "class": "/Script/Engine.TriggerBox",
+        "label": "TriggerBox",
+        "location": [
+          3000.0,
+          -1500.0,
+          -860.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_LowerCorridor_Floor": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3964.5,
+          1145.0,
+          -1010.0
+        ],
+        "scale": [
+          25.290000915527344,
+          6.900000095367432,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_StairD_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3068.5,
+          1550.0,
+          -1020.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3177.5,
+          1550.0,
+          -1060.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3286.5,
+          1550.0,
+          -1100.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3395.5,
+          1550.0,
+          -1140.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_06": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3504.5,
+          1550.0,
+          -1180.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_07": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3613.5,
+          1550.0,
+          -1220.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_08": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3722.5,
+          1550.0,
+          -1260.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_09": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3831.5,
+          1550.0,
+          -1300.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_10": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor10",
+        "location": [
+          3940.5,
+          1550.0,
+          -1340.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_11": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor11",
+        "location": [
+          4049.5,
+          1550.0,
+          -1380.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_12": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor12",
+        "location": [
+          4158.5,
+          1550.0,
+          -1420.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_13": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor13",
+        "location": [
+          4267.5,
+          1550.0,
+          -1460.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_14": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor14",
+        "location": [
+          4376.5,
+          1550.0,
+          -1500.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_15": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor15",
+        "location": [
+          4485.5,
+          1550.0,
+          -1540.0
+        ],
+        "scale": [
+          1.090000033378601,
+          5.0,
+          0.4000000059604645
+        ],
+        "collision": true
+      },
+      "P02_StairD_Landing": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2761.75,
+          1550.0,
+          -1010.0
+        ],
+        "scale": [
+          3.135,
+          5.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "P02_StairD_Landing_Wall_West": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2760.0,
+          1480.0,
+          -915.0
+        ],
+        "scale": [
+          0.5,
+          5.75,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_S_01": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2703.0,
+          1485.0,
+          -1595.0
+        ],
+        "scale": [
+          40.00000000000008,
+          0.75,
+          6.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_01": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3043.0,
+          2000.0,
+          -1005.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_02": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3171.0,
+          2000.0,
+          -1065.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_03": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3389.0,
+          2000.0,
+          -1145.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_04": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3607.0,
+          2000.0,
+          -1225.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_05": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          3825.0,
+          2000.0,
+          -1305.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_06": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          4043.0,
+          2000.0,
+          -1385.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Rail_N_07": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          4261.0,
+          2000.0,
+          -1465.0
+        ],
+        "scale": [
+          2.180000066757202,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_StairD_Landing_Rail_N": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          2765.0,
+          2000.0,
+          -915.0
+        ],
+        "scale": [
+          3.0,
+          0.5,
+          3.5
+        ],
+        "collision": true
+      },
+      "P02_Candidate1_Wall_EastNorth": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5850.0,
+          751.0,
+          -785.0
+        ],
+        "scale": [
+          1.5,
+          1.0199999809265137,
+          3.5
+        ],
+        "collision": true
+      },
+      "MCP_TEST_Candidate1_BigDoor_Arch": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5850.0,
+          150.0,
+          -460.0
+        ],
+        "scale": [
+          8.0,
+          8.0,
+          1.5
+        ],
+        "collision": true
+      },
+      "P02_BossGate_Jamb_South": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5850.0,
+          -325.0,
+          -710.0
+        ],
+        "scale": [
+          1.7000000476837158,
+          1.5,
+          5.0
+        ],
+        "collision": true
+      },
+      "P02_BossGate_Jamb_North": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor",
+        "location": [
+          5850.0,
+          625.0,
+          -710.0
+        ],
+        "scale": [
+          1.7000000476837158,
+          1.5,
+          5.0
+        ],
+        "collision": true
+      },
+      "P02_StairD_0": {
+        "class": "/Script/Engine.StaticMeshActor",
+        "label": "StaticMeshActor16",
+        "location": [
+          4600.00000166893,
+          1550.0,
+          -1580.0
+        ],
+        "scale": [
+          1.199999966621399,
+          5.0,
+          0.4
+        ],
+        "collision": true
+      },
+      "DefaultPhysicsVolume_0": {
+        "class": "/Script/Engine.DefaultPhysicsVolume",
+        "label": "DefaultPhysicsVolume0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "GameplayDebuggerPlayerManager_0": {
+        "class": "/Script/GameplayDebugger.GameplayDebuggerPlayerManager",
+        "label": "GameplayDebuggerPlayerManager0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      },
+      "AbstractNavData-Default": {
+        "class": "/Script/NavigationSystem.AbstractNavData",
+        "label": "AbstractNavData-Default",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "collision": true
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+[2026.09.27-11.28.58:705][294]LogP02Playtest: Display: Bridge broken after 8 hits, approach cut
+[2026.09.27-11.29.05:335][ 80]LogP02Playtest: Display: Mid Boss door opened after 5.0s hold, 3 chasers spawned
+[2026.09.27-11.29.38:892][ 78]LogP02Playtest: Display: Candidate interaction enabled after Mid Boss death, stairs lower in 2.00s
+[2026.09.27-11.29.40:897][316]LogP02Playtest: Display: Candidate interaction used: lowering stairs
+[2026.09.27-11.29.55:708][ 77]LogP02Playtest: Display: Bridge restored by the Mid Boss lever, damage reset
+[2026.09.27-11.31.35:000][857]LogP02Playtest: Display: Color lock: Blue accepted (1/3)
+[2026.09.27-11.31.37:066][102]LogP02Playtest: Display: Color lock: Red accepted (2/3)
+[2026.09.27-11.31.38:399][260]LogP02Playtest: Display: Color lock: correct, opening Final Boss Door
+[2026.09.27-11.31.39:394][378]LogP02Playtest: Display: Final Boss door (2 parts) faded out over 1.00s and hidden
+[2026.09.27-11.31.44:355][964]LogP02Playtest: Display: Color lock: END reached
+[2026.09.27-11.31.44:355][964]LogP02Playtest: Display: Run complete: time=209.85s distance=26201.8uu

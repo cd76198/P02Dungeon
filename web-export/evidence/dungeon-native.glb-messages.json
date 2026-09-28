@@ -1,0 +1,8 @@
+{
+  "suggestions": [],
+  "warnings": [
+    "Can't export socket SpringEndpoint because it belongs to an unsupported mesh component QuarterViewSpringArm",
+    "Non-uniform parent scale (X=0.600 Y=0.600 Z=0.400) for component LeverHandleMesh (in actor MCP_TEST_MidBossInteraction) may be represented differently in glTF"
+  ],
+  "errors": []
+}

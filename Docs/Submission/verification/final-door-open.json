@@ -1,0 +1,105 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+    "action": {
+      "type": "snapshot",
+      "name": "final-door-open",
+      "names": [
+        "MCP_TEST_Candidate1_BigDoor",
+        "MCP_TEST_Candidate1_BigDoor_Arch",
+        "P02_EndTrigger"
+      ],
+      "started": 370051.359,
+      "origin": [
+        5199.488532946836,
+        156.2633222353789,
+        -867.849997277417
+      ]
+    },
+    "queued": 15,
+    "seconds": 619.12,
+    "position": [
+      5199.488532946836,
+      156.2633222353789,
+      -867.849997277417
+    ],
+    "velocity": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_ignored": false,
+    "end": false
+  },
+  "actors": [
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        150.0,
+        -1330.0
+      ],
+      "bounds": [
+        [
+          5850.0,
+          150.0,
+          -1330.0
+        ],
+        [
+          75.0,
+          550.0,
+          250.0
+        ]
+      ],
+      "collision": false,
+      "hidden": true
+    },
+    {
+      "name": "P02_EndTrigger",
+      "class": "TriggerBox",
+      "location": [
+        6350.0,
+        150.0,
+        -860.0
+      ],
+      "bounds": [
+        [
+          6350.0,
+          150.0,
+          -860.0
+        ],
+        [
+          150.0,
+          500.0,
+          150.0
+        ]
+      ],
+      "collision": true,
+      "hidden": true
+    },
+    {
+      "name": "MCP_TEST_Candidate1_BigDoor_Arch",
+      "class": "StaticMeshActor",
+      "location": [
+        5850.0,
+        150.0,
+        -1080.0
+      ],
+      "bounds": [
+        [
+          5775.0,
+          150.0,
+          -1080.0
+        ],
+        [
+          75.0,
+          400.0,
+          400.00000000000006
+        ]
+      ],
+      "collision": false,
+      "hidden": true
+    }
+  ]
+}

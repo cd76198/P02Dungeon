@@ -1,0 +1,57 @@
+{
+  "state": {
+    "map": "/Game/Portfolio02/Tests/FinalBossCandidates/UEDPIE_0_던전내부최종_보수_v02.던전내부최종_보수_v02",
+    "action": {
+      "type": "snapshot",
+      "name": "lever-bridge-restored",
+      "names": [
+        "P02_BridgeWeakSection_Deck"
+      ],
+      "started": 369947.343,
+      "origin": [
+        9119.8033160154,
+        1118.2991804760968,
+        372.12423910457005
+      ]
+    },
+    "queued": 5,
+    "seconds": 515.11,
+    "position": [
+      9119.8033160154,
+      1118.2991804760968,
+      372.12423910457005
+    ],
+    "velocity": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_ignored": false,
+    "end": false
+  },
+  "actors": [
+    {
+      "name": "P02_BridgeWeakSection_Deck",
+      "class": "StaticMeshActor",
+      "location": [
+        5250.0,
+        1100.0,
+        190.0
+      ],
+      "bounds": [
+        [
+          5250.0,
+          1100.0,
+          190.0
+        ],
+        [
+          350.0,
+          400.0,
+          50.0
+        ]
+      ],
+      "collision": true,
+      "hidden": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "case": "bridge_eight_direct_native_hits",
+    "accepted": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "broken_immediate": true
+  },
+  {
+    "case": "direct_native_restore",
+    "is_broken_after": false
+  },
+  {
+    "case": "midboss_health_before_damage",
+    "current_health": 100.0,
+    "max_health": 34.0
+  }
+]

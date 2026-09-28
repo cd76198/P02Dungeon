@@ -1,0 +1,28 @@
+{
+  "original_file_count": 1512,
+  "original_changed_files": [],
+  "submission_changes": [
+    {
+      "file": "P02Dungeon.uproject",
+      "original_sha256": "851bb0c59742e8c5d764d7699916ca7a40f84cd58071e5de94e15e0627bc010d",
+      "submission_sha256": "f6cb8441e2898fb4311c098de48e45ca2ba511f7373e18614f9769207f3c95fe"
+    },
+    {
+      "file": "Config/DefaultEngine.ini",
+      "original_sha256": "b41d946dd8e52d80939c9a1a589174ffe884101df5b0a02215f7f46b635fdc9b",
+      "submission_sha256": "bc5290ce8a7cb0def8ef0f0debc261433ea7390b8f929ceea63ab2ea9f0a0551"
+    },
+    {
+      "file": "Config/DefaultGame.ini",
+      "original_sha256": "198447fa4dd56a10cb6ec291a98fe9d84c273b90ff700c020bd8eab533a11677",
+      "submission_sha256": "944ad90f081381a55cdb241bfdf98e3e82728d23bdee0f6f1713711e066083ae"
+    },
+    {
+      "file": "Content/Portfolio02/Levels/던전외부필드_v09-17_A.umap",
+      "original_sha256": "5d7090bce2e362e9fe632ac1467ffe64744d64792e63561b82c22dc76daa3202",
+      "submission_sha256": "7ee653e249b2d3a7e4c2030f012d17b32cc664b3d6214982152bcf9c632a70db"
+    }
+  ],
+  "source_gameplay_code_identical": true,
+  "selected_dungeon_unchanged": true
+}

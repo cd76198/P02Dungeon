@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "default_pawn_class": "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C",
+    "player_controller_class": "/Game/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.BP_ThirdPersonPlayerController_C",
+    "hud_class": "/Script/Engine.HUD",
+    "target_level": {
+      "unavailable": "GameModeBase: Failed to find property 'target_level' for attribute 'target_level' on 'BP_ThirdPersonGameMode_C'"
+    },
+    "level_name": {
+      "unavailable": "GameModeBase: Failed to find property 'level_name' for attribute 'level_name' on 'BP_ThirdPersonGameMode_C'"
+    }
+  }
+}
